@@ -28,6 +28,14 @@ def get_api_parameters_siteimprove(page=1, page_size=1000):
     }
     return base_api_url, params
 
+def get_pinecone_config():
+    return {
+        "api_key": os.getenv("PINECONE_API_KEY"),
+        "environment": os.getenv("PINECONE_ENVIRONMENT"),
+        "index_name": "ensrag",
+        "dimension": 1536
+    }
+
 def get_llm_config(llm_type):
     if llm_type == "gpt4":
         return {

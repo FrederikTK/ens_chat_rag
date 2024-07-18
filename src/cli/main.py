@@ -26,11 +26,12 @@ def extract():
     urls = fetch_data()
     click.echo(f"Extracted {len(urls)} URLs")
 
-@cli.command()
 def process():
     documents = []  # Load documents from somewhere
-    processed = process_directory(documents)
-    click.echo(f"Processed {len(processed)} document chunks")
+    vector_store = VectorStore(dimension=1536, index_name="ensrag")
+    retriever = Retriever(vector_store)
+    retriever.add_documents(documents)
+    click.echo(f"Processed {len(documents)} document chunks")
 
 if __name__ == '__main__':
     cli()

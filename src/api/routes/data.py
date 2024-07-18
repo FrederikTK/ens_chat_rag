@@ -5,11 +5,31 @@ from src.data_ingestion.summarizer import summarize_text
 from src.utils.chunker import process_directory
 from src.data_processing.embedder import embed_text
 from src.api.models.request_models import DocumentRequest, ProcessRequest
+from src.rag_system.vector_store import VectorStore
 import logging
 
 logger = logging.getLogger("uvicorn.error")
 
 router = APIRouter()
+
+vector_store = VectorStore(dimension=1536, index_name="ensrag")
+
+@router.post("/embed")
+async def embed_endpoint(request: dict):
+    try:
+        embedding = embed_text(request["text"])
+        return {"embedding": embedding.tolist()}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@router.post("/search")
+async def search_endpoint(request: dict):
+    try:
+        query_embedding = embed_text(request["query"])
+        results = vector_store.search(query_embedding)
+        return {"results": results}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
 
 @router.post("/extract-urls")
 async def extract_urls_endpoint():
@@ -49,3 +69,6 @@ async def process_documents_endpoint(request: ProcessRequest):
     except Exception as e:
         logger.error(f"Error processing documents: {e}", exc_info=True)
         raise HTTPException(status_code=500, detail="Internal Server Error")
+    
+from fastapi import APIRouter, HTTPException
+from src.data_processing.embedder import embed_text
