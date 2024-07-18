@@ -10,7 +10,7 @@ def get_agent():
         vector_store = MockVectorStore(dimension=1536, index_name="mock_index")
     else:
         from src.rag_system.vector_store import VectorStore
-        vector_store = VectorStore(dimension=1536, index_name="ensrag")  # Ensure you have created this index in Pinecone
+        vector_store = VectorStore()  # Ensure you have created this index in Pinecone
 
     retriever = Retriever(vector_store)
     llm_config = get_llm_config("gpt3")  # Or another model as default

@@ -8,7 +8,22 @@ load_dotenv()
 def get_api_credentials_siteimprove():
     api_user = os.getenv('SITE_IMPROVE_USER')
     api_key = os.getenv('SITE_IMPROVE_API_KEY')
+    if not api_user or not api_key:
+        raise ValueError("Missing SITE_IMPROVE_USER or SITE_IMPROVE_API_KEY")
     return api_user, api_key
+
+def get_pinecone_config():
+    api_key = os.getenv("PINECONE_API_KEY")
+    environment = os.getenv("PINECONE_ENVIRONMENT")
+    if not api_key or not environment:
+        raise ValueError("Missing PINECONE_API_KEY or PINECONE_ENVIRONMENT")
+    return {
+        "api_key": api_key,
+        "environment": environment,
+        "index_name": "ensrag",  # Ensure this is set appropriately
+        "dimension": 1536
+    }
+
 
 def get_api_parameters_siteimprove(page=1, page_size=1000):
     from_time = "20220401"
@@ -27,14 +42,6 @@ def get_api_parameters_siteimprove(page=1, page_size=1000):
         'param': 'search_in=url'
     }
     return base_api_url, params
-
-def get_pinecone_config():
-    return {
-        "api_key": os.getenv("PINECONE_API_KEY"),
-        "environment": os.getenv("PINECONE_ENVIRONMENT"),
-        "index_name": "ensrag",
-        "dimension": 1536
-    }
 
 def get_llm_config(llm_type):
     if llm_type == "gpt4":

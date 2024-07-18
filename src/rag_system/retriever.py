@@ -1,4 +1,3 @@
-# src/rag_system/retriever.py
 from src.rag_system.vector_store import VectorStore
 from src.data_processing.embedder import embed_text
 

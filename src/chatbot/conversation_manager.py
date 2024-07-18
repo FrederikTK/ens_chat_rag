@@ -11,9 +11,9 @@ class ConversationManager:
 
     def get_response(self, user_input):
         self.add_message("user", user_input)
-        response = self.agent.generate_response(user_input, self.conversation_history)
-        self.add_message("assistant", response)
-        return response
+        response = self.agent.generate_response(user_input)
+        self.add_message("assistant", response["response"])
+        return response["response"]
 
     def clear_history(self):
         self.conversation_history = []

@@ -14,7 +14,7 @@ def cli():
 @cli.command()
 @click.option('--message', prompt='Your message')
 def chat(message):
-    vector_store = VectorStore(768)  # Assuming 768-dimensional embeddings
+    vector_store = VectorStore()
     retriever = Retriever(vector_store)
     llm_config = get_llm_config("gpt3")  # Or another model as default
     agent = ChatbotAgent(retriever, llm_config)

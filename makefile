@@ -1,8 +1,24 @@
-install:
-    pip install -r requirements.txt
+DOCKER_COMPOSE := docker compose
 
-run:
-    docker-compose up --build
+.PHONY: build up down logs test lint test-real
+
+build:
+	$(DOCKER_COMPOSE) build
+
+up:
+	$(DOCKER_COMPOSE) up -d
+
+down:
+	$(DOCKER_COMPOSE) down
+
+logs:
+	$(DOCKER_COMPOSE) logs
 
 test:
-    pytest --cov=src tests/
+	$(DOCKER_COMPOSE) run --rm app ./test_endpoints.sh
+
+lint:
+	$(DOCKER_COMPOSE) run --rm app flake8 src/ tests/
+
+test-real:
+	$(DOCKER_COMPOSE) run --rm -e PYTHONPATH=/app app python tests/real_content_test.py
