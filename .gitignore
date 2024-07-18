@@ -133,4 +133,4 @@ cython_debug/
 # FastAPI
 *.db
 
-.DS_Store.DS_Store
+.DS_Store
