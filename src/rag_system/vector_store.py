@@ -59,8 +59,12 @@ class VectorStore:
             for match in results['matches']
         ]
 
-    def delete_all(self):
-        self.index.delete(delete_all=True)
+    def delete_all_vectors(self):
+        try:
+            self.index.delete(delete_all=True)
+            logger.info("All vectors deleted successfully.")
+        except Exception as e:
+            logger.error(f"Error deleting vectors: {str(e)}")
 
     def get_index_stats(self):
         return self.index.describe_index_stats()

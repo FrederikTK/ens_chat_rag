@@ -13,4 +13,4 @@ COPY . .
 # Set the Python path to include the project root
 ENV PYTHONPATH="${PYTHONPATH}:/app"
 
-CMD ["uvicorn", "src.api.main:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["uvicorn", "src.api.main:app", "--host", "0.0.0.0", "--port", "8000", "--reload"]

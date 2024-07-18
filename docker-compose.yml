@@ -9,6 +9,7 @@ services:
       - .env
     volumes:
       - ./data:/app/data
+      - ./static:/app/static
 
   indexer:
     build: .
@@ -18,12 +19,16 @@ services:
       - ./data:/app/data
     command: python -m src.data_processing.index_processed_files
 
-  lint:
+  delete_vectors:
     build: .
-    volumes:
-      - .:/app
-    command: flake8 src/ tests/
+    env_file:
+      - .env
+    command: python -m src.data_processing.delete_all_vectors
 
-networks:
-  default:
-    name: sparenergi_network
+  test:
+    build: .
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data
+    command: python tests/real_content_test.py
