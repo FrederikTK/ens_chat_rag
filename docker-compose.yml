@@ -1,14 +1,22 @@
+version: '3.8'
+
 services:
   app:
     build: .
     ports:
       - "8000:8000"
-    volumes:
-      - .:/app
-      - ./data:/app/data
     env_file:
       - .env
-    command: uvicorn src.api.main:app --host 0.0.0.0 --port 8000 --reload
+    volumes:
+      - ./data:/app/data
+
+  indexer:
+    build: .
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data
+    command: python -m src.data_processing.index_processed_files
 
   lint:
     build: .

@@ -1,6 +1,6 @@
 DOCKER_COMPOSE := docker compose
 
-.PHONY: build up down logs test lint test-real
+.PHONY: build up down logs test lint index-files
 
 build:
 	$(DOCKER_COMPOSE) build
@@ -19,6 +19,9 @@ test:
 
 lint:
 	$(DOCKER_COMPOSE) run --rm app flake8 src/ tests/
+
+index-files:
+	$(DOCKER_COMPOSE) run --rm indexer
 
 test-real:
 	$(DOCKER_COMPOSE) run --rm -e PYTHONPATH=/app app python tests/real_content_test.py

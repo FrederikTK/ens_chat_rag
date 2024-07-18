@@ -61,3 +61,6 @@ class VectorStore:
 
     def delete_all(self):
         self.index.delete(delete_all=True)
+
+    def get_index_stats(self):
+        return self.index.describe_index_stats()
