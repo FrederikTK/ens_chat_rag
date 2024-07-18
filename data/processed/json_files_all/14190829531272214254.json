@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en række værktøjer og information om energiløsninger til forbrugere, offentlige og erhvervsmæssige bygninger. På deres hjemmeside kan man finde information om energimærkning af bygninger, renovering, energikrav, tilskud, isolering, vinduer, ventilation, varmeforbrug, forskellige varmetyper som naturgas, fjernvarme, varmepumper, solvarme og meget mere. Der er også specifik information om energimærkning af varmeanlæg, biobrændselskedler, sommerdrift, elforbrug, elpriser, energimærkning af apparater, belysning, køl og frys, vask og rengøring, madlavning, IT og elektronik, solceller, vindmøller og standbyforbrug. For offentlige bygninger er der information om energimærkning, renovering, nybyggeri, ESCO, energirådgivning, opvarmning og køling. Erhvervssektionen dækker energiledelse, industriel produktion, køle- og vakuumanlæg, LEAN, overskudsvarme, handel, landbrug og nøgletal for energiforbrug. Der er også værktøjer til at finde energimærker, energimærkningsfirmaer, VE-virksomheder, håndværkere, BedreBolig, bygningsguiden, casebank, låneberegner, varmepumpelisten, apparatberegner, elforbrugsberegner og se elpriser. Energistyrelsen giver også adgang til værktøjer til at finde energiløsninger baseret på kældertypen i ens hus, om det er uden kælder, med almindelig kælder eller krybekælder. Energistyrelsen har desuden information om Energibarometeret, materialer, partnere, kontaktinformation og en guide til brug af indhold på deres hjemmeside.",
+    "meta": {
+        "id": 14190829531272214254,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/energiloesninger/gulv-og-kaelder",
+        "title": "Find energiløsninger | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:25.286237",
+        "error": null,
+        "num_tokens_in": 821,
+        "num_tokens_out": 501,
+        "estimated_input_cost_gpt4": 0.00821,
+        "estimated_output_cost_gpt4": 0.01503,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

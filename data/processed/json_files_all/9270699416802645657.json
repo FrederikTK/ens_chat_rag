@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen giver råd til effektivisering af belysning ved at skifte til LED-lys. Der findes indkøbsanbefalinger, som gør det nemmere at vælge energieffektive produkter. Det anbefales at bruge LED-pærer, da de bruger mindre strøm og holder længere end halogenpærer. LED-lysrør bør vælges til nye armaturer, da de bruger mindre energi og har længere levetid end lysstofrør. Det anbefales at bortskaffe udtjente lyskilder korrekt gennem organisationer som Lyskildebranchens WEEE Forening. Desuden kan dæmpning af pærer reducere elforbruget, og lysstyring efter bevægelse og dagslys kan spare yderligere energi. For vejbelysning anbefales LED-lys på grund af energieffektivitet og lave totalomkostninger. Trådløs styring og bevægelsessensorer kan yderligere reducere energiforbruget. Energistyrelsen tilbyder også forklaringer på begreber og fakta om belysning på deres forbruger-sider.",
+    "meta": {
+        "id": 9270699416802645657,
+        "url": "https://sparenergi.dk/offentlig/el/belysning",
+        "title": "Indkøb af belysning",
+        "time_requested": "2024-04-16T11:56:17.753968",
+        "error": null,
+        "num_tokens_in": 1783,
+        "num_tokens_out": 304,
+        "estimated_input_cost_gpt4": 0.017830000000000002,
+        "estimated_output_cost_gpt4": 0.00912,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

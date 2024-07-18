@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen beskriver forskellige typer varmepumper og hvordan de virker. Der nævnes tre almindelige varmepumper: luft til vand-varmepumpe, luft til luft-varmepumpe og jordvarme (væske til vand-varmepumpe). Luft til vand-varmepumper giver både rumvarme og varmt vand, er velegnet til helårsboliger, kræver radiatorer eller gulvvarme med vand og en udedel på grunden. Omkostningerne til etablering ligger typisk mellem 100.000 og 130.000 kr. Luft til luft-varmepumper giver kun rumvarme, er god til sommerhuse eller som supplement til helårshuse, og kræver også plads til en udedel på grunden til en pris på 30.000-40.000 kr. Jordvarme giver både rumvarme og varmt vand, er velegnet til helårsboliger, kræver radiatorer eller gulvvarme med vand og en stor ubebygget grund medmindre vertikal jordvarme anvendes, med etableringsomkostninger på 130.000-200.000 kr. Varmepumper kan reducere varmeregningen med op til 70% sammenlignet med traditionelle opvarmningsmetoder og kræver minimal vedligeholdelse. Derudover opfordres læseren til at undersøge, hvad der kan spares ved at skifte til en ny varmetype og til at få gratis rådgivning om energirenovering og varmepumpevalg.",
+    "meta": {
+        "id": 3194204526686498037,
+        "url": "https://sparenergi.dk/forbruger/varme/varmepumpe/varmepumpetyper",
+        "title": "Varmepumpetyper | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:00.285791",
+        "error": null,
+        "num_tokens_in": 1565,
+        "num_tokens_out": 386,
+        "estimated_input_cost_gpt4": 0.01565,
+        "estimated_output_cost_gpt4": 0.01158,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Guiden \"Isoler dine ydervægge\" fra Energistyrelsen giver hjælp til selv at tjekke isoleringen i ydervæggene og om nødvendigt få efterisoleret. Der er tre typer ydervægge: hulmur, let ydervæg og tung ydervæg. For hulmur anbefales efterisolering, typisk ved at blæse isolering ind i hulmuren. For lette ydervægge kan man isolere udefra eller indefra, afhængigt af ønsker og behov. Minimum isolationstykkelse er 300 mm udefra og 250 mm indefra. For tunge ydervægge anbefales også efterisolering, enten udefra med mindst 125 mm isolering (mursten) eller 200 mm isolering (letbeton) eller indefra med 50-100 mm isolering. Der gives tips til at tjekke om isolering er tilstrækkelig og hvordan man kan søge tilskud til isoleringsarbejdet.",
+    "meta": {
+        "id": 2074000682652673957,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/goer-det-selv-guides/ydervaegge",
+        "title": "Ydervægge | Energistyrelsen",
+        "time_requested": "2024-04-16T11:58:14.793863",
+        "error": null,
+        "num_tokens_in": 2157,
+        "num_tokens_out": 249,
+        "estimated_input_cost_gpt4": 0.021570000000000002,
+        "estimated_output_cost_gpt4": 0.00747,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

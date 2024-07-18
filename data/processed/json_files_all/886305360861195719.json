@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder rådgivning og vejledning til boligejere, der overvejer at renovere deres bolig med fokus på energioptimering. Der opfordres til at tænke energiforbrug ind i renoveringsprocessen for at opnå en bedre varmeisolering, lavere varmeregning, undgå træk og kulde samt øge husets værdi. Energirenoveringspuljen er åben, og der gives råd til forskellige former for renoveringer, herunder isolering af loft, installation af ventilationsanlæg, udskiftning af vinduer og døre, isolering af sokkel, kældergulv og ydervægge samt brug af vedvarende energikilder som solvarme og solcelleanlæg. Der gives også konkrete råd til forbedringer i køkken, badeværelse, kælder/loft og stue/værelser. Energibesparelser ved renovering inkluderer lavere varmeregning, færre træk og kulde, forbedring af husets udseende, stigning i boligens værdi, klimavenlig bolig, reduceret støj samt opfyldelse af Bygningsreglementets isoleringskrav. Energistyrelsen tilbyder også oplysninger om tilskudsordninger og gratis energirådgivning. Der gives eksempler på danskere, der har valgt renovering frem for nybyggeri, samt praktiske råd til at spare energi i hverdagen.",
+    "meta": {
+        "id": 886305360861195719,
+        "url": "https://sparenergi.dk/vores-energiaftale/introduktion?destination=/overvejer-du-renovere-din-bolig",
+        "title": "Vores energiaftale | Energistyrelsen",
+        "time_requested": "2024-04-16T11:57:58.087319",
+        "error": null,
+        "num_tokens_in": 2821,
+        "num_tokens_out": 383,
+        "estimated_input_cost_gpt4": 0.028210000000000002,
+        "estimated_output_cost_gpt4": 0.01149,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

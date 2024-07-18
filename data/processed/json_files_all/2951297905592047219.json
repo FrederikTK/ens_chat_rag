@@ -1,0 +1,15 @@
+{
+    "text": "Resumé:\n\nStyring af cirkulationspumpe til varmt vand bidrager til at reducere vandspild og sænke elregningen. Ved at implementere termostatstyring kan man stoppe pumpen, når vandet har den ønskede temperatur ved tappestederne og forhindre lang ventetid på varmt vand. Urstyring kan sikre, at pumpen kun kører i de tidsrum, hvor der er behov for varmt vand. Det anbefales at tjekke alderen på cirkulationspumpen og eventuelt skifte til en ny, energieffektiv model med indbygget styring. Energibesparelsen ved implementering af styring anslås at være ca. 150 kr. årligt. Hjemmesiden tilbyder en liste over håndværkere, der kan hjælpe med installation af styring til cirkulationspumpen. Energistyrelsen stiller Håndværkerlisten til rådighed for at finde gode energiløsninger og de tilsvarende håndværkere til at udføre arbejdet. Energistyrelsen påtager sig ikke ansvaret for de virksomheder, der er på listen, og opfordrer til at søge rådgivning hos firmaet før aftaleindgåelse. Energistyrelsen følger op på håndværkernes oplysninger for at sikre, at de er korrekte. Energistyrelsen tager forbehold for forældede eller ukorrekte oplysninger på listen og opfordrer brugerne til at sikre, at energiløsningerne overholder alle lovkrav. Energistyrelsen kan ikke holdes ansvarlig for skader eller data tab, der direkte eller indirekte opstår som følge af brugen af Håndværkerlisten.",
+    "meta": {
+        "id": 2951297905592047219,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/energiloesninger/styring-af-cirkulationspumpe-til-varmt-vand",
+        "title": "Styring af cirkulationspumpe til varmt vand",
+        "time_requested": "2024-04-16T11:59:10.591430",
+        "error": null,
+        "num_tokens_in": 3734,
+        "num_tokens_out": 447,
+        "estimated_input_cost_gpt4": 0.037340000000000005,
+        "estimated_output_cost_gpt4": 0.01341,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

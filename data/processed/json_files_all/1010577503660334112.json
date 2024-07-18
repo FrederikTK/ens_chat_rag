@@ -1,0 +1,15 @@
+{
+    "text": "No content available to summarize.",
+    "meta": {
+        "id": 1010577503660334112,
+        "url": "https://old.sparenergi.dk/forbruger/hoje-energipriser/sa-meget-stiger-priserne-pa-el-og-varme",
+        "title": "Så meget stiger priserne på el og varme | Energistyrelsen",
+        "time_requested": "2024-04-16T11:59:37.079717",
+        "error": "403 Client Error: Forbidden for url: https://old.sparenergi.dk/sa-meget-stiger-priserne-pa-el-og-varme",
+        "num_tokens_in": 0,
+        "num_tokens_out": 6,
+        "estimated_input_cost_gpt4": 0.0,
+        "estimated_output_cost_gpt4": 0.00018,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

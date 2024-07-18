@@ -1,0 +1,15 @@
+{
+    "text": "Guiden omhandler hvordan man kan tjekke husets tæthed for at undgå varmetab. Cirka 10% af varmen i et hus forsvinder gennem utætheder, og det er derfor en god idé at undersøge husets tæthed og tætte eventuelle utætheder. Guiden giver konkrete råd og trin-for-trin instruktioner til at tjekke blandt andet vinduer, døre, paneler, hjørner, brevsprækker, lemmen, pejsen og brændeovnen. Der er også anvisninger på, hvordan man forbedrer tætheden ved at skifte fugemasse, bruge tætningslister, isolere lemmen korrekt og lukke brevsprækken. Guiden anbefaler at være opmærksom på gamle byggematerialer såsom PCB-fugemasse, og at få professionel hjælp i tilfælde af PCB. Man opfordres til at lukke tætte spjældene på pejsen eller brændeovnen for at undgå træk, og at installere en pejseindsats for at minimere varmetab. For træk fra paneler og hjørner i gulvhøjde og loftshøjde foreslås det at fjerne og fugede paneler eller tage gulvet op og lægge en ny dampspærre for at forbedre tætheden. Guiden giver også tips til, hvordan man kan forbedre tætheden mellem vindue og karm samt dør og karm med tætningslister. Derudover foreslås det at muligvis udskifte gamle vinduer med energiruder eller forbedre yderdøren med en gummiliste for at minimere træk.",
+    "meta": {
+        "id": 5839506900193745909,
+        "url": "https://sparenergi.dk/forbruger/vaerktojer/guides-og-tjeklister/husets-taethed",
+        "title": "Husets tæthed | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:57.367633",
+        "error": null,
+        "num_tokens_in": 3105,
+        "num_tokens_out": 426,
+        "estimated_input_cost_gpt4": 0.03105,
+        "estimated_output_cost_gpt4": 0.01278,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

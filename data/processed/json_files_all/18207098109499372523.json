@@ -1,0 +1,15 @@
+{
+    "text": "Resumé:\n\n- Bygningsreglementet stiller krav til efterisolering af ydervægge ved renovering.\n- Når man renoverer ydervæggen, kan det være nødvendigt med efterisolering afhængigt af tykkelsen på den eksisterende isolering.\n- Hvis man har 100 mm isolering eller mindre, kan det normalt betale sig at efterisolere.\n- Kravene for opfyldelse af Bygningsreglementet varierer afhængigt af vægtypen - eksempelvis kræves der normalt ca. 250 mm isolering eller en U-værdi på højst 0,18 W/m2K.\n- Ved udskiftning af en hel ydervæg skal den nye konstruktion isoleres i henhold til Bygningsreglementet, med krav til isolering og døre/vinduer.\n- Udvendig isolering af ydervægge kan være en effektiv løsning for at undgå fugtproblemer.\n- Hulmursisolering er normalt en effektiv løsning for at opfylde kravene i Bygningsreglementet.\n- Ved renovering er det vigtigt at have fagfolk med på råd for korrekt udførelse af isoleringsarbejdet.\n\nKort sagt, regulerende krav og anbefalinger opstilles i forhold til isolering af ydervægge, der varierer afhængigt af vægtype og tykkelsen af den eksisterende isolering. Det anbefales at inddrage fagfolk for at sikre korrekt udførelse af isoleringsarbejdet.",
+    "meta": {
+        "id": 18207098109499372523,
+        "url": "https://old.sparenergi.dk/forbruger/boligen/bygningsreglementets-energikrav/renovering-ydervaeg",
+        "title": "Renovering ydervæg | Energistyrelsen",
+        "time_requested": "2024-04-16T11:57:09.248952",
+        "error": null,
+        "num_tokens_in": 2843,
+        "num_tokens_out": 407,
+        "estimated_input_cost_gpt4": 0.028430000000000004,
+        "estimated_output_cost_gpt4": 0.01221,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

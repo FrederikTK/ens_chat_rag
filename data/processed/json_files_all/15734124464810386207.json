@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder på deres hjemmeside SparEnergi.dk gode råd til energioptimering i hverdagen. Man kan få tre effektive råd til energioptimering ved at indtaste sin adresse. Der er blandt andet fokus på at spare energi på lys og lamper, vask og rengøring, streaming og elektronik, køkken og madlavning, samt varme og varmt vand. Nogle af de konkrete råd inkluderer at bruge mikroovn eller airfryer i stedet for ovn for at spare op til 70% af elforbruget, tage kortere bade for at spare penge, vælge det rigtige vaskeprogram og skrue lige højt op på radiatorer. Der opfordres også til at slukke for vandet mens man sæber sig ind under badet, bruge radio til baggrundslyd i stedet for skærme, og slukke for unødvendigt strømforbrug i hjemmet. Derudover informerer Energistyrelsen om muligheden for at bruge strømmen, når den er billigst, og tilbyder værktøjer som \"strømpyramiden\" til at identificere apparater med højt strømforbrug. Energistyrelsen opfordrer til at være opmærksom på energimærket, og tilbyder også information om aktuelle tilskudsordninger, renovering af boliger og skift af varmetype. Endelig kan man få inspiration fra andre der har sparet energi derhjemme og kan læse om diverse energivaner og myter om energibesparelse.",
+    "meta": {
+        "id": 15734124464810386207,
+        "url": "https://sparenergi.dk/vores-energiaftale/profil-data?destination=/spar-energi-i-hverdagen",
+        "title": "Our energy agreement | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:45.488731",
+        "error": null,
+        "num_tokens_in": 2477,
+        "num_tokens_out": 403,
+        "estimated_input_cost_gpt4": 0.02477,
+        "estimated_output_cost_gpt4": 0.01209,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen forklarer, hvordan man kan spare energi ved at vaske tøj. Nogle af de gode råd inkluderer at undgå at vaske tøj unødigt ved at lufte det i stedet, vaske ved lavere temperaturer, fylde vaskemaskinen op, vælge det rigtige vaskeprogram, undgå forvask og kogevask, og vaske tøj på tidspunkter, hvor strømmen er billigst. Hvis hvidevarer går i stykker, anbefales det at overveje at reparere dem snarere end at erstatte dem, da det kan være bedre for både klimaet og økonomien. Der gives også gode råd til at købe en ny vaskemaskine, herunder at se efter energimærke, årligt vandforbrug og elforbrug, samt at undgå at købe en større maskine end nødvendigt. Endelig nævnes det, at det kan betale sig at benytte udsat start til vaskemaskinen, selvom den har et standbyforbrug. Myter om energiforbrug i forbindelse med vaskemaskiner adresseres også.",
+    "meta": {
+        "id": 12738949795935955198,
+        "url": "https://sparenergi.dk/privat/spar-energi-i-hverdagen/spar-energi-naar-du-vasker-toej",
+        "title": "Spar energi når du vasker tøj",
+        "time_requested": "2024-04-16T11:53:53.101702",
+        "error": null,
+        "num_tokens_in": 2875,
+        "num_tokens_out": 289,
+        "estimated_input_cost_gpt4": 0.02875,
+        "estimated_output_cost_gpt4": 0.00867,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

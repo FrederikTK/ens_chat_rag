@@ -1,0 +1,15 @@
+{
+    "text": "Informationen omhandler isolering af fladt tag som en effektiv energirenovering for huse fra 60'erne og 70'erne, der ofte er dårligt isolerede. Hvis den eksisterende isolering er mindre end 75-100 mm, anbefales det at tilføje ekstra isolering for at spare penge på varmeregningen og forbedre indeklimaet. Renoveringen indebærer at lægge ny isolering direkte oven på det gamle tag og sikre en passende hældning for regnvandsafledning. Ifølge Bygningsreglementet kræves mindst 300 mm isolering under renoveringen. Det anbefales at isolere til 400 mm for at opnå lavenerginiveau og dermed den bedste økonomi. Renoveringen bør udføres om sommeren i tørt vejr for at undgå fugtskader. Det anbefales at involvere fagfolk for at undgå skader som råd og svamp. Isoleringen kræver en årlig inspektion for at forebygge eventuelle skader eller fugtproblemer. Endvidere fremhæves vigtigheden af at tage hensyn til eksisterende tagkomponenter som ovenlyskupler ved renoveringen. Der gives også vejledning til håndværkere og mulighed for at finde professionelle håndværkere i nærheden. Samlet set understreges isolering af fladt tag som en effektiv metode til at spare energi, forbedre indeklimaet og skåne klimaet.",
+    "meta": {
+        "id": 6189995054071829852,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/energiloesninger/isolering-af-fladt-tag",
+        "title": "Isolering af fladt tag",
+        "time_requested": "2024-04-16T11:55:29.667653",
+        "error": null,
+        "num_tokens_in": 2510,
+        "num_tokens_out": 386,
+        "estimated_input_cost_gpt4": 0.0251,
+        "estimated_output_cost_gpt4": 0.01158,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

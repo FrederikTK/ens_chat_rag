@@ -1,0 +1,15 @@
+{
+    "text": "FAQ'en er en oversigt over spørgsmål og svar vedrørende Energirenoveringspuljen administreret af Energistyrelsen. Puljen er et tilskudsordning for energibesparende forbedringer til danske boligejere, virksomheder og foreninger. Puljen anvendes til isolering af huse, udskiftning af vinduer, etablering af ventilationsanlæg, vandbåret rumvarme og energimærkning. Energirenoveringspuljen administreres af Energistyrelsen, som står bag ordningen med baggrund i Energiaftalen fra 2018. Tilskuddene dækker både materialer og udførelsen af energirenoveringsprojekter. Puljen retter sig mod privatpersoner, virksomheder, foreninger og andre, der ejer helårsboliger registreret i Bygnings- og Boligregisteret med energimærker E, F eller G. Der er faste tilskudssatser afhængigt af projektet, og puljen forventes at åbne to gange i 2024. Tilskuddene fordeles efter først-til-mølle-princippet. Ansøgningsportalen er åben, og der er en trin-for-trin guide til ansøgningsprocessen. Det anbefales at forberede sig grundigt inden ansøgning. Tilsagn om tilskud gives inden for 4 måneder, og udbetaling kan tage yderligere op til fem måneder. Du kan ikke få tilskud til selv udførte renoveringsprojekter. Puljen lukker enten når midlerne er udtømt eller senest den 1. august 2024. Hvis du har tekniske problemer, kan du kontakte Energistyrelsen.",
+    "meta": {
+        "id": 8025496445163149032,
+        "url": "https://sparenergi.dk/privat/soeg-tilskud/varm-op-til-soege-tilskud-til-energirenovering/har-du-spoergsmaal",
+        "title": "Har du spørgsmål?",
+        "time_requested": "2024-04-16T11:49:27.034796",
+        "error": null,
+        "num_tokens_in": 4839,
+        "num_tokens_out": 430,
+        "estimated_input_cost_gpt4": 0.04839,
+        "estimated_output_cost_gpt4": 0.0129,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

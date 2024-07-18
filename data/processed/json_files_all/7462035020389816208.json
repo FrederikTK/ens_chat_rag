@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en positivliste over godkendte vindues- og forsatssystemer, som man kan få tilskud til fra Bygningspuljen. Listen indeholder information om forskellige vinduessystemer, herunder producent, produktnavn, materiale, U-værdi, velegnet til ældre eller nyere arkitektur og energiklasse. Listen viser også certifikatnumre og specifikationer for de enkelte vinduessystemer for at sikre dokumentation ved fakturering og udbetaling af tilskud.\n\nNogle eksempler på vinduessystemer på listen er KPK Vision, Outline, Hvidbjerg ZelaLUX, Lodberg Schüco Nordic, Nordan ND Ntech One IsoPlus, Vindunor, Krone Krone Ecliptica, Outrup AluCapFront-PLUS, VELFAC Ribo, Idealcombi Futura+, Rationel AURAPLUS, JNA Vinduer og Døre, samt mange flere.\n\nVindueslisten viser forskellige typer af træ-, træ/alu-, plast- og aluminiumsvinduer, der passer til enten nyere eller ældre arkitektur med forskellige U-værdier og energiklasser.\n\nEnergistyrelsen tilbyder gratis rådgivning og information om energioptimering for både private, erhverv og offentlige bygninger. Man kan finde yderligere information og tilmelde sig nyhedsbrev på SparEnergi.dk, der er en del af Energistyrelsen.",
+    "meta": {
+        "id": 7462035020389816208,
+        "url": "https://sparenergi.dk/forbruger/materialer/positivliste-vinduer",
+        "title": "Site under opdatering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:49:08.063369",
+        "error": null,
+        "num_tokens_in": 5457,
+        "num_tokens_out": 367,
+        "estimated_input_cost_gpt4": 0.05457000000000001,
+        "estimated_output_cost_gpt4": 0.01101,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

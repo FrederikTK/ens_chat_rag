@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens analyser viser, at nyere og forbedrede teknologier giver store besparelsespotentialer i erhvervslivet. Især i handel og servicesektoren er der behov for fokus på energibesparelser, da industrien og landbruget allerede er godt i gang med dette arbejde. Energiforbruget i erhvervslivet er generelt faldende, og energiintensiteten er holdt nede. Der er dog stadig et betydeligt energiforbrug i detailhandel, engroshandel, kontorvirksomheder, restauranter og hoteller, primært fordelt på mange små enheder. Energistyrelsen har derfor prioriteret analyser og dataindsamling specifikt rettet mod disse underbrancher. Analysen omfatter blandt andet kortlægning af energiforbruget i erhvervslivet, barrierer for energieffektivisering, segmentanalyse, erfaringer med LED i virksomheder, kommunikationskanaler i detailhandel, energibesparelsespotentiale i erhvervslivet, kommunernes aktiviteter i energieffektivisering i erhvervsvirksomheder og kampagner om energibesparelser. Energistyrelsen har også udviklet koncepter til kampagner, evalueringer af netværkskampagner i engrosbranchens lagre og LED-kampagner i detailhandlen. Data bruges til at informere og motivere virksomheder til at arbejde med energibesparelser.",
+    "meta": {
+        "id": 17704759540111076235,
+        "url": "https://sparenergi.dk/erhverv/undersoegelser-og-analyser",
+        "title": "Undersøgelser og analyser | Energistyrelsen",
+        "time_requested": "2024-04-16T11:57:54.235390",
+        "error": null,
+        "num_tokens_in": 2091,
+        "num_tokens_out": 378,
+        "estimated_input_cost_gpt4": 0.02091,
+        "estimated_output_cost_gpt4": 0.011340000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

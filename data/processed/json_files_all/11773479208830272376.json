@@ -1,0 +1,15 @@
+{
+    "text": "No content available to summarize.",
+    "meta": {
+        "id": 11773479208830272376,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/energiloesninger/suppler-naturgas-med-en-luft-til-vand-varmepumpe",
+        "title": "Fejl 404 – siden kunne ikke findes | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:44.128192",
+        "error": "404 Client Error: Not Found for url: https://old.sparenergi.dk/forbruger/vaerktoejer/energiloesninger/suppler-naturgas-med-en-luft-til-vand-varmepumpe",
+        "num_tokens_in": 0,
+        "num_tokens_out": 6,
+        "estimated_input_cost_gpt4": 0.0,
+        "estimated_output_cost_gpt4": 0.00018,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

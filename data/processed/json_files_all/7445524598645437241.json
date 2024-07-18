@@ -1,0 +1,15 @@
+{
+    "text": "Spareråd til hjemmet opfordrer til at fortsætte de gode energivaner og dele nogle konkrete tips til energibesparelse i hjemmet. Informationerne inkluderer råd om at skrue ned for varmen, bruge mindre varmt vand, slukke for unødvendigt strømforbrug, slukke radiatoren mens man lufter ud, bruge strømmen når den er billigst, samt tilbyder gratis rådgivning til private husstande om energibesparelser. Derudover findes der også information om myter om at spare energi, en beregner til at skifte varmetype, seneste nyt om energiforbrug i Danmark, tilmelding til nyhedsmail, tips til gasfyrsejere, samt information om kampagnen og dens formål. Energistyrelsen opfordrer til at spare på energien, bl.a. pga. usikkerheden om energiforsyningerne i Europa, og håber at energibesparelserne vil gavne både borgernes pengepung og klimaet, samtidig med at sikre en mere stabil energiforsyning.",
+    "meta": {
+        "id": 7445524598645437241,
+        "url": "https://old.sparenergi.dk/forbruger/sparerad-til-hjemmet",
+        "title": "Spareråd til hjemmet",
+        "time_requested": "2024-04-16T11:50:26.812132",
+        "error": null,
+        "num_tokens_in": 2022,
+        "num_tokens_out": 283,
+        "estimated_input_cost_gpt4": 0.020220000000000002,
+        "estimated_output_cost_gpt4": 0.008490000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

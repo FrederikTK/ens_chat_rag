@@ -1,0 +1,15 @@
+{
+    "text": "Der er tilgængelig information om Erhvervspuljen: Budget på SparEnergi.dk. Det er en skabelon til budget i forbindelse med ansøgning af Erhvervspuljen, som er gældende for ansøgninger indsendt fra januar 2023. Skabelonen kan downloades i XLSX-format. Energistyrelsen, beliggende på Carsten Niebuhrs Gade 43, 1577 København V, er den relevante instans bag denne information. Energistyrelsen kan kontaktes på deres hjemmeside www.ens.dk. Resuméet indeholder ikke detaljer om indholdet i skabelonen, men angiver blot, at den er tilgængelig for brug i forbindelse med ansøgninger til Erhvervspuljen.",
+    "meta": {
+        "id": 5085169505863642266,
+        "url": "https://old.sparenergi.dk/forbruger/materialer/erhvervspuljen-budget",
+        "title": "Erhvervspuljen: Budget",
+        "time_requested": "2024-04-16T11:56:43.115632",
+        "error": null,
+        "num_tokens_in": 848,
+        "num_tokens_out": 189,
+        "estimated_input_cost_gpt4": 0.008480000000000001,
+        "estimated_output_cost_gpt4": 0.0056700000000000006,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

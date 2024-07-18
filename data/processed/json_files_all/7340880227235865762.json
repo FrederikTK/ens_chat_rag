@@ -1,0 +1,15 @@
+{
+    "text": "Bygningsreglementet stiller krav til både nyetablering og udskiftning af eksisterende ventilationsanlæg. Kravene inkluderer varmegenvinding for at forvarme indblæsningsluften. Et ventilationsanlæg til en bolig skal have en temperaturvirkningsgrad på mindst 80 % og et elforbrug til lufttransport (målt som SEL-værdi) på højst 1.000 J/m^3. Anlæg med varmepumper skal have en COP på 3,6 eller højere i opvarmningstilstand. Anlæg til etageboliger har yderligere krav til temperaturvirkningsgrad og elforbrug. Ventilationskanalernes tværsnit, tryktab og effektivitet spiller en rolle i elforbrug og effektivitet. En case fra Rødovre viser, at et nyt ventilationsanlæg finansieret af Landsbyggefonden har reduceret ejendommens energiforbrug med 30-35 %. Energistyrelsen tilbyder gratis rådgivning om energioptimering.",
+    "meta": {
+        "id": 7340880227235865762,
+        "url": "https://sparenergi.dk/forbruger/boligen/bygningsreglementets-energikrav/installationer/mekanisk-ventilation",
+        "title": "Mekanisk ventilation | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:04.639371",
+        "error": null,
+        "num_tokens_in": 1061,
+        "num_tokens_out": 279,
+        "estimated_input_cost_gpt4": 0.010610000000000001,
+        "estimated_output_cost_gpt4": 0.00837,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

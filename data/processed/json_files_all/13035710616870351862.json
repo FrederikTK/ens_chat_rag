@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om energimærkning af bygninger og energirenovering til forbrugere, offentlige institutioner og erhverv. På hjemmesiden findes information om isolering, vinduer, ventilation, varmesystemer, elforbrug, apparater, belysning, rådgivning og andre relaterede emner. Der gives gode råd til energirenovering af boliger, hvor man kan finde inspiration til at tænke energibesparelser ind i renoveringsprojekter. Desuden opfordres til at bruge energimærkningsrapporter til at identificere energirenoveringer, der kan betale sig. Der er eksempler på energirenoveringer af forskellige boligtyper, hvor man kan se, hvordan andre har opnået energibesparelser. Energistyrelsen fremhæver, at energirenovering er en god investering, da det forbedrer indeklimaet, sparer penge på energiregningen, hæver husets værdi og er godt for klimaet. Energisparing anbefales, når man alligevel renoverer, da det kan betale sig i det lange løb. Der er også en app, Elforbrugsberegner, til at beregne elforbrug. Energistyrelsen opfordrer til at tilmelde sig nyhedsbrevet for at modtage tips om energibesparelser.",
+    "meta": {
+        "id": 13035710616870351862,
+        "url": "https://sparenergi.dk/byg-om",
+        "title": "Byg om, så det kan mærkes | Energistyrelsen",
+        "time_requested": "2024-04-16T11:57:02.887079",
+        "error": null,
+        "num_tokens_in": 1802,
+        "num_tokens_out": 341,
+        "estimated_input_cost_gpt4": 0.01802,
+        "estimated_output_cost_gpt4": 0.01023,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

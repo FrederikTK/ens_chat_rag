@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen opfordrer til at tænke energivenligt, når man bygger nyt. Byggeriet skal overholde Bygningsreglementets krav, og det anbefales at følge lavenergiklassen for at være på forkant med udviklingen. Der stilles krav til energieffektivitet i varmeanlæg, ventilation, køling, tag, vægge og vinduer i nybyggeri, og energirammen viser, hvor meget energi en bygning højst må bruge. Det er vigtigt at tænke energi ind i planlægningen fra begyndelsen og at vælge en bygherrerådgiver med speciale i energi. Der gives også råd om at spare energi på byggepladsen og at indarbejde krav om energieffektivitet i udbud ved nybyggeri. Rådene inkluderer at formulere krav tydeligt, sikre dokumentation i henhold til standarder, være realistisk omkring økonomisk ramme og lade entreprenøren betale for elforbruget på byggepladsen. Specielle fokusområder som energiklasse, facader, vinduer og installationer nævnes også. Der opfordres til en omhyggelig udbudsproces for at sikre energieffektive løsninger og til at tænke på isolering og vinduer, når man efterisolerer en bygning.",
+    "meta": {
+        "id": 9356879503105348532,
+        "url": "https://sparenergi.dk/offentlig/bygninger/nybyggeri",
+        "title": "Nybyggeri | Energistyrelsen",
+        "time_requested": "2024-04-16T11:58:29.371224",
+        "error": null,
+        "num_tokens_in": 2180,
+        "num_tokens_out": 353,
+        "estimated_input_cost_gpt4": 0.021800000000000003,
+        "estimated_output_cost_gpt4": 0.01059,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

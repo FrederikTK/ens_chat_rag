@@ -1,0 +1,15 @@
+{
+    "text": "Den tilgængelige information indeholder indstillinger, herunder stioplysninger og temaoplysninger. Derudover nævnes der et raffle (lodtrækningssystem) med endpoints for feedback og typer af feedback. Endelig gives der besked om, at brugeren ikke har adgang til at tilgå siden.",
+    "meta": {
+        "id": 11755038199465076721,
+        "url": "https://old.sparenergi.dk/forbruger/findfirma/button_b",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:54:35.947718",
+        "error": null,
+        "num_tokens_in": 212,
+        "num_tokens_out": 77,
+        "estimated_input_cost_gpt4": 0.0021200000000000004,
+        "estimated_output_cost_gpt4": 0.00231,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

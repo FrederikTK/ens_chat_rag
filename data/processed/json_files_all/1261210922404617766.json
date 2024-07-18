@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder råd og tips til at minimere standbyforbruget og spare op til 1000 kroner om året. Standbyforbrug opstår, når apparater er tilsluttet og klar til brug, selvom de ikke er i brug. Det anbefales at slukke kontakten eller hive stikket ud for at undgå unødvendigt strømforbrug. Smart-apparater, der er tilsluttet til internettet, kan have et højere standbyforbrug. Det anbefales kun at købe smarte apparater, hvis man vil udnytte deres funktioner. Smart styring kan være nyttig til at reducere energiforbruget, f.eks. intelligente LED-pærer, smarte termostater og smarte stikkontakter. På hjemmesiden gives gode råd og eksempler på standbyforbrug for forskellige typer af smarte apparater som smarte tv, hvidevarer, højttalere osv. Der opfordres til at være bevidst om, hvilke apparater man har med standbyforbrug derhjemme og finde måder at minimere det på. Energistyrelsen tilbyder gratis rådgivning og inspiration til energibesparelser.",
+    "meta": {
+        "id": 1261210922404617766,
+        "url": "https://old.sparenergi.dk/forbruger/el/standbyforbrug",
+        "title": "Standbyforbrug | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:13.867024",
+        "error": null,
+        "num_tokens_in": 2207,
+        "num_tokens_out": 303,
+        "estimated_input_cost_gpt4": 0.022070000000000003,
+        "estimated_output_cost_gpt4": 0.00909,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

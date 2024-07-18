@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder råd og vejledning til at spare energi i hverdagen. Der er gode råd inden for kategorier som Lys og lamper, Vask og rengøring, Streaming og elektronik, Køkken og madlavning, Varme og varmt vand osv. Nogle specifikke råd omfatter at bruge mikroovn eller airfryer i stedet for ovn for at spare op til 70% af elforbruget, tage kortere bade for at spare på vandet, vælge det rigtige vaskeprogram for at spare strøm, skrue lige højt op på radiatorer for at fordele varmen bedre, slukke for vandet mens man sæber sig ind i badet, bruge radio i stedet for tv eller computer for baggrundslyd, slukke for unødigt strømforbrug og bruge strømmen, når den er billigst.\n\nDer er desuden en \"Strømpyramide\" der viser, hvilke apparater der bruger mest strøm derhjemme, så man kan se, hvor man kan spare mest. Yderligere kan man indtaste sin adresse for at få beregnet sit elforbrug og sammenligne det med andre. Energistyrelsen tilbyder også inspiration fra andre, der har været kreative og sparet energi derhjemme, samt information om tilskudsordninger og muligheder for at renovere boligen eller skifte varmetype for at spare energi.",
+    "meta": {
+        "id": 2860492130168627331,
+        "url": "https://old.sparenergi.dk/forbruger/en-ting-er-sikkert-og-det-er-gront",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:55:45.588096",
+        "error": null,
+        "num_tokens_in": 2477,
+        "num_tokens_out": 369,
+        "estimated_input_cost_gpt4": 0.02477,
+        "estimated_output_cost_gpt4": 0.01107,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

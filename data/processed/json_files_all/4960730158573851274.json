@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen drejer sig om at træffe beslutningen om at renovere eller udskifte vinduer i en bolig. Hovedpunkterne i artiklen er:\n\n1. Vinduets stand: Det afgørende for beslutningen om at renovere eller udskifte vinduer er vinduesrammens tilstand.\n   \n2. Overvejelser før beslutningen: Man bør overveje faktorer som energieffektivitet, økonomi, støjreduktion, indbrudssikring og opretholdelse af arkitektur, inden man beslutter sig.\n\n3. Renovering af vinduer: Hvis rammerne er i god stand, kan man nøjes med at opgradere ruderne til energiruder eller installere forsatsruder.\n\n4. Eftersyn og energiforbedringer: Årligt eftersyn af vinduer anbefales, og det er vigtigt at tætne utætheder for at forbedre energieffektiviteten.\n\n5. Udskiftning af vinduer: Hvis vinduesrammerne er i dårlig stand, må man udskifte hele vinduet. Almindelige boliger bør vælge energirigtige vinduer fra energimærkningsordningen.\n\n6. Lovkrav og energimærkning: Bygningsreglementet stiller energikrav til vinduer i nybyggeri og udskiftning. Energimærkningsordningen (A-F skala) gør det lettere at vælge de mest energieffektive vinduer.\n\n7. Definitioner og viden om vinduers energiegenskaber: Artiklen gennemgår definitioner som E ref, E w, U w -værdi, U g -værdi og G w og gg i forhold til vinduers isoleringsevne.\n\nArtiklen opfordrer til at inddrage professionel rådgivning og udføre eftersyn samt tætning af vinduer for at forbedre energieffektiviteten i boligen.",
+    "meta": {
+        "id": 4960730158573851274,
+        "url": "https://sparenergi.dk/offentlig/bygninger/vinduer/fakta",
+        "title": "Site under opdatering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:22.835791",
+        "error": null,
+        "num_tokens_in": 3159,
+        "num_tokens_out": 486,
+        "estimated_input_cost_gpt4": 0.03159,
+        "estimated_output_cost_gpt4": 0.014580000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

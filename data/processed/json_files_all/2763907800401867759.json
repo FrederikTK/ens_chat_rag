@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder tilskud til energieffektive tiltag, herunder installation af varmepumper. Hvis man ønsker at søge tilskud på vegne af en privatperson, virksomhed eller forening, skal man have dokumentation klar, herunder en fuldmagt udfyldt sammen med bygningsejeren, en ansøgererklæring udfyldt og underskrevet af bygningsejeren, samt eventuelt en de minimis-erklæring, hvis der er økonomisk aktivitet på adressen. For virksomheder kræves også dokumentation på virksomhedens CVR-nummer og en erklæring om, at de ikke modtager mere end 200.000 euro i økonomisk støtte. For foreninger kræves også dokumentation på foreningens tegningsberettigede, samt en erklæring om, at de ikke modtager mere end 200.000 euro i økonomisk støtte. Derudover skal man igennem en trin for trin-guide og bruge ansøgningsportalen til at søge om tilskuddet.",
+    "meta": {
+        "id": 2763907800401867759,
+        "url": "https://sparenergi.dk/soeger-du-tilskud-paa-vegne-af-en-anden",
+        "title": "Søger du tilskud på vegne af en anden? | Energistyrelsen",
+        "time_requested": "2024-04-16T11:53:31.088795",
+        "error": null,
+        "num_tokens_in": 3215,
+        "num_tokens_out": 272,
+        "estimated_input_cost_gpt4": 0.032150000000000005,
+        "estimated_output_cost_gpt4": 0.00816,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

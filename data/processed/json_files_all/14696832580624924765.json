@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside om energimærkning af bygninger indeholder information om energimærkning af boliger, herunder fokus på isolering, vinduer, ventilation, varme, varmeforbrug, varmetyper, el, elektriske apparater og belysning. Der gives også råd om energimærkning af biobrændselskedler, sommerdrift, energimærkning af varmeanlæg samt energimærkning af bygninger for offentlige og erhvervsmæssige formål. Hjemmesiden indeholder desuden værktøjer som bygningsguiden, værktøjer til at finde energimærket firmaer, liste over energirigtige håndværkere og energiløsninger, samt en låneberegner og apparatberegner. Der gives detaljerede beskrivelser af isolering og tagkonstruktioner på parcelhuse fra 1960-76, herunder tag med lav og stor hældning samt fladt tag. Der gives tips til vedligeholdelse og forbedringer, herunder efterisolering af loft, skrå- og flade tag, samt cases og videoer om energirenovering af tag og loft. Der opfordres også til at søge om tilskud til energirenoveringer og nyhedsbrev-tilmelding.",
+    "meta": {
+        "id": 14696832580624924765,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/bygningsguiden/parcelhus-1960-76/tag",
+        "title": "Tag | Energistyrelsen",
+        "time_requested": "2024-04-16T11:58:24.895073",
+        "error": null,
+        "num_tokens_in": 5321,
+        "num_tokens_out": 323,
+        "estimated_input_cost_gpt4": 0.05321000000000001,
+        "estimated_output_cost_gpt4": 0.00969,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

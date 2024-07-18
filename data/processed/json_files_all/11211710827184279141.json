@@ -1,0 +1,15 @@
+{
+    "text": "Resumé:\n\n- Energistyrelsen opfordrer til at skifte til en luft til vand-varmepumpe, som er billig, klimavenlig og driftssikker.\n- En luft til vand-varmepumpe er velegnet til områder uden fjernvarme og kræver vandbårne radiatorer eller gulvvarme samt plads til en udedel.\n- Fordelene inkluderer minimalt strømforbrug, skånsomt for klimaet, minimal vedligeholdelse og mulighed for abonnement.\n- Der gives tips om installationen af varmepumpen samt oplysninger om lovgivning på området, herunder SCOP-værdi, årligt eftersyn og støjgrænser.\n- For at få varmepumpe på abonnement, skal man vælge en leverandør, få tilskud fra Skrotningsordningen og overveje fordele og ulemper ved køb kontra leje.\n- Der gives desuden råd om, hvordan man kan få reduceret elafgift, og hvordan man bedst vælger og bruger en varmepumpe for at optimere energibesparelser.\n- Der findes også information om renovering af boliger for at reducere varmeudgifter og om at udnytte billigere strømpriser.",
+    "meta": {
+        "id": 11211710827184279141,
+        "url": "https://sparenergi.dk/privat/tid-til-skifte-varmetype/saadan-faar-du-luft-til-vand-varmepumpe",
+        "title": "Skift til luft til vand - varmepumpe",
+        "time_requested": "2024-04-16T11:49:20.725950",
+        "error": null,
+        "num_tokens_in": 3628,
+        "num_tokens_out": 323,
+        "estimated_input_cost_gpt4": 0.03628,
+        "estimated_output_cost_gpt4": 0.00969,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

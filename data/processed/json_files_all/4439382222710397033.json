@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har lanceret en ny energimærkningsrapport, der skal hjælpe boligejere med at få en oversigt over effektive energiforbedringer i deres bygning. Den nye energimærkningsrapport har fået et nyt format, som gør den lettere at bruge end den tidligere rapport. Rapporten fokuserer på energikonsulentens bedste forslag til energiforbedringer, der kan være rentable. Dette gør det nemt at identificere, hvor det er mest relevant at foretage forbedringer og hvilke gevinster det vil have både økonomisk og klimamæssigt. De vigtigste informationer om bygningen og energiforbedringerne samles på de to første sider af rapporten.\n\nRapporten vil vise vej til at skabe energiforbedringer, især i bygninger med dårlig energitilstand. Den nye rapport fokuserer på potentialet for forbedringer og giver konkrete forslag til, hvordan det kan gøres. Anbefalingerne til de bedste energiforbedringer gør det nemmere for boligejerne at komme i gang med energiforbedringerne. Ved at følge rapportens anbefalinger kan man identificere relevante energiløsninger og kontakte relevante håndværkere for at gå i gang med at implementere forbedringerne.\n\nDer findes en kort film, der introducerer den nye energimærkningsrapport og illustrerer, hvordan den kan være til gavn. Det nye design af energimærkningsrapporten er især relevant for boligejere, der ønsker at sælge deres bolig eller søge offentlige tilskud til energiforbedringer. Det gamle og det nye design af rapporten kan eksistere side om side, da en energimærkning er gyldig i 10 år, og derfor er det stadig muligt at bruge rapporter med det gamle design. Energistyrelsen opfordrer boligejere til at benytte den nye energimærkningsrapport, da den vil føre til flere konkrete energiforbedringer.",
+    "meta": {
+        "id": 4439382222710397033,
+        "url": "https://sparenergi.dk/forbruger/boligen/energimaerkning-boliger/ny-energimaerkningsrapport",
+        "title": "Ny energimærkningsrapport | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:23.180644",
+        "error": null,
+        "num_tokens_in": 1678,
+        "num_tokens_out": 524,
+        "estimated_input_cost_gpt4": 0.01678,
+        "estimated_output_cost_gpt4": 0.01572,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen udbyder en række energirådgivningstjenester under navnet \"SparEnergi\", som hjælper borgere med at optimere deres energiforbrug i hverdagen. Hjemmesiden tilbyder gode råd og konkrete tips til at spare energi på lys, vask, rengøring, elektronik, køkken, varme, vand samt transport og afgifter. Der er også information om at bruge strømmen, når den er billigst baseret på varierende elpriser og hvordan man kan ændre vaner for at spare energi. Hjemmesiden opfordrer til at gå igennem strømpyramiden for at identificere apparater, der bruger mest strøm derhjemme og tilbyder personlige sparemål. Der findes også oplysninger om, hvordan man kan få tilskud, renovere sin bolig eller skifte varmetype. Energistyrelsen tilbyder desuden gratis rådgivning og mulighed for at tilmelde sig nyhedsbrevet for løbende opdateringer om energibesparelser.",
+    "meta": {
+        "id": 7939750174551135263,
+        "url": "https://old.sparenergi.dk/forbruger/el/dit-elforbrug",
+        "title": "Dit elforbrug | Energistyrelsen",
+        "time_requested": "2024-04-16T11:49:05.885635",
+        "error": null,
+        "num_tokens_in": 2477,
+        "num_tokens_out": 274,
+        "estimated_input_cost_gpt4": 0.02477,
+        "estimated_output_cost_gpt4": 0.00822,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

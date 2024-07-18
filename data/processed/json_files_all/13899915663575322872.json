@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen giver information om energimærkning af apparater og produkter, herunder hvidevarer, elpærer, TV, computere, varmeanlæg og meget mere. Energimærkningen fokuserer primært på energiforbruget i brugsfasen af produktets livscyklus. For at træffe energieffektive valg opfordres forbrugere til at se efter energimærket, der angiver energiklassen (A til G), det årlige energiforbrug og andre vigtige oplysninger. Der introduceres et værktøj kaldet \"Hele Prisen\", der giver en samlet vurdering af omkostningerne over produktets levetid, inklusive indkøbsprisen og brugsomkostninger. Der gives specifikke råd om energiklasser at gå efter for forskellige apparater såsom køleskabe, vaskemaskiner, opvaskemaskiner, tørretumblere, elpærer, ovne, emhætter, TV, skærme og meget andet. Der informeres også om andre mærker som Blomsten, Svanen, Dansk Indeklima Mærkning og FSC-mærket, der tilføjer yderligere krav til miljø- og energieffektivitet. Energistyrelsen understreger, at europæiske krav om Ecodesign og energimærkning af produkter bidrager til store energibesparelser og økonomiske fordele for forbrugerne. Forbrugere opfordres til at tjekke energimærket nøje, og der er kontrolprocedurer for at sikre korrekt mærkning. Energistyrelsen oplyser om andre frontrunner-mærker og carbon footprint, der viser CO2-udledningen i et produkts livscyklus. Energistyrelsen giver desuden links til yderligere information og nyhedsmail på deres hjemmeside sparEnergi.dk.",
+    "meta": {
+        "id": 13899915663575322872,
+        "url": "https://old.sparenergi.dk/forbruger/el/energimaerkning-apparater",
+        "title": "Energimærkning apparater | Energistyrelsen",
+        "time_requested": "2024-04-16T11:49:52.022900",
+        "error": null,
+        "num_tokens_in": 4223,
+        "num_tokens_out": 482,
+        "estimated_input_cost_gpt4": 0.042230000000000004,
+        "estimated_output_cost_gpt4": 0.01446,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

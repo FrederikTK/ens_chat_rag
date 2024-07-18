@@ -1,0 +1,15 @@
+{
+    "text": "Resumé:\nArtiklen omhandler Bygningsreglementets krav til isolering af gulvkonstruktioner ved renovering eller udskiftning. Det anbefales at bruge fagfolk til at tjekke og udføre arbejdet. Der er forskellige krav afhængigt af typen af gulvkonstruktion og isoleringsmaterialer. Kravene omfatter blandt andet U-værdier for varmetab og tykkelsen af isoleringen. Der gives eksempler på krav og anbefalinger til efterisolering i forskellige gulvtyper som bjælkelag, betondæk over krybekælder og terrændæk. Det fremhæves, at korrekt udført efterisolering er vigtigt for at undgå problemer som råd og svamp. Endelig opfordres det til at følge energikravene for at opnå en mere energieffektiv bolig.",
+    "meta": {
+        "id": 2476180818379197431,
+        "url": "https://sparenergi.dk/privat/bygningsreglementets-energikrav/gulvkonstruktion",
+        "title": "Gulvkonstruktion",
+        "time_requested": "2024-04-16T11:49:58.188916",
+        "error": null,
+        "num_tokens_in": 2624,
+        "num_tokens_out": 229,
+        "estimated_input_cost_gpt4": 0.026240000000000003,
+        "estimated_output_cost_gpt4": 0.00687,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

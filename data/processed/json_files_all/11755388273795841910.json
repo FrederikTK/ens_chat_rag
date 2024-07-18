@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har en hjemmeside kaldet SparEnergi.dk, hvor de deler information om elforbrug, varmeforbrug og energiløsninger til brug derhjemme og på arbejdspladsen. På siden kan man finde information om energimærkning af bygninger, renoveringsmuligheder, energikrav i bygningsreglementet, tilskud til energiløsninger, isolering, vinduer, ventilation, intelligent styring, varmekilder som naturgas, fjernvarme, olie, varmepumper, elvarme, solvarme, træpiller, terrassevarmere og meget mere. Der er også guides til at regne på skift af varmetype og elpriser, samt nyheder om høje energipriser og spareråd i forbindelse hermed. Energistyrelsen tilbyder gratis rådgivning fra erfarne energirådgivere, og man kan kontakte dem for at få hjælp til at reducere sit energiforbrug og spare penge. Der er også information om nyhedsbrevet og hvordan man tilmelder sig det. Energistyrelsen arbejder på at få folk til at spare energi og skabe mere bæredygtige energiløsninger både i hjemmet og på arbejdspladsen.",
+    "meta": {
+        "id": 11755388273795841910,
+        "url": "https://old.sparenergi.dk/",
+        "title": "Energistyrelsen |",
+        "time_requested": "2024-04-16T11:50:32.398359",
+        "error": null,
+        "num_tokens_in": 1639,
+        "num_tokens_out": 317,
+        "estimated_input_cost_gpt4": 0.016390000000000002,
+        "estimated_output_cost_gpt4": 0.009510000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

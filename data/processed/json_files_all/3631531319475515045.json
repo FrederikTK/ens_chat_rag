@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en \"Skift til LED\" værktøj, hvor man kan beregne sin potentielle besparelse ved at skifte til LED-lys. Værktøjet giver en totaløkonomisk beregning af udskiftning af nuværende lyskilder til LED. Man kan vælge forskellige typer lyskilder som halogen, glødepære, kviksølvlampe osv. Beregneren viser besparelsen over 7 år, da dette er den gennemsnitlige minimumslevetid for LED-lys. Man kan også se besparelsen fra år 1 til år 10 efter udskiftning til LED. Energistyrelsen oplyser om undersøgelser og analyser, tilbyder materialer og nyhedsbreve til erhvervsvirksomheder. Energistyrelsen kan kontaktes på Carsten Niebuhrs Gade 43, 1577 København V, www.ens.dk.",
+    "meta": {
+        "id": 3631531319475515045,
+        "url": "https://old.sparenergi.dk/erhverv/vaaerktoejer/skift-til-led",
+        "title": "Skift til LED | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:37.379382",
+        "error": null,
+        "num_tokens_in": 1243,
+        "num_tokens_out": 231,
+        "estimated_input_cost_gpt4": 0.012430000000000002,
+        "estimated_output_cost_gpt4": 0.00693,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

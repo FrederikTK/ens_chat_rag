@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om at skifte til jordvarme som en måde at spare energi på i hverdagen. Jordvarme, også kendt som væske-til-vand-varmepumpe, er en billig, klimavenlig og driftssikker måde at få varme og varmt vand på. Det anbefales især til områder uden fjernvarme og kræver vandbårne radiatorer eller gulvvarme samt minimum 300m² ubebygget grund. En jordvarmepumpe kan give op til 4-5 kWh varme for hver kWh el, hvilket gør den mere effektiv end luft-til-vand-varmepumper. Jordvarmeanlægget er lydløst udenfor og kræver kun årligt vedligehold.\n\nInstallationen kræver typisk 1-3 dage, hvor man kan være uden varme i 1 dag. Der er også en guide til at vælge den rette varmepumpe, søge tilskud, få reduceret elafgift og sikre korrekt installation. Der introduceres også vertikal jordvarme som et alternativ, der kræver mindre plads, men kan være dyrere og kræve tilladelse fra kommunen. Vertikal jordvarme er desuden mere effektiv end horisontal jordvarme pga. højere jordtemperaturer.\n\nEnergistyrelsen tilbyder også råd om at få reduceret energiforbruget, forbedre energivaner og andre varmetyper samt information om solceller, biobrændsel og andre vedvarende energiformer. Yderligere kan man finde information om dialog med kommunen og etablering af vedvarende energianlæg. Energistyrelsen tilbyder også gratis rådgivning og opfordrer til brug af energiressourcer på en bæredygtig måde.",
+    "meta": {
+        "id": 17355455327899311920,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/energiloesninger/skift-til-jordvarme",
+        "title": "Skift til jordvarme",
+        "time_requested": "2024-04-16T11:48:40.743940",
+        "error": null,
+        "num_tokens_in": 3447,
+        "num_tokens_out": 462,
+        "estimated_input_cost_gpt4": 0.03447,
+        "estimated_output_cost_gpt4": 0.01386,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside SparEnergi tilbyder gratis rådgivning og inspiration til energioptimering af boliger. På hjemmesiden kan man indtaste sin adresse og få de tre mest effektive råd til energioptimering for netop den adresse. Hjemmesiden indeholder desuden information om energipriser, brug af indhold, privatlivspolitik, kontaktmuligheder og mulighed for at tilmelde sig nyhedsbrevet. Energistyrelsens adresse er Carsten Niebuhrs Gade 43, 1577 Kbh. V.",
+    "meta": {
+        "id": 13482799679167724705,
+        "url": "https://sparenergi.dk/wizard/close/sparenergi_electricity_consumption?destination=/privat/elforbrugsberegner%23module-7369",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:57:06.838227",
+        "error": null,
+        "num_tokens_in": 239,
+        "num_tokens_out": 141,
+        "estimated_input_cost_gpt4": 0.00239,
+        "estimated_output_cost_gpt4": 0.00423,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

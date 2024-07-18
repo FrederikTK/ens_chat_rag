@@ -1,0 +1,15 @@
+{
+    "text": "Den tilgængelige information er en JavaScript-kode, der åbner en dialogboks med følgende indhold: \"Dine indtastninger vil ikke blive gemt.\" Dialogboksen har knapperne \"Afslut\" og \"Fortryd\", hvor \"Afslut\"-knappen leder brugeren til en specifik URL, og \"Fortryd\"-knappen lukker dialogboksen. Dialogboksen har også en titel: \"Er du sikker på, at du vil forlade Vores energiaftale?\". Disse oplysninger er en del af en energi-aftale-popup.",
+    "meta": {
+        "id": 11591655609461826633,
+        "url": "https://sparenergi.dk/our-energy-agreement/close?destination=/%23module-820",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:54:44.256235",
+        "error": null,
+        "num_tokens_in": 171,
+        "num_tokens_out": 139,
+        "estimated_input_cost_gpt4": 0.0017100000000000001,
+        "estimated_output_cost_gpt4": 0.00417,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

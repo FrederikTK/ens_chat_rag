@@ -1,0 +1,15 @@
+{
+    "text": "Energimærkning af opvaskemaskiner er et vigtigt redskab for forbrugere til at vælge en opvaskemaskine med lavt elforbrug. Energimærket viser, hvor meget strøm en opvaskemaskine bruger per 100 opvaske, kapaciteten og støjniveauet. Det anbefales at gå efter en maskine med energimærke B eller C, da disse har lavere årligt energiforbrug sammenlignet med maskiner med lavere mærkning som A+. Totaløkonomien bør overvejes før køb, hvilket inkluderer både købspris og driftsomkostninger i hele maskinens levetid. Energimærket viser også vandforbrug, varighed af ECO-program, antal kuverter og støjniveau. Energimærkningen kontrolleres af Sikkerhedsstyrelsen for at sikre overholdelse af energikrav. Der findes også andre miljømærker som Blomsten og Svanen, der garanterer produktets energieffektivitet og miljøvenlighed. Energimærkning af opvaskemaskiner er obligatorisk og vigtig for at træffe en informeret beslutning om køb af en energieffektiv opvaskemaskine.",
+    "meta": {
+        "id": 11770085583146787155,
+        "url": "https://sparenergi.dk/forbruger/el/madlavning/energimaerkning-af-opvaskemaskiner",
+        "title": "Energimærkning af opvaskemaskiner | Energistyrelsen",
+        "time_requested": "2024-04-16T11:50:02.769571",
+        "error": null,
+        "num_tokens_in": 1594,
+        "num_tokens_out": 323,
+        "estimated_input_cost_gpt4": 0.015940000000000003,
+        "estimated_output_cost_gpt4": 0.00969,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens SparEnergi-kampagne oplyser om muligheden for at spare op til 1000 kr. årligt ved at reducere standbyforbruget. Standbyforbrug er den strøm, apparater bruger på at være klar til brug og kan minimeres ved at slukke på kontakten, trække stikket ud eller slå WiFi fra, især for smart-apparater. Smart-apparater, der er tilsluttet internettet hele tiden, har en højere standbyforbrug, f.eks. smart-tv, elpærer, robotstøvsuger, og kan koste op til 470 kr. årligt pr. husstand. Der gives råd om smart styring for at reducere standbyforbruget, herunder brug af smartstyrede stikkontakter, intelligente LED-pærer og termostater. Der oplyses også om standbyforbruget for forskellige smarte apparater og hvordan man kan optimere brugen af dem for at spare energi. Siden giver også tips om energivaner, lysstyring, vask og rengøring, elektronik, køkkenapparater, varme og varmt vand samt andre generelle råd om energibesparelse. Få gratis rådgivning og flere oplysninger på Energistyrelsens SparEnergi-kampagnes hjemmeside.",
+    "meta": {
+        "id": 590528275790947301,
+        "url": "https://sparenergi.dk/privat/sluk-det-skjulte-stroemforbrug",
+        "title": "Spar op mod 1000 kr. om året ved at minimere standbyforbruget.",
+        "time_requested": "2024-04-16T11:58:08.824880",
+        "error": null,
+        "num_tokens_in": 2207,
+        "num_tokens_out": 328,
+        "estimated_input_cost_gpt4": 0.022070000000000003,
+        "estimated_output_cost_gpt4": 0.00984,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

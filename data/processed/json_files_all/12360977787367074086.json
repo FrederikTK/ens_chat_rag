@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder nøgletal for energiforbrug til handels- og servicevirksomheder, som generelt har oplevet stigende energiforbrug. Virksomheder, der er i tvivl om deres energiforbrug er højere end gennemsnittet, kan bruge nøgletalsberegneren til at sammenligne deres forbrug med andre virksomheder inden for samme branche. Hvis energiforbruget ligger over gennemsnittet, anbefales det at undersøge sammen med en rådgiver, hvor forbruget stammer fra, og om der kan gøres noget for at nedbringe det. Det er vigtigt at bemærke, at beregneren er senest opdateret i 2017. Energistyrelsen oplyser desuden, at man kan tilmelde sig nyhedsmailen for at modtage relevante nyheder og informationer til erhvervsvirksomheder.",
+    "meta": {
+        "id": 12360977787367074086,
+        "url": "https://sparenergi.dk/erhverv/handel-og-service/noegletal-energiforbrug",
+        "title": "Nøgletal for energiforbrug | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:34.449479",
+        "error": null,
+        "num_tokens_in": 1228,
+        "num_tokens_out": 242,
+        "estimated_input_cost_gpt4": 0.012280000000000001,
+        "estimated_output_cost_gpt4": 0.00726,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

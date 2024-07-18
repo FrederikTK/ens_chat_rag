@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om energimærkning af tørretumblere for forbrugere. Energimærkningen viser energieffektiviteten af tørretumbleren på en skala fra A+++ til D og oplyser om årligt energiforbrug, tørretid, støjniveau og kondenseringseffektivitet for kondenstumblere. De bedste tørretumblere har energimærke A+++ og har indbygget varmepumpe for øget energieffektivitet. Information om elforbrug i kWh/år og eksempler på energimærker og omkostninger pr. tørring i kroner præsenteres i en tabel for tørretumblere med kapacitet på 7 kg og 8 kg. Der gives også råd om at vælge energimærke C eller bedre for kombinerede vaske-/tørremaskiner, samt anbefaling om at undersøge totaløkonomien med online værktøjet 'Hele prisen' for at vurdere omkostninger i apparatets levetid. Sikkerhedsstyrelsen fører kontroller af energimærkningen for at sikre overholdelse af kravene. Energimærkningsordningen gælder for hårde hvidevarer, elpærer, lamper, tv, klimaanlæg og varmeanlæg.",
+    "meta": {
+        "id": 3002367705960214539,
+        "url": "https://sparenergi.dk/forbruger/el/vask-og-rengoering/toerretumblere/koeb-af-toerretumblere/energimaerkning-af",
+        "title": "Energimærkning af tørretumblere | Energistyrelsen",
+        "time_requested": "2024-04-16T11:50:25.997374",
+        "error": null,
+        "num_tokens_in": 1935,
+        "num_tokens_out": 343,
+        "estimated_input_cost_gpt4": 0.019350000000000003,
+        "estimated_output_cost_gpt4": 0.01029,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

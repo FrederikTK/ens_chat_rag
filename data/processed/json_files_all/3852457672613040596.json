@@ -1,0 +1,15 @@
+{
+    "text": "Resumé: \nArtiklen omhandler kravene til gulvkonstruktionen i forhold til Bygningsreglementet ved renovering eller udskiftning af gulvet. Hvis hele gulvkonstruktionen udskiftes, skal den nye konstruktion isoleres i henhold til reglementet. Der gives krav til U-værdi afhængigt af rummets temperaturforskelle og konstruktionen under gulvet. Bygningsreglementet kræver også efterisolering under vedligeholdelse eller renovering af gulvet. Der gives konkrete eksempler og vejledning til, hvornår efterisolering er påkrævet, og hvilke isoleringstykkelser der anbefales. Der opfordres til at bruge fagfolk for at sikre korrekt udførelse og undgå skader som råd og svamp. Der redegøres detaljeret for kravene og anbefalinger til forskellige typer af gulve som bjælkelag, betondæk, krybekælder og terrændæk. Der gives også information om energikrav og krav til andre bygningsdele, der skal udskiftes eller renoveres.",
+    "meta": {
+        "id": 3852457672613040596,
+        "url": "https://old.sparenergi.dk/forbruger/boligen/bygningsreglementets-energikrav/renovering-gulv",
+        "title": "Renovering gulv | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:19.630724",
+        "error": null,
+        "num_tokens_in": 2624,
+        "num_tokens_out": 289,
+        "estimated_input_cost_gpt4": 0.026240000000000003,
+        "estimated_output_cost_gpt4": 0.00867,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

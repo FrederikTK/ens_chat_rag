@@ -1,0 +1,15 @@
+{
+    "text": "Den tilgængelige information indeholder indstillinger for en hjemmesides sti, tema, CSS-billeder og skrifttyper, samt specifikke endpoints og typer feedback i forbindelse med en konkurrencefunktion kaldet \"raffle\". Derudover nævnes der noget om adgang til en side, som brugeren ikke har. Det virker til, at der er nogle ændringer i indstillingerne på hjemmesiden, som brugeren ikke har tilladelse til at foretage.",
+    "meta": {
+        "id": 5662316671044979222,
+        "url": "https://sparenergi.dk/forbruger/findfirma/button_c",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:57:31.720197",
+        "error": null,
+        "num_tokens_in": 212,
+        "num_tokens_out": 122,
+        "estimated_input_cost_gpt4": 0.0021200000000000004,
+        "estimated_output_cost_gpt4": 0.00366,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

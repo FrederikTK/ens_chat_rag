@@ -1,0 +1,15 @@
+{
+    "text": "En boligforening i Svinninge under Vestsjællands Almene Boligselskab har implementeret kollektiv jordvarme i stedet for elvarme. Dette skift har resulteret i en 70% reduktion af varmeomkostningerne for beboerne i 20 almene boliger. Käte Hansen, formand for boligforeningen, ledte initiativet til skiftet i 2011, hvor jordvarme blev valgt som den mest energibesparende løsning. Efter installationen af jordvarmesystemet blev der ikke oplevet ekstraregninger, og beboerne betaler et fast acontobeløb til energiudgifterne.\n\nInstallationen af jordvarmesystemet involverede føring af varmerør til hvert hus, udskiftning af elradiatorer med nye, tilslutning til et centralt varmeanlæg og nedgravning af slanger til jordvarmen på et fællesareal. Processen var hurtig og effektiv for beboerne, og besparelserne har været betydelige både økonomisk og i indeklimaforbedringer. Trods en stigning i huslejen pga. et lån til varmepumpen, har beboerne nedbragt deres varmeudgifter og oplever en årlig besparelse på cirka 400 kr. Käte anbefaler andre bestyrelser at sætte kollektiv jordvarme på dagsordenen, inddrage boligselskabet, få ekstern rådgivning og sikre klar kommunikation til beboerne.\n\nDet kollektive jordvarmesystem i boligforeningen i Svinninge har været en succes med markante besparelser og forbedret indeklima, hvilket har tilfredsstillet beboerne og reduceret energiomkostningerne.",
+    "meta": {
+        "id": 1571362696161705307,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/casebank/fra-elvarme-til-kollektiv-jordvarme",
+        "title": "Fra elvarme til kollektiv jordvarme",
+        "time_requested": "2024-04-16T11:58:00.965777",
+        "error": null,
+        "num_tokens_in": 1506,
+        "num_tokens_out": 460,
+        "estimated_input_cost_gpt4": 0.01506,
+        "estimated_output_cost_gpt4": 0.0138,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

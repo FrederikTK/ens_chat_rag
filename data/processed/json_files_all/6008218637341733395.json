@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information og rådgivning om hvordan man kan spare energi i sit hus. De påpeger, at prisen på el og varme er steget markant, og at man selv kan gøre en forskel ved at reducere sit energiforbrug, hvilket både vil gavne ens økonomi og miljøet. Der findes flere råd og muligheder for at minimere både varme- og elforbruget, herunder at benytte økonomisk støtteordninger og udnytte billig strøm. På længere sigt anbefales det at renovere huset med fokus på energiforbruget, eksempelvis ved at isolere loft, ydervægge og vinduer eller ved at opgradere opvarmningen til fjernvarme eller varmepumpe. Energistyrelsen opfordrer til at gå varmeanlæg og installationer efter i sømmene og tilbyder økonomisk støtte til forbedringer af boligen gennem bl.a. Bygningspuljen. De tilbyder også en guide til prioritering af energiforbedringer og muligheden for at få gratis rådgivning af erfarne energirådgivere på området. Energistyrelsen opfordrer til at kontakte dem for at få mere information og hjælp til at reducere ener giforbruget.",
+    "meta": {
+        "id": 6008218637341733395,
+        "url": "https://www.sparenergi.dk/forbruger/spar-energi-i-dit-hus",
+        "title": "Spar energi i dit hus | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:02.002105",
+        "error": null,
+        "num_tokens_in": 2672,
+        "num_tokens_out": 334,
+        "estimated_input_cost_gpt4": 0.02672,
+        "estimated_output_cost_gpt4": 0.01002,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

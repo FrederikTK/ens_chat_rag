@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om energimærkning af bygninger til forbrugere, offentlige institutioner og virksomheder gennem deres hjemmeside. På hjemmesiden kan man finde vejledning om bygningsreglementets energikrav, tilskud til energibesparelser, isolering, vinduer, ventilation, varmestyring, energimærkning af varmeanlæg og apparater samt andre energirelaterede emner. Der er også adgang til listsøgning efter energiløsninger og energy cases, hvor boligejere deler deres erfaringer med energiforbedringer af deres boliger, såsom installation af solceller, jordvarme, isolering af tag og vægge samt skift til varmepumper. Energistyrelsen tilbyder også information om energimærkning, renovering af bygninger, ESCO, energirådgivning, opvarmning og køling, belysning, IT og elektronik inden for offentlige og erhvervsmæssige bygninger. Energistyrelsen har en Casebank, hvor man kan finde eksempler på energiforbedringer i forskellige hustyper og geografiske områder i Danmark. Man kan også downloade en guide til udarbejdelse af cases. Energistyrelsen oplyser om forskellige energiløsninger, fordele ved energiforbedringer, bygningstyper og kommuner. Energistyrelsen oplyser desuden om deres kontaktoplysninger, partnerorganisationer og beskyttelse af persondata ved tilmelding til deres nyhedsmail.",
+    "meta": {
+        "id": 4437030360689868087,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/casebank",
+        "title": "Casebank | Energistyrelsen",
+        "time_requested": "2024-04-16T11:57:43.851998",
+        "error": null,
+        "num_tokens_in": 1647,
+        "num_tokens_out": 396,
+        "estimated_input_cost_gpt4": 0.016470000000000002,
+        "estimated_output_cost_gpt4": 0.01188,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

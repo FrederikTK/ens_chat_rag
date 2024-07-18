@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside SparEnergi.dk har en artikel om myter om energiforbrug. Artiklen beskriver en række udbredte myter om energibesparelse og indeholder råd og fakta fra eksperter for at afklare disse myter. Nogle af de behandlede emner inkluderer: \n\n1. Om det er klogt at spare på energien når priserne stiger og hvor man skal spare rigtigt.\n2. Om man kan spare penge ved at bruge stearinlys i stedet for lamper.\n3. Om opladere bruger strøm 24/7.\n4. Om det kan betale sig at koge vand i en elkedel.\n5. Om man kan spare ved at skrue ned for varmen eller slukke radiatorer, når man lufter ud.\n6. Om man kan spare penge ved alternativ opvarmning.\n7. Om det er nødvendigt at lade ventilationsanlægget køre hele tiden.\n8. Om det er sundt at opvarme med stearinlys under en urtepotte.\n9. Om det kan betale sig at få en varmepumpe i et dårligt isoleret hus.\n10. Om man kan tø madvarer op i køleskabet for at spare energi.\n11. Om man sparer penge ved at vaske op i hånden i stedet for at bruge en opvaskemaskine.\n12. Om det er billigere at bruge stearinlys i stedet for elpærer.\n \nArtiklen nævner også råd om vask og rengøring, køl og frys, streaming og elektronik, varme og varmt vand, køkken og madlavning, samt andre energirelaterede emner. Eksperterne adresserer også nogle fælles misforståelser om energiforbrug i hjemmet og giver vejledning om, hvordan man bedst kan optimere sit energiforbrug.",
+    "meta": {
+        "id": 14298746627424718728,
+        "url": "https://sparenergi.dk/myter-om-energiforbrug",
+        "title": "Myter om energiforbrug | Energistyrelsen",
+        "time_requested": "2024-04-16T11:52:18.907262",
+        "error": null,
+        "num_tokens_in": 7189,
+        "num_tokens_out": 475,
+        "estimated_input_cost_gpt4": 0.07189000000000001,
+        "estimated_output_cost_gpt4": 0.01425,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen informerer om energiforbruget ved brug af spillekonsoller, som har et højt energiforbrug og ofte også bruges til streaming. Det anbefales at bruge streamingenheder som Chromecast eller Apple TV i stedet for PlayStation eller Xbox, da det kan spare op til 95% af elforbruget. Spillekonsoller bruger mere strøm end almindelige computere, selvom de bruges til samme formål. Der gives gode råd om at slukke konsollen på kontakten for at undgå standbyforbrug, kun bruge den til spil og bruge streamingenheder til at se tv, da de bruger mindre strøm. Informationen indeholder også en beregning af omkostningerne ved elforbrug til underholdning samt øvrige gode råd. Energistyrelsen opdaterede siden 30.01.2023, og kontaktoplysningerne er angivet.",
+    "meta": {
+        "id": 12950019500892833719,
+        "url": "https://sparenergi.dk/forbruger/el/it-og-elektronik/anden-elektronik/spillekonsoller",
+        "title": "Spillekonsoller | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:10.359116",
+        "error": null,
+        "num_tokens_in": 1218,
+        "num_tokens_out": 227,
+        "estimated_input_cost_gpt4": 0.012180000000000002,
+        "estimated_output_cost_gpt4": 0.00681,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

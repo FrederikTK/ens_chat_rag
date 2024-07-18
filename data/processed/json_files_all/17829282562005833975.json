@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har udgivet information om, hvordan man kan spare energi på køl og frys. Danskerne bruger i gennemsnit ca. 1/5 af deres strøm på køl og frys, og der er derfor mange penge at spare ved at optimere energiforbruget. Nogle gode energivaner inkluderer at holde temperaturen i køleskabet på 5 °C og -18 °C i fryseren, lukke døren hurtigt, optø mad i køleskabet, køle varme madvarer af inden nedkøling, afrime fryseren regelmæssigt og tjekke tætningslisterne. Det anbefales også at placere fryseren i et køligt rum, give plads til ventilation, støve af på kondensator-rørene og skifte slidte tætningslister. Hvis hvidevarer går i stykker, kan det betale sig at reparere dem, da det både skåner klimaet og miljøet. Ved køb af nye køle- og fryseapparater anbefales det at vælge modeller med et godt energimærke (D eller bedre for køleskabe og fryseskabe, C eller bedre for køle-/fryseskabe, E eller bedre for kummefrysere) og at vælge separat køleskab og fryser. Det nævnes også, at totaløkonomien bør tages med i betragtning ved køb, og at man ikke bør slukke fryseren for at spare energi. Hvis hvidevarer skal skrottes, bør de afleveres korrekt for at undgå forurening. Energistyrelsen giver også råd om energibesparelse i forhold til andre apparater og enheder i hjemmet såsom lys, vaskemaskiner, opvaskemaskiner, ovne, komfurer, fjernvarme, varmepumper og meget mere. Samlet set er formålet med informationen at inspirere og vejlede borgere i at optimere deres energiforbrug i hverdagen.",
+    "meta": {
+        "id": 17829282562005833975,
+        "url": "https://sparenergi.dk/privat/spar-energi-i-hverdagen/spar-energi-paa-koel-og-frys",
+        "title": "Spar energi på køl og frys",
+        "time_requested": "2024-04-16T11:53:37.732485",
+        "error": null,
+        "num_tokens_in": 2814,
+        "num_tokens_out": 507,
+        "estimated_input_cost_gpt4": 0.028140000000000002,
+        "estimated_output_cost_gpt4": 0.01521,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

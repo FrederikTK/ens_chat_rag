@@ -1,0 +1,15 @@
+{
+    "text": "Informationen handler om produktion af vindenergi i Danmark og hvordan forbrugere kan støtte vindenergi gennem køb af husstandsmøller eller ved at vælge grøn strøm fra elselskaber. Der nævnes, at næsten halvdelen af den danske elforsyning kommer fra vindmøller, og at Danmark har gode betingelser for vindenergi. Der gives også råd om at investere i en husstandsvindmølle, herunder vigtigheden af at vælge en mølle der passer til ens forbrug, tjekke lokale regler og tage højde for støjgener og skyggekast. Yderligere oplysninger om øjebliksafregning, regler for opstilling af husstandsmøller og krav til vindmøllernes effekt og størrelse gives også. Energistyrelsen opfordrer forbrugere til at besøge ens.dk for mere information.",
+    "meta": {
+        "id": 12082239829777305785,
+        "url": "https://old.sparenergi.dk/forbruger/el/vindmoeller",
+        "title": "Vindmøller | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:04.879562",
+        "error": null,
+        "num_tokens_in": 1828,
+        "num_tokens_out": 229,
+        "estimated_input_cost_gpt4": 0.01828,
+        "estimated_output_cost_gpt4": 0.00687,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energiledelse i kommuner er en systematisk tilgang til at spare energi og dermed reducere driftsudgifter og CO2-udledninger. Databaseret energiledelse giver kommunerne mulighed for at få overblik over energiforbrug i bygninger, identificere unødvendigt forbrug og prioritere energibesparende tiltag. Energiledelse kræver data om el- og varmeforbrug, politisk opbakning og den rette rollefordeling. Energistyrelsen har udarbejdet anbefalinger sammen med KL og Transition om databaseret energiledelse til kommunerne. Der findes skabeloner og vejledninger, herunder en energihandlingsplan, til at hjælpe kommunerne med at komme godt i gang med energiledelse.\n\nØkonomiske virkemidler som ESCO-finansiering, incitamentmodeller samt indarbejdelse af totalomkostninger og energikrav i indkøbspolitikken kan sikre succes med energiledelse i kommunerne. ESCO-modellen finansierer energirenoveringer gennem energibesparelser, incitamentmodeller motiverer decentralt og deling af pengene kan styrke ejerskabet til energibesparelser. Indkøbspolitikken bør fokusere på totalomkostninger og energieffektive produkter for at optimere besparelser.\n\nKommunerne har adgang til værktøjer, vejledninger og råd om energieffektivisering inden for forskellige områder som IT-udstyr, hvidevarer, belysning, ventilation og cirkulationspumper. Energistyrelsen tilbyder også nyhedsbreve til vidensdeling og inspiration til energitiltag. Energiledelse kan være en vigtig del af kommunernes arbejde med CO2-mål og klimaplaner, og Energistyrelsen støtter kommunerne i implementeringen af energiledelse gennem information, værktøjer og rådgivning.",
+    "meta": {
+        "id": 11819025037735928510,
+        "url": "https://sparenergi.dk/offentlig/kommuner/energiledelse-egne-bygninger",
+        "title": "Energiledelse egne bygninger | Energistyrelsen",
+        "time_requested": "2024-04-16T11:57:27.344481",
+        "error": null,
+        "num_tokens_in": 1761,
+        "num_tokens_out": 497,
+        "estimated_input_cost_gpt4": 0.01761,
+        "estimated_output_cost_gpt4": 0.01491,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

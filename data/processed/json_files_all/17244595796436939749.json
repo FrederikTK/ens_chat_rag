@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om energimærkning af varmtvandsbeholdere for forbrugere. Energimærkningen hjælper forbrugere med at vælge den mest energieffektive varmtvandsbeholder. En varmtvandsbeholder bruges til opbevaring af varmt vand og er en del af husets varmeanlæg. Energimærket viser energiklassen for varmtvandsbeholderen, størrelsen i liter og stilstandsforbruget i watt. Det anbefales at vælge en varmtvandsbeholder med energiklasse A eller B. Besparelsen ved at udskifte varmtvandsbeholderen afhænger af, om opvarmningsformen også ændres, beholderens størrelse og den eksisterende varmetype. Energimærkningsordningen er obligatorisk, og varmtvandsbeholdere op til 500 liter skal mærkes fra A+ til F, hvor A+ er mest energieffektiv. Sikkerhedsstyrelsen kontrollerer energimærkningen for at sikre, at mærkningen er korrekt, og at apparater opfylder kravene for den tildelte energiklasse. Energimærkningsordningen omfatter også andre produkter som hårde hvidevarer, elpærer, varmeanlæg, tv og klimaanlæg.",
+    "meta": {
+        "id": 17244595796436939749,
+        "url": "https://sparenergi.dk/forbruger/varme/varmt-vand/energimaerkning-af-varmtvandsbeholdere",
+        "title": "Energimærkning af varmtvandsbeholdere | Energistyrelsen",
+        "time_requested": "2024-04-16T11:58:04.423425",
+        "error": null,
+        "num_tokens_in": 1448,
+        "num_tokens_out": 338,
+        "estimated_input_cost_gpt4": 0.014480000000000002,
+        "estimated_output_cost_gpt4": 0.01014,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

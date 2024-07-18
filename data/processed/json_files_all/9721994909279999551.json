@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen fra SparEnergi.dk handler om, hvordan man kan få styr på sin cirkulationspumpe for at spare energi. Cirkulationspumpen er kendt for at være en skjult strømsluger i hjemmet, da den kan være ansvarlig for op til 10 % af det samlede elforbrug. Artiklen forklarer, hvordan man kan tjekke sin cirkulationspumpe, finde den, indstille tidsstyringen, beregne besparelser ved udskiftning, hvornår man bør skifte pumpen, om den er overflødig, og om man bør slukke den om sommeren. Derudover gives der også information om de forskellige producenter af cirkulationspumper, hvordan man indstiller tidsstyring, hvad man kan spare ved at skifte pumpe, hvordan man vælger en ny pumpe, og hvordan man kan teste om pumpen er overflødig i boligen. Desuden oplyses der om, hvorfor det er en god idé at slukke pumpen om sommeren for at spare energi.",
+    "meta": {
+        "id": 9721994909279999551,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/goer-det-selv-guides/cirkulationspumpe",
+        "title": "Cirkulationspumpe | Energistyrelsen",
+        "time_requested": "2024-04-16T11:49:38.764239",
+        "error": null,
+        "num_tokens_in": 2483,
+        "num_tokens_out": 264,
+        "estimated_input_cost_gpt4": 0.02483,
+        "estimated_output_cost_gpt4": 0.00792,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en portal kaldet SparEnergi, hvor man kan få adgang til kommunernes energi- og CO2-regnskaber. Man kan vælge mellem alle kommuner i Danmark og se nøgletal for forskellige områder såsom samlet CO2-udledning, energiforbrug, transport, landbrug, affaldsdeponering og meget mere. Data er tilgængelig for årene 2018, 2019, 2020 og 2021. Der arbejdes på at gøre det muligt at sammenligne data helt tilbage til 2010.\n\nMan kan se oplysninger om samlet CO2-udledning, energiforbrug, VE-andel og meget mere for de forskellige kommuner og regioner. Der er også materialer og information tilgængelige om Energi- og CO2-regnskabet, herunder notater om metodeændringer, metodenotater for regnskaberne, FAQ og andre relevante oplysninger.\n\nSparEnergi er en ressource, der giver inspiration, viden og råd om energibesparelser. Portalen tilbyder gratis rådgivning og mulighed for at tilmelde sig nyhedsbrev. Energistyrelsen oplyser, at man kan kontakte dem via deres adresse på Carsten Niebuhrs Gade i København eller besøge deres hjemmeside www.ens.dk for mere information.",
+    "meta": {
+        "id": 13216407362890111834,
+        "url": "https://sparenergi.dk/energi-og-co2-regnskabet",
+        "title": "Site under opdatering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:51:49.143723",
+        "error": null,
+        "num_tokens_in": 1728,
+        "num_tokens_out": 342,
+        "estimated_input_cost_gpt4": 0.01728,
+        "estimated_output_cost_gpt4": 0.01026,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

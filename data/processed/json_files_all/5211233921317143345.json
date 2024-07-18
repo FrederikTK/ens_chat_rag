@@ -1,0 +1,15 @@
+{
+    "text": "På SparEnergis hjemmeside er der en kedelberegner, som virksomheder kan benytte for at beregne, hvor meget tilskud de kan få til udskiftning af varmekilder. Virksomheder kan få tilskud til at skifte brændselskedler, strålevarmere eller kalorifere ud med mere miljøvenlige varmekilder. Formålet med kedelberegneren er at hjælpe virksomheder med at skifte til grønnere og mere energieffektive løsninger. Hjemmesiden giver også generel inspiration, viden og råd til, hvordan man kan optimere energiforbruget. Man kan tilmelde sig et nyhedsbrev og følge SparEnergi på Facebook for at få opdateringer. Sidst opdateret information er fra den 5. marts 2024.",
+    "meta": {
+        "id": 5211233921317143345,
+        "url": "https://sparenergi.dk/smaa-kedler-beregner",
+        "title": "Små kedler beregner | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:33.945623",
+        "error": null,
+        "num_tokens_in": 351,
+        "num_tokens_out": 214,
+        "estimated_input_cost_gpt4": 0.00351,
+        "estimated_output_cost_gpt4": 0.00642,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

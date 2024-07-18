@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens elforbrugsregner kræver information om antallet af voksne, teenagere og børn i husstanden for at estimere det typiske elforbrug i en lignende husstand. Det kan bruges til at give en indikation af årligt elforbrug i kroner og kilowattimer.",
+    "meta": {
+        "id": 8088230713488561343,
+        "url": "https://sparenergi.dk/electricity-consumption?destination=/privat/elforbrugsberegner%23module-7369",
+        "title": "Elforbrugsregner | Energistyrelsen",
+        "time_requested": "2024-04-16T11:49:16.785795",
+        "error": null,
+        "num_tokens_in": 105,
+        "num_tokens_out": 77,
+        "estimated_input_cost_gpt4": 0.0010500000000000002,
+        "estimated_output_cost_gpt4": 0.00231,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

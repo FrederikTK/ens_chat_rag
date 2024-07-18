@@ -1,0 +1,15 @@
+{
+    "text": "Natrundering er en metode til at finde unødvendigt energiforbrug uden for arbejdstid i virksomheder. Processen indebærer at kortlægge energiforbruget om natten, især fokuseret på ventilation, belysning og it-systemer. Virksomheder, der opererer døgnet rundt, bør udføre natrunderinger, når aktiviteterne er pauset, f.eks. i ferieperioder. Natrundering kan afsløre områder, hvor unødvendig energi bruges, fx kan 40% af elforbruget i kontorbyggerier forekomme uden for arbejdstiden. Der kan opnås betydelige besparelser ved at identificere og reducere dette unødvendige forbrug.\n\nNatrunderinger kræver ikke nødvendigvis store investeringer, da små justeringer i adfærd eller apparatindstillinger ofte kan føre til betydelige energibesparelser. Eksempler på besparelser, der er opnået ved natrunderinger, inkluderer at slukke for skrivebordslampe, bærbar PC, skærm, stoppe et løbende toilet, indstille slikautomater og kaffeautomater til at slukke uden for arbejdstiden og reducere ventilationstimer.\n\nGennemførelsen af en natrundering kræver forberedelse, observation og opfølgende handlinger. En enkel natrundering indebærer at identificere tændte apparater nachregistrere dem. En dybdegående natrundering indebærer desuden at måle energiforbruget i løbet af et døgn, gennemgå hele bygningen for at identificere tændte apparater og apparater, der bruges unødvendigt, samt at kontrollere, om automatiske systemer fungerer korrekt og om medarbejderadfærd bidrager til unødvendigt forbrug.\n\nEfter en natrundering kan virksomheder implementere tiltag som at optimere automatik, justere indstillinger af apparater, indføre energibesparende vaner blandt medarbejdere og optimere styringssystemer. Ved at følge op på natrunderingens resultater kan virksomheder opnå markante energibesparelser og reducere deres miljømæssige fodaftryk.",
+    "meta": {
+        "id": 9955511856208991284,
+        "url": "https://sparenergi.dk/erhverv/vaerktojer/natrundering",
+        "title": "Natrundering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:59:43.042283",
+        "error": null,
+        "num_tokens_in": 5721,
+        "num_tokens_out": 602,
+        "estimated_input_cost_gpt4": 0.057210000000000004,
+        "estimated_output_cost_gpt4": 0.01806,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

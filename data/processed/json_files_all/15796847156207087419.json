@@ -1,0 +1,15 @@
+{
+    "text": "Resumé:\n- Indholdet på siden handler om fordelene ved at skifte til fjernvarme i boligen.\n- Fjernvarme bruger forskellige varmekilder, er billig og klimavenlig, kræver minimal vedligeholdelse og er en stabil, støjfri varmekilde.\n- Der er råd om at se om man kan få fjernvarme, hvorfor fjernvarme er en god idé, hvordan installationen foregår, regler og krav, og hvilke forholdsregler der skal tages ved skiftet.\n- Der er også information om at meld fjernvarmen til Bygnings- og Boligregistret, indstille anlægget korrekt og få det tjekket regelmæssigt.\n- Der gives desuden råd om hvornår det er bedst at skifte til fjernvarme og at være opmærksom på nødvendigheden af vandrør og radiatorer ved skiftet.\n- Endelig gives der også information om at finde en virksomhed til installation af fjernvarme, inspiration til boligrenovering og andre energibesparende tiltag.\n- Slutningen af siden indeholder en oversigt over forskellige varmekilder og energibesparende tiltag samt kontaktoplysninger til Energistyrelsen.",
+    "meta": {
+        "id": 15796847156207087419,
+        "url": "https://sparenergi.dk/forbruger/varme/fjernvarme",
+        "title": "Fjernvarme | Energistyrelsen",
+        "time_requested": "2024-04-16T11:47:56.337103",
+        "error": null,
+        "num_tokens_in": 2394,
+        "num_tokens_out": 308,
+        "estimated_input_cost_gpt4": 0.023940000000000003,
+        "estimated_output_cost_gpt4": 0.00924,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

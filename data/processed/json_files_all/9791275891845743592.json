@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside indeholder oplysninger om køb og installation af varmepumper. De 3 mest udbredte typer af varmepumper er luft til vand-varmepumpe, jordvarme og luft til luft-varmepumpe. Prisen for en varmepumpe afhænger af størrelse og type, hvor en luft til vand-varmepumpe typisk koster 90.000 - 120.000 kr. inkl. installation. Der gives tilskud på 13-30.000 kr. til luft til vand- og jordvarmepumper, hvis du skifter fra naturgas, oliefyr, elvarme eller biokedel i helårsboliger uden for fjernvarmeområder. Det anbefales at vælge en VE-godkendt installatør og indhente flere tilbud. Energimærket bør være A++ eller A+++ for luft til vand- og jordvarmepumper, A++ for luft til luft-varmepumper, og A eller A+ for brugsvandsvarmepumper. Det er vigtigt at sikre den korrekte størrelse og placering af varmepumpen. Vedligeholdelse kræver årligt eftersyn af en montør. Klagemuligheder er hos Ankenævnet for Tekniske Installationer og Forbrugerklagenævnet.",
+    "meta": {
+        "id": 9791275891845743592,
+        "url": "https://old.sparenergi.dk/forbruger/varme/varmepumper/kob-af-varmepumpe",
+        "title": "Køb af varmepumpe | Energistyrelsen",
+        "time_requested": "2024-04-16T11:53:22.297386",
+        "error": null,
+        "num_tokens_in": 2477,
+        "num_tokens_out": 337,
+        "estimated_input_cost_gpt4": 0.02477,
+        "estimated_output_cost_gpt4": 0.010110000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

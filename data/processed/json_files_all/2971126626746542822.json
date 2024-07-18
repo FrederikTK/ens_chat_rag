@@ -1,0 +1,15 @@
+{
+    "text": "\"Find dit energimærke\" er et værktøj fra Energistyrelsen, der viser, hvilket energimærke din bolig har i dag og hvilket mærke den kan opnå. Du kan se forslag til forbedringer, hvor nogle er rentable investeringer, mens andre kan være fornuftige i forbindelse med renovering. Værktøjet viser også detaljer om boligen, beregnet potentielt energimærke og besparelser i forhold til forskellige forbedringer. Det er udført af certificerede energimærkningsvirksomheder, og hvis der er fejl i mærkningen, kan man henvende sig til den virksomhed, der har udarbejdet den. Energistyrelsen opdaterede siden sidst den 13.03.2019.",
+    "meta": {
+        "id": 2971126626746542822,
+        "url": "https://sparenergi.dk/forbruger/boligen/energimaerkning-boliger/om-find-dit-energimaerke",
+        "title": "Om \"Find dit energimærke\" | Energistyrelsen",
+        "time_requested": "2024-04-16T11:50:40.348916",
+        "error": null,
+        "num_tokens_in": 1750,
+        "num_tokens_out": 205,
+        "estimated_input_cost_gpt4": 0.0175,
+        "estimated_output_cost_gpt4": 0.00615,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energi- og CO2-regnskabet giver et overblik over nøgletal på tværs af kommuner og regioner i Danmark. Brugere kan filtrere data efter område, type og år for at se information om samlet CO2-udledning, samlet energiforbrug, VE-andel i fjernvarmen og andre relevante informationer. Data og resultater for 2018, 2019, 2020 og 2021 er ikke sammenlignelige med tidligere år grundet større og mere detaljeret datagrundlag. Der arbejdes på at gøre det muligt at sammenligne data helt tilbage til 2010. Der er også tilgængelige materialer såsom notater, metodenotater og FAQ om regnskabets metoder og datakilder. SparEnergi tilbyder gratis rådgivning og information for at hjælpe med at optimere energiforbruget i private, erhverv og offentlige sektorer. Energistyrelsen står bag initiativet, og brugerne kan finde yderligere information på SparEnergi.dk.",
+    "meta": {
+        "id": 13213946497819761412,
+        "url": "https://sparenergi.dk/co2beregner-management/input",
+        "title": "Input data | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:42.127562",
+        "error": null,
+        "num_tokens_in": 1728,
+        "num_tokens_out": 261,
+        "estimated_input_cost_gpt4": 0.01728,
+        "estimated_output_cost_gpt4": 0.00783,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

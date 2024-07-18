@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen oplyser om, hvordan man kan udnytte billigere strøm ved at flytte sit energiforbrug til tidspunkter, hvor prisen er lavere. Der opfordres til at benytte strømmen på billigere tidspunkter af døgnet, specielt når afgiften for transport af strøm er lav. Priserne varierer i løbet af døgnet med højest priser fra kl. 17-21, billigere priser om natten og i vinterhalvåret. Man kan spare penge ved at have variabel timepris, hvor elprisen ændrer sig fra time til time. Der er også tips til at flytte energiforbrug som fx at køre opvaskemaskine om natten, lave mad tidligere på dagen og slukke for varmen i dyrere timer. Myter omkring bl.a. udsat start af vaskemaskine bliver også debunket. Artiklen forklarer desuden opbygningen af elforbrugsprisen inklusive afgifter og viser et eksempel på pris sammensætning. En case studie viser et par, der har sparet 40% på deres elregning ved at flytte deres energiforbrug. Der gives også en guide til at forstå elregningen med forklaring af posterne og hvad de dækker. Afslutningsvis opfordres man til at skifte elselskab for at spare penge og være mere miljøvenlig samt gives gode råd til energioptimering i husstanden.",
+    "meta": {
+        "id": 2753049755671083192,
+        "url": "https://sparenergi.dk/spar-energi-i-hverdagen/brug-stroemmen-naar-den-er-billigst",
+        "title": "Variable elpriser | SparEnergi.dk",
+        "time_requested": "2024-04-16T11:50:55.051937",
+        "error": null,
+        "num_tokens_in": 3458,
+        "num_tokens_out": 377,
+        "estimated_input_cost_gpt4": 0.03458,
+        "estimated_output_cost_gpt4": 0.01131,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

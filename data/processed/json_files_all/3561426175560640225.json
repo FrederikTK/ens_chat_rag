@@ -1,0 +1,15 @@
+{
+    "text": "Landhuset beskrives som en typisk boligform opført mellem 1850-1920, med energimærket F-G. Oprindeligt havde landhusene lavt til loftet og bondehusvinduer, mens de senere blev større med højere lofter og muligvis en 1. sal. Renoveringstiltag i landhuset kan omfatte isolering af loft, ydervægge og udskiftning eller forbedring af vinduer. Når boligen er tæt og varmen holdes inde, kan man kigge på opvarmningsform og varmesystem samt energivaner for at reducere energiforbruget. Anbefalinger inkluderer isolering af varmerør, installation af solcelleanlæg og udskiftning af cirkulationspumper. Det anbefales at have en rådgiver på større renoveringsprojekter, samt at søge tilskud til energivenlige renoveringer. Generelle råd inkluderer konkretisering af renoveringsprojekt, overvejelse af lovgivning og tilladelser, indhentning af tilbud, gennemførelse af projektet og løbende drift og vedligeholdelse. Energimærket for landhuse ligger typisk i kategorien F-G, hvilket kan forbedres til C med energirenoveringer. Landhuset beskrives med murede ydervægge, sadeltag med hældning, bondehusvinduer og tidligere opvarmning med kakkelovne eller brændeovne. Energiråd inkluderer også fokus på indeklima, sikkerhed, tilgængelighed og klimasikring. Anbefalingen er at inddrage en arkitekt ved større renoveringer for at bevare stil og få støtte under processen.",
+    "meta": {
+        "id": 3561426175560640225,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/bygningsguiden/landhus",
+        "title": "Landhus | Energistyrelsen",
+        "time_requested": "2024-04-16T11:58:00.427872",
+        "error": null,
+        "num_tokens_in": 8250,
+        "num_tokens_out": 448,
+        "estimated_input_cost_gpt4": 0.0825,
+        "estimated_output_cost_gpt4": 0.01344,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

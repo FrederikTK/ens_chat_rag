@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside \"SparEnergi\" tilbyder en række gode råd og tips til energibesparelse i hverdagen. Hjemmesiden opfordrer til små ændringer i vaner og adfærd for at spare penge på strøm og varme samtidig med at hjælpe miljøet. Nogle konkrete råd inkluderer brugen af mikroovn eller airfryer i stedet for ovn for at spare op til 70% i elforbrug, at tage kortere bade for at spare vand og penge, og at skrue lige højt op på radiatorer og slukke for vandet under indsmøring i badet for at mindske forbruget. Der opfordres også til at slukke unødigt strømforbrug, f.eks. lyset i tomme rum og apparater på standby.\n\nDerudover informerer hjemmesiden om, at strømmen er billigere på visse tidspunkter af døgnet, og at det kan være en fordel at bruge strømmen på disse tidspunkter. Det nævnes også, at der findes en \"Strømpyramide\" for at identificere apparater, der bruger mest strøm derhjemme, så man kan fokusere på at spare der, hvor det betyder mest. Hjemmesiden tilbyder også diverse værktøjer såsom en \"elprisberegner\" baseret på din adresse, samt et værktøj til at se dit elforbrug i forhold til andre husholdninger.\n\nDerudover opfordres brugerne til at indgå personlige sparemål og lave aftaler med sig selv eller familien for at hjælpe med at reducere energiforbruget. Hjemmesiden tilbyder også information om energimærkning, aktuelle tilskudsordninger, renovering af boligen og valg af varmekilder. Generelt er formålet med hjemmesiden at inspirere, informere og give råd om, hvordan man kan få mest ud af energien og samtidig reducere sit energiforbrug.",
+    "meta": {
+        "id": 11209967803043707258,
+        "url": "https://sparenergi.dk/elpriser",
+        "title": "Site under opdatering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:47:47.982875",
+        "error": null,
+        "num_tokens_in": 2477,
+        "num_tokens_out": 516,
+        "estimated_input_cost_gpt4": 0.02477,
+        "estimated_output_cost_gpt4": 0.01548,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Produktionsvirksomheden BEMA i Haderslev har skiftet 500 gamle lysarmaturer til LED, hvilket har resulteret i besparelser på bundlinjen og styrket virksomhedens grønne profil. Investeringen var på 400.000 kr, og med tilskud fra Erhvervspuljen på 46.800 kr forventes en årlig besparelse på 200.000 kr. Belysningsmoderniseringen har forbedret arbejdsforholdene for virksomhedens 65 ansatte samtidig med at energiforbruget er blevet reduceret. Besparelsen forventes at være 93.363 kWh om året, med en tilbagebetalingstid for investeringen på 2,5 år. Projektet har bidraget til en CO2-reduktion på 1,2 ton årligt og har også styrket virksomhedens grønne profil over for klimabevidste kunder, samtidig med at produktionshallernes maskinpark fremstår bedre med det nye lys.",
+    "meta": {
+        "id": 11234297445174817447,
+        "url": "https://sparenergi.dk/erhverv/vaerktojer/casebank/ny-belysning-far-bemas-kunder-til-skinne",
+        "title": "Ny belysning får BEMAs kunder til at skinne",
+        "time_requested": "2024-04-16T11:56:00.267238",
+        "error": null,
+        "num_tokens_in": 2075,
+        "num_tokens_out": 256,
+        "estimated_input_cost_gpt4": 0.02075,
+        "estimated_output_cost_gpt4": 0.00768,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

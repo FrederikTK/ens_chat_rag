@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen giver gode råd om drift af et gasfyr for at optimere dets ydeevne og spare penge på gasregningen. Her er nogle af rådene:\n\n1. **Tjek alderen:** Kedlen bør skiftes, hvis den er mere end 15 år gammel.\n2. **Tjek trykket:** Hvis vandtrykket er lavt, bør vandet på anlægget fyldes op.\n3. **Lyt til fyret:** Hvis fyret starter og stopper hyppigere end normalt, kan det indikere problemer.\n4. **Indstil automatikken:** Anlægget bør indstilles til automatisk styring efter tidspunkt og vejr.\n5. **Få regelmæssige tjek:** Gasfyret bør efterses hvert eller hvert andet år for at sikre god drift.\n6. **Reguler temperaturen:** Om efteråret og foråret kan fremløbstemperaturen reguleres for at spare energi.\n7. **Sommerluk varmeanlægget:** Anlægget kan sættes på sommerdrift, så det kun producerer varmt brugsvand. Cirkulationspumpen bør slukkes.\n8. **Forebyg ulykker med kulilte:** Regelmæssig vedligeholdelse kan mindske risikoen for kulilteudslip.\n9. **Andre råd inkluderer at spare på varmen til vand, regulere radiatorerne, og isolere huset.**\n\nArtiklen opfordrer også til at overveje at skifte fra naturgas til andre varmetyper som fjernvarme eller varmepumper. Målet er at optimere gasfyrets drift, spare energi og penge samt bidrage til et bedre miljø.",
+    "meta": {
+        "id": 16633746358379226849,
+        "url": "https://old.sparenergi.dk/forbruger/varme/naturgas",
+        "title": "Naturgas",
+        "time_requested": "2024-04-16T11:56:12.990718",
+        "error": null,
+        "num_tokens_in": 2006,
+        "num_tokens_out": 434,
+        "estimated_input_cost_gpt4": 0.02006,
+        "estimated_output_cost_gpt4": 0.01302,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

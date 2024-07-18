@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen omhandler hvordan man kan spare energi på køleskab og fryser. Danskere bruger i gennemsnit 1/5 af deres strøm på disse apparater, hvilket giver mulighed for betydelige besparelser ved at tænke energieffektivt. Her er nogle gode råd til at spare energi på køl og frys:\n\n- Hold temperaturen i køleskabet på 5 °C, da hvert grad under dette øger energiforbruget med 5%.\n- Hold temperaturen i fryseren på -18 °C, da hvert grad under dette øger energiforbruget med 2-3%.\n- Luk døren til køleskabet og fryseren hurtigt og hold den lukket så meget som muligt.\n- Optø mad i køleskabet i stedet for på køkkenbordet, da det sparer strøm.\n- Lad varme madvarer køle af, inden de sættes i køleskabet for at undgå ekstra energiforbrug.\n- Afrim fryseren, hvis der er mere end 5 mm rim, da dette øger energiforbruget.\n- Tjek og skift tætningslisten, da en slidt liste kan øge elforbruget.\n- Placer fryseren i et køligt rum som f.eks. kælder eller garage for at spare energi.\n- Sørg for tilstrækkelig ventilation omkring køleskab og fryser for at undgå øget strømforbrug.\n- Støv af køleskabet og sikr dig, at der ikke er for meget støv på kondensator-rørene.\n- Når man skal reparere eller købe nye hvidevarer, bør man vælge produkter med energimærker som A++, A+ eller A for at spare energi.\n\nArtiklen giver også gode råd til, hvad man skal overveje, hvis man vil reparere eller købe nyt, fx at beholde køle- og fryseapparater i op mod 20 år, vælge det bedste energimærke og størrelse samt at vælge en model med digital termostat og display. Derudover afrådes det at slukke fryseren i visse tidsrum. Hvis man skal skrotte gamle hvidevarer, anbefales det at aflevere dem korrekt for at undgå forurening.",
+    "meta": {
+        "id": 5515488092506945555,
+        "url": "https://sparenergi.dk/forbruger/el/koel-og-frys/energimaerkning-af-af-koeleskabe-og-frysere",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:56:12.111582",
+        "error": null,
+        "num_tokens_in": 2814,
+        "num_tokens_out": 574,
+        "estimated_input_cost_gpt4": 0.028140000000000002,
+        "estimated_output_cost_gpt4": 0.01722,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

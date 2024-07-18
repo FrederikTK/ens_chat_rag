@@ -1,0 +1,15 @@
+{
+    "text": "På SparEnergi's hjemmeside kan man finde information om varmepumper, som en VE-godkendt virksomhed kan installere. De varmepumper, som virksomheder med VE-godkendelse kan hjælpe med at installere og montere, inkluderer: luft til vand-varmepumpe, luft til luft-varmepumpe, luft til luft-varmepumpe til sommerhuset, jordvarme og brugsvandsvarmepumpe. SparEnergi tilbyder også gratis rådgivning, inspiration og viden til at få mest ud af energien. Man kan finde mere information på SparEnergi's hjemmeside, hvor man også kan tilmelde sig nyhedsbrevet. Adressen for Energistyrelsen er Carsten Niebuhrs Gade 43, 1577 Kbh. V.",
+    "meta": {
+        "id": 17801228842665362680,
+        "url": "https://sparenergi.dk/privat/tid-til-skifte-varmetype/varmepumper-som-en-ve-godkendt-virksomhed-kan-installere",
+        "title": "Varmepumper, som en VE-godkendt virksomhed kan installere",
+        "time_requested": "2024-04-16T11:51:35.722934",
+        "error": null,
+        "num_tokens_in": 497,
+        "num_tokens_out": 211,
+        "estimated_input_cost_gpt4": 0.0049700000000000005,
+        "estimated_output_cost_gpt4": 0.0063300000000000006,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

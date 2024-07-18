@@ -1,0 +1,15 @@
+{
+    "text": "En skabelon til fuldmagt til ansøgning om tilskud gennem Bygningspuljen kan downloades i DOCX-format fra SparEnergi.dk. Skabelonen er en side lang og er tilgængelig siden den 29. marts 2021 med en filstørrelse på 77,56 KB. Energistyrelsen har adressen Carsten Niebuhrs Gade 43, 1577 København V. På SparEnergi.dk kan man finde information om energimærkning af bygninger, materialer, partnerskaber og kontakte Energibarometeret. Man kan også finde Energistyrelsens kontaktinformation og bruge forskelligt indhold, såsom skabeloner og værktøjer, der hjælper med energibesparelse.",
+    "meta": {
+        "id": 9575226636398240039,
+        "url": "https://sparenergi.dk/forbruger/materialer/skabelon-til-fuldmagt-bygningspuljen",
+        "title": "Skabelon til fuldmagt Bygningspuljen",
+        "time_requested": "2024-04-16T11:51:25.565010",
+        "error": null,
+        "num_tokens_in": 858,
+        "num_tokens_out": 181,
+        "estimated_input_cost_gpt4": 0.00858,
+        "estimated_output_cost_gpt4": 0.00543,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

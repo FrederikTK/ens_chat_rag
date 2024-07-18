@@ -1,0 +1,15 @@
+{
+    "text": "Informationen beskriver, hvordan man kan søge tilskud til energirenovering på vegne af en privatperson, virksomhed eller forening gennem Energistyrelsen. \n- For privatpersoner kræves en fuldmagt underskrevet af bygningsejeren og en ansøgererklæring, samt en eventuel de minimis-erklæring, hvis der er økonomisk aktivitet på adressen.\n- For virksomheder kræves en fuldmagt i overensstemmelse med virksomhedens tegningsregler, en ansøgererklæring og en de minimis-erklæring, samt CVR-nummer.\n- For foreninger kræves også en fuldmagt i overensstemmelse med foreningens tegningsregler, en ansøgererklæring, en de minimis-erklæring, dokumentation på de tegningsberettigede og referat fra seneste generalforsamling samt foreningens vedtægter.\nDet anbefales at læse en trin-for-trin vejledning før ansøgning. Energirenoveringspuljen kræver, at man har de nødvendige dokumenter klar ved ansøgning. Når man søger tilskud på vegne af en virksomhed eller forening, skal hovedanvendelsen af bygningen være registreret som helårsbeboelse i BBR, og virksomheden/foreningen må ikke have modtaget mere end 200.000 euro i økonomisk støtte i de seneste tre regnskabsår.",
+    "meta": {
+        "id": 17527075794422228753,
+        "url": "https://sparenergi.dk/privat/soeger-du-tilskud-paa-vegne-af-en-virksomhed-eller-en-anden-energirenoveringspuljen",
+        "title": "Søger du tilskud på vegne af en virksomhed eller en anden? (energirenoveringspuljen)",
+        "time_requested": "2024-04-16T11:55:45.831430",
+        "error": null,
+        "num_tokens_in": 2777,
+        "num_tokens_out": 372,
+        "estimated_input_cost_gpt4": 0.027770000000000003,
+        "estimated_output_cost_gpt4": 0.01116,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "På hjemmesiden SparEnergis.dk kan man indtaste sin adresse og få tre effektive råd til energioptimering på netop den adresse. Desuden opfordres man til at undersøge, hvor meget man kan spare ved at skifte varmetype og få gode energivaner. Der tilbydes også gratis rådgivning og inspiration til energibesparelser i hverdagen. Energistyrelsen står bag hjemmesiden, der har fokus på at hjælpe med energioptimering og spare energi. Man kan også finde information om energipriser og kontakte Energistyrelsen direkte.",
+    "meta": {
+        "id": 15725087681703970759,
+        "url": "https://sparenergi.dk/ny-varme",
+        "title": "Ny Varme | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:35.160419",
+        "error": null,
+        "num_tokens_in": 418,
+        "num_tokens_out": 146,
+        "estimated_input_cost_gpt4": 0.0041800000000000006,
+        "estimated_output_cost_gpt4": 0.00438,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

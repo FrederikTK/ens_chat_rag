@@ -1,0 +1,15 @@
+{
+    "text": "På Energistyrelsens hjemmeside SparEnergi kan virksomheder benytte en belysningsberegner for at beregne, hvor meget tilskud de kan forvente at få til udskiftning til LED-belysning. Beregneren kan bruges, hvis man ønsker at skifte ældre almen belysning til LED. Man kan indtaste sin adresse og få de tre mest effektive råd til energioptimering på adressen. SparEnergi tilbyder også gratis rådgivning, inspiration og viden om, hvordan man maksimerer energien. Man kan tilmelde sig SparEnergis nyhedsbrev og følge dem på Facebook. Energistyrelsens adresse er Carsten Niebuhrs Gade 43, 1577 København V.",
+    "meta": {
+        "id": 15791428000417829278,
+        "url": "https://sparenergi.dk/erhverv/belysningsberegner",
+        "title": "Belysningsberegner",
+        "time_requested": "2024-04-16T11:48:47.359792",
+        "error": null,
+        "num_tokens_in": 378,
+        "num_tokens_out": 191,
+        "estimated_input_cost_gpt4": 0.0037800000000000004,
+        "estimated_output_cost_gpt4": 0.00573,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

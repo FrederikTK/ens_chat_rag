@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen giver råd om, hvordan man kan spare energi på belysning. Et af de bedste råd er at skifte alle pærer til LED og huske at slukke lyset, når det ikke er i brug. Andre spareråd inkluderer at bruge automatisk styring som intelligente pærer, bevægelsessensorer eller timere til at slukke lyset i tomme rum samt at bruge batterilamper i rum uden strøm og LED-pærer i rum med strøm. Artiklen opfordrer også til at vælge LED-lys med energimærke D eller bedre, da de bruger mindre strøm, og forklarer forskellige typer LED-pærer og lysrør samt hvordan man kan dæmpe lyset for at spare energi. Der gives også gode råd om at vælge lyskæder med lavt elforbrug og øve god belysningspraksis. Endelig opfordres læserne til at korrekt bortskaffe gamle pærer og lysrør på genbrugsstationer.",
+    "meta": {
+        "id": 13953394871011684663,
+        "url": "https://sparenergi.dk/forbruger/el/belysning/halogenpaerer",
+        "title": "Halogenpærer | Energistyrelsen",
+        "time_requested": "2024-04-16T11:51:04.168630",
+        "error": null,
+        "num_tokens_in": 3636,
+        "num_tokens_out": 263,
+        "estimated_input_cost_gpt4": 0.03636,
+        "estimated_output_cost_gpt4": 0.00789,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

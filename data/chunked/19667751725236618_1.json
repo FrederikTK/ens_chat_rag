@@ -1,0 +1,15 @@
+{
+    "text": "1. Huset skal være en helårsbolig, og man skal være ejer af det.\n2. Huset skal opvarmes med oliefyr, gasfyr, elvarme eller biokedel.\n3. Huset må ikke ligge i et område med fjernvarme eller planer om fjernvarme.\n4. Man må ikke være i gang med at skifte til en varmepumpe eller have indhentet et bindende tilbud.",
+    "meta": {
+        "id": 19667751725236618,
+        "url": "https://sparenergi.dk/varmepumpepuljen",
+        "title": "Site under opdatering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:36.606521",
+        "error": null,
+        "num_tokens_in": 3404,
+        "num_tokens_out": 451,
+        "estimated_input_cost_gpt4": 0.03404,
+        "estimated_output_cost_gpt4": 0.01353,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

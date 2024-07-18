@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen opfordrer boligejere til at isolere skråvægge og loft til kip for at spare penge på varmeregningen og for at forbedre indeklimaet. Isolering af disse områder kan gøres både indefra og udefra, men det anbefales at isolere udefra, især hvis man alligevel skal skifte tagbeklædning. Isolering udefra kan reducere risikoen for fugt og skimmelsvamp samt bevare den fulde loftshøjde. Hvis man isolerer til minimum 400 mm, svarer det til lavenerginiveau og giver den bedste økonomi på lang sigt. Håndværkere anbefales at sikre, at isoleringen lever op til Bygningsreglementets krav for at undgå problemer med råd og svamp. Det anbefales at isolere, når man alligevel renoverer, og at huske at lufte ud regelmæssigt for at undgå fugtproblemer. Energistyrelsen tilbyder også vejledninger til håndværkere og giver råd til boligejere om valg af energiform.",
+    "meta": {
+        "id": 14880908370466453502,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/energiloesninger/isolering-af-tag-med-hoej-rejsning-udefra",
+        "title": "Isolering af tag med høj rejsning, udefra",
+        "time_requested": "2024-04-16T11:55:08.521188",
+        "error": null,
+        "num_tokens_in": 2705,
+        "num_tokens_out": 287,
+        "estimated_input_cost_gpt4": 0.02705,
+        "estimated_output_cost_gpt4": 0.00861,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

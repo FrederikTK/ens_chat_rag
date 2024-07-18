@@ -1,0 +1,15 @@
+{
+    "text": "Resumé:\nInformationen handler om jordvarmepumper og Bygningsreglementets krav til jordvarmepumper i Danmark. Bygningsreglementet kræver, at nye jordvarmepumper skal opfylde EU's ECOdesignkrav, som er fastlagt for at sikre effektiviteten af varmepumpen. SCOP (Seasonal Coefficient Of Performance) er et udtryk for varmepumpens effektivitet, hvor en højere SCOP-værdi indikerer en mere effektiv varmepumpe. For jordvarmepumper skal SCOP som minimum være 3,33 for gulvvarme og 2,95 for radiatorer. Derudover skal varmepumper, der har et årligt elforbrug på mere end 3.000 kWh, have deres elforbrug målt. Informationen opfordrer til at tjekke Energistyrelsens liste for at finde egnede jordvarmepumper, der opfylder kravene.",
+    "meta": {
+        "id": 12432509648099988516,
+        "url": "https://sparenergi.dk/forbruger/boligen/bygningsreglementets-energikrav/installationer/jordvarmepumper",
+        "title": "Jordvarmepumper | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:55.938473",
+        "error": null,
+        "num_tokens_in": 985,
+        "num_tokens_out": 241,
+        "estimated_input_cost_gpt4": 0.009850000000000001,
+        "estimated_output_cost_gpt4": 0.00723,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

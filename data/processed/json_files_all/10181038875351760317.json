@@ -1,0 +1,15 @@
+{
+    "text": "På SparEnergi hjemmesiden kan man se, hvordan forskellige familier sparer på energien derhjemme. Der er eksempler på familier der har reduceret deres energiforbrug ved at skære ned på antallet af skærme, bruge strømmen når den er billigst, skifte til LED belysning og intelligente termostater. Der er også råd om at involvere hele familien i energibesparelser og konkurrere om at spare mest. Desuden gives der tips om at spare på varmen, udluftning, brug af varmt vand og at slukke for unødvendigt strømforbrug. Man kan finde flere spareråd på hjemmesiden og få gratis rådgivning. Energistyrelsen står bag hjemmesiden.",
+    "meta": {
+        "id": 10181038875351760317,
+        "url": "https://old.sparenergi.dk/forbruger/sparerad-til-hjemmet/kampagnefilm-energisparekampagne",
+        "title": "Kampagnefilm Energisparekampagne",
+        "time_requested": "2024-04-16T11:50:14.124133",
+        "error": null,
+        "num_tokens_in": 1627,
+        "num_tokens_out": 192,
+        "estimated_input_cost_gpt4": 0.01627,
+        "estimated_output_cost_gpt4": 0.00576,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har udgivet information om, hvordan virksomheder kan tackle de høje energipriser og spare på energiudgifterne. De høje energipriser påvirker især gasafhængige virksomheder, men priserne på el, olie og andre energiformer er også steget markant. Energistyrelsen opfordrer virksomheder til at søge tilskud fra Erhvervspuljen for at gennemføre energibesparende tiltag, der kan dække op til 50% af omkostningerne. Derudover anbefales det at implementere energiledelse for at optimere virksomhedens energiforbrug løbende. For virksomheder, der overvejer at søge tilskud til grøn omstilling fra erhvervspuljen, er der mulighed for at kontakte Energistyrelsen for yderligere information.",
+    "meta": {
+        "id": 2368894075832153253,
+        "url": "https://sparenergi.dk/erhverv/hoje-energipriser",
+        "title": "Høje energipriser | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:50.162069",
+        "error": null,
+        "num_tokens_in": 1388,
+        "num_tokens_out": 222,
+        "estimated_input_cost_gpt4": 0.013880000000000002,
+        "estimated_output_cost_gpt4": 0.00666,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

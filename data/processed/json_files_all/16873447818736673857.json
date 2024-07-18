@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en online platform kaldet SparEnergi, hvor man kan indtaste sin adresse og få tre effektive råd til energioptimering på netop den adresse. Man kan også finde nyttig information om energibesparelser i hverdagen, såsom at forkorte bade-tiden eller fylde opvaskemaskinen helt op for at spare energi. SparEnergi opfordrer folk til at sætte personlige sparemål og giver hjælp til at nå dem. Der er også mulighed for at booke gratis rådgivning og få inspiration og viden om energioptimering. Energistyrelsen oplyser på platformen, at SparEnergi.dk er stedet, hvor man kan få gode råd til at få mest ud af energien i sit hjem. Man kan også tilmelde sig nyhedsbrevet og følge SparEnergi på Facebook for yderligere inspiration.",
+    "meta": {
+        "id": 16873447818736673857,
+        "url": "https://sparenergi.dk/vores-energiaftale/spareraad?destination=/spar-energi-paa-din-maade&permission=1",
+        "title": "Vores energiaftale | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:17.989761",
+        "error": null,
+        "num_tokens_in": 363,
+        "num_tokens_out": 224,
+        "estimated_input_cost_gpt4": 0.0036300000000000004,
+        "estimated_output_cost_gpt4": 0.00672,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

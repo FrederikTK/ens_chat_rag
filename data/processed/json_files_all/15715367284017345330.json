@@ -1,0 +1,15 @@
+{
+    "text": "Erhvervspuljen tilbyder økonomisk støtte til danske virksomheder, der ønsker at spare energi og reducere CO2-udledning. Puljen indeholder i 2024 mere end 600 mio. kr., som skal fremme den grønne omstilling af erhvervslivet. Virksomheder kan modtage tilskud på op til 50 % af omkostningerne til projekter, der sparer energi eller CO2. Der ydes tilskud til forskellige tiltag, herunder udskiftning af gaskedler til varmepumper eller fjernvarme, udskiftning af ældre belysning til LED samt intern udnyttelse af overskudsvarme.\n\nReglerne for Erhvervspuljen blev lempet den 1. november 2022, og det er nu lettere for virksomheder at få del i tilskuddene. Tilskuddet beregnes ud fra energi- eller CO2-besparelsen, hvor virksomhedens størrelse også påvirker støtteniveauet. Puljen forventes at indeholde 640 mio. kr. i 2024, og energistyrelsen opdaterer løbende informationen.\n\nFor at søge tilskud fra Erhvervspuljen skal virksomheder gennemgå en ansøgningsproces, hvor de forbereder deres projekt, ansøger, gennemfører projektet og søger om udbetaling af tilskuddet efter projektets færdiggørelse. Energistyrelsen tilbyder vejledninger, beregnere og andet hjælpeværktøj for at hjælpe virksomheder gennem ansøgningsprocessen. Der eksisterer også webinarer, der præsenterer Erhvervspuljen og dets fordele samt cases fra virksomheder, der har modtaget tilskud fra puljen.\n\nHvis virksomheder har spørgsmål eller har brug for hjælp til at ansøge, kan de kontakte Energistyrelsen via telefon eller e-mail. Det anbefales også at søge hjælp fra installatører, VE-godkendte håndværkere eller energirådgivere.",
+    "meta": {
+        "id": 15715367284017345330,
+        "url": "https://sparenergi.dk/erhverv/vaerktojer/tilskud",
+        "title": "Tilskud | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:23.977367",
+        "error": null,
+        "num_tokens_in": 4772,
+        "num_tokens_out": 541,
+        "estimated_input_cost_gpt4": 0.047720000000000005,
+        "estimated_output_cost_gpt4": 0.01623,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

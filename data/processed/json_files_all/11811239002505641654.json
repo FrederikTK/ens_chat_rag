@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder råd til at spare energi på opvasken, både ved at bruge opvaskemaskine og ved at vaske op i hånden. Ved at vælge opvaskemaskinen kan man spare penge og CO2-udledning, da den generelt bruger mindre vand end opvask i hånden. Det anbefales at fylde opvaskemaskinen helt op og undgå at skylle af, da det sparer energi. Når man vasker op i hånden, anbefales det at undlade at skylle af inden vask og at undgå at vaske op under rindende vand. Brug af opvaskemaskinens eco-program eller et program med lavere temperatur kan også spare strøm. Der gives også råd om, hvad man skal gøre, hvis opvaskemaskinen går i stykker, og hvilke overvejelser man bør gøre, hvis man skal købe en ny. Energistyrelsen anbefaler at vælge en opvaskemaskine med energimærke C eller B og at overveje størrelsen og nødvendigheden af smart-funktioner for at spare på både energi og vand. Energimærket viser apparatets energieffektivitet på en skala fra A til G. Man opfordres også til at regne på hele prisen, når man køber en ny opvaskemaskine, og det påpeges, at korte programmer til opvask ikke altid bruger mindre energi end længere eco-programmer. I tilfælde af, at man skal skrotte en opvaskemaskine, bør den afleveres på genbrugsstationen. Energistyrelsen deler også en case, hvor et par har reduceret deres elregning med 40% ved at flytte strømforbruget og tidsindstille deres opvaskemaskine til at køre om natten, når strømmen er billigst. Der er også information om andre apparater, hvor man kan spare energi i hverdagen.",
+    "meta": {
+        "id": 11811239002505641654,
+        "url": "https://sparenergi.dk/forbruger/el/madlavning",
+        "title": "Madlavning | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:50.760616",
+        "error": null,
+        "num_tokens_in": 2421,
+        "num_tokens_out": 501,
+        "estimated_input_cost_gpt4": 0.024210000000000002,
+        "estimated_output_cost_gpt4": 0.01503,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

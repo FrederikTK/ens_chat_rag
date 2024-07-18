@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder gratis rådgivning til private borgere, virksomheder og offentlige institutioner om energioptimering og energirenovering. Der er mulighed for at kontakte erfarne energirådgivere via telefon, e-mail eller fysisk møde for at få råd om boligforbedringer, energibesparelser og tilskud. Der er desuden mulighed for at få hjælp til varmecheck samt energimærkning af boliger. For professionelle findes der specifikke kontaktoplysninger til pressen, henvendelser angående energibarometer, håndværkere, leverandører af varmepumper, VE-godkendelsesordningen, offentligt energiforbrug, energi- og CO2-regnskabet samt tekniske fejl på SparEnergi.dk. Energistyrelsen har åbningstider fra mandag til fredag og kan kontaktes via telefon, e-mail eller fysisk adresse. Energistyrelsen har desuden en hjemmeside, hvor man kan finde yderligere information, og de er aktive på sociale medier som Facebook.",
+    "meta": {
+        "id": 114181504718368200,
+        "url": "https://sparenergi.dk/privat/saadan-faar-du-fat-i-os",
+        "title": "Sådan får du fat i os",
+        "time_requested": "2024-04-16T11:49:59.332713",
+        "error": null,
+        "num_tokens_in": 1099,
+        "num_tokens_out": 278,
+        "estimated_input_cost_gpt4": 0.010990000000000002,
+        "estimated_output_cost_gpt4": 0.00834,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

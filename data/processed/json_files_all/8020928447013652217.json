@@ -1,0 +1,15 @@
+{
+    "text": "Erhvervspuljen tilbyder en standardløsning for varmeforsyning, som er tilgængelig for virksomheder, der ønsker at ansøge om tilskud. Denne løsning er beskrevet i et Excel-værktøj, som er tilgængeligt for ansøgninger indsendt fra januar 2023. Værktøjet kan downloades som en XLSX-fil på Energistyrelsens hjemmeside. Informationen kommer fra Energistyrelsen og fokuserer på at hjælpe virksomheder med at opgradere deres varmeforsyning og muligvis opnå tilskud fra Erhvervspuljen. Energistyrelsen har adressen Carsten Niebuhrs Gade 43, 1577 København V og yder yderligere information på deres hjemmeside www.ens.dk.",
+    "meta": {
+        "id": 8020928447013652217,
+        "url": "https://sparenergi.dk/forbruger/materialer/erhvervspuljen-standardlosning-varmeforsyning",
+        "title": "Erhvervspuljen: Standardløsning for varmeforsyning",
+        "time_requested": "2024-04-16T11:56:35.636656",
+        "error": null,
+        "num_tokens_in": 916,
+        "num_tokens_out": 211,
+        "estimated_input_cost_gpt4": 0.009160000000000001,
+        "estimated_output_cost_gpt4": 0.0063300000000000006,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

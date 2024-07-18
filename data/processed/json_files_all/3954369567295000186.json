@@ -1,0 +1,15 @@
+{
+    "text": "Typehuset fra perioden 1998-2006 er typisk et parcelhus i enten 1 plan med en smule taghældning eller 1½ plan og sjældent med kælder. Der blev årligt bygget ca. 10.000 nye parcelhuse i Danmark i denne periode. Husene har en simpel og minimalistisk arkitektur med rette linjer og store glaspartier. Typisk er de mellem 150-180 m2 og opvarmes med centralvarme. De fleste huse har tunge ydervægge med murværk og letbeton, men træhuse forekommer også. Taget har oftest tagsten med en smule hældning. Varmeinstalleringer består af gaskedel eller fjernvarme, og elinstallationerne er omfattende med mange stikkontakter. Ventilationen er naturlig med frisk luft gennem vinduerne og mekanisk udsugning i visse rum. Energimærket for disse huse er typisk B-C, men kan forbedres til A2010 ved energirenoveringer. Anbefalede energiforbedringer inkluderer isolering af loft, udskiftning af vinduer, installation af solcelleanlæg og varmepumper. Endvidere oplyses om behov for tilskud, rådgivning i renoveringsprocessen, og betydningen af bæredygtig renovering.",
+    "meta": {
+        "id": 3954369567295000186,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/bygningsguiden/typehus-1998-2006",
+        "title": "Typehus 1998-2006 | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:01.011800",
+        "error": null,
+        "num_tokens_in": 8409,
+        "num_tokens_out": 345,
+        "estimated_input_cost_gpt4": 0.08409000000000001,
+        "estimated_output_cost_gpt4": 0.01035,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

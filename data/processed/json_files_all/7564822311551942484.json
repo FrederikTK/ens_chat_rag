@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har udarbejdet gode råd til at spare energi i storkøkkener på plejehjem og i institutioner. Køkkenet er en stor energiforbruger, og ved at implementere energioptimeringstiltag kan man spare penge, forbedre indeklimaet og mindske klimabelastningen. De tre mest effektive råd er:\n\n1. Adfærd: Stands spildet - Sørg for at tænde udstyret kun når det skal bruges og sluk det igen efter brug for at mindske energiforbruget.\n2. Indkøb: Vælg energirigtigt udstyr - Formulér udbud, hvor driftsomkostninger indgår i vurderingen sammen med indkøbsprisen. Vælg produkter, der overholder Energistyrelsens indkøbsanbefalinger.\n3. Indretning: Tænk energi ind fra starten - Design køkkenet med hensyn til energioptimering, fx ved at minimere behovet for kunstigt lys og at skære ned på ventilationskravene.\n\nÆndringer i adfærd og indretning kan føre til store energibesparelser på arbejdspladsen, og der findes materialer på Energistyrelsens kampagneside om energibesparelser i hverdagen, der kan hjælpe med at implementere disse ændringer.",
+    "meta": {
+        "id": 7564822311551942484,
+        "url": "https://sparenergi.dk/offentlig/kommuner/storkokken",
+        "title": "Storkøkken | Energistyrelsen",
+        "time_requested": "2024-04-16T11:57:31.206123",
+        "error": null,
+        "num_tokens_in": 868,
+        "num_tokens_out": 350,
+        "estimated_input_cost_gpt4": 0.00868,
+        "estimated_output_cost_gpt4": 0.0105,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

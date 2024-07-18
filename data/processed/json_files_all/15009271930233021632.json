@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen oplyser, hvordan man kan udnytte billigere strøm ved at flytte sit elforbrug til bestemte tidspunkter af døgnet. Der er to måder at udnytte de varierende priser på: 1) Ved at bruge strømmen, når afgiften for transport af strøm er lav (lavlast), og 2) ved at skifte til variabel timepris, hvor den rå elpris svinger fra time til time. Derudover gives der råd til at flytte strømforbruget, f.eks. ved at indstille hårde hvidevarer til 'udskudt start', lave mad til flere dage og undgå dyre timer fra kl. 17-21. Birgitte og Esben har formået at reducere deres elregning med 40% ved at flytte deres energiforbrug til billigere tidspunkter. Elregningen forklarer, hvordan den sammensættes med rå elpris, afgifter og transportomkostninger. Der forklares desuden, hvordan man læser sin elregning og hvad de forskellige poster dækker over. 60 % af forbrugerne har allerede flyttet deres strømforbrug til tidspunkter med laveste priser, og muligheden for at vælge en anden elleverandør gives for at spare penge og CO2. Energistyrelsen tilbyder gratis rådgivning og vejledning til at spare energi i hverdagen.",
+    "meta": {
+        "id": 15009271930233021632,
+        "url": "https://sparenergi.dk/forbruger/el/dit-elforbrug/variabel-elpris",
+        "title": "Variabel elpris | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:47.056193",
+        "error": null,
+        "num_tokens_in": 3458,
+        "num_tokens_out": 373,
+        "estimated_input_cost_gpt4": 0.03458,
+        "estimated_output_cost_gpt4": 0.01119,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

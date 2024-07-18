@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder energimærkning af bygninger, som viser, hvor meget energi en bygning bruger og hvor man kan energiforbedre. Offentlige bygninger på 60-250 m2 skal have en energimærkning ved salg og udleje, mens bygninger over 250 m2 altid skal have en gyldig energimærkning. Energimærket viser bygningens energimæssige tilstand på en skala fra A til G. Energimærkningsrapporten er blevet opdateret med et nyt format fra 2021 for at øge fokus på konkrete energiforbedringer. Alle offentlige bygninger, herunder nyopførte, skal energimærkes før brugen. Energimærket skal være synligt, offentliggøres og oplyses i annoncer ved salg eller udleje. Energimærket udløber efter 10 år, og det anbefales at forny det inden udløb. Energimærket kan bruges til at vurdere energieffektiviteten af bygningen og undersøge muligheder for at reducere varmeregningen og gøre bygningen mere energieffektiv.",
+    "meta": {
+        "id": 18067001507478982835,
+        "url": "https://sparenergi.dk/offentlig/energimaerkning-af-bygninger",
+        "title": "Energimærkning af bygninger",
+        "time_requested": "2024-04-16T11:53:16.175719",
+        "error": null,
+        "num_tokens_in": 1230,
+        "num_tokens_out": 296,
+        "estimated_input_cost_gpt4": 0.0123,
+        "estimated_output_cost_gpt4": 0.00888,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

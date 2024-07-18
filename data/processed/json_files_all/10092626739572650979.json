@@ -1,0 +1,15 @@
+{
+    "text": "SparEnergi giver information om energipriser, som sidst blev opdateret den 13/3-2024. Priserne opdateres regelmæssigt, især under store prisændringer. De energipriser, der vises, tager udgangspunkt i et standardhus på 130 m2 med et varmeforbrug svarende til 18,1 MWh og et årsforbrug af el på 4.000 kWh. For her-og-nu beregninger er priserne som følger: El koster 2,6 kr./kWh, el til opvarmning koster 1,95 kr./kWh, fjernvarme koster 0,84 kr./kWh, naturgas koster 10,97 kr./m3, olie koster 16,44 kr./liter, træpiller koster 4.400 kr./ton, og brænde koster 3689,74 kr./ton. For langtidsberegninger er priserne: El koster 1,91 kr./kWh, el til opvarmning koster 1,4 kr./kWh, fjernvarme koster 0,84 kr./kWh, naturgas koster 10,11 kr./m3, olie koster 9,83 kr./liter, og træpiller koster 2.650 kr./ton. Energipriserne er baseret på markedspriser og andre faktorer som abonnementer og afgifter. SparEnergi giver gratis rådgivning og tilbyder information, inspiration og råd om energibesparelser.",
+    "meta": {
+        "id": 10092626739572650979,
+        "url": "https://sparenergi.dk/privat/energipriser-paa-sparenergi",
+        "title": "Energipriser på SparEnergi",
+        "time_requested": "2024-04-16T11:53:07.823978",
+        "error": null,
+        "num_tokens_in": 1770,
+        "num_tokens_out": 377,
+        "estimated_input_cost_gpt4": 0.0177,
+        "estimated_output_cost_gpt4": 0.01131,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

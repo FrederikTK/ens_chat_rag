@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen omhandler emnet streaming og energiforbrug. Der nævnes, at streaming af videoindhold udgør en stor del af verdens samlede nettrafik og resulterer i både energiforbrug derhjemme og i datacentre og transmissionsnetværk langt væk. Den gennemsnitlige CO2-udledning fra 1 times streaming i HD svarer til at koge 2 liter vand i en elkedel. Der gives også konkrete råd til at reducere energiforbruget ved streaming, såsom at vælge lavere opløsning, bruge WiFi i stedet for mobildata, se sammen med andre, slukke kameraet under online-møder, vælge grønne streamingtjenester og downloade indholdet i stedet for at streame det flere gange for at spare energi. Endvidere nævnes det, at streaming direkte på tv'et eller via Chromecast eller Apple TV er mere energieffektivt end at streame via en computer eller spillekonsol. Til sidst gives der generelle råd om at spare energi på internettet ved at scrolle mindre, sende mindre filer og afmelde nyhedsbreve for at mindske klimapåvirkningen.",
+    "meta": {
+        "id": 14941698398032198289,
+        "url": "https://sparenergi.dk/forbruger/el/it-og-elektronik/streaming",
+        "title": "Streaming | Energistyrelsen",
+        "time_requested": "2024-04-16T11:49:17.129325",
+        "error": null,
+        "num_tokens_in": 1870,
+        "num_tokens_out": 310,
+        "estimated_input_cost_gpt4": 0.0187,
+        "estimated_output_cost_gpt4": 0.009300000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

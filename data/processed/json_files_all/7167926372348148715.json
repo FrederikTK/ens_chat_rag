@@ -1,0 +1,15 @@
+{
+    "text": "På hjemmesiden for Energistyrelsen kan man finde en del information om energi- og CO2-regnskabet for forskellige danske kommuner. Man kan vælge en specifik kommune og se nøgletal for energi- og CO2-regnskabet. Der er data tilgængelig for årene 2018, 2019, 2020 og 2021. Data og resultater fra disse år er ikke direkte sammenlignelige med tidligere år på grund af et større og mere detaljeret datagrundlag. Man kan se oplysninger om samlet CO2-udledning, samlet energiforbrug, VE-andel i fjernvarmen og meget mere. Der er også materialer tilgængelige, herunder notater og FAQ-dokumenter, der beskriver metoder og datakilder for regnskaberne. Energistyrelsen arbejder på at muliggøre sammenligninger tilbage til 2010. Man kan finde yderligere oplysninger og dokumentation på Energistyrelsens hjemmeside.",
+    "meta": {
+        "id": 7167926372348148715,
+        "url": "https://old.sparenergi.dk/offentlig/vaerktoejer/energi-og-co2-regnskabet",
+        "title": "Energi- og CO₂-regnskabet | Energistyrelsen",
+        "time_requested": "2024-04-16T11:50:57.799126",
+        "error": null,
+        "num_tokens_in": 1728,
+        "num_tokens_out": 245,
+        "estimated_input_cost_gpt4": 0.01728,
+        "estimated_output_cost_gpt4": 0.00735,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "På Energistyrelsens hjemmeside SparEnergi.dk kan partnere få adgang til information og materialer om energioptimering. Ved at indtaste deres adresse kan partnere modtage tre effektive råd til energioptimering tilpasset deres specifikke adresse. Der er også mulighed for at tilmelde sig nyhedsbrevet for partnere, hvor man kan få besked om nye materialer og aktiviteter tilpasset ens præferencer. Samlet set tilbyder hjemmesiden inspiration, viden og råd til at opnå energibesparelser. Energistyrelsen står bag siden SparEnergi.dk, som er et værdifuldt redskab for både privatpersoner, virksomheder og offentlige institutioner.",
+    "meta": {
+        "id": 11214311485652247187,
+        "url": "https://old.sparenergi.dk/partner",
+        "title": "Partner | Energistyrelsen",
+        "time_requested": "2024-04-16T11:58:31.836578",
+        "error": null,
+        "num_tokens_in": 475,
+        "num_tokens_out": 189,
+        "estimated_input_cost_gpt4": 0.004750000000000001,
+        "estimated_output_cost_gpt4": 0.0056700000000000006,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

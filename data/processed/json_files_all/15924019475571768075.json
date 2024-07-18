@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen \"Hold dit oliefyr godt kørende\" giver gode råd til at optimere og vedligeholde et oliefyr for at spare penge på olie og hjælpe miljøet. Først og fremmest anbefales det at tjekke alderen på oliekedlen og overveje alternative varmeformer. Derudover gives følgende råd: Juster temperaturen op og ned om efteråret og foråret, hold øje med trykket i anlægget, rengør omkring oliekedlen og oliebrænderen, lyt til fyret for eventuelle fejlsignaler, indstil automatikken korrekt, få årligt eftersyn af oliefyrstekniker, sommerluk fyrret manuelt eller automatisk om sommeren, og overvej alternative varmeformer som fjernvarme og varmepumper. Der nævnes også information om forebyggelse af kulilteulykker ved vedligeholdelse af anlægget. Artiklen indeholder desuden cases, tips til energibesparelse og råd om andre varmekilder.",
+    "meta": {
+        "id": 15924019475571768075,
+        "url": "https://sparenergi.dk/forbruger/varme/olie",
+        "title": "Olie | Energistyrelsen",
+        "time_requested": "2024-04-16T11:51:38.079785",
+        "error": null,
+        "num_tokens_in": 2420,
+        "num_tokens_out": 275,
+        "estimated_input_cost_gpt4": 0.024200000000000003,
+        "estimated_output_cost_gpt4": 0.00825,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

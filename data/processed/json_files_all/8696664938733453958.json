@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om kombinationsløsninger inden for varmeforsyning i boliger. En kombinationsløsning indebærer at kombinere flere typer varmekilder for at opfylde det samlede behov for varme og varmt vand. Det bedste valg er at skifte helt til fjernvarme eller varmepumpe, da det giver den største varmebesparelse og klimamæssige fordele. Hvis man ikke ønsker at skifte helt, kan det være en mulighed at kombinere varmeformer, fx supplere olie- eller gasfyr med en mere miljøvenlig varmekilde. Energistyrelsen tilbyder også information om hvilke varmetyper der er mest oplagte at kombinere samt hvordan man kan få det maksimale ud af en kombineret varmeløsning. Håndværkerlisten på Energistyrelsens hjemmeside hjælper med at finde kvalificerede håndværkere til at installere kombinationsløsninger i boliger med forskellige varmekilder såsom olie, gas, elvarme og solvarme. Energistyrelsen anbefaler at tale med en rådgiver og bruge erfarne installatører for at sikre en god og driftsikker varmeløsning.",
+    "meta": {
+        "id": 8696664938733453958,
+        "url": "https://old.sparenergi.dk/forbruger/varme/kombinationsloesninger",
+        "title": "Kombinationsløsninger | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:05.278023",
+        "error": null,
+        "num_tokens_in": 7388,
+        "num_tokens_out": 323,
+        "estimated_input_cost_gpt4": 0.07388,
+        "estimated_output_cost_gpt4": 0.00969,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "SparEnergi.dk er en hjemmeside, der tilbyder rådgivning og tips til energioptimering i private boliger. Man kan indtaste sin adresse og få de tre mest effektive råd til energioptimering på netop den adresse. Der er også information om aktuelle tilskudsordninger og muligheder for at få dækket gebyret for at blive afkoblet fra gassystemet, hvis man skifter til en ny varmetype. Der tilbydes også gratis rådgivning og webinarer om energirenoveringspuljen. Hjemmesiden opfordrer brugerne til at spare energi i hverdagen samt at skifte varmetype for at opnå bedre og billigere opvarmning. Man kan også angive personlige sparemål for at se, hvor meget strøm, varme og CO2 man kan spare i sit hjem. Man kan tilmelde sig nyhedsbrevet for at modtage spareråd direkte i indbakken. Samlet set er SparEnergi.dk en ressourcefuld platform, der tilbyder inspiration, viden og råd til at optimere energiforbruget i hjemmet.",
+    "meta": {
+        "id": 13534316183793896025,
+        "url": "https://ny.sparenergi.dk",
+        "title": "Få hjælp til at spare el og varme i din bolig",
+        "time_requested": "2024-04-16T11:48:37.253326",
+        "error": null,
+        "num_tokens_in": 1267,
+        "num_tokens_out": 282,
+        "estimated_input_cost_gpt4": 0.01267,
+        "estimated_output_cost_gpt4": 0.00846,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

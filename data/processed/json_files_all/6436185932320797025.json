@@ -1,0 +1,15 @@
+{
+    "text": "På Energistyrelsens SparEnergi hjemmeside kan man søge om tilskud til energirenoveringer og skift af varmetype. Der er mulighed for at søge tilskud til energibesparende forbedringer gennem Energirenoveringspuljen, hvor man kan få tilskud til isolering, vinduer og ventilation. Derudover kan man også søge tilskud til en varmepumpe gennem Varmepumpepuljen, hvor man kan få op til 27.000 kr. i tilskud ved skrotning af et gammelt fyr.\n\nMan kan også få tilskud til en varmepumpe på abonnement, hvor man slipper for den store investering. Desuden er der mulighed for at få økonomisk hjælp til at skifte varmetype, f.eks. ved at skrotte gasfyr, oliefyr eller træpillefyr. Der er forskellige tilskudsmuligheder afhængigt af hvilken varmetype man skifter til, fx varmepumpe eller fjernvarme.\n\nEnergirenoveringspuljen er åben, mens Varmepumpepuljen forventes at åbne igen i foråret 2024. Derudover er der andre puljer til økonomisk støtte, hvis man ønsker at skifte varmetype. Man kan få ulike tilskud afhængigt af hvilken varmekilde man skifter fra og til. Der findes også muligheder for gratis afkobling og sparet tinglysningsafgift og lånegebyr i forbindelse med skift af varmesystem. Man kan desuden få gratis rådgivning hos energirådgiverne.\n\nDet er også muligt at søge tilskud til et energiprojekt for et lokalt fællesskab og blandt andet finde inspiration i cases på hjemmesiden. Man kan tilmelde sig nyhedsbrevet for at få besked om nye tilskudspuljer. Energistyrelsens SparEnergi hjemmeside tilbyder et væld af information og muligheder for at søge tilskud til energiforbedringer og skift af varmesystemer.",
+    "meta": {
+        "id": 6436185932320797025,
+        "url": "https://sparenergi.dk/forbruger/boligen/tilskud",
+        "title": "Site under opdatering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:47:29.039570",
+        "error": null,
+        "num_tokens_in": 2233,
+        "num_tokens_out": 525,
+        "estimated_input_cost_gpt4": 0.022330000000000003,
+        "estimated_output_cost_gpt4": 0.01575,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

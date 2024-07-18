@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen omhandler hvordan man kan spare energi når man støvsuger. Der gives tre gode råd til energibesparelse: 1) Skru ned for sugestyrken på støvsugeren, da fuld kraft ikke er nødvendig hele tiden. 2) Skifte støvsugerposen regelmæssigt, da en fyldt pose kan påvirke støvsugerens ydeevne negativt. 3) Når man skal købe en ny støvsuger, bør man vælge en model med et lavt elforbrug, helst på 750 watt eller derunder. Der oplyses desuden, at et nyt energimærke er på vej til støvsugere, men indtil det er tilgængeligt, bør man fokusere på watt-tallet. Der gives også råd i forbindelse med køb af robotstøvsugere, batteridrevne støvsugere og poseløse støvsugere. Der afkræftes desuden en myte om at robotstøvsugere bruger mere strøm end almindelige støvsugere. Til sidst gives der information om korrekt bortskaffelse af støvsugerpose og selve støvsugeren. Genanvendelse af elektronikaffald anbefales. Hjemmesiden tilbyder også generelle råd til energibesparelse i hverdagen og lister andre apparater, hvor energibesparelse kan opnås.",
+    "meta": {
+        "id": 3110089037135351754,
+        "url": "https://sparenergi.dk/forbruger/el/vask-og-rengoering/stoevsugere",
+        "title": "Støvsugere | Energistyrelsen",
+        "time_requested": "2024-04-16T11:50:12.649408",
+        "error": null,
+        "num_tokens_in": 1487,
+        "num_tokens_out": 360,
+        "estimated_input_cost_gpt4": 0.014870000000000001,
+        "estimated_output_cost_gpt4": 0.0108,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

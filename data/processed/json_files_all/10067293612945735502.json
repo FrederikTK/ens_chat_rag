@@ -1,0 +1,15 @@
+{
+    "text": "Solcelleanlæg er en energiløsning, der kan installeres på bygninger og producerer elektricitet ved hjælp af sollys. Anlægget består af solceller monteret på taget, og kan hjælpe med at mindske CO2-udslip og reducere elregningen. Når man overvejer et solcelleanlæg, er det vigtigt at vælge en størrelse baseret på ens forbrug, så produktionen ikke er højere end behovet. Det anbefales at placere anlægget, så det får optimal solindfald i løbet af dagen, og det kan være en god idé at rådføre sig med en VE-godkendt installatør for korrekt dimensionering og installation. Solcelleanlægget bør bruge den producerede strøm samme dag, den er genereret, og det kan være nødvendigt at undersøge lokalplaner, inden anlægget installeres. Fortsættelsen beskriver hvordan solcelleanlæg monteres, hvor inverteren placeres, og hvordan anlægget tilsluttes elnettet af en autoriseret elinstallatør. Energistyrelsen anbefaler at bruge en VE-godkendt installatør for at opnå den bedste effektivitet af solcelleanlægget. Derudover angives en liste over VE-godkendte virksomheder, der har dokumenterede kompetencer til at installere solcelleanlæg korrekt. ",
+    "meta": {
+        "id": 10067293612945735502,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/energiloesninger/solcelleanlaeg",
+        "title": "Solcelleanlæg",
+        "time_requested": "2024-04-16T11:48:27.721099",
+        "error": null,
+        "num_tokens_in": 3079,
+        "num_tokens_out": 377,
+        "estimated_input_cost_gpt4": 0.03079,
+        "estimated_output_cost_gpt4": 0.01131,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

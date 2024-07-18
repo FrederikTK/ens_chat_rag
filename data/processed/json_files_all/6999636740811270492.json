@@ -1,0 +1,15 @@
+{
+    "text": "Informationen handler om ansøgning af tilskud via Bygningspuljen, hvor der beskrives en række trin i processen. Puljen er dog lukket for nye ansøgninger på nuværende tidspunkt. Hvis man allerede har søgt tilskud og fået tilsagn, er der stadig nogle opgaver, der skal gennemføres korrekt for at modtage udbetalingen. Der gives tips til at undgå fejl og forsinkelser i sagsbehandlingen, samt information om typiske fejl og mangler i udbetalingsanmodninger. Der oplyses også om ventetiden på sagsbehandling, hvor der aktuelt er fokus på udbetalingsanmodninger fra uge 9 2024.\n\nAndre emner omhandler hvad man må og ikke må, mens man venter på tilsagn, processen i forbindelse med tilsagn (indgåelse af aftaler med håndværkere, gennemførelse af projektet og ansøgning om udbetaling), dokumentationskrav og frister for udførelse af projekter. Der er desuden information om muligheden for at overdrage tilsagnet til en ny ejer, grunde til eventuelle afslag, samt hvordan man søger om udbetaling og hvilken dokumentation der kræves.\n\nDet oplyses også om, hvor mange penge der er blevet brugt af puljen tidligere år, og hvilke svar man kan forvente at få på ens ansøgning (tilsagn, afslag eller behov for flere oplysninger). Derudover gives der råd om fejl man skal undgå, hvis man har søgt tilskud til en bestemt energieffektiv forbedring, men ender med at bruge en mindre effektiv løsning. Der er også en vejledning om, hvordan man søger om udbetaling, frister der skal overholdes, og oplysninger om, hvordan man får besked om udbetaling. Endelig er der en henvendelse til rådgivning med kontaktoplysninger, og muligheden for at bestille en ansøgningsvejledning.",
+    "meta": {
+        "id": 6999636740811270492,
+        "url": "https://old.sparenergi.dk/forbruger/boligen/tilskud/har-du-allerede-sogt-tilskud",
+        "title": "Har du allerede søgt tilskud?",
+        "time_requested": "2024-04-16T11:48:43.907977",
+        "error": null,
+        "num_tokens_in": 3322,
+        "num_tokens_out": 526,
+        "estimated_input_cost_gpt4": 0.03322,
+        "estimated_output_cost_gpt4": 0.01578,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

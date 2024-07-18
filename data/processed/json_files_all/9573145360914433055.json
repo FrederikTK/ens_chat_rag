@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen oplyser, at ydervægge i bygninger opført indtil 1979 ofte kan isoleres bedre. Hvis man bor i et hus med en muret ydervæg, anbefales det at isolere udvendigt ved at nedtage formuren, tilføje isolering og genopbygge formuren. Isolering af murede ydervægge kan medføre store besparelser, da en betydelig del af husets varmetab sker gennem væggene. Det anbefales at isolere udefra for at undgå kuldebroer, da det er 30% mere effektivt end at isolere indefra. Isoleringen skal være mindst 125 mm tyk og for lavenerginiveau anbefales en tykkelse på 225 mm. Renoveringsprocessen inkluderer at søge om tilladelse, lade en professionel håndværker gennemføre arbejdet for at undgå skader, og isolere sokkel samt tagrem samtidig med væggen for endnu større besparelser. Det påpeges desuden, at arbejdet kan ændre husets arkitektur, og man kan genbruge de gamle mursten for at bevare boligens udtryk. Energistyrelsen tilbyder desuden vejledninger til håndværkere og links til yderligere information og professionelle hjælp.",
+    "meta": {
+        "id": 9573145360914433055,
+        "url": "https://sparenergi.dk/privat/skal-du-renovere-din-bolig/isoler-din-murede-ydervaeg",
+        "title": "Isoler en muret ydervæg",
+        "time_requested": "2024-04-16T11:56:59.723024",
+        "error": null,
+        "num_tokens_in": 2097,
+        "num_tokens_out": 347,
+        "estimated_input_cost_gpt4": 0.020970000000000003,
+        "estimated_output_cost_gpt4": 0.01041,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

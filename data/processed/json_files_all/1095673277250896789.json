@@ -1,0 +1,15 @@
+{
+    "text": "No content available to summarize.",
+    "meta": {
+        "id": 1095673277250896789,
+        "url": "https://old.sparenergi.dk/forbruger/varme/elvarme",
+        "title": "Elvarme | Energistyrelsen",
+        "time_requested": "2024-04-16T11:51:20.238180",
+        "error": "HTTPSConnectionPool(host='old.sparenergi.dk', port=443): Max retries exceeded with url: /forbruger/varme/elvarme (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0xffff7db26790>, 'Connection to old.sparenergi.dk timed out. (connect timeout=10)'))",
+        "num_tokens_in": 0,
+        "num_tokens_out": 6,
+        "estimated_input_cost_gpt4": 0.0,
+        "estimated_output_cost_gpt4": 0.00018,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

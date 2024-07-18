@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen oplyser, at alle nybyggede boliger skal energimærkes for at vise husets energimæssige stand og bekræfte, at det lever op til energikravene i det nuværende Bygningsreglement. Når et nybygget hus er færdigbygget, skal det færdigmeldes til kommunen, og energimærket skal modtages og godkendes af kommunen. Bygningsejeren skal sørge for at få en energimærkningskonsulent ud for at udføre energimærkningen. Hvis huset ikke lever op til energikravene, skal eventuelle fejl udbedres, og der skal udarbejdes et nyt, tilfredsstillende energimærke. Hvis huset ikke er energimærket, når en lejekontrakt eller slutseddel underskrives, skal bygningsejeren betale for en energimærkning. Det påpeges, at det er ulovligt at flytte ind i en nybygget bolig, før den er færdigmeldt, og konsekvensen kan være politianmeldelse og bøde. Energistyrelsen opfordrer til at finde et energimærkningsfirma og læse mere om energimærkning af boliger på deres hjemmeside. Energistyrelsen kan kontaktes på Carsten Niebuhrs Gade 43, 1577 København V, og har en hjemmeside på www.ens.dk.",
+    "meta": {
+        "id": 9817182656271235732,
+        "url": "https://sparenergi.dk/forbruger/boligen/energimaerkning-boliger/energimaerkning-af-nybyggeri",
+        "title": "Energimærkning af nybyggeri | Energistyrelsen",
+        "time_requested": "2024-04-16T11:59:19.000362",
+        "error": null,
+        "num_tokens_in": 1370,
+        "num_tokens_out": 361,
+        "estimated_input_cost_gpt4": 0.0137,
+        "estimated_output_cost_gpt4": 0.010830000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

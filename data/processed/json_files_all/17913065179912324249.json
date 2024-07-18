@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en guide til håndtering af varmtvandsbeholdere. Guiden anbefaler at overveje udskiftning af en varmtvandsbeholder, der er over 10 år gammel, da ældre beholdere er ineffektive og dårligt isolerede. Derudover opfordres folk til at tjekke vandets temperatur, da den optimale temperatur i en varmtvandsbeholder er 55°C for at undgå energispild og bakterievækst. Anvisningerne inkluderer en trin-for-trin guide til at justere temperaturen. Energistyrelsen opfordrer brugerne til at tilmelde sig nyhedsmailen for at få mere information om energibesparelse.",
+    "meta": {
+        "id": 17913065179912324249,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/goer-det-selv-guides/varmt-vand",
+        "title": "Varmt vand | Energistyrelsen",
+        "time_requested": "2024-04-16T11:49:23.512216",
+        "error": null,
+        "num_tokens_in": 1580,
+        "num_tokens_out": 177,
+        "estimated_input_cost_gpt4": 0.0158,
+        "estimated_output_cost_gpt4": 0.0053100000000000005,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

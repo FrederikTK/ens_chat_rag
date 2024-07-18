@@ -1,0 +1,15 @@
+{
+    "text": "API error: Error code: 400 - {'error': {'message': \"This model's maximum context length is 16385 tokens. However, your messages resulted in 35609 tokens. Please reduce the length of the messages.\", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}",
+    "meta": {
+        "id": 3554017933681624823,
+        "url": "https://sparenergi.dk/product-list-pager-ajax?manufacturer%5B0%5D=10831&manufacturer%5B1%5D=10837&manufacturer%5B2%5D=10856&manufacturer%5B3%5D=10840&manufacturer%5B4%5D=10867&manufacturer%5B5%5D=10927&manufacturer%5B6%5D=10843&manufacturer%5B7%5D=10887&manufacturer%5B8%5D=10835&manufacturer%5B9%5D=10842&manufacturer%5B10%5D=10928&manufacturer%5B11%5D=10841&manufacturer%5B12%5D=10833&manufacturer%5B13%5D=10836&manufacturer%5B14%5D=10844&items_per_page=20&type=43&sort=1&power=6-12&sorting_option=6&manufacturers%5B0%5D=10831&manufacturers%5B1%5D=10837&manufacturers%5B2%5D=10856&manufacturers%5B3%5D=10840&manufacturers%5B4%5D=10867&manufacturers%5B5%5D=10927&manufacturers%5B6%5D=10843&manufacturers%5B7%5D=10887&manufacturers%5B8%5D=10835&manufacturers%5B9%5D=10842&manufacturers%5B10%5D=10928&manufacturers%5B11%5D=10841&manufacturers%5B12%5D=10833&manufacturers%5B13%5D=10836&manufacturers%5B14%5D=10844&max_pager_elements=5&page=2&items_per_page_show%5B10%5D=10&items_per_page_show%5B15%5D=15&items_per_page_show%5B20%5D=20&items_per_page_show%5B30%5D=30&items_per_page_show%5B40%5D=40&items_per_page_show%5BAll%5D=All&kw=9",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:57:01.037321",
+        "error": null,
+        "num_tokens_in": 35552,
+        "num_tokens_out": 70,
+        "estimated_input_cost_gpt4": 0.35552,
+        "estimated_output_cost_gpt4": 0.0021,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

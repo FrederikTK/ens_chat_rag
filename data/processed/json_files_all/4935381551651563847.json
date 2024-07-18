@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen i Danmark opfordrer boligejere til at overveje at skifte varmetype, hvis de stadig bruger olie, gas eller gamle elpaneler. Det anbefales at vælge en mere fremtidssikret og billig samt klimavenlig varmeløsning. Der er forskellige varmetyper at vælge imellem såsom fjernvarme, varmepumper, solvarme og biobrændsel. Fordelene ved at skifte varmetype inkluderer en lavere varmeregning, en mindre CO2-udledning samt minimal vedligeholdelse. Energistyrelsen tilbyder også tilskud til at skifte til en mere energivenlig varmekilde og gratis rådgivning om energioptimering. Man kan også producere sin egen energi med f.eks. solceller eller solvarme. Energistyrelsen opfordrer til at undersøge mulighederne for at skifte varmetype og få gavn af de økonomiske og miljømæssige fordele.",
+    "meta": {
+        "id": 4935381551651563847,
+        "url": "https://old.sparenergi.dk/forbruger/varme/skal-du-skifte-varmetype",
+        "title": "Skal du skifte varmetype? | Energistyrelsen",
+        "time_requested": "2024-04-16T11:52:59.307570",
+        "error": null,
+        "num_tokens_in": 1718,
+        "num_tokens_out": 258,
+        "estimated_input_cost_gpt4": 0.01718,
+        "estimated_output_cost_gpt4": 0.00774,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

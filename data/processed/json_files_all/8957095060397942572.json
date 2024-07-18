@@ -1,0 +1,15 @@
+{
+    "text": "Energimærkning af bygninger viser, hvor meget energi en bygning bruger og hvor man med fordel kan energioptimere. Offentlige bygninger med et etageareal på 60-250 m² skal energimærkes ved salg og udlejning, mens bygninger over 250 m² altid skal have en gyldig energimærkning, med mindre de er undtaget. Energimærket viser bygningens energimæssige tilstand og har til formål at synliggøre energiforbrug og hvilke forbedringer der kan gennemføres, samt hvilke besparelser det kan medføre. Energimærket viser en skala fra A til G, hvor A er opdelt i A2020, A2015 og A2010, hvor A2020 har det laveste energiforbrug og G det højeste. Energimærkningsrapporten har fået et nyt format fra 2021 for at fremme flere konkrete energiforbedringer. Alle offentlige bygninger skal energimærkes, også nyopførte, før de tages i brug. Reglerne for energimærkning afhænger af bygningens størrelse, og energimærket udløber efter 10 år. Energimærket skal være synligt for bygningens brugere, og hvis mere end 25 % af bygningen sælges eller udlejes, skal der energimærkes med beregnet forbrug. Energistyrelsen anbefaler at bruge energimærket til at undersøge hvordan man kan reducere varmeregningen og gøre bygningen mere energieffektiv.",
+    "meta": {
+        "id": 8957095060397942572,
+        "url": "https://old.sparenergi.dk/offentlig/bygninger/energimaerkning-af-bygninger",
+        "title": "Energimærkning af bygninger | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:30.079343",
+        "error": null,
+        "num_tokens_in": 1230,
+        "num_tokens_out": 407,
+        "estimated_input_cost_gpt4": 0.0123,
+        "estimated_output_cost_gpt4": 0.01221,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

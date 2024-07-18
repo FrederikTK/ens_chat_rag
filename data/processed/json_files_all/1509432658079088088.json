@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har en dedikeret sektion på deres hjemmeside om offentligt energiforbrug. Målsætningen er at nedbringe energiforbruget, hvor det offentlige agerer som frontløber. Der er to overordnede målsætninger for det offentlige: Energi­effektiviserings­direktivets målsætning, som kræver at den statslige forvaltnings bygningsmasse energieffektiviseres med 42.480 MWh fra 2020 til 2030, samt det nationale mål, hvor de statslige institutioner skal reducere deres energiforbrug med 10% i 2030 i forhold til forbruget i 2020. Der bliver udarbejdet energimærker for at evaluere bygningernes energitilstand og forbrug, og udviklingen i energimærker på tværs af institutioner kan ses. Der er også angivet detaljeret data om energiforbrug i 2022, herunder varme-, el- og vandforbrug, graddagekorrigering, samt udvikling siden 2021 for hver kategori. Energistyrelsen giver adgang til download af datagrundlag for dem, der ønsker at arbejde videre med informationen. Ministries indberetter deres vand- og energiforbrug, hvor årsværk typisk repræsenterer antallet af ansatte. Dataene indberettet til Offentligt Energiforbrug bruges som datagrundlag for årlig rapportering af statens energiforbrug til Folketinget. Energistyrelsens SparEnergi-initiativ giver inspiration, viden og råd til at optimere energiforbruget og giver også mulighed for gratis rådgivning. Energistyrelsen opfordrer brugere til at indhente yderligere information om målsætninger og indsatsen generelt på deres hjemmeside.",
+    "meta": {
+        "id": 1509432658079088088,
+        "url": "https://old.sparenergi.dk/offentlig/vaerktoejer/offentligt-energiforbrug/staten",
+        "title": "Staten - Offentligt Energiforbrug - Sparenergi.dk",
+        "time_requested": "2024-04-16T11:57:37.000292",
+        "error": null,
+        "num_tokens_in": 1876,
+        "num_tokens_out": 471,
+        "estimated_input_cost_gpt4": 0.018760000000000002,
+        "estimated_output_cost_gpt4": 0.01413,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

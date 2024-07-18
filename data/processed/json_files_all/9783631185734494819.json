@@ -1,0 +1,15 @@
+{
+    "text": "Der er tilgængelige tjeklister fra Energistyrelsen, der kan hjælpe virksomheder med at vurdere energieffektiviteten af deres bygninger, processer og installationer. Disse tjeklister inkluderer:\n\n1. Tjekliste for automatik\n   - Kan downloades i pdf-format, og man kan bruge tjeklisten selv eller få en specialist til at vurdere automatikken.\n\n2. Tjekliste for belysningsanlæg\n   - Kan downloades i pdf-format, og man kan selv anvende tjeklisten eller få en specialist til at gennemgå belysningsanlægget.\n\n3. Tjekliste for klimaskærm\n   - Kan downloades i pdf-format, og man kan bruge tjeklisten eller få en specialist til at foretage en energieftersyn af klimaskærmen.\n\n4. Tjekliste for køling\n   - Kan downloades i pdf-format, og man kan anvende tjeklisten eller få en specialist til at vurdere køleanlægget.\n\n5. Tjekliste for køling af serverrum\n   - Kan downloades i pdf-format, og man kan bruge tjeklisten eller få en specialist til at gennemgå køling af serverrummet.\n\n6. Tjekliste for trykluft\n   - Kan downloades i pdf-format, og man kan selv benytte tjeklisten eller få en specialist til at vurdere trykluften.\n\n7. Tjekliste for ventilation\n   - Kan downloades i pdf-format, og man kan bruge tjeklisten eller få en specialist til at gennemgå ventilationsanlægget.\n\n8. Tjekliste til varmeanlæg\n   - Kan downloades i pdf-format, og man kan anvende tjeklisten eller få en specialist til at vurdere varmeanlægget.\n\nDer er også information om at skifte til LED-belysning for at spare på elforbruget samt mulighed for at tilmelde sig Energistyrelsens nyhedsmail om energibesparelser og CO2-reduktioner. Energistyrelsen er beliggende på Carsten Niebuhrs Gade 43, 1577 København V, og yderligere information kan findes på deres hjemmeside www.ens.dk.",
+    "meta": {
+        "id": 9783631185734494819,
+        "url": "https://old.sparenergi.dk/erhverv/vaerktojer/tjeklister",
+        "title": "Tjeklister | Energistyrelsen",
+        "time_requested": "2024-04-16T11:57:22.600263",
+        "error": null,
+        "num_tokens_in": 1738,
+        "num_tokens_out": 542,
+        "estimated_input_cost_gpt4": 0.017380000000000003,
+        "estimated_output_cost_gpt4": 0.01626,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

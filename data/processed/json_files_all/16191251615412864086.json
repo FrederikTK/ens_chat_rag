@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om energimærkning af vandvarmere. Energimærkningen hjælper forbrugere med at vælge den mest energieffektive vandvarmer. En vandvarmer opvarmer brugsvand ved hjælp af en varmeproducerende enhed som en gas- eller oliebrænder eller et varmelegeme. Vandvarmere bør have energiklasse A eller B, mens pakkeløsninger, der kombinerer vandvarmer med solvarmeanlæg, bør have energiklasse A+++ eller A++. \n\nEnergimærket viser information om vandvarmerens energiklasse, størrelse i liter, årligt elforbrug, støjniveau og forbrugsprofil. Forbrugsprofiler indikerer typisk brugsscenarier som håndvask, bruser, bad osv. Energimærkning er obligatorisk for hårde hvidevarer, varmeanlæg, belysning m.m. Energimærket for vandvarmere viser energieffektiviteten på en skala fra A+ til F. Pakkeløsninger, der kombinerer solvarme med vandvarmer, skal have et pakkemærke, der viser energiklassen for både vandvarmeren og den samlede løsning. Den bedste energiklasse for pakkeløsninger er A+++. Energistyrelsen fører kontrol med energimærkningen for at sikre korrekte oplysninger og overholdelse af kravene. Den seneste opdatering af informationen er den 17.01.2020.",
+    "meta": {
+        "id": 16191251615412864086,
+        "url": "https://sparenergi.dk/forbruger/varme/varmt-vand/energimaerkning-af-vandvarmere",
+        "title": "Energimærkning af vandvarmere | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:25.190769",
+        "error": null,
+        "num_tokens_in": 1753,
+        "num_tokens_out": 393,
+        "estimated_input_cost_gpt4": 0.01753,
+        "estimated_output_cost_gpt4": 0.01179,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

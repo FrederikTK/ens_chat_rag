@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen på SparEnergi.dk tilbyder information og værktøjer om energimærkning af bygninger, herunder for forbrugere, offentlige institutioner og erhvervsvirksomheder. Hjemmesiden indeholder råd og vejledning om energieffektive renoveringer, energikrav i bygningsreglementet, tilskudsmuligheder, isolering, vinduer, ventilation, varmekilder, el-forbrug, apparater, belysning, energirådgivning, ESCO-løsninger og meget mere. Der er også information om energimærkning af boliger, varmeanlæg, biobrændselskedler, elforbrug, energipriser og energiløsninger. For virksomheder tilbyder Energistyrelsen information om energieffektive løsninger til industrien, handel, service, landbrug og byggeri. Derudover giver hjemmesiden adgang til værktøjer som håndværkerlister, VE-virksomhedsliste, energimærkefirmaer og diverse beregnere som varmepumpelisten, låneberegner, apparatberegner og elforbrugsberegner. Energistyrelsen oplyser desuden om energimærket, BedreBolig, Bygningsguiden, casebanken og gør-det-selv guides. Der kan også søges efter energimærker, energimærkningsfirmaer, energimærkeapparatberegninger og elpriser på hjemmesiden. Energistyrelsen oplyser desuden om en ny version af deres hjemmeside og opfordrer til at rydde browserens cache for at komme til den nye version. Energistyrelsen har adresse på Carsten Niebuhrs Gade 43, 1577 København V og hjemmesiden www.ens.dk.",
+    "meta": {
+        "id": 3238717911452944194,
+        "url": "https://old.sparenergi.dk/login/password",
+        "title": "Log ind | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:26.245866",
+        "error": null,
+        "num_tokens_in": 762,
+        "num_tokens_out": 448,
+        "estimated_input_cost_gpt4": 0.007620000000000001,
+        "estimated_output_cost_gpt4": 0.01344,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

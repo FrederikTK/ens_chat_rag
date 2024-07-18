@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen oplyser om, hvordan man kan spare energi på opvasken enten ved at bruge opvaskemaskinen korrekt eller vaske op i hånden på den mest energieffektive måde. Ved at bruge opvaskemaskinen sparer man både vand og CO2, da den generelt bruger mindre vand end opvask i hånden. Det er vigtigt at fylde opvaskemaskinen helt op for at spare energi, og man behøver ikke skylle servicet af inden vask. Det anbefales heller ikke at vaske op under rindende vand, da det koster ca. 1,8 kr. pr. minut at gøre det. For opvask i hånden er det en god idé at bruge et eco-program eller et program med lavere temperatur for at spare strøm.\n\nHvis opvaskemaskinen går i stykker, kan det ofte betale sig at reparere den i stedet for at købe en ny, da produktionen af hvidevarer er ressourcekrævende. Energistyrelsen giver også tips til, hvilke reservedele man selv kan udskifte og hvilke kræver professionel assistance. Når man skal købe en ny opvaskemaskine, anbefales det at vælge en model med energimærke C eller B, da de er energieffektive og dermed bedst for både klimaet og økonomien på lang sigt. Man bør desuden overveje hvor stor en opvaskemaskine man har behov for, og man kan regne på hele prisen for at sammenligne totaløkonomien for de forskellige modeller. Energistyrelsen oplyser også om, at korte programmer til opvask ikke nødvendigvis bruger mindre energi end lange eco-programmer, da eco-programmet er den bedste måde at spare strøm på opvasken og opnå en høj opvaskekvalitet. Hvis man skal skrotte sin opvaskemaskine, bør den afleveres på genbrugsstationen eller til storskrald, så materialerne kan genbruges.",
+    "meta": {
+        "id": 15573843832446529491,
+        "url": "https://sparenergi.dk/forbruger/el/madlavning/gode-rad-om-madlavning",
+        "title": "Gode råd om madlavning | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:10.627568",
+        "error": null,
+        "num_tokens_in": 2421,
+        "num_tokens_out": 514,
+        "estimated_input_cost_gpt4": 0.024210000000000002,
+        "estimated_output_cost_gpt4": 0.01542,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

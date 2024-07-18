@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen beskriver Bygningsreglementets energikrav til varmerør og rør til varmt brugsvand. Kravet er, at varmerør og rør til varmt brugsvand skal isoleres, hvis det er økonomisk rentabelt. Isoleringen skal ske uden for det rum, de forsyner, og eventuelle cirkulationsrør skal også isoleres inden for det rum, de forsyner. Rør med en diameter mindre end 22 mm bør isoleres med 40 mm isolering, mens rør med en diameter mindre end 35 mm bør isoleres med 50 mm isolering. Kravene gælder ved installation af nye rør eller ved udskiftning af eksisterende rør. Artiklen nævner også et eksempel fra Kingosparken i Taastrup, hvor fokus var på forbedringer med kort tilbagebetalingstid og dokumenteret effekt, og Arne Larsen deltager i projekter for at sikre god økonomi.",
+    "meta": {
+        "id": 272093781161061814,
+        "url": "https://sparenergi.dk/forbruger/boligen/bygningsreglementets-energikrav/installationer/varmeroer-og-roer-til-varmt",
+        "title": "Varmerør og rør til varmt brugsvand | Energistyrelsen",
+        "time_requested": "2024-04-16T11:53:57.369189",
+        "error": null,
+        "num_tokens_in": 827,
+        "num_tokens_out": 241,
+        "estimated_input_cost_gpt4": 0.008270000000000001,
+        "estimated_output_cost_gpt4": 0.00723,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

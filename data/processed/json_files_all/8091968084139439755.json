@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en række guides og tjeklister i forbindelse med energimærkning af bygninger. En af disse guider omhandler tjek af varmeanlæg. Guiden indeholder følgende punkter:\n\n1. Tjek alderen på varmeanlægget:\n   - Fjernvarme: Enhedens alder kan findes på mærkepladen. Anbefales at udskifte uniten før 1990.\n   - Naturgas: Alderen kan findes på gaskedlens mærkeplade. Anbefales at skifte til varmepumpe eller fjernvarme, hvis over 15 år gammel.\n   - Olie: Alderen kan findes på oliekedlens mærkeplade. Anbefales at skifte til varmepumpe eller fjernvarme, hvis over 15 år gammel.\n\n2. Eftersyn:\n   - Fjernvarme: Tjek seneste eftersyn på regningen eller hos serviceudbyder. Anbefales at få tjekket anlægget af en fagmand hvert eller hvert andet år.\n   - Naturgas: Tjek seneste eftersyn på regningen eller hos gasselskabet. Anbefales mindst hvert andet år.\n   - Olie: Tjek seneste eftersyn på regningen eller hos serviceudbyder. Anbefales regelmæssigt eftersyn.\n\n3. Automatik:\n   - Natsænkning: Indstil anlægget til at sænke temperaturen om natten og ved ferie.\n   - Klimastyring: Undersøg om anlægget har denne funktion, og hvis ikke, kan det eftermonteres af en VVS'er.\n   - Sommerdrift: Anvend sommerdrift på varmeanlæg om sommeren.\n\n4. Vand og returvand:\n   - Tjek trykket i radiatorsystemet og fyld vand på anlægget ved behov.\n   - Få vvs'er til at justere anlægget, hvis returvandet ikke er tilstrækkeligt afkølet.\n\nGuiden giver detaljerede instruktioner for hver type varmesystem og kommer med anbefalinger til vedligeholdelse og forbedringer.",
+    "meta": {
+        "id": 8091968084139439755,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/goer-det-selv-guides/varmeanlaeg",
+        "title": "Varmeanlæg | Energistyrelsen",
+        "time_requested": "2024-04-16T11:51:41.986993",
+        "error": null,
+        "num_tokens_in": 2429,
+        "num_tokens_out": 549,
+        "estimated_input_cost_gpt4": 0.024290000000000003,
+        "estimated_output_cost_gpt4": 0.016470000000000002,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

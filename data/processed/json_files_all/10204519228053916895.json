@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om energimærkning af ovne, som hjælper forbrugere med at vælge en el- eller gasovn med lavt elforbrug. Energimærket viser ovnens årlige strømforbrug på en skala fra A+++ til D samt ovnens kapacitet. Anbefalingen er at vælge en ovn med energimærke A+ eller bedre for at opnå lavt elforbrug. Der er specificeret eksempler på strømforbruget for ovne af forskellige størrelser. Energimærkningsordningen er obligatorisk og gælder for forskellige apparater. Sikkerhedsstyrelsen fører kontrol med energimærkningen for at sikre, at apparaterne overholder kravene for energiklasser. Informationen er opdateret senest den 22. november 2023. Energistyrelsen tilbyder også yderligere information om energimærkning generelt og en mulighed for at tilmelde sig nyhedsmail for at lære mere om energibesparelse.",
+    "meta": {
+        "id": 10204519228053916895,
+        "url": "https://old.sparenergi.dk/forbruger/el/madlavning/energimaerkning-af-ovne",
+        "title": "Energimærkning af ovne | Energistyrelsen",
+        "time_requested": "2024-04-16T11:58:52.175593",
+        "error": null,
+        "num_tokens_in": 1434,
+        "num_tokens_out": 266,
+        "estimated_input_cost_gpt4": 0.01434,
+        "estimated_output_cost_gpt4": 0.007980000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen giver gode råd til at sikre et sundt indeklima, uanset om man har mekanisk ventilation eller ej. Det anbefales at lufte ud med gennemtræk hver dag, også om vinteren, samt at være opmærksom på at lufte ud efter madlavning og badning. Temperaturen i hjemmet bør holdes på 18-20 °C, og det anbefales at indstille termostaterne ens i alle rum. Det er vigtigt at gøre grundigt rent én gang om ugen, undgå træk ved at have tætte døre, vinduer og gulve og undgå at placere møbler op ad kolde ydervægge.\n\nFor at begrænse fugt anbefales det at tørre tøj udendørs og undgå skadelige byggematerialer såsom asbest, bly og PCB. Energistyrelsen fremhæver også vigtigheden af lufttilførsel til fugtige rum som køkken og bad samt anbefaler at overveje et ventilationsanlæg med varmegenvinding i nyere eller renoverede tætte huse. I ældre huse kan naturlig ventilation være tilstrækkelig, men det anbefales at sørge for et højt nok luftskifte ved at lufte ud regelmæssigt.\n\nFor lejligheder anbefales mekanisk ventilation især ved udskiftning af vinduer for at opretholde et godt indeklima. Hvis vinduerne bliver mere tætte, kan naturlig ventilation ikke altid sikre tilstrækkelig luftskifte, og dermed kan det være en god idé at installere et ventilationsanlæg med varmegenvinding. Energistyrelsen opfordrer til at være opmærksom på indeklimaet og tage de nødvendige tiltag for at sikre et sundt indeklima.",
+    "meta": {
+        "id": 12922105556490697340,
+        "url": "https://sparenergi.dk/forbruger/boligen/ventilation-og-indeklima",
+        "title": "Ventilation og indeklima | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:37.535935",
+        "error": null,
+        "num_tokens_in": 2334,
+        "num_tokens_out": 467,
+        "estimated_input_cost_gpt4": 0.023340000000000003,
+        "estimated_output_cost_gpt4": 0.01401,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

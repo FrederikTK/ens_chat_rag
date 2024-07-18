@@ -1,0 +1,15 @@
+{
+    "text": "Erhvervspuljen tilbyder økonomisk tilskud til danske virksomheder, der ønsker at spare energi og reducere CO2-udledningen. Puljen har en ramme på 640 millioner kroner i 2024 og støtter projekter med op til 50 % af omkostningerne. Tilskuddet afhænger af energi- eller CO2-besparelsen og virksomhedens størrelse. Små virksomheder kan få op til 50 %, mellemstore virksomheder op til 40 %, og store virksomheder op til 30 % i tilskud. Projekter, der kan modtage tilskud, inkluderer fx udskiftning af varmekilder til varmepumper, udskiftning af ældre belysning til LED og intern udnyttelse af overskudsvarme. Puljen giver ikke tilskud til solceller. Søgning om tilskud består af flere trin, herunder forberedelse, ansøgning, gennemførelse af projektet og ansøgning om udbetaling. Der tilbydes hjælpeværktøjer såsom beregnere, vejledninger og trin-for-trin-guider for at støtte virksomheder gennem processen. Derudover er der tidssatser og standardforudsætninger fastlagt. Virksomheder kan også få ekstern hjælp fra energirådgivere eller installatører. Erhvervspuljen er medfinansieret af Den Europæiske Unions genopretningsplan og har en målsætning om at fremme den grønne omstilling af det danske erhvervsliv. Virksomhederne kan abonnere på nyhedsmailen for løbende information om Erhvervspuljen og grøn omstilling. Energistyrelsen står for administrationen af Erhvervspuljen, og SparEnergi tilbyder yderligere rådgivning og inspiration til energibesparelser.",
+    "meta": {
+        "id": 13797764249942620077,
+        "url": "https://sparenergi.dk/erhverv/faa-tilskud-til-den-groenne-omstilling",
+        "title": "Site under opdatering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:15.307417",
+        "error": null,
+        "num_tokens_in": 4772,
+        "num_tokens_out": 500,
+        "estimated_input_cost_gpt4": 0.047720000000000005,
+        "estimated_output_cost_gpt4": 0.015000000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

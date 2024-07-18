@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen oplyser, at hvis man opvarmer sit hjem med olie, gas eller gamle elpaneler, så er det tid til at skifte varmekilde. Man kan få hjælp til at vælge en mere fremtidssikret og billig samt klimavenlig varmeforsyning. Der er forskellige varmekilder at vælge imellem, herunder fjernvarme, varmepumper, solvarme, biobrændsel m.m. Ved at skifte varmekilde kan man både spare penge på varmeregningen, hjælpe miljøet ved at reducere CO2-udledningen, samt slippe for vedligeholdelsen forbundet med f.eks. olie- eller træpillefyr. Energistyrelsen tilbyder desuden beregninger af, hvad man kan spare ved at skifte varmetype samt informerer om muligheder for tilskud til skiftet. Derudover kan man få gratis rådgivning og vejledning fra erfarne energirådgivere, samt lære om mulighederne for at producere sin egen energi ved hjælp af vedvarende energikilder som f.eks. solceller og solvarme. Energistyrelsen opfordrer til at undersøge og overveje alternativer til de gamle varmekilder for at opnå både økonomiske besparelser og klimavenlige løsninger.",
+    "meta": {
+        "id": 9904531617565750177,
+        "url": "https://sparenergi.dk/forbruger/varme/skal-du-skifte-varmetype",
+        "title": "Skal du skifte varmetype? | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:18.543011",
+        "error": null,
+        "num_tokens_in": 1718,
+        "num_tokens_out": 341,
+        "estimated_input_cost_gpt4": 0.01718,
+        "estimated_output_cost_gpt4": 0.01023,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

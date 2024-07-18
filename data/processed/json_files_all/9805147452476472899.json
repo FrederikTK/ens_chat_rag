@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har iværksat en ordning med energieffektivitetsplaner for ministerier, hvor hvert ministerium skal udarbejde en plan for energispareindsatsen fra 2021-2030. Den første plan blev indberettet i 2022 og opdateres hvert andet år frem til 2030. Planerne inkluderer en frivillig udfasning af olie- og gasfyr i ministeriernes bygninger henholdsvis inden 2025 og 2030. Data til planerne hentes fra Offentligt Energiforbrug-databasen. Reglerne for indsatsen og udarbejdelsen af energieffektivitetsplanerne findes i cirkulæret om energieffektivisering i statens institutioner og den tilhørende vejledning. Energistyrelsen tilbyder rådgivning og information om energieffektivitet, og denne information er tilgængelig på deres hjemmeside SparEnergi.dk.",
+    "meta": {
+        "id": 9805147452476472899,
+        "url": "https://ny.sparenergi.dk/energieffektivitets-planer",
+        "title": "Energieffektivitets-planer | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:01.753209",
+        "error": null,
+        "num_tokens_in": 689,
+        "num_tokens_out": 242,
+        "estimated_input_cost_gpt4": 0.00689,
+        "estimated_output_cost_gpt4": 0.00726,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Erhvervspuljen er et økonomisk tilskud til danske virksomheder, som ønsker at spare energi og CO2. Puljen lyder på mere end 600 mio. kr. i 2024 og dækker op til 50 % af de støtteberettigede omkostninger, hvor virksomheder kan modtage mellem 10.000 kr. og 112 mio. kr. i tilskud. Formålet med puljen er at fremme den grønne omstilling af dansk erhvervsliv. Der er udviklet materialer til brug for interesserede virksomheder, herunder en explainervideo, teaservideoer, en kernefortælling, en basispræsentation og en FAQ. Der er også mulighed for at kontakte kommunikationskonsulenten Rasmus Siggaard for yderligere information. Informationen om Erhvervspuljen er opdateret senest d. 11.03.2024, og der er også tilgængelige statusrapporter for forskellige sektorer, herunder erhvervsejendomsudlejere, fremstillingsindustrien og landbruget fra februar 2023.",
+    "meta": {
+        "id": 11430198249058661252,
+        "url": "https://sparenergi.dk/partner/erhvervspuljen",
+        "title": "Erhvervspuljen",
+        "time_requested": "2024-04-16T11:59:37.535383",
+        "error": null,
+        "num_tokens_in": 1196,
+        "num_tokens_out": 282,
+        "estimated_input_cost_gpt4": 0.01196,
+        "estimated_output_cost_gpt4": 0.00846,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

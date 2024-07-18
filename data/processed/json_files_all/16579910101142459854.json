@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen omhandler isolering og vedligeholdelse af ydervæggene i landhuse. Før 1900 var ydervæggene typisk massive, mens de efter 1900 kunne være med hulmur. Der gives detaljer om væggenes tykkelse, materialer og byggeperioder. Ydervæggene kan være pudsede og malebehandlede eller bestå af synlige mursten. Der gives råd om vedligeholdelse af pudsede og blanke murværk, herunder reparation af revner, malerbehandling og forebyggelse af murbiangreb. Der nævnes mulige forbedringer som hulmursisolering, udvendig efterisolering og indvendig efterisolering med fokus på tekniske udfordringer og fugthensyn. Der gives også råd om isolering af brystninger og frontkviste under vinduer. Samtidig opfordres læseren til at undersøge muligheder for tilskud til energirenoveringer og gives eksempler på energirenoveringer i landhuse fra 1850-1920. Desuden tilbydes nyhedsmailabonnement på SparEnergi.dk.",
+    "meta": {
+        "id": 16579910101142459854,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/bygningsguiden/landhus/ydervaegge",
+        "title": "Ydervægge | Energistyrelsen",
+        "time_requested": "2024-04-16T11:53:29.222096",
+        "error": null,
+        "num_tokens_in": 4787,
+        "num_tokens_out": 283,
+        "estimated_input_cost_gpt4": 0.04787,
+        "estimated_output_cost_gpt4": 0.008490000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

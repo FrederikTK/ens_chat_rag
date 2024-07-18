@@ -1,0 +1,15 @@
+{
+    "text": "Luft til luft-varmepumper er en billig og pålidelig måde at opvarme boligen på, især egnet til områder uden fjernvarme og uden et vandbåret varmesystem. En luft til luft-varmepumpe kræver plads til en udedel på grunden, som overholder støjgrænserne, og varmer kun det rum, den er installeret i. Fordelen ved en luft til luft-varmepumpe er, at den er miljøvenlig, nem at installere og giver mere varme for pengene (4-6 kWh varme for 1 kWh strøm). Installationen involverer montering af både udedel og indedel af en VE-godkendt installatør, som sikrer korrekt installation og drift. Luft til luft-varmepumper kan reducere elafgiften og bør efterses årligt. Det anbefales at vælge en varmepumpe med energimærke A+ eller bedre, der er egnet til dansk klima, og opfylder kravene i Bygningsreglementet. Energistyrelsen anbefaler at vælge en uafhængig testet varmepumpe fra Varmepumpelisten. Installationen bør kun udføres af en VE-godkendt installatør med erfaring, gerne en installatør fra en virksomhed på listen.",
+    "meta": {
+        "id": 5928503224641968748,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/energiloesninger/luft-til-luft-varmepumpe",
+        "title": "Luft til luft-varmepumpe",
+        "time_requested": "2024-04-16T11:48:39.394258",
+        "error": null,
+        "num_tokens_in": 2641,
+        "num_tokens_out": 339,
+        "estimated_input_cost_gpt4": 0.026410000000000003,
+        "estimated_output_cost_gpt4": 0.01017,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Ydervæggene på et bindingsværkshus består af træ, kaldet bindingsværk, med mursten eller andet i de lodrette felter mellem træet, kaldet tavler. Træet i væggene er enten eg eller fyr, hvor eg bruges i de mest udsatte dele. Bindingsværket består af lodrette stolper med vandrette remme i bunden og toppen af væggen samt skråt tømmer ved hjørnerne for at stabilisere konstruktionen.\n\nPå Sjælland kan bindingsværket være kalket i samme farve som tavlerne, mens det på Fyn og i Jylland ofte er malet i en kontrastfarve. Tavlerne mellem bindingsværket kan være lavet af halm og ler eller erstattet med ubrændte eller brændte mursten. Bindingsværkshusene kan være pudsede og kalkede i forskellige farver og har ofte bræddebeklædte gavle.\n\nFor at vedligeholde bindingsværkshuset anbefales det at tjekke og reparere træværket, lukke revner, beskytte træet mod fugt og sol, male med diffusionsåbne malinger, kontrollere og reparere pudsen på tavlerne, og holde murværket i god stand. Ved forbedringer som indvendig efterisolering skal der opretholdes en god ventilationsbalance for at undgå fugtproblemer.\n\nDer gives også råd om tilskudsmuligheder og links til cases, hvor andre har udført energirenoveringer på bindingsværkshuse. Energistyrelsen anbefaler at holde træværket og overfladerne varme for at undgå fugtproblemer og mørkfarvning på den kolde overflade.",
+    "meta": {
+        "id": 4472527627211483634,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/bygningsguiden/bindingsvaerkshus/ydervaegge",
+        "title": "Ydervægge | Energistyrelsen",
+        "time_requested": "2024-04-16T11:57:57.140737",
+        "error": null,
+        "num_tokens_in": 4673,
+        "num_tokens_out": 454,
+        "estimated_input_cost_gpt4": 0.04673,
+        "estimated_output_cost_gpt4": 0.01362,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

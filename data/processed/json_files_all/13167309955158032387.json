@@ -1,0 +1,15 @@
+{
+    "text": "Opvarmning af bygninger er en vigtig faktor at optimere for at spare penge og reducere CO2-udledningen. En effektiv løsning er at skifte til fjernvarme eller varmepumpe, da disse opvarmningsformer er billigere og mere CO2-venlige end olie, naturgas eller elvarme. Det anbefales at kontakte fjernvarmeselskabet for at høre mere om konvertering og priser, hvis man ønsker at skifte til fjernvarme. Alternativt kan varmepumper såsom luft til vand-varmepumper eller jordvarme være en god mulighed, da de kan dække opvarmningsbehovet i de fleste bygninger og tilsluttes det eksisterende centralvarmesystem.\n\nDet er også vigtigt at have styr på driften af varmeanlægget for at opnå energieffektiv drift. Lovpligtige eftersyn og driftsjournaler er en god start, ligesom det er vigtigt at holde øje med, om anlægget kører korrekt for at undgå unødig energiforbrug. Det anbefales at justere temperaturerne efter årstiderne samt aflæse målerne jævnligt eller installere fjernaflæste målere for at opdage uregelmæssigheder i driften. Lovpligtige eftersyn og driftsjournaler er fundamentet for en stabil og energieffektiv drift.\n\nDer tilbydes en Tjekliste til varmeanlæg, hvor man kan få en specialist til at foretage et energieftersyn af varmeanlægget for en endnu bedre varmeøkonomi. Gennemgangen undersøger mulighederne for at reducere behovet for varme samt effektiviteten af anlægget. Man kan enten gennemgå tjeklisten selv eller hyre en professionel til opgaven. Målet er at sikre, at anlægget fungerer optimalt og at energiforbruget er så lavt som muligt.",
+    "meta": {
+        "id": 13167309955158032387,
+        "url": "https://sparenergi.dk/offentlig/varme-og-koeling/opvarmning-af-bygninger",
+        "title": "Opvarmning af bygninger",
+        "time_requested": "2024-04-16T11:58:26.360403",
+        "error": null,
+        "num_tokens_in": 960,
+        "num_tokens_out": 510,
+        "estimated_input_cost_gpt4": 0.009600000000000001,
+        "estimated_output_cost_gpt4": 0.015300000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

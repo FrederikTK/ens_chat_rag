@@ -1,0 +1,15 @@
+{
+    "text": "Informationen drejer sig om Energistyrelsens hjemmeside, SparEnergi, der tilbyder energirådgivning og vejledning til at optimere energiforbruget på arbejdspladsen. Der tilbydes spareråd, cases og information om energieffektivitet inden for det offentlige, herunder kommuner, regioner og ministerier. Derudover tilbyder hjemmesiden ressourcer til energiledelse, ESCO-finansiering, renovering af bygninger og meget mere. Der er mulighed for at tilmelde sig nyhedsmail for relevant information om energibesparelser og CO2-reduktioner. Samlet set er formålet med siden at inspirere, give viden og råd til at opnå mest mulig energieffektivitet.",
+    "meta": {
+        "id": 8444349224052636935,
+        "url": "https://sparenergi.dk/offentlig",
+        "title": "Offentlig",
+        "time_requested": "2024-04-16T11:47:59.283562",
+        "error": null,
+        "num_tokens_in": 805,
+        "num_tokens_out": 193,
+        "estimated_input_cost_gpt4": 0.00805,
+        "estimated_output_cost_gpt4": 0.00579,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

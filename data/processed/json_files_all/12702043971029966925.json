@@ -1,0 +1,15 @@
+{
+    "text": "Fundament og kælder i et parcelhus fra 1960-76 kan variere i konstruktion og materialevalg. Typisk har parcelhuse fra denne periode et terrændæk, hvor gulvet ligger direkte på en betonplade, isoleret med 50 mm isolering og et parketgulv ovenpå. Nogle huse kan også have en krybekælder, hvor gulvet ikke er isoleret. Kældervægge og gulve kan være støbt direkte mod jord uden isolering.\n\nDer er anbefalinger til vedligeholdelse og forbedringer af fundament og kælder. For eksempel bør du holde ventilationsåbninger rene, tjekke for revner og sikre en diffusionsåben overfladebehandling for at undgå fugtproblemer. Hvis du ønsker at efterisolere, bør du overveje at isolere udefra for bedre effekt og anvende diffusionsåben isolering.\n\nFor krybekældre anbefales god ventilation, fjernelse af tilstopninger og regelmæssig inspektion for at undgå skader som skimmelsvamp og trænedbrydende svamp. Derudover kan man søge tilskud til energirenoveringer og læse cases om energiforbedringer udført på lignende bygninger.",
+    "meta": {
+        "id": 12702043971029966925,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/bygningsguiden/parcelhus-1960-76/fundament-og-kaelder",
+        "title": "Fundament og kælder | Energistyrelsen",
+        "time_requested": "2024-04-16T11:51:47.299325",
+        "error": null,
+        "num_tokens_in": 6765,
+        "num_tokens_out": 323,
+        "estimated_input_cost_gpt4": 0.06765,
+        "estimated_output_cost_gpt4": 0.00969,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

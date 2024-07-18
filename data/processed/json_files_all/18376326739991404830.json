@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en nyhedsmail, hvor man kan tilmelde sig for at modtage opdateringer om Energirenoveringspuljen. Hvis man ønsker at være blandt de første til at få besked om nye tiltag, kan man besøge hjemmesiden www.sparenergi.dk og tilmelde sig nyhedsbrevet. Energistyrelsens adresse er Carsten Niebuhrs Gade 43 i København V.",
+    "meta": {
+        "id": 18376326739991404830,
+        "url": "https://nyheder.sparenergi.dk/enp-tilskud-privat",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:57:00.289380",
+        "error": null,
+        "num_tokens_in": 89,
+        "num_tokens_out": 108,
+        "estimated_input_cost_gpt4": 0.0008900000000000001,
+        "estimated_output_cost_gpt4": 0.0032400000000000003,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

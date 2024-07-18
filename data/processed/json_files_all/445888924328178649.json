@@ -1,0 +1,15 @@
+{
+    "text": "Erhvervspuljen er et tilskud til danske virksomheder, der ønsker at spare energi og reducere CO2-udledningen. Puljen støtter projekter med op til 50% og tilbyder tilskud på minimum 10.000 kr. og op til 112 mio. kr. Virksomheder kan få tilskud til projekter som udskiftning af gaskedler til varmepumper, LED-belysning og intern udnyttelse af overskudsvarme, men ikke til solceller. Erhvervspuljen har 640 mio. kr. til rådighed i 2024 og støtter små virksomheder med op til 50%, mellemstore virksomheder med op til 40% og store virksomheder med op til 30%. Tilskuddet beregnes baseret på energi- eller CO2-besparelse over tiltagets levetid, og virksomhedens størrelse påvirker, hvor stor en andel af støtteberettigede omkostninger der kan dækkes. Der er en række hjælpeværktøjer og trin-for-trin-guider til at ansøge om tilskud og få udbetalt beløbet. Man kan også deltage i webinarer eller læse om virksomheder, der allerede har fået tilskud gennem Erhvervspuljen. Energistyrelsen står bag Erhvervspuljen og man kan kontakte dem for yderligere information og hjælp.",
+    "meta": {
+        "id": 445888924328178649,
+        "url": "https://sparenergi.dk/erhverv/vaerktojer/erhvervstilskud/kom-i-gang-med-ansogningen-til-erhvervspuljen",
+        "title": "Site under opdatering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:13.662905",
+        "error": null,
+        "num_tokens_in": 4772,
+        "num_tokens_out": 372,
+        "estimated_input_cost_gpt4": 0.047720000000000005,
+        "estimated_output_cost_gpt4": 0.01116,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

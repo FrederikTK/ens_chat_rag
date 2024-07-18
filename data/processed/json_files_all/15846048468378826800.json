@@ -1,0 +1,15 @@
+{
+    "text": "Mette og Lars besluttede sig for at installere en luft til vand-varmepumpe og gulvvarme i deres 70’er-parcelhus som erstatning for gasfyret, da de renoverede huset i 2016. Senere fik de også solceller på taget, som producerer strøm til varmepumpen. Lars, der er uddannet elektroingeniør, undersøgte markedet ved at kigge på Energistyrelsens Varmepumpeliste, og de valgte at investere i ren, lokal teknologi. Renoveringen kostede cirka 265.000 kr., inklusive varmepumpe og solcelleanlæg. Resultatet har været et markant fald i energiforbruget fra 49.000 kr./år til 17.500 kr./år. Huset er blevet mere behageligt at bo i med bedre indeklima og komfort. Lars erkender dog, at det krævede noget indsats at lære det nye varmesystem at kende, da han savnede mere undervisning. Det var en udfordring at finde kvalificerede håndværkere med erfaring inden for denne specifikke type varmepumpe. Samlet set har investeringen næsten udlignet sig med værdiforøgelsen af huset, og renoveringen har forbedret livskvaliteten væsentligt. Lars og Mette fremhæver vigtigheden af at have ordentlige håndværkere med relevant erfaring, når man investerer i sådanne energiløsninger.",
+    "meta": {
+        "id": 15846048468378826800,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/casebank/luft-til-vand-varmepumpe-gulvvarme-og-solceller",
+        "title": "Luft til vand-varmepumpe, gulvvarme og solceller",
+        "time_requested": "2024-04-16T11:52:03.981104",
+        "error": null,
+        "num_tokens_in": 2872,
+        "num_tokens_out": 383,
+        "estimated_input_cost_gpt4": 0.028720000000000002,
+        "estimated_output_cost_gpt4": 0.01149,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har opstillet ambitiøse mål for at reducere det offentlige energiforbrug, hvor man blandt andet fremhæver to hovedmål. Det første mål, Energieffektiviseringsdirektivets mål, indebærer, at den statslige forvaltnings bygningsmasse skal energieffektivisere med 42.480 MWh fra 2020 til 2030. Det andet nationale mål går ud på, at statslige institutioner (der ikke omfattes af EED-målet) skal reducere deres energiforbrug med 10% i 2030 i forhold til 2020. Energimærkerne fungerer som en indikator for bygningernes energitilstand og forbrug. Der er dog bemærkninger om ændringer i indberetningen af energimærker siden 2022, hvilket kan påvirke nøjagtigheden af tidligere data.\n\nEnergiforbrugsdata for 2022 viser udviklingen i el-, varme- og vandforbrug siden 2017. For varmeforbrug er der en nedgang på 6% med 84 kWh/m², mens el- og fjernkølingsforbrug er steget med henholdsvis 4% og 0,03%. Vandforbruget er steget med 16% siden 2021. Ministeriernes vand- og energiforbrug samt udviklingen heri er tilgængelige for alle ministerier.\n\nDerudover opfordres brugere til at læse mere om de individuelle målsætninger og den samlede indsats for at nedbringe det offentlige energiforbrug. Energistyrelsen tilbyder også gratis rådgivning og data til videre arbejde.",
+    "meta": {
+        "id": 12544666552318802835,
+        "url": "https://old.sparenergi.dk/offentlig/vaerktoejer/offentligt-energiforbrug",
+        "title": "Offentligt Energiforbrug | Energistyrelsen",
+        "time_requested": "2024-04-16T11:50:27.432337",
+        "error": null,
+        "num_tokens_in": 1876,
+        "num_tokens_out": 432,
+        "estimated_input_cost_gpt4": 0.018760000000000002,
+        "estimated_output_cost_gpt4": 0.012960000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

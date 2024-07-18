@@ -1,0 +1,15 @@
+{
+    "text": "SparEnergi.dk, administreret af Energistyrelsen, opfordrer til energibesparelse på arbejdspladsen ved at implementere energivenlige initiativer og vaner. Nogle af de foreslåede sparemuligheder inkluderer: få overblik over energiforbruget, skrue ned for varmen, slukke elektronik når man forlader rummet, skifte til LED-belysning, bruge mindre varmt vand, og inddrage hele arbejdspladsen i energibesparelsesinitiativerne. Der tilbydes også kampagnemateriale og spareråd til driftsansvarlige. Derudover gives der specifikke råd til energibesparelse inden for forskellige arbejdspladser som hospitaler, svømmehaller, idrætshaller og klubhuse. SparEnergi.dk tilbyder også information om LED-belysning, it- og elektronikbesparelser, samt en nyhedsmail med løbende information om erhvervspuljen og energibesparelse. Hjemmesiden tilbyder gratis rådgivning og kontaktmuligheder, samt relevant indhold om energipriser, cookies, og privatliv.",
+    "meta": {
+        "id": 5811444675518995030,
+        "url": "https://old.sparenergi.dk/erhverv/sparerad-pa-arbejdspladsen",
+        "title": "Spareråd på arbejdspladsen | Energistyrelsen",
+        "time_requested": "2024-04-16T11:53:49.355011",
+        "error": null,
+        "num_tokens_in": 1367,
+        "num_tokens_out": 296,
+        "estimated_input_cost_gpt4": 0.013670000000000002,
+        "estimated_output_cost_gpt4": 0.00888,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

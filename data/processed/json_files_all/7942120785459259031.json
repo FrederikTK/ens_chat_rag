@@ -1,0 +1,15 @@
+{
+    "text": "Erhvervspuljen tilbyder økonomiske tilskud til danske virksomheder, der ønsker at spare energi og CO2. Puljen har til formål at fremme den grønne omstilling i dansk erhvervsliv og kan dække op til 50% af projekternes omkostninger. Opgaver, der kan få tilskud, inkluderer blandt andet udskiftning af gaskedler til varmepumper eller fjernvarme, udskiftning af ældre belysning til LED samt intern udnyttelse af overskudsvarme. Tilskuddet beregnes ud fra energi- eller CO2-besparelser og varierer afhængigt af virksomhedens størrelse. Budskabet er, at det lettere for virksomheder at få del i de 3,2 mia. kr., som Erhvervspuljen uddeler til grøn omstilling. Der er en række hjælpeværktøjer tilgængelige, herunder beregnere, vejledninger, webinarer og skabeloner, som virksomheder kan benytte i søgeprocessen. Man kan ansøge om tilskud i seks trin: forbered projektet, ansøg, gennemfør projektet, modtag tilsagn, afslut projektet og søg og modtag tilskuddet. Der er flere eksempler på virksomheder, der har modtaget tilskud fra Erhvervspuljen for at implementere grønne løsninger, og man opfordres til at kontakte Energistyrelsen for yderligere hjælp eller information.",
+    "meta": {
+        "id": 7942120785459259031,
+        "url": "https://sparenergi.dk/erhverv/vaerktojer/erhvervstilskud/landbrug",
+        "title": "Landbrug | Energistyrelsen",
+        "time_requested": "2024-04-16T11:51:53.359042",
+        "error": null,
+        "num_tokens_in": 4772,
+        "num_tokens_out": 397,
+        "estimated_input_cost_gpt4": 0.047720000000000005,
+        "estimated_output_cost_gpt4": 0.01191,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

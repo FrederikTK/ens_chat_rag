@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen anbefaler at skifte til en luft til luft-varmepumpe som en billig og driftssikker måde at opvarme dit sommerhus eller supplere varmen i dit helårshus. Dette er især relevant, hvis du bor et sted uden fjernvarme og ikke har et vandbårent varmesystem. En luft til luft-varmepumpe giver en klimavenlig energiform, reducerer CO2-udledningen og er nem at installere til en pris på 15-30.000 kr. inklusiv installation. For hver kWh strøm du bruger, kan du få op til 4-6 kWh varme tilbage. Det er vigtigt at være opmærksom på, at en luft til luft-varmepumpe kan høres, varmer kun i det rum den er placeret i, og ikke opvarmer brugsvand. Installationen kræver plads til en udedel på din grund og bør udføres af en VE-godkendt installatør for at sikre korrekt installation og energieffektiv drift. Der findes forskellige modeller med energimærker fra A+ til A+++, og det anbefales at vælge en pumpe der passer til dit varmebehov og husets forhold. Installationen indebærer montering af både udedel og indedel, og der bør årligt aftales et eftersyn for at sikre optimal drift. Selvom en varmepumpe lever op til bygningsreglementet, bør man sikre sig at vælge en effektiv pumpe egnet til det danske klima. Energistyrelsen opfordrer til at søge gratis rådgivning og vejledning hos dem, samt at bruge deres materialer og guides for at træffe den bedste beslutning om at skifte til en luft til luft-varmepumpe.",
+    "meta": {
+        "id": 14561937733737008077,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/energiloesninger/luft-til-luft-varmepumpe",
+        "title": "Luft til luft-varmepumpe",
+        "time_requested": "2024-04-16T11:57:19.140823",
+        "error": null,
+        "num_tokens_in": 2641,
+        "num_tokens_out": 456,
+        "estimated_input_cost_gpt4": 0.026410000000000003,
+        "estimated_output_cost_gpt4": 0.013680000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

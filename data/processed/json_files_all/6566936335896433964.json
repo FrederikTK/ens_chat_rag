@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om energimærkning af varmeanlæg i bygninger. Energimærkning af varmeanlæg er obligatorisk i Danmark og omfatter opvarmningsanlæg til vandbaserede opvarmningssystemer, herunder naturgas- og oliekedler, varmepumper og solvarmeanlæg. Kravene dækker også hybridanlæg og vandvarmere. Installatører har pligt til at informere forbrugerne om anlæggets energimærke og andre relevante oplysninger. Produkter og anlæg energimærkes separat eller som en del af pakkeløsninger, og energimærket angives på en skala, hvor den bedste energiklasse er markeret med en mørkegrøn pil. For eksempel bør man gå efter A++ eller bedre for luft til vand- og jordvarmepumper, A++ eller bedre for luft til luft-varmepumper, og A eller A+ for olie- og naturgaskedler. Vandvarmere kan opnå op til A og pakkeløsninger op til A+++. Energimærkerne er baseret på EU's ordning for energimærkning, og produkterne skal opfylde kravene til energimærkning for at blive markedsført i EU-landene. Energistyrelsen påpeger, at mærkningskravene gælder for opvarmningsanlæg på op til 70 kW, svarende til bygninger på op til cirka 1.000 m2. Energimærkningen hjælper forbrugere med at træffe energirigtige valg ved køb af nye varmeanlæg.",
+    "meta": {
+        "id": 6566936335896433964,
+        "url": "https://sparenergi.dk/forbruger/varme/energimaerkning-varmeanlaeg",
+        "title": "Energimærkning varmeanlæg | Energistyrelsen",
+        "time_requested": "2024-04-16T11:52:07.154304",
+        "error": null,
+        "num_tokens_in": 2287,
+        "num_tokens_out": 426,
+        "estimated_input_cost_gpt4": 0.02287,
+        "estimated_output_cost_gpt4": 0.01278,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

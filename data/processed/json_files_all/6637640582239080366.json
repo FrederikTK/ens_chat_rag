@@ -1,0 +1,15 @@
+{
+    "text": "SparEnergi.dk er en hjemmeside, der tilbyder råd og vejledning til energioptimering i private boliger. På siden kan man indtaste sin adresse og modtage tre effektive råd til energioptimering specifikt til ens adresse. Der er også information om tilskudsmuligheder og Energirenoveringspuljen, hvor man kan få hjælp til at spare på strøm og varme, samt finde den bedste varmetype til ens hjem. Derudover tilbydes aktuelle tilskud, nyheder og information om elpriser. Man kan også tilmelde sig nyhedsbrevet for at modtage spareråd tilpasset ens bolig og interesser. Der er mulighed for at læse om afkoblingsordningen, skifte varmetype og deltage i webinarer om Energirenoveringspuljen. Hjemmesiden tilbyder også gratis rådgivning og kan kontaktes for yderligere information.",
+    "meta": {
+        "id": 6637640582239080366,
+        "url": "https://sparenergi.dk/privat",
+        "title": "Fejl 404 – siden kunne ikke findes | Energistyrelsen",
+        "time_requested": "2024-04-16T11:49:14.081913",
+        "error": null,
+        "num_tokens_in": 1267,
+        "num_tokens_out": 237,
+        "estimated_input_cost_gpt4": 0.01267,
+        "estimated_output_cost_gpt4": 0.00711,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

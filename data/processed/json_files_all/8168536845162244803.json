@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder rådgivning og information om energieffektive løsninger til storkøkkener. Der fokuseres på energimærkning, energivenlig adfærd, indkøb og indretning. I storkøkkener udgør elforbruget en stor del af energibudgettet, især i hoteller og restaurationer. Det anbefales at se på adfærden i køkkenet for at identificere muligheder for energibesparelse. Eksempler på tiltag er at indstille temperaturer korrekt i køl og frys, optimere opvaskrutiner, slukke for elektrisk udstyr i hvileperioder og sikre effektiv ventilation.\n\nNår det kommer til indkøb og indretning af storkøkkener, anbefales det at følge Energistyrelsens indkøbsanbefalinger og regne driftsomkostninger med i købsprisen. Indretningen skal tage højde for energieffektivitet, arbejdsmiljø, indeklima, hygiejne og fødevarekvalitet. Man bør opdele køkkenet i kolde og varme zoner, placere køleskabe og frysere i kolde zoner og sikre effektiv ventilation med varmegenvinding.\n\nMiljømærkning som Svanemærket, EU-Blomsten, Green Key og Green Restaurant er også nævnt som måder at profilere sig på og signalere grøn ansvarlighed til kunderne. Desuden gives der indblik i energiforbrug og potentiale for energibesparelser i hotel- og restaurationsbranchen. Energistyrelsen tilbyder også materialer og værktøjer til energibesparelser på arbejdspladsen samt information om affaldssortering og vandforbrug.",
+    "meta": {
+        "id": 8168536845162244803,
+        "url": "https://sparenergi.dk/erhverv/hotel-og-restauration/storkoekken",
+        "title": "Storkøkken | Energistyrelsen",
+        "time_requested": "2024-04-16T11:52:14.033944",
+        "error": null,
+        "num_tokens_in": 4920,
+        "num_tokens_out": 452,
+        "estimated_input_cost_gpt4": 0.0492,
+        "estimated_output_cost_gpt4": 0.013560000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

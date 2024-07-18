@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder gratis rådgivning til private borgere om energioptimering, søgning af tilskud og reduktion af energiforbrug. Man kan kontakte dem via telefon, e-mail eller personligt møde. Der tilbydes også varmecheck via e-mail på varmecheck@ens.dk og rådgivning om energimærkning af boliger via e-mail på emo-info@ens.dk. En uforpligtende snak med en BedreBolig-rådgiver kan arrangeres via e-mail på info@bedrebolig.dk.\n\nProfessionelle henvendelser kan rettes til Energistyrelsen direkte via deres hjemmeside. Der findes også kontaktinformationer for presse, håndværkere, leverandører af varmepumper og spørgsmål om VE-godkendelsesordning, offentligt energiforbrug, energi- og CO2-regnskabet samt tekniske spørgsmål på sparenergi.dk.\n\nGenerelle henvendelser kan rettes til Energistyrelsen på deres fysiske adresse, telefon, e-mail eller fax. Derudover har de en hjemmeside, hvor man kan finde information om energibesparelser og energioptimering. Energistyrelsen giver også indsigt i danskernes energivaner gennem Energibarometeret.",
+    "meta": {
+        "id": 3836106227674800871,
+        "url": "https://sparenergi.dk/saadan-faar-du-fat-i-os",
+        "title": "Sådan får du fat i os | Energistyrelsen",
+        "time_requested": "2024-04-16T11:49:59.135094",
+        "error": null,
+        "num_tokens_in": 1099,
+        "num_tokens_out": 320,
+        "estimated_input_cost_gpt4": 0.010990000000000002,
+        "estimated_output_cost_gpt4": 0.009600000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

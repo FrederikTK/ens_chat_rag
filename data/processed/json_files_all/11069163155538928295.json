@@ -1,0 +1,15 @@
+{
+    "text": "På Energistyrelsens hjemmeside SparEnergi kan man finde en positivliste over vinduer og forsatssystemer, der kan få tilskud fra Energirenoveringspuljen. Listen indeholder oplysninger om forskellige producenter, produktnavne, materialer, U-værdier og hvilken type arkitektur vinduerne er velegnede til. Der er både træ/aluminiumsvinduer, plastvinduer og trævinduer på listen med U-værdier fra 0,69 til 0,76. Energiklasse 2 er angivet for hvert vindue, og nogle vinduer er velegnede til både nyere og ældre arkitektur. Der er også oplysninger om vinduer med koblet ramme og Forsatssystemer. Listen giver et godt overblik over energieffektive vinduer og muligheden for at få tilskud til energirenovering.",
+    "meta": {
+        "id": 11069163155538928295,
+        "url": "https://sparenergi.dk/privat/soeg-tilskud/varm-op-til-soege-tilskud-til-energirenovering/godkendte-vindues-og-forsatssystemer",
+        "title": "Godkendte vindues- og forsatssystemer",
+        "time_requested": "2024-04-16T11:51:45.623678",
+        "error": null,
+        "num_tokens_in": 2707,
+        "num_tokens_out": 219,
+        "estimated_input_cost_gpt4": 0.027070000000000004,
+        "estimated_output_cost_gpt4": 0.00657,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

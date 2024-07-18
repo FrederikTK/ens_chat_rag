@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om valg af den rette varmepumpemodel til energioptimering af boliger. Når man har besluttet sig for f.eks. en luft til vand- eller jordvarmepumpe, anbefales det at vælge en model, der passer til ens behov ved at konsultere en installatør. Det fremhæves, at varmepumper er mere energieffektive end andre opvarmningsmetoder, da de kan udnytte brændsel eller elektricitet 3-6 gange mere effektivt.\n\nPå Varmepumpelisten kan man sammenligne effektiviteten af varmepumper, der er testet af et uafhængigt laboratorium. Listen bliver opdateret 1-2 gange om måneden. Information om forskellige varmepumpetyper som jordvarme, luft til vand, og luft til luft er tilgængelig, og man kan filtrere resultaterne baseret på ydeevne, producent, effektivitet og støjniveau.\n\nDet rådes til at vælge en varmepumpe fra listen, da det sikrer, at dens effektivitet er testet af et uafhængigt testlaboratorium. Installatøren skal desuden sikre, at varmepumpen har den rette størrelse til huset og varmebehovet. Energimærket angiver varmepumpens effektivitet, hvor det kun er tilladt at sælge varmepumper med energimærker A+, A++ eller A+++. Energirådgivere tilbyder gratis råd og vejledning om energibesparelser.\n\nDer findes forskellige modeller af hver type varmepumpe, og det er vigtigt at vælge en passende model baseret på ens behov og boligens størrelse. Energistyrelsen opfordrer til at kontakte dem for yderligere information og rådgivning om energibesparelser i hjemmet.\n",
+    "meta": {
+        "id": 13264291679561616695,
+        "url": "https://sparenergi.dk/node/201/share-content-view",
+        "title": "Varmepumpelisten | Energistyrelsen",
+        "time_requested": "2024-04-16T11:53:36.214603",
+        "error": null,
+        "num_tokens_in": 4461,
+        "num_tokens_out": 489,
+        "estimated_input_cost_gpt4": 0.044610000000000004,
+        "estimated_output_cost_gpt4": 0.01467,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

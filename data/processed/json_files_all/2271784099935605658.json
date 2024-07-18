@@ -1,0 +1,17 @@
+{
+    "text": "Dette dokument omhandler en grundig gennemgang af råd og tips til energioptimering i hjemmet. Det er baseret på oplysninger fra SparEnergi.dk, som er en platform drevet af Energistyrelsen. Formålet er at hjælpe husstande med at spare energi, penge og bidrage til miljøbeskyttelse.\n\n**De mest effektive råd til energioptimering omfatter:**\n1. **Brug af energieffektive apparater**:\n   - Mikroovnen eller airfryer bør foretrækkes frem for en traditionel ovn, da de kan spare op til 70 % af elforbruget.\n   - Ved at slukke for vandet under indsæbning og shampoo påføring i badet, kan der spares mange liter vand, da der typisk bruges op til 20 liter vand pr. minut under badning.\n\n2. **Optimering af dagligdags rutiner**:\n   - Korte badetider kan reducere energiforbrug markant, specielt i større husstande.\n   - Brug eco-programmet på vaskemaskinen ved fulde maskiner og snavset tøj, mens korte programmer kan anvendes for mindre beskidt tøj.\n   - Ved at slukke for apparater på standby og unødigt lys kan der gøres en stor forskel på energiforbruget.\n\n3. **Bevidsthed omkring energiforbrug**:\n   - At være opmærksom på elpriser, især hvis man har en variabel timepris, og bruge strøm i de billigere perioder kan spare penge.\n   - Vide hvilke apparater, der trækker mest strøm kan hjælpe med at målrette energibesparelserne.\n   - Overveje at afgive eller sælge unødige apparater (som ekstra fryser eller køleskab), der ellers ville stå og bruge strøm konstant.\n\n**Yderligere Ressourcer**:\n- SparEnergi tilbyder hjælp til at komme i gang med energirenoveringer, valg af passende varmesystemer og generel vejledning til at opnå et bedre indeklima og energieffektivitet.\n- Der er også mulighed for at få information om tilskudsordninger.\n  \n**Nyttige videnressourcer**:\n- Boligejere opfordres til at indtaste deres adresse på hjemmesiden for at få tilpassede råd baseret på offentlige data fra BBR-registret.\n- Der er en 'strømpyramide' tilgængelig, som viser, hvordan forskellige apparater og vaner påvirker strømforbruget.\n\nHjemmesiden beliggende på Carsten Niebuhrs Gade 43 i København, er den primære kilde til denne information og tilbyder en tilgængelighedserklæring for yderligere detaljer om tjenesten. Dette dokument skal gemmes til fremtidig reference og kan opdateres efter behov for at reflektere nyere viden eller ændringer i energipolitikkens landskab.",
+    "meta": {
+        "id": 2271784099935605658,
+        "url": "https://ny.sparenergi.dk/elpriser",
+        "title": "Se Elpriser | Energistyrelsen",
+        "time_requested": "2024-05-02T07:45:21.243594",
+        "error": null,
+        "num_tokens_in": 1450,
+        "num_tokens_out": 766,
+        "estimated_input_cost_gpt4": 0.0145,
+        "estimated_output_cost_gpt4": 0.043500000000000004,
+        "estimated_input_cost_gpt3": 0.000725,
+        "estimated_output_cost_gpt3": 0.002175,
+        "used_model": "gpt-4-turbo"
+    }
+}

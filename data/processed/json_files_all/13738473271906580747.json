@@ -1,0 +1,15 @@
+{
+    "text": "Din årlige elregning viser, hvad dit elforbrug koster, og her kan du få hjælp til at læse regningen. Dit elforbrug måles i kWh (kilowatt-time), og du betaler ca. 2,2 kr. pr. kWh. En gennemsnitsdansker bruger 1.600 kWh strøm om året, hvilket giver en regning på ca. 3.500 kr. Elprisen kan enten være fast eller variabel, og du kan typisk se på din regning, hvilken type aftale du har. Der er forskellige poster på din elregning, såsom elafgift, transport af el, netabonnement, forbrug, elabonnement osv. Disse poster kan variere, men du bør kunne finde de samme oplysninger på regningen uanset leverandør. Der er også information om dit aftagenummer, forbrug for andre år og en sammenligning af dit forbrug med lignende husstande. Du kan vælge din elleverandør frit, men dit netselskab ligger fast, da der kun er ét selskab, der ejer kablerne ud til din bolig. Hvis du har spørgsmål vedrørende dit elforbrug, skal du kontakte din elleverandør. Der kan være fordele ved at skifte elleverandør, såsom økonomiske besparelser eller støtte til produktion af el fra vedvarende energikilder. Du kan også have fjernaflæsning af måleren, så du kan holde øje med dit elforbrug online. Få et overblik over de forskellige elselskaber og deres tilbud på elpris.dk. Der er også information om dine rettigheder som privat elkunde på ens.dk.",
+    "meta": {
+        "id": 13738473271906580747,
+        "url": "https://sparenergi.dk/forbruger/el/dit-elforbrug/forstaa-din-elregning",
+        "title": "Forstå din elregning | Energistyrelsen",
+        "time_requested": "2024-04-16T11:47:52.008201",
+        "error": null,
+        "num_tokens_in": 2283,
+        "num_tokens_out": 427,
+        "estimated_input_cost_gpt4": 0.022830000000000003,
+        "estimated_output_cost_gpt4": 0.01281,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

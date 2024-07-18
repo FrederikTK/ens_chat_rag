@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har udgivet information om, hvordan man kan spare energi på opvarmning af vand på arbejdspladser. Vandforbrug og energiforbrug til opvarmning af vand udgør en betydelig del af en arbejdsplads' energiforbrug. Ved at være opmærksom på vandspild og varmetab kan man reducere energiforbruget og varmeregningen. Nogle af rådene inkluderer at holde øje med vandforbruget, undgå vandspild ved at reparere dryppende haner og løbende toiletter, samt at installere vandbesparende enheder som perlatorer, toiletter og brusere. Derudover anbefales det at slukke cirkulationspumpen uden for brugstid, isolere rør og ventiler, energioptimere rørsystemet, overveje klimavenlige metoder til opvarmning af vand, og installere decentrale vandvarmere. Energistyrelsen tilbyder også en nyhedsmail med relevant information om energibesparelser og CO2-reduktioner til erhvervsvirksomheder.",
+    "meta": {
+        "id": 12477415593900429922,
+        "url": "https://sparenergi.dk/erhverv/sparerad-pa-arbejdspladsen/spar-energi-til-opvarmning-af-vand",
+        "title": "Spar energi til opvarmning af vand | Energistyrelsen",
+        "time_requested": "2024-04-16T11:57:20.399112",
+        "error": null,
+        "num_tokens_in": 2736,
+        "num_tokens_out": 288,
+        "estimated_input_cost_gpt4": 0.027360000000000002,
+        "estimated_output_cost_gpt4": 0.00864,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

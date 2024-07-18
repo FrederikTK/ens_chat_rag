@@ -1,0 +1,15 @@
+{
+    "text": "Der vises en dialogboks med følgende information:\n- Besked: \"Dine indtastninger vil ikke blive gemt.\"\n- Titel på dialogboksen: \"Er du sikker på, at du vil forlade Vores energiaftale?\"\n- Bredde på dialogboksen: 50%\n- Modal: Sand\n- Knapper:\n  - \"Afslut\" knap med tekst \"Afslut\", CSS-klasse \"btn btn-primary\" og id \"closeDialogLeave\". Klik på knappen vil omdirigere brugeren til forsiden.\n  - \"Fortryd\" knap med tekst \"Fortryd\", CSS-klasse \"btn\" og id \"closeDialogUndo\". Klik på knappen vil lukke dialogboksen.\n- Dialogboksens klasse: \"energy-agreement popup-dialog-class\"  \nDer er også en kommando til at vedhæfte en luk-dialog-overlay.",
+    "meta": {
+        "id": 14670251833984377573,
+        "url": "https://sparenergi.dk/our-energy-agreement/close?destination=/",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:58:48.439453",
+        "error": null,
+        "num_tokens_in": 168,
+        "num_tokens_out": 204,
+        "estimated_input_cost_gpt4": 0.00168,
+        "estimated_output_cost_gpt4": 0.0061200000000000004,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

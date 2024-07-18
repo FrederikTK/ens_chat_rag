@@ -1,0 +1,15 @@
+{
+    "text": "Julen er en tid, hvor energiforbruget typisk stiger på grund af hygge, traditioner og samvær. Energistyrelsen giver en række spareråd til juletiden for at reducere energiforbruget, mens man bevarer julehyggen. Et af rådene er at tilpasse energiforbruget, når man har gæster, herunder at skrue ned for varmen, lufte ud og bruge altanen til at køle drikkevarer. Det anbefales også at undgå spidsperioder, hvor strømforbruget typisk topper omkring juleaften. I juletiden bruges komfuret og ovnen ekstra meget, og for at spare energi kan man f.eks. lave mad færdig i en høkasse, koge med låg på gryden og slukke ovnen før maden er færdig. Der gives også tips til energivenlige gaveidéer og hvordan man kan pynte med julelys og se film og serier på en energivenlig måde. Energistyrelsen tilbyder gratis rådgivning om energibesparelser til private husstande. Derudover kan man finde spareråd året rundt på energistyrelsens hjemmeside. Man kan også tilmelde sig nyhedsbrevet for at modtage spareråd direkte i indbakken.",
+    "meta": {
+        "id": 2015877694728396192,
+        "url": "https://sparenergi.dk/forbruger/jul",
+        "title": "Jul | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:12.894449",
+        "error": null,
+        "num_tokens_in": 3667,
+        "num_tokens_out": 338,
+        "estimated_input_cost_gpt4": 0.03667,
+        "estimated_output_cost_gpt4": 0.01014,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

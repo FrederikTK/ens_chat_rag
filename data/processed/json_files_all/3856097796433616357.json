@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen administrerer en tilskudspulje til energirenovering, hvor man kan ansøge om tilskud på vegne af privatpersoner, virksomheder og foreninger. Hvis man søger tilskud på vegne af en privatperson, kræves det, at man har en fuldmagt og en ansøgererklæring fra bygningsejeren, samt eventuelt en de minimis-erklæring, hvis der er økonomisk aktivitet på adressen. Hvis man søger på vegne af en virksomhed, skal man have en fuldmagt, ansøgererklæring og de minimis-erklæring fra de tegningsberettigede i virksomheden. Og hvis man søger på vegne af en forening, kræves det, udover fuldmagt, ansøgererklæring og de minimis-erklæring, også dokumentation på bestyrelsesmedlemmerne i foreningen. Der er også en procesvejledning tilgængelig for ansøgningsprocessen. Man skal desuden udfylde en erklæring, hvis der er momsregistreret virksomhed på adressen og man ikke køber varmepumpen momsfrit. Energirenoveringspuljen tilbyder tilskud til energioptimering af bygninger med fast boligformål, og Varmepumpepuljen er en del af denne pulje.",
+    "meta": {
+        "id": 3856097796433616357,
+        "url": "https://sparenergi.dk/privat/soeg-tilskud/varm-op-til-soege-tilskud-til-en-varmepumpe/soeger-du-tilskud-paa-vegne-af-en-anden",
+        "title": "Søger du tilskud på vegne af en anden?",
+        "time_requested": "2024-04-16T11:53:31.255495",
+        "error": null,
+        "num_tokens_in": 3215,
+        "num_tokens_out": 338,
+        "estimated_input_cost_gpt4": 0.032150000000000005,
+        "estimated_output_cost_gpt4": 0.01014,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

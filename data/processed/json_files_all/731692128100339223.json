@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om energimærkning af opvaskemaskiner på deres hjemmeside. Energimærkerne indikerer, hvor energivenlig en opvaskemaskine er, baseret på en skala fra A til G. Mærkningen viser bl.a. energiforbrug pr. 100 opvask, vandforbrug på ECO-program, varigheden af ECO-programmet, antal kuverter og støjniveau. En opvaskemaskine med energimærke A er blandt de mest energieffektive. Der udføres kontrol af energimærkningen af Sikkerhedsstyrelsen for at sikre overholdelse af kravene til energiklasser. Derudover nævnes det, at der også findes andre mærker som Blomsten og Svanen, som er miljømærker og garanterer, at produktet er energieffektivt, miljøvenligt, frit for skadelige stoffer og mindst lige så godt som sammenlignelige produkter. Energimærkningen af opvaskemaskiner opdateres løbende, og der opfordres til at kommentere på siden og kontakte Energistyrelsen for yderligere information.",
+    "meta": {
+        "id": 731692128100339223,
+        "url": "https://old.sparenergi.dk/forbruger/el/madlavning/energimaerkning-af-opvaskemaskiner",
+        "title": "Energimærkning af opvaskemaskiner | Energistyrelsen",
+        "time_requested": "2024-04-16T11:51:49.238909",
+        "error": null,
+        "num_tokens_in": 1594,
+        "num_tokens_out": 297,
+        "estimated_input_cost_gpt4": 0.015940000000000003,
+        "estimated_output_cost_gpt4": 0.00891,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder råd og vejledning til at spare energi i hverdagen. Der er forskellige kategorier som lys, vask og rengøring, streaming og elektronik, køkken og madlavning, samt varme og varmt vand, hvor man kan finde konkrete spareråd. Nogle af de råd, der gives, er at bruge mikroovn eller airfryer i stedet for ovn for at spare op til 70% elforbrug, tage kortere bade for at spare op til 4.500 kr./år, bruge det rigtige vaskeprogram og skrue lige højt op på radiatorer for at fordele varmen bedre. Desuden anbefales det at slukke for vandet under indsebning, bruge radio til baggrundslyd i stedet for tv eller bærbar computer, slukke for unødigt strømforbrug og bruge strømmen, når den er billigst. Man kan også sammenligne sit elforbrug med andre for at se, hvor man kan gøre besparelser. Energistyrelsen tilbyder desuden gratis rådgivning om energibesparelse og har forskellige tilskudsordninger og muligheder for renovering af boligen for at spare energi og forbedre indeklimaet.",
+    "meta": {
+        "id": 484638419754188746,
+        "url": "https://sparenergi.dk/vores-energiaftale/introduktion?destination=/spar-energi-i-hverdagen",
+        "title": "Vores energiaftale | Energistyrelsen",
+        "time_requested": "2024-04-16T11:57:44.574563",
+        "error": null,
+        "num_tokens_in": 2477,
+        "num_tokens_out": 325,
+        "estimated_input_cost_gpt4": 0.02477,
+        "estimated_output_cost_gpt4": 0.00975,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

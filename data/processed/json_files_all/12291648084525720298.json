@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen informerer om intelligent styring af elektriske installationer, køle-, varme- og ventilationsanlæg, der kan styres via fjernbetjening eller mobilapp. De primære intelligente styringssystemer omfatter varme og lys. Intelligent styring af varme kan være automatik til varmeanlægget eller intelligente termostater, mens intelligent styring af lys indebærer brug af intelligente pærer til at opsætte belysnings-scenarier og styre lyset selv når man ikke er hjemme. Fordelene ved intelligent styring inkluderer energibesparelser og øget komfort i form af tilpasset drift og automatisering. Der nævnes også væksten inden for intelligente apparater som hårde hvidevarer, der kan indstilles til at køre ved laveste elpris. Energistyrelsen opfordrer til at overveje mulighederne for intelligent styring ved køb af nye apparater.",
+    "meta": {
+        "id": 12291648084525720298,
+        "url": "https://sparenergi.dk/forbruger/boligen/intelligent-styring",
+        "title": "Intelligent styring | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:52.307954",
+        "error": null,
+        "num_tokens_in": 1320,
+        "num_tokens_out": 238,
+        "estimated_input_cost_gpt4": 0.013200000000000002,
+        "estimated_output_cost_gpt4": 0.0071400000000000005,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

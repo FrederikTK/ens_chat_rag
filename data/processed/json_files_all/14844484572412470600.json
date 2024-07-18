@@ -1,0 +1,15 @@
+{
+    "text": "Informationen på hjemmesiden handler om mulighederne for at skifte til fjernvarme som varmekilde. Fjernvarme benytter flere varmekilder til at distribuere varme gennem et fælles rørnet. Det beskrives som en billig og klimavenlig varmekilde med minimal vedligeholdelse. Derudover fremhæves fordelene ved fjernvarme, herunder at det er en grøn og billig varmeform, kræver minimal vedligeholdelse, er en klimavenlig kollektiv forsyning og er støjfri og pladsbesparende.\n\nDer nævnes også nogle forbehold, såsom pris- og CO2-udledningsforskelle afhængigt af lokation, samt behovet for gravearbejde ved etablering. Det kan også tage tid, før fjernvarme bliver tilgængelig i ens område.\n\nDesuden beskrives processen for installation af fjernvarme, herunder forberedelse, nedgravning af rørledninger, omstilling fra andre varmekilder, og opfølgende vedligeholdelse og justering af fjernvarmesystemet.\n\nDerudover informeres der om lovmæssige krav, herunder tilslutningspligt og bygningsreglementet, samt anbefalinger til, hvordan man bedst udnytter fjernvarmesystemet og opnår energibesparelser. Endelig gives der vejledning til, hvordan man anmelder skiftet til fjernvarme samt om nødvendige tilladelser ved ændringer i varmesystemet.\n\nHjemmesiden indeholder også yderligere information om andre varmekilder og energiløsninger samt muligheder for energirenoveringer og energitilskud. Besøgende opfordres til at anvende SparEnergi.dk som ressource til at optimere energiforbruget derhjemme og på arbejdspladsen.",
+    "meta": {
+        "id": 14844484572412470600,
+        "url": "https://sparenergi.dk/privat/tid-til-skifte-varmetype/skift-til-fjernvarme",
+        "title": "Skift til fjernvarme",
+        "time_requested": "2024-04-16T11:50:39.820976",
+        "error": null,
+        "num_tokens_in": 2394,
+        "num_tokens_out": 467,
+        "estimated_input_cost_gpt4": 0.023940000000000003,
+        "estimated_output_cost_gpt4": 0.01401,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

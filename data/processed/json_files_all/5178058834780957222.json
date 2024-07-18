@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder råd til energioptimering i hverdagen, hvor små ændringer kan spare penge og hjælpe klimaet. Der gives råd inden for kategorier som belysning, vask og rengøring, streaming og elektronik, køkken og madlavning, samt varme og varmt vand. Nogle konkrete råd inkluderer at skifte varmekilde, renovere boligen, søge tilskud, og bruge strømmen når den er billigst. Der gives også tips som at bruge mikroovn frem for ovn, tage kortere bade, vælge det rigtige vaskeprogram, skrue lige højt op på radiatorer, slukke for vandet under indsmøring, bruge radio til baggrundslyd, slukke for unødvendigt strømforbrug, samt at sænke badevandets temperatur. Energistyrelsen tilbyder også muligheden for at få personlige sparemål og se, hvor meget strøm, varme og CO2 man kan spare i sit hjem. Man kan også læse om energimærket, myter om energi, se strømpyramiden, finde inspiration fra andre, og få information om tilskudsordninger og renovering af boligen.",
+    "meta": {
+        "id": 5178058834780957222,
+        "url": "https://sparenergi.dk/forbruger/el/dit-elforbrug/skift-elleverandoer",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:58:54.821535",
+        "error": null,
+        "num_tokens_in": 2477,
+        "num_tokens_out": 320,
+        "estimated_input_cost_gpt4": 0.02477,
+        "estimated_output_cost_gpt4": 0.009600000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

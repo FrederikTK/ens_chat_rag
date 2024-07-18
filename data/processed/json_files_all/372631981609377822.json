@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder råd og vejledning til energioptimering og renovering af boliger. De opfordrer boligejere til at inkludere energieffektivitet i deres renoveringsprojekter for at opnå fordele som lavere varmeregning, reduktion af træk og kulde, forbedret indeklima, stigning i boligens værdi og øget klimavenlighed. Siden giver information om forskellige typer af renoveringsprojekter, såsom isolering af loft, udskiftning af vinduer, isolering af gulve og vægge, installation af solcelleanlæg eller solvarme samt råd til forbedringer i specifikke rum som køkken, badeværelse, kælder, stue og værelser.\n\nDer er også information om forskellige cases, hvor danskere har valgt at renovere deres boliger i stedet for at bygge nyt, med fokus på bæredygtighed og energieffektivitet. Derudover tilbyder Energistyrelsen gratis rådgivning og oplysninger om aktuelle tilskudsordninger for energirenovering. Det nævnes også, at der er krav om forbedret isolering ved visse typer af renoveringsprojekter ifølge Bygningsreglementet. Energistyrelsen opfordrer desuden boligejere til at spare energi i hverdagen og tilbyder hjælp til at finde den bedste varmetype til hjemmet samt estimater for omkostninger og besparelser ved skift. Energi- og CO2-besparelser opnås gennem små hverdagsvaner såsom kortere bade eller effektiv brug af opvaskemaskinen. Samlet set giver Energistyrelsen inspiration, viden og råd til at maksimere energieffektiviteten i boliger.",
+    "meta": {
+        "id": 372631981609377822,
+        "url": "https://sparenergi.dk/vores-energiaftale/introduktion?destination=/privat/skal-du-renovere-din-bolig%23module-992",
+        "title": "Our energy agreement | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:32.878038",
+        "error": null,
+        "num_tokens_in": 2821,
+        "num_tokens_out": 465,
+        "estimated_input_cost_gpt4": 0.028210000000000002,
+        "estimated_output_cost_gpt4": 0.01395,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

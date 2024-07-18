@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen opfordrer alle landets arbejdspladser til at spare på energien over vinteren for at sikre tilstrækkelig energi i Europa. Ved at ændre vaner i hverdagen kan der spares meget energi, men det kræver deltagelse og engagement fra alle medarbejdere. Energistyrelsen tilbyder kampagnemateriale til at implementere gode energivaner og spareadfærd på arbejdspladsen. Materialerne inkluderer en grundpakke til kampagnen med kampagneguide, drejebog til fællesmøder og kommunikationsmaterialer til medarbejdere. Der er også specifikke materialer til kontorer, større bygninger, fødevarebutikker, detaljevirksomheder, restauranter, caféer, køkkener, uddannelsesinstitutioner, vuggestuer, børnehaver og plejehjem. Der er også mulighed for at bestille klistermærker, termostatkraver og dørhængere til at minde medarbejdere om at spare på energien. Man kan tilmelde sig en nyhedsmail for at modtage relevant information om energibesparelser og CO2-reduktioner. Energistyrelsen opfordrer virksomheder til at tage del i kampagnen for at gøre en forskel og passe på energien.",
+    "meta": {
+        "id": 13868593642841158914,
+        "url": "https://sparenergi.dk/offentlig/vaerktojer/adfaerdskampagne",
+        "title": "Adfærdskampagne | Energistyrelsen",
+        "time_requested": "2024-04-16T11:52:57.540199",
+        "error": null,
+        "num_tokens_in": 3088,
+        "num_tokens_out": 333,
+        "estimated_input_cost_gpt4": 0.03088,
+        "estimated_output_cost_gpt4": 0.00999,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

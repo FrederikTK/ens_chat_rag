@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen opfordrer til at isolere skunkrummet, hvis der er mindre end 175 mm isolering. Det anbefales at isolere for at spare penge på varmeregningen, forbedre indeklimaet og bruge rummet til opbevaring. Isolering af skunken er en billig renoveringsløsning, der kan spare penge og er klimavenlig. Lovkravet er minimum 300 mm isolering, men en endnu bedre løsning er at isolere med 400 mm for at opnå lavenerginiveau. Processen involverer at tjekke den eksisterende isolering, lægge ny isolering, hæve gulvet og sikre ordentlig ventilation. Det anbefales at bruge fagfolk for at undgå problemer som råd og svamp. Energistyrelsen giver også råd om at skifte lemmen til skunkrummet og isolere varmerør, hvis nødvendigt, samt at sikre korrekt ventilation. Energistyrelsen tilbyder desuden en liste over håndværkere og yderligere rådgivning om energirenoveringer og energibesparelse.",
+    "meta": {
+        "id": 9516683290093276165,
+        "url": "https://sparenergi.dk/privat/skal-du-renovere-din-bolig/isoler-dit-skunkrum",
+        "title": "Isoler dit skunkrum",
+        "time_requested": "2024-04-16T11:56:23.750331",
+        "error": null,
+        "num_tokens_in": 2575,
+        "num_tokens_out": 279,
+        "estimated_input_cost_gpt4": 0.025750000000000002,
+        "estimated_output_cost_gpt4": 0.00837,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

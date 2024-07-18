@@ -1,0 +1,15 @@
+{
+    "text": "SparEnergi.dk er en hjemmeside, der tilbyder hjælp til at spare på el og varme i boliger. På hjemmesiden kan man indtaste sin adresse og modtage gode råd om energioptimering specifikt til ens bolig. Der er mulighed for at få råd til hverdagsbesparelser, skifte varmetype samt renovere boligen for at holde bedre indeklima og spare energi. Der tilbydes aktuelle tilskudsordninger, herunder Energirenoveringspuljen, hvor man kan få hjælp til at spare strøm og varme på alt fra opvask til opvarmning og ombygning. Der er også information om elpriser, aktuelle tilskud og muligheden for at tilmelde sig nyhedsbrevet for at få spareråd tilpasset ens bolig og interesser direkte i indbakken. Der er desuden arrangementer som webinarer om Energirenoveringspuljen og information om afkoblingsordningen, hvor man kan få dækket gebyret for at blive afkoblet fra gassystemet, hvis man skifter til en ny type varme.",
+    "meta": {
+        "id": 907075364801326681,
+        "url": "https://sparenergi.dk/vores-energiaftale/introduktion?destination=/%23module-820",
+        "title": "Our energy agreement | Energistyrelsen",
+        "time_requested": "2024-04-16T11:51:52.618921",
+        "error": null,
+        "num_tokens_in": 1267,
+        "num_tokens_out": 282,
+        "estimated_input_cost_gpt4": 0.01267,
+        "estimated_output_cost_gpt4": 0.00846,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om energimærkning af bygninger på deres hjemmeside. Energimærkningsordningen viser, hvor meget energi en bygning bruger, og hvor der kan gennemføres energiforbedringer. Alle bygninger skal energimærkes ved salg og udlejning, og offentlige bygninger over 250 m2 skal altid have en gyldig energimærkning. Energimærkningen vises på en skala fra A til G, hvor A er den bedste (opdelt i A2020, A2015 og A2010) og G er den dårligste. Energimærkningsrapporten har fået et nyt format fra 2021, der skal føre til flere konkrete energiforbedringer. Bygninger kan energimærkes efter beregnet forbrug, og hvis mere end 25 % af en bygning sælges eller udlejes, skal den energimærkes ud fra beregnet forbrug. Alle bygninger til handel og service skal være energimærkede, og nyopførte bygninger på mindst 60 m2 skal energimærkes inden indflytning. Energistyrelsen tilbyder et værktøj til at finde energimærket på en bygning samt en liste over energimærkningsfirmaer. Energistyrelsen opfordrer også virksomheder til at tilmelde sig nyhedsmailen for at modtage relevante nyheder om energiforbrug og -mærkning i erhvervslivet.",
+    "meta": {
+        "id": 13255878485678494857,
+        "url": "https://sparenergi.dk/erhverv/vaerktojer/energimaerkning-bygninger",
+        "title": "Energimærkning bygninger | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:17.100160",
+        "error": null,
+        "num_tokens_in": 2709,
+        "num_tokens_out": 379,
+        "estimated_input_cost_gpt4": 0.027090000000000003,
+        "estimated_output_cost_gpt4": 0.01137,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

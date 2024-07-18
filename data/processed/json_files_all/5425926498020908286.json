@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen opfordrer virksomheder til at spare på energien på arbejdspladsen gennem energivenlige initiativer og vaner. For at identificere sparepotentialer opfordres virksomhederne til at skabe et overblik over energiforbruget og justere temperaturen til mindst 18 ºC for varme og maksimalt 24 ºC for køling. Det anbefales desuden at slukke lys og elektronik, skifte til LED-belysning samt bruge mindre varmt vand. De opfordres også til at inddrage alle medarbejdere i energibesparende tiltag og hente kampagnemateriale fra Energistyrelsen. Der findes yderligere råd og pjecer om energibesparende tiltag på forskellige virksomhedstyper som hospitaler, svømmehaller, idrætshaller, klubhuse og spejderhytter. Der gives også specifikke tips til energibesparelser på belysning og it. Energistyrelsen tilbyder gratis rådgivning og nyhedsbreve om energibesparelse til virksomheder, og de opfordrer til tilmelding via deres hjemmeside.",
+    "meta": {
+        "id": 5425926498020908286,
+        "url": "https://sparenergi.dk/erhverv/sparerad-pa-arbejdspladsen",
+        "title": "Spareråd på arbejdspladsen | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:01.413828",
+        "error": null,
+        "num_tokens_in": 1367,
+        "num_tokens_out": 303,
+        "estimated_input_cost_gpt4": 0.013670000000000002,
+        "estimated_output_cost_gpt4": 0.00909,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

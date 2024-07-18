@@ -1,0 +1,15 @@
+{
+    "text": "Informationen giver en oversigt over forskellige varmepumpemodeller og deres specifikationer, herunder effektivitet, ydeevne og støjniveau. Der gives vejledning i valg af varmepumpe, herunder at konsultere en installatør og sikre, at den valgte model er testet af et uafhængigt laboratorium. Desuden oplyses det om vigtigheden af at vælge en varmepumpe med det rette energimærke og i korrekt størrelse i forhold til husets behov. Endelig tilbydes gratis rådgivning fra uvildige energirådgivere. Derudover kan man finde mere inspiration og råd til energioptimering på SparEnergi-platformen.",
+    "meta": {
+        "id": 5424955790646284434,
+        "url": "https://old.sparenergi.dk/node/201/share-content-view",
+        "title": "Varmepumpelisten | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:50.740268",
+        "error": null,
+        "num_tokens_in": 4461,
+        "num_tokens_out": 186,
+        "estimated_input_cost_gpt4": 0.044610000000000004,
+        "estimated_output_cost_gpt4": 0.00558,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

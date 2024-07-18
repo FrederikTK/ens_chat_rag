@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information og rådgivning om energimærkning af bygninger, herunder til forbrugere, offentlige institutioner og virksomheder. De tilbyder vejledning om energibesparelser i boliger, herunder isolering, vinduer, ventilation, varmekilder som naturgas, fjernvarme, varmepumper osv. Der er også information om energimærkning af elektriske apparater, opvaskemaskiner, gode energivaner, elpriser, og solcelleanlæg. Derudover tilbyder de spareråd til hjemmet, hvordan man kan spare energi på belysning, og information om forskellige energikilder som luft-til-vand varmepumper. Energistyrelsen giver også eksempler på, hvordan solcelleanlæg kan føre til besparelser på elregningen og forbedre indeklimaet. De tilbyder desuden tekniske råd om brugen af varmepumper og hvordan man kan holde dem ved lige. Energistyrelsen har også information om hårdføre varmepumper til kystnære områder og hvordan man kan udnytte billigere strøm i løbet af dagen. Du kan læse mere på deres hjemmeside www.ens.dk.",
+    "meta": {
+        "id": 13106836079297882555,
+        "url": "https://sparenergi.dk/google-search?tab=2490&query=elpriser",
+        "title": "Søgeresultat | Energistyrelsen",
+        "time_requested": "2024-04-16T11:59:01.717661",
+        "error": null,
+        "num_tokens_in": 2354,
+        "num_tokens_out": 310,
+        "estimated_input_cost_gpt4": 0.023540000000000002,
+        "estimated_output_cost_gpt4": 0.009300000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen beder virksomheder om at angive størrelsen på deres virksomhed som enten lille, mellemstor eller stor, som en del af en registreringsproces eller en undersøgelse. Mere specifik information om formålet eller konsekvenserne af denne oplysning er ikke tilgængelig i det givne indhold. Energistyrelsen synes at indsamle data om virksomhedsstørrelser for at kunne skelne mellem disse tre størrelseskategorier. Hver kategori kan have forskellige betydninger eller indikationer afhængigt af konteksten.",
+    "meta": {
+        "id": 11205858680947845640,
+        "url": "https://sparenergi.dk/tilskud-til-led?destination=/erhverv/belysningsberegner%23module-13",
+        "title": "| Energistyrelsen",
+        "time_requested": "2024-04-16T11:50:20.711718",
+        "error": null,
+        "num_tokens_in": 47,
+        "num_tokens_out": 153,
+        "estimated_input_cost_gpt4": 0.00047000000000000004,
+        "estimated_output_cost_gpt4": 0.00459,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

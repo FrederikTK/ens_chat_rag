@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har en onlineformular, hvor virksomheder bliver bedt om at angive størrelsen på deres virksomhed som enten lille, mellemstor eller stor. Formularen ser ud til at være en del af en undersøgelse eller registreringsproces i forbindelse med virksomhedens energiforbrug eller -produktion.",
+    "meta": {
+        "id": 9454609058023311889,
+        "url": "https://sparenergi.dk/udskiftning-af-br%C3%A6ndselskedel/reset?destination=/udskiftning-af-br%25C3%25A6ndselskedel%3Fdestination%3D/erhverv/smaa-kedler-beregner%2523module-12",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:56:03.712535",
+        "error": null,
+        "num_tokens_in": 47,
+        "num_tokens_out": 88,
+        "estimated_input_cost_gpt4": 0.00047000000000000004,
+        "estimated_output_cost_gpt4": 0.00264,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

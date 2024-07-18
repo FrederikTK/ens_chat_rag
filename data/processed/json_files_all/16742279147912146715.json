@@ -1,0 +1,15 @@
+{
+    "text": "No content available to summarize.",
+    "meta": {
+        "id": 16742279147912146715,
+        "url": "https://sparenergi.dk/sites/forbruger.dk/files/contents/publication/positivliste-vinduer/2022-11-18_vindues-_og_forsatssystemer_med_tilskud_fra_bygningspuljen.pdf",
+        "title": "Fejl 404 – siden kunne ikke findes | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:06.035992",
+        "error": "404 Client Error: Not Found for url: https://old.sparenergi.dk/sites/forbruger.dk/files/contents/publication/positivliste-vinduer/2022-11-18_vindues-_og_forsatssystemer_med_tilskud_fra_bygningspuljen.pdf",
+        "num_tokens_in": 0,
+        "num_tokens_out": 6,
+        "estimated_input_cost_gpt4": 0.0,
+        "estimated_output_cost_gpt4": 0.00018,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

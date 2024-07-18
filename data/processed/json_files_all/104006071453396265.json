@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har introduceret en ny energimærkningsrapport, som skal gøre det lettere at energiforbedre boliger og bygninger. Rapporten vil have et nyt format, der tydeligt viser, hvor det er mest relevant at gennemføre energiforbedringer, hvilke gevinster der er økonomisk og klimamæssigt, og hvordan det kan gøres. De vigtigste informationer om bygningen og foreslåede energiforbedringer vil være samlet på de to første sider af rapporten. Rapporten fokuserer på energikonsulentens bedste forslag til energiforbedringer, hvis der er rentable forbedringer at foretage. Den nye rapport vil guide brugerne til de bedste energiforbedringer og vise potentialet i boligen. En kort film er tilgængelig for at forklare den nye energimærkningsrapport. Rapporten vil gøre det lettere og mere overskueligt at komme i gang med energiforbedringer ved hjælp af anbefalingerne. Den gamle og den nye version af rapportdesignet vil eksistere side om side, da en energimærkning er gyldig i 10 år. Energistyrelsen tilbyder også en ny energimærkningsrapport specifikt til boligkøbere og -sælgere, som skal føre til flere konkrete energiforbedringer og er tilgængelig for download.",
+    "meta": {
+        "id": 104006071453396265,
+        "url": "https://old.sparenergi.dk/forbruger/boligen/energimaerkning-boliger/ny-energimaerkningsrapport",
+        "title": "Ny energimærkningsrapport | Energistyrelsen",
+        "time_requested": "2024-04-16T11:59:02.534111",
+        "error": null,
+        "num_tokens_in": 1678,
+        "num_tokens_out": 359,
+        "estimated_input_cost_gpt4": 0.01678,
+        "estimated_output_cost_gpt4": 0.01077,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

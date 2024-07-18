@@ -1,0 +1,15 @@
+{
+    "text": "Den tilgængelige information drejer sig om hvordan man kan skifte til fjernvarme i ens bolig. Fjernvarme beskrives som en driftssikker, billig og klimavenlig opvarmningskilde, især hvis man allerede opvarmer sin bolig med olie, naturgas eller elvarme. Når man vælger fjernvarme, bidrager man til en mere CO2-venlig energiforsyning og får dermed en mere klimavenlig opvarmning. Det nævnes også, at boligens værdi kan stige, når man installerer fjernvarme, dels på grund af en mulig forbedring af energimærket. Der gives også et eksempel på, hvor meget man kan spare årligt ved at skifte til fjernvarme fra naturgas i et typisk 130 m² hus med et forbrug på 18.100 kWh/år.\n\nDer gives råd om valg af tilslutningsbestemmelser fra fjernvarmeværket, valg af virksomhed fra Fjernvarmens Serviceordning til installation af anlægget, anbefaling om at skifte om sommeren samt aftale om årligt eftersyn. Yderligere opfordres man til at kontakte det lokale fjernvarmeværk for at få nødvendige oplysninger om tilslutningsbestemmelser, tariffer og afregningsform. Der beskrives også kort, hvordan fjernvarmeværket fungerer, hvordan installationen foregår, og hvordan man kan få en gennemgang og instruktion af anlægget af VVS-installatøren.\n\nDer findes også oplysninger om virksomheder, der kan hjælpe med at skifte til fjernvarme via Håndværkerlisten på Energistyrelsens hjemmeside. Endelig gives der forbehold om standardløsninger, fejl, forældede oplysninger og software, og man opfordres til at søge yderligere rådgivning hos virksomhederne før implementering af energiløsningerne.",
+    "meta": {
+        "id": 16868614858836154828,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/energiloesninger/skift-til-fjernvarme",
+        "title": "Skift til fjernvarme",
+        "time_requested": "2024-04-16T11:48:54.854570",
+        "error": null,
+        "num_tokens_in": 4305,
+        "num_tokens_out": 506,
+        "estimated_input_cost_gpt4": 0.043050000000000005,
+        "estimated_output_cost_gpt4": 0.01518,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

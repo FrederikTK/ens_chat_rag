@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en tjeneste kaldet \"Find dit energimærke\", som viser, hvilket energimærke din bolig har i dag, og hvilket mærke den potentielt kan opnå. Tjenesten viser også forbedringsforslag, herunder konsulentens anbefalinger, rentable forslag og en liste med alle forslag. Investeringer, der er direkte rentable, vises ved forbedringsforslagene, og det angives, om energibesparelsen kan tilbagebetale investeringen. Vær opmærksom på, at alle beløb, herunder investeringspriser og besparelser, er beregnet ud fra skøn og V&S Prisdata. Energimærkerne udarbejdes af certificerede energimærkningsvirksomheder, og ved eventuelle fejl i energimærkningen skal man henvende sig til virksomheden, der har udarbejdet den. Energistyrelsen oplyser, at indholdet på tjenesten er kun til orientering, og de kan ikke garantere fuldstændighed og korrekthed. Energistyrelsen offentliggør energimærker baseret på data fra energimærkningsrapporter, men disse data er ikke uafhængigt bekræftet. Sidst opdateret var den 13. marts 2019.",
+    "meta": {
+        "id": 14724268824889974625,
+        "url": "https://sparenergi.dk/forbruger/boligen/energimaerkning-boliger/om-det-digitale-energimaerke",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:58:49.504343",
+        "error": null,
+        "num_tokens_in": 1750,
+        "num_tokens_out": 344,
+        "estimated_input_cost_gpt4": 0.0175,
+        "estimated_output_cost_gpt4": 0.010320000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

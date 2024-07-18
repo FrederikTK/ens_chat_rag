@@ -1,0 +1,15 @@
+{
+    "text": "I casen \"Fra elvarme til varmepumpe og solceller\" beskrives historien om Freddy og Gunvor, der udskiftede deres elvarme med en varmepumpe og solceller i deres hus. Freddy og Gunvor, der er henholdsvis 70 og 64 år, købte huset i 2005. Freddy har tidligere arbejdet med lavenergihuse og havde erfaring med solceller. Beslutningen om at skifte til varmepumpe og solceller blev taget for at reducere det høje elforbrug. De installerede den første varmepumpe i 2006 og udskiftede den i 2015 for at opgradere til en mere effektiv model. Solcellerne blev ligeledes installeret, og I fik også tilskud til energiforbedringer og benyttede sig af håndværkerfradrag. Projektet blev finansieret uden lån, da de havde kapital fra tidligere salg. Arbejdet med både varmepumpe og solceller blev udført relativt nemt, og resultaterne har været en markant reduktion i energiforbruget. Energiforbruget før var 30.600 kr./år, og efter installationen af varmepumpe og solceller var det nede på 2.100 kr./år, hvilket svarer til en besparelse på 28.500 kr./år eller 93%. Samlet set kostede varmepumpe og solceller 118.000 kr. Effekten af projekterne blev et mere behageligt indeklima samt store besparelser økonomisk. Freddy og Gunvor har været meget tilfredse med resultatet af projekterne og oplever en positiv effekt på deres energiforbrug.",
+    "meta": {
+        "id": 7596021934719932666,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/casebank/fra-elvarme-til-varmepumpe-og-solceller",
+        "title": "Fra elvarme til varmepumpe og solceller",
+        "time_requested": "2024-04-16T11:57:06.051962",
+        "error": null,
+        "num_tokens_in": 2801,
+        "num_tokens_out": 442,
+        "estimated_input_cost_gpt4": 0.028010000000000004,
+        "estimated_output_cost_gpt4": 0.013260000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

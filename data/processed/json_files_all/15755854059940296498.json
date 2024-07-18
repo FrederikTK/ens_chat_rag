@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om at få gratis energi med solvarme som en energioptimeringsløsning. Et solvarmeanlæg kan producere varmt brugsvand og delvist varme til huset. Det kan være en god løsning, især hvis man i forvejen opvarmer med el, olie eller gas. Der er forudsætninger såsom tilladelse fra kommunen og et egnet tag. Solvarme er klimavenlig og kræver minimal vedligeholdelse. Det anbefales at installere solvarme under en boligrenovering. Man kan ikke forvente at dække hele varmeforbruget med solvarme, og solfangerne kræver plads og korrekt installation. Energistyrelsen opfordrer til at undersøge, om solvarme er den rette løsning baseret på ens varmebehov og boligforhold. Installationen kræver en VE-godkendt installatør og byggetilladelse fra kommunen. Energistyrelsen anbefaler at få flere tilbud og indhente skriftlige garantier. Installationen kræver en ny varmtvandsbeholder og en energieffektiv cirkulationspumpe. Man bør vedligeholde solvarmeanlægget og få det efterset årligt. Energistyrelsen oplyser om forskellige typer solfangere og råder til at bruge fagfolk for at få den bedste løsning. Solceller anbefales frem for solvarme, hvis man har fjernvarme, varmepumpe eller træpillefyr. Energistyrelsen tilbyder også information om installationen og vedligeholdelsen af solvarmeanlæg.",
+    "meta": {
+        "id": 15755854059940296498,
+        "url": "https://sparenergi.dk/tid-til-skifte-varmetype/faa-gratis-energi-med-solvarme",
+        "title": "Solvarme | SparEnergi.dk",
+        "time_requested": "2024-04-16T11:58:12.486633",
+        "error": null,
+        "num_tokens_in": 3014,
+        "num_tokens_out": 416,
+        "estimated_input_cost_gpt4": 0.030140000000000004,
+        "estimated_output_cost_gpt4": 0.01248,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

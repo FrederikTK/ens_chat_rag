@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har haft en pulje, hvor kommuner og regioner kunne søge tilskud til energiforbedringsprojekter og digitaliseringsprojekter i kommunale og regionale bygninger. Puljen er dog ikke længere åben, og den vil heller ikke blive genåbnet i 2023. Projekter, der har fået tilskud, skal være udført inden for den angivne frist i tilsagnet. Når projektet er afsluttet, skal man ansøge om udbetaling af tilskuddet. Energistyrelsen træffer afgørelse om udbetaling af tilskud, og udbetalingen afhænger af, om projektet er gennemført i overensstemmelse med tilsagnet og reglerne i tilskudsordningens bekendtgørelse. Tilskuddet kan nedsættes, hvis de endelige omkostninger er lavere end de estimerede omkostninger eller hvis projektet ikke er gennemført som forudsat. Der er diverse dokumenter og skabeloner, der skal bruges til ansøgning og udbetaling af tilskud. Energistyrelsen giver gratis rådgivning og vejledning om energioptimering.",
+    "meta": {
+        "id": 4231055657033272355,
+        "url": "https://old.sparenergi.dk/offentlig/vaerktojer/tilskud",
+        "title": "Tilskud | Energistyrelsen",
+        "time_requested": "2024-04-16T11:53:36.830339",
+        "error": null,
+        "num_tokens_in": 1158,
+        "num_tokens_out": 308,
+        "estimated_input_cost_gpt4": 0.011580000000000002,
+        "estimated_output_cost_gpt4": 0.00924,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

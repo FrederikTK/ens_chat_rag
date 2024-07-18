@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en service kaldet SparEnergi, hvor man kan indtaste sin adresse og få tre effektive råd til energioptimering på den pågældende adresse. Man kan også vælge sine personlige sparemål og se, hvor meget strøm, varme og CO2 man kan spare i sit hjem. Dette kan hjælpe med at lave en aftale med sig selv eller sin familie og få hjælp til at nå sparemålene. Tjenesten giver inspiration, viden og råd til at få mest ud af energien i hjemmet. Energistyrelsen tilbyder også gratis rådgivning og har en tilgængelighedserklæring på deres hjemmeside. Man kan besøge SparEnergi.dk for at benytte disse ressourcer og finde mere information om energibesparelser.",
+    "meta": {
+        "id": 8562102217077946325,
+        "url": "https://sparenergi.dk/vores-energiaftale/introduktion?destination=/spar-energi-paa-din-maade&permission=1",
+        "title": "Vores energiaftale | Energistyrelsen",
+        "time_requested": "2024-04-16T11:53:24.350548",
+        "error": null,
+        "num_tokens_in": 363,
+        "num_tokens_out": 209,
+        "estimated_input_cost_gpt4": 0.0036300000000000004,
+        "estimated_output_cost_gpt4": 0.00627,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

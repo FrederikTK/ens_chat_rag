@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside indeholder information til bygherrer om, hvordan de kan spare energi på byggepladsen og skabe en energieffektiv byggeproces. Byggeprocesser bruger normalt energi svarende til 2-4 års fremtidigt varmeforbrug og udgør typisk 0,5-1,5 % af byggesummen. Opvarmning og udtørring udgør 80 % af energiforbruget i byggeprocessen. \n\nBygherren bør vælge en passende afregningsform til byggeprojektet, da dette påvirker energiforbruget. De præsenteres tre afregningsformer: dokumenteret forbrug, fast pris og fælles incitament. Det anbefales at spørge rådgiverne om energiforbrug, skabe klarhed over roller og ansvar tidligt, sætte en realistisk tidsramme og have et fælles incitament til at reducere energiforbrug.\n\nDer gives også tommelfingerregler til at skabe en energieffektiv byggeproces, herunder at bruge varmepumper i skurvogne, tætne mellem skurvogne og bruge velisolerede pavilloner. Der gives også information om overtagning af byggepladsen og lukning med interrimsvinduer for at spare energi til opvarmning og udtørring. Samtidig gives der eksempler på besparelser ved at bruge interrimsvinduer og overdække byggepladsen.\n\nDer er også eksempler på cases, hvor bl.a. selvudtørrende beton og energiledelse har bidraget til lavere energiforbrug samt adfærdsændringer på byggepladsen for at spare energi. Energistyrelsens hjemmeside tilbyder også muligheden for at tilmelde sig nyhedsmailen og modtage nyheder til erhvervsvirksomheder.",
+    "meta": {
+        "id": 2153728786839682166,
+        "url": "https://sparenergi.dk/erhverv/byggeri/bygherre",
+        "title": "Bygherre | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:39.665563",
+        "error": null,
+        "num_tokens_in": 7081,
+        "num_tokens_out": 488,
+        "estimated_input_cost_gpt4": 0.07081000000000001,
+        "estimated_output_cost_gpt4": 0.01464,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

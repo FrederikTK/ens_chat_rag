@@ -1,0 +1,15 @@
+{
+    "text": "Excel-arket til aflæsning af måler er tilgængeligt på SparEnergi.dk og er designet til brug i forbindelse med naturligvis aflæsning af målere. Arket er en side og fylder 18,33 KB, og det kan downloades som en XLSX-fil. Energistyrelsen står bag materialet, og det kan være nyttigt for forbrugere, der ønsker at aflæse deres målere. Man kan finde Excel-arket under \"Forbruger\" på SparEnergi.dk.",
+    "meta": {
+        "id": 16843364180508022955,
+        "url": "https://old.sparenergi.dk/forbruger/materialer/excel-ark-til-aflaesning-af-maaler",
+        "title": "Excel-ark til aflæsning af måler",
+        "time_requested": "2024-04-16T11:55:27.146397",
+        "error": null,
+        "num_tokens_in": 849,
+        "num_tokens_out": 131,
+        "estimated_input_cost_gpt4": 0.008490000000000001,
+        "estimated_output_cost_gpt4": 0.00393,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

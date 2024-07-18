@@ -1,0 +1,15 @@
+{
+    "text": "Erhvervspuljen: Obligatoriske standardforudsætninger er et dokument udgivet af Energistyrelsen, som skal anvendes i projekter til Erhvervspuljen, hvor værdierne er relevante. Dokumentet er gældende for ansøgninger indsendt fra januar 2023. Det indeholder information om de obligatoriske standardforudsætninger og fylder 894.76 KB over 7 sider. Energistyrelsen befinder sig på adressen Carsten Niebuhrs Gade 43, 1577 København V. Yderligere information om Energibarometeret, materialer, partnere og brugen af indhold kan findes på deres hjemmeside www.ens.dk.",
+    "meta": {
+        "id": 6384218910340218618,
+        "url": "https://sparenergi.dk/forbruger/materialer/erhvervspuljen-obligatoriske-standardforudsaetninger",
+        "title": "Erhvervspuljen: Obligatoriske standardforudsætninger",
+        "time_requested": "2024-04-16T11:56:41.928811",
+        "error": null,
+        "num_tokens_in": 900,
+        "num_tokens_out": 171,
+        "estimated_input_cost_gpt4": 0.009000000000000001,
+        "estimated_output_cost_gpt4": 0.00513,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

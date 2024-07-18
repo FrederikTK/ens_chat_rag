@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen anbefaler virksomheder inden for detailbranchen at skifte til LED-belysning, da det er den mest energieffektive og fremtidssikrede belysningskilde på markedet. LED-lys er effektiv butiksbelysning, da det tænder med det samme, fås i forskellige toner og styrker, og bruger markant mindre strøm og har længere levetid end f.eks. halogenpærer. Ved at skifte til LED kan virksomheder halvere energiforbruget til belysning og opnå betydelige besparelser på elregningen. LED-lys bidrager også til et bedre indeklima, da det næsten ikke udvikler varme, og det indeholder ikke kviksølv som f.eks. sparepærer og lysstofrør gør. Energistyrelsen anbefaler LED med en levetid på mindst 15.000 timer, en Ra-indeks på mindst 85 for god farvegengivelse, en farvetemperatur på 3.000-6.000 kelvin, og at man ser efter lumen for at vurdere lysstyrken. Processen med at skifte til LED involverer bl.a. dialog om behov med en autoriseret elinstallatør, vurdering af om armaturerne egner sig til LED, beregning af besparelser og omkostninger, udskiftning af lyskilder og/eller armaturer, samt eventuel opsætning af prøvebelysning ved større projekter. Energistyrelsen har desuden udarbejdet kravspecifikationer og tjeklister, samt materialer om adfærdsændringer for at opnå besparelser på arbejdspladsen. Ifølge en undersøgelse fra 2015 er 88% af detailvirksomheder tilfredse med LED-belysning. Energistyrelsen opfordrer virksomheder til at tilmelde sig nyhedsmailen for at modtage relevante opdateringer og information.",
+    "meta": {
+        "id": 18095238459323422339,
+        "url": "https://sparenergi.dk/erhverv/handel-og-service/belysning",
+        "title": "Belysning | Energistyrelsen",
+        "time_requested": "2024-04-16T11:58:56.204950",
+        "error": null,
+        "num_tokens_in": 2713,
+        "num_tokens_out": 512,
+        "estimated_input_cost_gpt4": 0.02713,
+        "estimated_output_cost_gpt4": 0.01536,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

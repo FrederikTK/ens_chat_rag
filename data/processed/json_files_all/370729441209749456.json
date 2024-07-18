@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen opfordrer alle arbejdspladser i landet til at spare på energien over vinteren på grund af mangel på energi i Europa. De opfordrer til at ændre vaner i hverdagen for at spare energi på arbejdspladsen. Energistyrelsen har udviklet kampagnemateriale, der kan hjælpe med at implementere gode energivaner og spareadfærd på arbejdspladsen. Der er materialer til kontorer og større bygninger, fødevarebutikker og detaljer, restaurationer, caféer og køkkener, uddannelsesinstitutioner, vuggestuer, børnehaver og plejehjem, samt pjecer til drift af bygninger, IT og elektronik, og energiinvesteringer. Der kan bestilles klistermærker, termostatkraver og dørhængere til arbejdspladsen for at hjælpe medarbejderne med at huske at spare på energien. Der er også mulighed for at tilmelde sig en nyhedsmail med information om energibesparelser, CO2-reduktioner og Erhvervspuljen. Energistyrelsens kontaktoplysninger er Carsten Niebuhrs Gade 43, 1577 København V.",
+    "meta": {
+        "id": 370729441209749456,
+        "url": "https://sparenergi.dk/erhverv/sparerad-pa-arbejdspladsen/spar-pa-energien",
+        "title": "Spar på energien | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:30.594279",
+        "error": null,
+        "num_tokens_in": 3088,
+        "num_tokens_out": 308,
+        "estimated_input_cost_gpt4": 0.03088,
+        "estimated_output_cost_gpt4": 0.00924,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om energimærkning af apparater til forbrugere, virksomheder og offentlige institutioner. Når man køber nyt udstyr, opfordres man til at se efter energimærket, der angiver energieffektiviteten og klassificeringen af apparatet. Derudover introduceres et værktøj kaldet \"Hele Prisen\", hvor man kan sammenligne totaløkonomien for et apparat, inklusive både indkøbs- og driftsomkostninger. Der gives også specifikke råd om, hvilke energiklasser man bør gå efter ved køb af forskellige typer apparater som køleskabe, vaskemaskiner, tørretumblere, elpærer, opvaskemaskiner, ovne, emhætter, tv, skærme, computere og ventilationssystemer. Der findes også information om energimærkning af varmeanlæg, herunder varmepumper, kedler og vandvarmere. Energimærkningen i EU går fra A til G, hvor A angiver den bedste energiklasse. Desuden gives der indsigt i andre miljømærker som \"Blomsten\", \"Svanen\", \"Dansk Indeklima Mærkning\" og \"FSC-mærket\", der også fokuserer på miljøvenlighed og energieffektivitet. Energistyrelsen understreger desuden vigtigheden af energimærkningen og hvordan den bidrager til EU's energibesparelsesmål.",
+    "meta": {
+        "id": 17956723513930652750,
+        "url": "https://sparenergi.dk/forbruger/el/energimaerkning-apparater",
+        "title": "Energimærkning apparater | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:13.401575",
+        "error": null,
+        "num_tokens_in": 4223,
+        "num_tokens_out": 380,
+        "estimated_input_cost_gpt4": 0.042230000000000004,
+        "estimated_output_cost_gpt4": 0.0114,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

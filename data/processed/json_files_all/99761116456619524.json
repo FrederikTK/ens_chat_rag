@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen oplyser om muligheden for at producere sin egen vindenergi i Danmark, hvor næsten halvdelen af elforsyningen i dag kommer fra vindmøller. Danmark anses for at have gode betingelser for vindenergi, og vindkraft udgjorde 47 % af elforbruget i 2019. Som forbruger kan man støtte udbredelsen af vindenergi ved enten at købe en husstandsmølle eller vælge grøn strøm fra elselskaber, som baserer deres produktion på vedvarende energikilder som vind og sol. En husstandsvindmølle koster typisk 350.000-750.000 kr. og er installeret til at levere strøm til eget forbrug. Man kan også søge om øjebliksafregning hos Energistyrelsen, hvis man selv ejer en vindmølle, der er nettilsluttet og placeret på ens egen grund. Før man investerer i en husstandsmølle, bør man vælge møllen ud fra ens behov og forbrug, samt undersøge regler og lokalplaner for opstilling af vindmøller. Man bør også tage højde for støjgener, skyggekastning og undgå turbulens, når man vælger placering for sin husstandsmølle. Vindmøllen skal overholde visse krav og være typegodkendt, samt følge de relevante regler og anbefalinger. Energistyrelsen opfordrer til at læse mere på deres hjemmeside for at få yderligere information om at producere sin egen vindenergi.",
+    "meta": {
+        "id": 99761116456619524,
+        "url": "https://sparenergi.dk/forbruger/el/vindmoeller",
+        "title": "Vindmøller | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:57.649076",
+        "error": null,
+        "num_tokens_in": 1828,
+        "num_tokens_out": 404,
+        "estimated_input_cost_gpt4": 0.01828,
+        "estimated_output_cost_gpt4": 0.01212,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

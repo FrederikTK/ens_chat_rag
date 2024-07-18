@@ -1,0 +1,15 @@
+{
+    "text": "Parcelhuse fra perioden 1960-76 er typisk beskedne huse, der er opført til at imødekomme behovene for en kernefamilie på 2 voksne og 2 børn. Disse huse blev ikke bygget med fokus på arkitektur, men på funktion, og de har ofte en stor, ubrudt tagflade. Energimærkningen af disse huse ligger som regel i kategorierne D-E, med mulighed for at opnå energimærke C efter en energirenovering. Typisk forbedringer omfatter isolering af loft, udskiftning eller forbedring af vinduer, isolering af ydervægge, hulmursisolering og udskiftning af yderdøre. Der gives også anbefalinger til forbedringer af installationsdelen, såsom isolering af varme- og varmtvandsrør, installation af solcelleanlæg, installation af automatik på varmeanlægget, udskiftning af cirkulationspumper og installation af varmepumpe. Det fremhæves desuden, at der kan opnås tilskud til energivenlige renoveringer, og det anbefales at have en rådgiver med på større renoveringsprojekter. Der gives også gode råd til renoveringsprocessen, herunder forbedring af indeklimaet, sikkerhed, tilgængelighed og klimasikring. Man opfordres til at inddrage en arkitekt i renoveringsprocessen og at søge rådgivning fra diverse instanser og professionelle aktører.",
+    "meta": {
+        "id": 6664301197789625970,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/bygningsguiden/parcelhus-1960-76",
+        "title": "Parcelhus 1960-76 | Energistyrelsen",
+        "time_requested": "2024-04-16T11:51:24.497971",
+        "error": null,
+        "num_tokens_in": 8019,
+        "num_tokens_out": 393,
+        "estimated_input_cost_gpt4": 0.08019000000000001,
+        "estimated_output_cost_gpt4": 0.01179,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

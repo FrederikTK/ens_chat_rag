@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen omhandler sommerluk for varmeanlægget og hvordan man kan spare energi ved at udføre denne simple handling. Ved at sætte varmeanlægget på sommerdrift kan man spare mellem 3-5 % af årligt varmeforbrug, hvilket svarer til 600-1600 kr afhængigt af varmeformen. Sommerlukning indebærer at lukke for varmen til radiatorer eller gulvvarme i sommerhalvåret, hvor man kun producerer varmt vand. Det anbefales at sommerlukke fra maj til oktober. Artiklen forklarer i detaljer hvordan man udfører sommerlukning for forskellige typer varmeanlæg inklusive fjernvarme, varmepumper, naturgas, oliefyr og træpillefyr. Der gives trinvise instruktioner samt illustrationer, og en besparelsesguide for hver type varmeanlæg angives også. Artiklen opfordrer til at slukke cirkulationspumpen, da det ofte hører sig sammen med sommerlukning, og det beskrives hvordan det gøres korrekt. Der er også information om cirkulationspumpe vedligeholdelse og hvordan man kan spare på varme gennem andre energibesparende foranstaltninger såsom lys, isolering og adfærd i dagligdagen. Til sidst opfordres læseren til at modtage mere energirådgivning og få flere tips til at spare energi.",
+    "meta": {
+        "id": 4751390569010988279,
+        "url": "https://sparenergi.dk/sommerluk-varmeanlaegget",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:59:36.596918",
+        "error": null,
+        "num_tokens_in": 3474,
+        "num_tokens_out": 369,
+        "estimated_input_cost_gpt4": 0.03474,
+        "estimated_output_cost_gpt4": 0.01107,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

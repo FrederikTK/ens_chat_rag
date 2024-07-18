@@ -1,0 +1,15 @@
+{
+    "text": "Typehuset fra perioden 1985-1997 er typisk ca. 130 m2 stort og er ofte i 1 plan med en smule hældning på taget. Huset kan være rektangulært eller have en vinkel. Energimærket for disse huse er typisk C, men kan være B, hvis de er energirenoveret. Typiske forbedringer omfatter isolering af loft, udskiftning eller energiforbedring af vinduer, udskiftning af yderdøre, installation af solcelleanlæg, isolering af varme- og varmtvandsrør og udskiftning af cirkulationspumper og olie- eller gaskedler. Det anbefales at have en rådgiver på større renoveringsprojekter. Energiforbedringer kan give besparelser på energiregningen, reducere CO2-udledningen og forbedre indeklimaet og komforten i huset. Det anbefales at forberede renoveringen nøje, sikre lovlig drift og adfærd, og overveje bæredygtighed i byggeri og renovering. Huset har centralvarme og naturlig ventilation, og varmeluft ledes ud gennem aftræk i køkken og badeværelse. Typiske materialer er røde mursten og hvide vinduer, betontagsten og en blanding af træ og mursten. Energistyrelsen anbefaler at tænke på indeklima, sikkerhed, tilgængelighed og klimasikring ved renovering, og det kan være en fordel at inddrage en arkitekt.",
+    "meta": {
+        "id": 3198221677766303673,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/bygningsguiden/typehus-1985-1997",
+        "title": "Typehus 1985-1997 | Energistyrelsen",
+        "time_requested": "2024-04-16T11:52:20.209409",
+        "error": null,
+        "num_tokens_in": 8226,
+        "num_tokens_out": 401,
+        "estimated_input_cost_gpt4": 0.08226000000000001,
+        "estimated_output_cost_gpt4": 0.01203,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

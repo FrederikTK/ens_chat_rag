@@ -1,0 +1,15 @@
+{
+    "text": "API error: Error code: 400 - {'error': {'message': \"This model's maximum context length is 16385 tokens. However, your messages resulted in 33972 tokens. Please reduce the length of the messages.\", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}",
+    "meta": {
+        "id": 3049589650834702745,
+        "url": "https://sparenergi.dk//sites/forbruger.dk/files/img/Ikoner/En-ting-er-sikkert/ens_sparekampagne_arbejdspladser_one_pager_08.09.2022.pdf",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:54:49.525399",
+        "error": null,
+        "num_tokens_in": 33915,
+        "num_tokens_out": 70,
+        "estimated_input_cost_gpt4": 0.33915,
+        "estimated_output_cost_gpt4": 0.0021,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

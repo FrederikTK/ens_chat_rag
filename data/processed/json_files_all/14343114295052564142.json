@@ -1,0 +1,15 @@
+{
+    "text": "Automatik til varmeanlæg er en energiløsning, der kan installeres for at styre varmeforbruget efter vejret og din døgnrytme. Hovedformålet med at installere automatik er at opnå bedre indeklima, øget komfort og øge husets værdi. Det anbefales at vælge en løsning med vejrkompensering og natsænkning, hvor varmeanlægget kan stoppe og sænke temperaturen baseret på udendørs temperatur og tidspunkter på dagen. Hvis man alligevel skal skifte varmeanlæg, er det optimalt at vælge et nyt anlæg med indbygget automatik. Løsningen kan spare gennemsnitligt 560 kr. årligt i energiomkostninger. Installationen kræver montering af udeføler og rumføler samt indstilling af anlægget til at udføre temperatursænkning og natsænkning. Energistyrelsen tilbyder en liste over håndværkere med ekspertise inden for denne energiløsning, som man kan kontakte for yderligere hjælp og information.",
+    "meta": {
+        "id": 14343114295052564142,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/energiloesninger/automatik-til-varmeanlaeg",
+        "title": "Automatik til varmeanlæg",
+        "time_requested": "2024-04-16T11:58:35.778317",
+        "error": null,
+        "num_tokens_in": 3943,
+        "num_tokens_out": 294,
+        "estimated_input_cost_gpt4": 0.03943,
+        "estimated_output_cost_gpt4": 0.00882,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

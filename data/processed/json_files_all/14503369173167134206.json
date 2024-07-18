@@ -1,0 +1,15 @@
+{
+    "text": "På hjemmesiden for Energistyrelsen kan man bruge værktøjet \"Find bygningens energimærke\" for at se, hvor energieffektiv en bygning er. Man skal indtaste adressen på bygningen, inklusive postnummer og gadenummer, og så vil man kunne finde energimærket. Det er en nem måde at få information om bygningens energieffektivitet på. Energimærket er vigtigt for at kunne vurdere og sammenligne bygningers energiforbrug og miljøpåvirkning.",
+    "meta": {
+        "id": 14503369173167134206,
+        "url": "https://old.sparenergi.dk/offentlig/vaerktoejer/find-bygningens-energimaerke",
+        "title": "Find bygningens energimærke | Energistyrelsen",
+        "time_requested": "2024-04-16T11:52:09.249362",
+        "error": null,
+        "num_tokens_in": 1056,
+        "num_tokens_out": 136,
+        "estimated_input_cost_gpt4": 0.010560000000000002,
+        "estimated_output_cost_gpt4": 0.00408,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

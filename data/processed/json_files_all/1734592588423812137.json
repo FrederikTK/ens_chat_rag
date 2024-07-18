@@ -1,0 +1,15 @@
+{
+    "text": "På SparEnergi's hjemmeside, kan brugere indtaste deres adresse for at modtage tre effektive råd til energioptimering på deres bolig. Derudover tilbyder hjemmesiden forskellige ressourcer og værktøjer til at spare energi i hverdagen, såsom at sætte personlige sparemål og få hjælp til at nå dem. Desuden gives der gratis rådgivning og inspiration til energibesparelse. Energistyrelsens adresse og kontaktinformationer oplyses ligeledes på hjemmesiden, hvor brugere kan finde yderligere information om energirenovering og energioptimering.",
+    "meta": {
+        "id": 1734592588423812137,
+        "url": "https://ny.sparenergi.dk/vores-energiaftale/husdata?destination=/vores-energiaftale",
+        "title": "Vores energiaftale | Energistyrelsen",
+        "time_requested": "2024-04-16T11:59:04.477201",
+        "error": null,
+        "num_tokens_in": 363,
+        "num_tokens_out": 160,
+        "estimated_input_cost_gpt4": 0.0036300000000000004,
+        "estimated_output_cost_gpt4": 0.0048000000000000004,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside tilbyder en guide til at tjekke vandbårne radiatorer for at sikre optimal funktion og energiforbrug. Guiden opdeles i fire trin: placering, temperatur, termostater og eventuel klukken eller rislen. Følgende punkter dækkes:\n\n1. **Tjek placering:** \n   - Radiatorer må ikke være overdækkede eller placeret bag møbler, gardiner osv., da det hindrer varmen i at sprede sig. Sørg for, at temperaturføleren ikke er dækket til.\n   \n2. **Tjek temperatur:** \n   - Radiatorer skal være varme øverst og kolde forneden. Ved fjernvarme skrues ned, ved varmepumpe eller kedel indstilles den optimale fremløbstemperatur.\n   \n3. **Tjek termostater:** \n   - Tjek, om termostater kan justeres. Fastgår de, løsnes de med en skruetrækker.\n   \n4. **Tjek klukken og rislen:** \n   - Lyt efter lyde fra radiatoren, hvis de findes, er der luft i systemet. Udluftning er nødvendig.\n\nGuiden tilbyder også råd om at justere fremløbstemperaturen og opfordrer til at kontakte en VVS-installatør om nødvendigt. Derudover gives der tips om vedligeholdelse for at undgå fastgørelse af termostater om sommeren. Energistyrelsens hjemmeside har også links til yderligere vejledninger og information om energibesparelser.",
+    "meta": {
+        "id": 12225761840430298823,
+        "url": "https://sparenergi.dk/forbruger/vaerktojer/guides-og-tjeklister/radiatorer",
+        "title": "Radiatorer | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:13.134804",
+        "error": null,
+        "num_tokens_in": 2488,
+        "num_tokens_out": 395,
+        "estimated_input_cost_gpt4": 0.024880000000000003,
+        "estimated_output_cost_gpt4": 0.011850000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

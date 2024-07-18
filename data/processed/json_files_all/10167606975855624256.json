@@ -1,0 +1,15 @@
+{
+    "text": "Der er information tilgængelig om fordelene ved at investere i et nyt fjernvarmeanlæg. Hvis fjernvarmeenheden er fra før 1990, kan det være en god idé at udskifte den til en plusinstallation med ekstra lavt varmetab. Det kan resultere i en forøget værdi af boligen og en visuel forbedring. Det anbefales at vælge en installation med lavt varmetab samt en varmtvandsbeholder med lavt varmetab. Der bør også vælges en virksomhed, der er medlem af Fjernvarmens Serviceordning til at installere og indregulere anlægget. Derudover anbefales det at vælge et anlæg med automatik, som kan styre varmeforbruget efter vejret og døgnrytme. Informationen angiver også, at energiløsningen kan resultere i en besparelse på ca. 840 kr./år. Der gives også instruktioner om, hvordan processen med demontering og tilslutning af den nye unit foregår. Endvidere findes der en liste over håndværkere, der kan installere et nyt fjernvarmeanlæg i området med oplysninger om VE-godkendte virksomheder. Til slut oplyses der om Energistyrelsens Håndværkerliste, hvor man kan finde håndværkere til at udføre energibesparende tiltag i hjemmet.",
+    "meta": {
+        "id": 10167606975855624256,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/energiloesninger/nyt-fjernvarmeanlaeg",
+        "title": "Nyt fjernvarmeanlæg",
+        "time_requested": "2024-04-16T11:53:34.000618",
+        "error": null,
+        "num_tokens_in": 3959,
+        "num_tokens_out": 359,
+        "estimated_input_cost_gpt4": 0.03959,
+        "estimated_output_cost_gpt4": 0.01077,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

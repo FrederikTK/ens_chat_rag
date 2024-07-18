@@ -1,0 +1,15 @@
+{
+    "text": "På SparEnergis hjemmeside kan man finde information om, hvilken type varmepumpe man bør vælge. En varmepumpe er en effektiv måde at opvarme sit hus på, og man kan vælge mellem tre forskellige typer: luft til vand-varmepumpe, luft til luft-varmepumpe og jordvarme (væske til vand-varmepumpe). Luft til vand-varmepumper er velegnede til helårshuse og giver både rumvarme og varmt vand, men kræver plads til udedel. Luft til luft-varmepumper er gode til sommerhuse eller som supplement til helårshuse og giver kun rumvarme. Jordvarme er også velegnet til helårshuse og giver både rumvarme og varmt vand, men kræver en stor grund og kan være dyrere at installere. Varmepumper er en billig og klimavenlig opvarmningsmetode, der kan halvere varmeregningen og kræver minimal vedligeholdelse. Man kan få op til 70 % besparelse sammenlignet med opvarmning med el eller gas. Derudover kan man på hjemmesiden finde information om, hvordan en varmepumpe virker, hvad den kan bruges til, og hvor man kan få tilskud eller gratis rådgivning. Man kan også indtaste sin adresse for at få råd til energioptimering og se, hvad man kan spare ved at skifte varmetype.",
+    "meta": {
+        "id": 11833206920444465147,
+        "url": "https://sparenergi.dk/forbruger/varme/varmepumper?query=varmepumper",
+        "title": "Varmepumper | Energistyrelsen",
+        "time_requested": "2024-04-16T11:52:44.080681",
+        "error": null,
+        "num_tokens_in": 1565,
+        "num_tokens_out": 364,
+        "estimated_input_cost_gpt4": 0.01565,
+        "estimated_output_cost_gpt4": 0.010920000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

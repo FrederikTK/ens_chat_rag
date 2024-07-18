@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om energioptimering af boliger, herunder udskiftning af vinduer for at spare energi. De oplyser om fordele ved at renovere eller udskifte vinduer afhængigt af boligens behov. Priser og mulige årlige besparelser ved udskiftning af forskellige typer vinduer er angivet. Eksempelvis kan udskiftning af en ældre termorude med en energirude med \"varm kant\" koste 900 kr med en årlig besparelse på 79 kr for fjernvarme, 181 kr for naturgas og 213 kr for oliefyr. Energistyrelsen angiver også priser og besparelser ved udskiftning af forskellige typer sprossevinduer og forsatsruder. De opfordrer til at vælge vinduer, der sparer mest energi og passer til husets arkitektur for at opnå energimæssige og æstetiske fordele. Energistyrelsen tilbyder desuden gratis rådgivning og henviser til yderligere information på deres hjemmeside.",
+    "meta": {
+        "id": 5954327091300402268,
+        "url": "https://sparenergi.dk/forbruger/boligen/vinduer",
+        "title": "Vinduer | Energistyrelsen",
+        "time_requested": "2024-04-16T11:49:35.028948",
+        "error": null,
+        "num_tokens_in": 2281,
+        "num_tokens_out": 276,
+        "estimated_input_cost_gpt4": 0.02281,
+        "estimated_output_cost_gpt4": 0.008280000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside tilbyder en detaljeret guide til at tjekke isoleringen på loft og tag i boliger. Guiden oplyser om vigtigheden af korrekt isolering og tykkelse af isolering for at sikre energieffektivitet. Der gives vejledning til at tjekke og forbedre isoleringen på loftet, i skunk og skråvægge samt på flade tage. Derudover nævnes vigtigheden af tætte og isolerede lemme på loft og skunkrum. Energistyrelsen opfordrer til efterisolering for at opnå minimum 300 mm isolering i alt. Hjemmesiden tilbyder også links til yderligere information, gør-det-selv-guides og muligheder for at finde håndværkere til isoleringsprojekter.",
+    "meta": {
+        "id": 5426359766259904851,
+        "url": "https://sparenergi.dk/forbruger/vaerktojer/guides-og-tjeklister/tag-og-loft",
+        "title": "Tag og loft | Energistyrelsen",
+        "time_requested": "2024-04-16T11:51:45.176261",
+        "error": null,
+        "num_tokens_in": 2083,
+        "num_tokens_out": 201,
+        "estimated_input_cost_gpt4": 0.02083,
+        "estimated_output_cost_gpt4": 0.00603,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

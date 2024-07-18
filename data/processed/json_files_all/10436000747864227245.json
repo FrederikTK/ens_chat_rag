@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder råd til energioptimering for belysning. De anbefaler at skifte alle pærer til LED for at spare energi og at huske at slukke lyset, når det ikke er i brug. Derudover opfordres man til at bruge automatisk styring som intelligente pærer, bevægelsessensorer eller timere for at slukke lyset automatisk i tomme rum. Det fremhæves, at LED-pærer bruger 4-5 gange mindre strøm end glødepærer og halogenpærer, hvilket gør dem mere energieffektive. Der gives desuden tips til at vælge den rigtige type LED-pærer, heriblandt at vælge LED-pærer med energimærke D eller bedre og at overveje om pæren skal kunne dæmpes. Energistyrelsen anbefaler også at aflevere gamle pærer og lysrør på genbrugsstationen for genanvendelse af materialer. Derudover gives der gode råd om brug af lyskæder, herunder at vælge lyskæder med lavt elforbrug og at slukke dem, når de ikke er i brug.",
+    "meta": {
+        "id": 10436000747864227245,
+        "url": "https://sparenergi.dk/forbruger/el/belysning/energimaerkning",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:58:57.670919",
+        "error": null,
+        "num_tokens_in": 3636,
+        "num_tokens_out": 301,
+        "estimated_input_cost_gpt4": 0.03636,
+        "estimated_output_cost_gpt4": 0.00903,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

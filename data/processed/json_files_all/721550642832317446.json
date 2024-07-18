@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside tilbyder information om energimærkning af bygninger og energiforbrug inden for forskellige sektorer, herunder landbruget. Der sættes fokus på belysning, ventilation og andre energieffektive løsninger inden for landbrugssektoren. Derudover tilbyder Energistyrelsen undersøgelser, analyser og materialer relateret til energibesparelser og bæredygtighed. Der er mulighed for at tilmelde sig nyhedsmails med relevant information til erhvervsvirksomheder. Energistyrelsen er placeret i København, og man kan besøge deres hjemmeside på www.ens.dk for at få yderligere information om energibesparelser og energimærkning inden for landbruget og andre sektorer.",
+    "meta": {
+        "id": 721550642832317446,
+        "url": "https://sparenergi.dk/erhverv/landbrug",
+        "title": "Landbrug | Energistyrelsen",
+        "time_requested": "2024-04-16T11:58:28.549283",
+        "error": null,
+        "num_tokens_in": 930,
+        "num_tokens_out": 207,
+        "estimated_input_cost_gpt4": 0.009300000000000001,
+        "estimated_output_cost_gpt4": 0.00621,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

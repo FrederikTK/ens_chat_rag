@@ -1,0 +1,15 @@
+{
+    "text": "Når man skal vælge den rette varmepumpemodel, er det vigtigt at starte med at beslutte, om man ønsker en luft til vand- eller jordvarmepumpe. Derefter kan man bruge en liste over varmepumper, hvor effektiviteten er testet af et uafhængigt laboratorium. Listen opdateres 1-2 gange om måneden. Der findes varmepumper fra producenter som Bosch, CTC, Clivet, Daikin, De Dietrich, HeatSave A/S, Kronoterm, Metro Therm, Mitsubishi Electric, Panasonic, VVS-Eksperten A/S, Vaillant, Viessmann og Vølund. Når man vælger en varmepumpe, er det vigtigt at se på effektivitet, ydeevne, støjniveau og energimærket. Man bør også overveje modellen, størrelsen af varmepumpen samt energimærket A+, A++ eller A+++, da det viser hvor effektiv pumpen er og hvor meget varme den giver for pengene. Det anbefales at få hjælp af en installatør til at vælge en passende varmepumpe, der matcher ens behov.",
+    "meta": {
+        "id": 9253457694767003450,
+        "url": "https://sparenergi.dk/privat/tid-til-skifte-varmetype/vaelg-den-rette-varmepumpemodel",
+        "title": "Vælg den rette varmepumpemodel",
+        "time_requested": "2024-04-16T11:50:23.743313",
+        "error": null,
+        "num_tokens_in": 4461,
+        "num_tokens_out": 293,
+        "estimated_input_cost_gpt4": 0.044610000000000004,
+        "estimated_output_cost_gpt4": 0.008790000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

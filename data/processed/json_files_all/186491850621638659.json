@@ -1,0 +1,15 @@
+{
+    "text": "Energi- og CO2-regnskabet giver et overblik over nøgletal på tværs af danske kommuner og regioner. Man kan vælge område, type og år gennem filtrene på hjemmesiden for at se nøgletal. Det er muligt at se detaljerede oplysninger om energi- og CO2-regnskabet for hver enkelt kommune ved at klikke på dem. Data og resultater for 2018, 2019, 2020 og 2021 er ikke direkte sammenlignelige med tidligere år på grund af et større og mere detaljeret datagrundlag. Energistyrelsen arbejder på at gøre det muligt at sammenligne og se udviklingen helt tilbage til 2010.\n\nDer er også tilgængeligt materiale og information om regnskabet, herunder notater om metodeændringer, metodenotater for forskellige år og et dokument der besvarer hyppigt stillede spørgsmål om metoder og datakilder.\n\nSparEnergi giver gratis rådgivning, inspiration og viden om, hvordan man kan optimere energiforbruget. Energistyrelsen står bag siden, og man kan kontakte dem på adressen Carsten Niebuhrs Gade 43, 1577 København V.\n\nGenerelt er hjemmesiden tilgængelig for både private, erhverv og offentlige institutioner, og den har til formål at øge bevidstheden om energiforbrug og CO2-udledning.",
+    "meta": {
+        "id": 186491850621638659,
+        "url": "https://sparenergi.dk/co2beregner-management/download",
+        "title": "Hent | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:34.583643",
+        "error": null,
+        "num_tokens_in": 1728,
+        "num_tokens_out": 360,
+        "estimated_input_cost_gpt4": 0.01728,
+        "estimated_output_cost_gpt4": 0.0108,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

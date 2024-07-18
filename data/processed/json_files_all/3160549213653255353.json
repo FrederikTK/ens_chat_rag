@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside \"SparEnergi\" giver råd om energioptimering til boliger. En af de renoveringsmuligheder, de tilbyder, er at nedlægge en krybekælder, hvis den har mindre end 150 mm isolering. Hvis man nedlægger krybekælderen, anbefales det at få et nyt, velisoleret terrændæk. Alternativt kan man isolere krybekælderen, men det kan medføre risiko for fugt- og svampeproblemer. Ved at nedlægge krybekælderen og etablere et nyt terrændæk kan man opnå et bedre indeklima med varmere gulve, færre træk og mindre kulde i boligen. Der er også en besparelsesmulighed på varmeregningen, samtidig med at husets værdi øges. Desuden har det en positiv effekt på miljøet ved at reducere varmetabet.\n\nEnergistyrelsen oplyser om lovkravet om minimum 300 mm isolering ved etablering af et nyt terrændæk. De giver også en trin-for-trin-guide til renoveringsprocessen, herunder at fjerne gulvvarme, vand og el før nedlæggelsen af krybekælderen og opbyggelsen af det nye terrændæk.\n\nDet anbefales at benytte fagfolk til renoveringsarbejdet for at undgå problemer med råd og svamp. Hvis krybekælderen er tør og godt ventileret, kan den alternativt isoleres i stedet for at blive nedlagt.\n\nMan kan også få hjælp af professionelle håndværkere, der har erfaring med denne type renoveringsarbejde. Energistyrelsen tilbyder desuden yderligere information om andre renoveringsmuligheder såsom isolering af loft, tag, vinduer, døre, gulv, og rør samt brugen af vedvarende energikilder som solceller og solvarme. Man kan også finde inspiration til at skifte varmekilder og generelle energibesparelsesvaner på hjemmesiden.",
+    "meta": {
+        "id": 3160549213653255353,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/energiloesninger/nedlaeg-krybekaelderen",
+        "title": "Nedlæg krybekælderen",
+        "time_requested": "2024-04-16T11:50:01.277756",
+        "error": null,
+        "num_tokens_in": 2221,
+        "num_tokens_out": 526,
+        "estimated_input_cost_gpt4": 0.02221,
+        "estimated_output_cost_gpt4": 0.01578,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

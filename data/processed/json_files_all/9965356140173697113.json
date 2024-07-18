@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder et program kaldet SparEnergi, hvor man kan få gode råd til energioptimering af ens bolig. På hjemmesiden kan man søge efter sin adresse og få de tre mest effektive råd til energioptimering på netop den adresse. Der er også mulighed for at ansøge om tilskud til en varmepumpe gennem Varmepumpepuljen. Der findes forskellige dokumenter, som man kan downloade og udfylde i forbindelse med ansøgningen, herunder fuldmagt, ansøgererklæring, de minimis-erklæring, overdragelseserklæring og momserklæring. Der er også vejledninger til ansøgningstrin, afhængigt af om man ansøger for sig selv, på vegne af en privatperson eller på vegne af en virksomhed eller forening. Energistyrelsen opfordrer til at forberede sig grundigt inden ansøgningen åbner, da det kan betale sig. Der er også mulighed for at tilmelde sig nyhedsbrevet for at få skræddersyede råd og nyheder om energibesparelse. Energistyrelsen oplyser desuden, at SparEnergi giver inspiration, viden og råd til at få mest ud af energien. Man kan også kontakte Energistyrelsen direkte på deres adresse på Carsten Niebuhrs Gade 43, 1577 Kbh. V.",
+    "meta": {
+        "id": 9965356140173697113,
+        "url": "https://sparenergi.dk/dokumenter-til-din-ansoegning",
+        "title": "Dokumenter til din ansøgning | Energistyrelsen",
+        "time_requested": "2024-04-16T11:58:36.612455",
+        "error": null,
+        "num_tokens_in": 803,
+        "num_tokens_out": 364,
+        "estimated_input_cost_gpt4": 0.00803,
+        "estimated_output_cost_gpt4": 0.010920000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

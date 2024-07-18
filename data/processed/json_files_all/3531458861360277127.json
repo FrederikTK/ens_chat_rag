@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside indeholder information om forskellige opvarmningsmetoder, herunder elvarme. Elvarme beskrives som en dyr opvarmningsmetode, og det anbefales at overveje at skifte til en ny varmekilde som fjernvarme eller varmepumper eller supplere med solvarme. Varmepumper nævnes som en effektiv løsning, der kan levere ca. 3 kWh varme for hver kWh el. Der gives også information om priser på etablering af fjernvarme og luft-til-vand varmepumper samt muligheden for at søge tilskud til varmepumper og installation af vandbårne radiatorer eller gulvvarme. Der nævnes desuden muligheden for at få reduceret elafgiften, hvis boligen er elopvarmet og årligt forbrug overstiger 4.000 kWh. Energistyrelsens hjemmeside opfordrer til at bruge deres beregner \"Ny Varme\" og give information om, hvordan man kan søge tilskud samt få reduceret elafgiften for elopvarmede boliger.",
+    "meta": {
+        "id": 3531458861360277127,
+        "url": "https://sparenergi.dk/forbruger/varme/elvarme",
+        "title": "Elvarme | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:45.937697",
+        "error": null,
+        "num_tokens_in": 1496,
+        "num_tokens_out": 269,
+        "estimated_input_cost_gpt4": 0.014960000000000001,
+        "estimated_output_cost_gpt4": 0.00807,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

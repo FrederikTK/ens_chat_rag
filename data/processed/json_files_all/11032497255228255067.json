@@ -1,0 +1,15 @@
+{
+    "text": "Der findes en skabelon til bilagsliste tilskud, som kan bruges ved indsendelse af flere end 5 bilag i forbindelse med ansøgning om udbetaling af tilskud. Skabelonen blev opdateret den 20. januar 2021 og har en størrelse på 45,67 KB og fylder 1 side. Skabelonen kan downloades i DOCX-format. Den kan anvendes i forbindelse med henvendelse til Energistyrelsen, som har sin adresse på Carsten Niebuhrs Gade 43, 1577 København V. Energistyrelsen kan kontaktes via deres hjemmeside www.ens.dk. Skabelonen er en del af SparEnergi.dk, hvor man også kan finde materiale, få partnerskaber og adgang til Energibarometeret. På SparEnergi.dk kan man også finde information om energibesparelser og energiløsninger for forbrugere, erhverv og offentlige institutioner.",
+    "meta": {
+        "id": 11032497255228255067,
+        "url": "https://sparenergi.dk/forbruger/materialer/skabelon-til-bilagsliste-tilskud",
+        "title": "Skabelon til bilagsliste tilskud",
+        "time_requested": "2024-04-16T11:52:45.423372",
+        "error": null,
+        "num_tokens_in": 852,
+        "num_tokens_out": 232,
+        "estimated_input_cost_gpt4": 0.008520000000000002,
+        "estimated_output_cost_gpt4": 0.00696,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

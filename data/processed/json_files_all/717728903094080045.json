@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens Casebank indeholder en række cases om energiforbedringer af boliger. Boligejerne har blandt andet foretaget forbedringer som jordvarme og solceller, isolering af loft og vægge, udskiftning af tag og vinduer, installation af nye varmtvandsbeholdere og varmepumper samt konvertering til fjernvarme. Casebanken viser cases fra forskellige typer af boliger som landhuse, villaer, etageboliger og typehuse. Der er også fokus på fordelene ved energiforbedringer såsom bedre indeklima, mindre træk, lavere vedligeholdelse og øget komfort. Energistyrelsen opfordrer brugerne til at bidrage med flere cases og tilbyder en guide til udarbejdelse af disse. Man kan finde flere ressourcer og information på Energistyrelsens hjemmeside www.ens.dk og via SparEnergi.dk. Energibarometeret og materialeguiden er også tilgængelige, ligesom man kan tilmelde sig deres nyhedsmail for at få flere tips til energibesparelser.",
+    "meta": {
+        "id": 717728903094080045,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/casebank",
+        "title": "Casebank | Energistyrelsen",
+        "time_requested": "2024-04-16T11:53:49.621772",
+        "error": null,
+        "num_tokens_in": 1647,
+        "num_tokens_out": 277,
+        "estimated_input_cost_gpt4": 0.016470000000000002,
+        "estimated_output_cost_gpt4": 0.00831,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

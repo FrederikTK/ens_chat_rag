@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen anbefaler, at når en varmepumpe er udtjent, skal man have en autoriseret installatør til at afmontere den korrekt for at undgå udslip af kølemiddel. Hvis der er mere end 2,5 kg kølemiddel i varmepumpen, kræves et kølemontørcertifikat. Efter demontering skal varmepumpen afleveres på genbrugsstationen eller til storskrald, da den indeholder miljøfarlige stoffer. Det anbefales også at informere kommunen, hvis man kasserer sin varmepumpe, så oplysningerne om opvarmningsformen kan opdateres i Bygnings- og Boligregistret (BBR). Man kan finde en VE-installatør på Energistyrelsens liste for korrekt demontering af varmepumpen.",
+    "meta": {
+        "id": 4653261677926734812,
+        "url": "https://old.sparenergi.dk/forbruger/varme/varmepumpe/skrot-din-gamle-varmepumpe",
+        "title": "Skrot din gamle varmepumpe | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:44.242701",
+        "error": null,
+        "num_tokens_in": 1505,
+        "num_tokens_out": 209,
+        "estimated_input_cost_gpt4": 0.015050000000000001,
+        "estimated_output_cost_gpt4": 0.00627,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Informationen på SparEnergi.dk guider brugere til at finde en VE-godkendt installatør for varmepumper. En VE-godkendt installatør sikrer den bedste løsning med størst udbytte. Processen indebærer at finde en godkendt installatør, vælge model, placere og installere, samt vedligeholde og reparere varmepumpen. Det anbefales at indhente tilbud fra flere installatører og søge tilskud fra Energistyrelsen. Listen på siden inkluderer information om VE-godkendte virksomheder, herunder kontaktoplysninger, adresser og typer af VE-anlæg de er godkendt til. Brugere opfordres til at vælge en VE-godkendt installatør tæt på deres adresse, med erfaring inden for den specifikke type varmepumpe de ønsker. Desuden gives der inspiration til energibesparelser og renovering af boligen.",
+    "meta": {
+        "id": 18221557035111186569,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/ve-virksomheder",
+        "title": "VEG-virksomheder",
+        "time_requested": "2024-04-16T11:49:43.492545",
+        "error": null,
+        "num_tokens_in": 1483,
+        "num_tokens_out": 243,
+        "estimated_input_cost_gpt4": 0.014830000000000001,
+        "estimated_output_cost_gpt4": 0.0072900000000000005,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

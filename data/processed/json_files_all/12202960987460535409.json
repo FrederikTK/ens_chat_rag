@@ -1,0 +1,15 @@
+{
+    "text": "På Energistyrelsens hjemmeside SparEnergi er der en belysningsberegner til erhverv, hvor virksomheder kan beregne, hvor meget de kan forvente at få i tilskud til udskiftning af ældre belysning til LED. Ved at indtaste oplysninger om projektet kan virksomheder få en idé om, hvor stort tilskuddet kan være, før de ansøger officielt. Formålet med værktøjet er at inspirere virksomheder til at skifte til en mere energieffektiv belysning og dermed spare energi. Energistyrelsens hjemmeside tilbyder også anden gratis rådgivning og information om energioptimering. Man kan finde yderligere oplysninger om hjemmesiden, herunder kontaktoplysninger, tilgængelighedserklæring og anden relevant information ved at besøge hjemmesiden SparEnergi.dk.",
+    "meta": {
+        "id": 12202960987460535409,
+        "url": "https://sparenergi.dk/tilskud-til-led/reset?destination=/erhverv/belysningsberegner%23module-13",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:56:23.434790",
+        "error": null,
+        "num_tokens_in": 378,
+        "num_tokens_out": 231,
+        "estimated_input_cost_gpt4": 0.0037800000000000004,
+        "estimated_output_cost_gpt4": 0.00693,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

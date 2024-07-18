@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har udarbejdet en vejledning for virksomheder, der ønsker at optimere deres energiforbrug. Først og fremmest opfordres virksomhederne til at få et overblik over deres energiforbrug ved enten at holde øje med det manuelt eller bruge et energistyringssystem til at analysere og justere anlæg efter behov. Nogle konkrete råd inkluderer at købe energirigtige apparater, renovere bygningerne med fokus på energibesparelser, kortlægge energiforbruget ved at få overblik over forbruget til el, varme og varmt vand samt gennemføre en natrundering.\n\nFor at reducere varmeforbruget opfordres virksomhederne til at reducere varmespild, vælge den mest energieffektive opvarmningsform, og kontrollere varmeanlæggets funktion regelmæssigt. For vandforbruget anbefales det at stoppe vandspild, installere vandbesparende enheder og holde øje med eventuelle lækager. Generelt opfordres virksomheder til at bruge energiledelse som metode til at gennemføre en organiseret energispareindsats.\n\nFor elforbruget anbefales det at få overblik over elforbruget, bruge energimærket på bygninger, styre tekniske installationer med et CTS-anlæg, købe energirigtige produkter og gennemføre adfærdskampagner. Energi- og vandforbrug bør monitoreres regelmæssigt med fokus på at reducere energiforbruget og bruge mindre vand. Gode råd inkluderer at minimere vandspild, bruge vandbesparende enheder samt implementere energibesparende foranstaltninger på varmeanlæggene. Samlet set tilbyder Energistyrelsen gratis rådgivning, materialer og inspiration til virksomheder, der ønsker at optimere deres energiforbrug.",
+    "meta": {
+        "id": 5558044768914354427,
+        "url": "https://sparenergi.dk/offentlig/bygninger/forbrug/om-vandforbrug",
+        "title": "Om vandforbrug | Energistyrelsen",
+        "time_requested": "2024-04-16T11:50:36.942037",
+        "error": null,
+        "num_tokens_in": 4292,
+        "num_tokens_out": 519,
+        "estimated_input_cost_gpt4": 0.04292000000000001,
+        "estimated_output_cost_gpt4": 0.01557,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

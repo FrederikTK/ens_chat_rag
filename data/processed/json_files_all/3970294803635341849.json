@@ -1,0 +1,15 @@
+{
+    "text": "I kommuner og regioner har det tidligere været muligt at søge tilskud til energiforbedringsprojekter og digitaliseringsprojekter i kommunale og regionale bygninger. Ansøgningspuljen er imidlertid nu lukket, og den vil ikke blive genåbnet i 2023. For at få udbetalt tilskuddet skal projektet være afsluttet inden for den fastsatte frist i tilsagnet. Når projektet er afsluttet, har man 3 måneder til at ansøge om udbetaling af tilskuddet, medmindre andet fremgår af vilkårene fastsat i tilsagnet. Energistyrelsen træffer afgørelse om udbetaling af tilskuddet, og udbetalingen er betinget af, at det tilskudsberettigede projekt er gennemført i overensstemmelse med tilsagnet og reglerne i tilskudsordningens bekendtgørelse. Tilskuddet kan nedsættes, hvis de endelige projektomkostninger er lavere end de estimerede eller hvis projektet ikke er gennemført i det omfang, som var forudsat i tilsagnet. Der findes forskellige dokumenter, skabeloner og vejledninger til ansøgning om tilskud til kommunale og regionale bygninger, som kan findes på SparEnergi's hjemmeside.",
+    "meta": {
+        "id": 3970294803635341849,
+        "url": "https://sparenergi.dk/offentlig/vaerktojer/tilskud",
+        "title": "Tilskud | Energistyrelsen",
+        "time_requested": "2024-04-16T11:49:50.275154",
+        "error": null,
+        "num_tokens_in": 1158,
+        "num_tokens_out": 349,
+        "estimated_input_cost_gpt4": 0.011580000000000002,
+        "estimated_output_cost_gpt4": 0.01047,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside indeholder en guide til at tjekke dit varmeanlæg for at sikre, at det kører effektivt. Guiden opfordrer til at undersøge varmeanlæggets alder, at planlægge eftersyn, checke automatik, vandniveau og returvandstemperatur. Det specificeres, hvordan man kan tjekke fjernvarmeunits, gaskedler og oliekedler for alder. Derudover gives tips til at sikre regelmæssigt eftersyn af fjernvarmeanlæg, gaskedler, oliekedler og varmepumper. Guiden anbefaler også at installere automatik som natsænkning og klimastyring, samt at benytte sommerdriftsfunktionen i varmeanlægget om sommeren. Der gives også vejledning til at kontrollere vandniveauet i anlægget og returvandets temperatur, samt hvordan man håndterer for lavt vandtryk i radiatorsystemet. Endelig oplyses det, at mange fjernvarmeværker opkræver gebyr, hvis returvandet ikke er afkølet, og at man bør regulere anlægget i så fald.",
+    "meta": {
+        "id": 1560959122972646738,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktojer/guides-og-tjeklister/varmeanlaeg",
+        "title": "Varmeanlæg | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:33.363594",
+        "error": null,
+        "num_tokens_in": 2429,
+        "num_tokens_out": 308,
+        "estimated_input_cost_gpt4": 0.024290000000000003,
+        "estimated_output_cost_gpt4": 0.00924,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

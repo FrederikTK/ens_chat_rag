@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder et gratis webinar om Energirenoveringspuljen, hvor man kan få gode råd og hjælp af erfarne energirådgivere. Webinaret omhandler energiforbedringer på boliger såsom efterisolering af taget, ventilationsanlæg og udskiftning af vinduer for at opnå besparelser på varmeregningen og forbedret indeklima. Der er flere datoer at vælge imellem for webinaret, og tilmelding sker efter først-til-mølle-princippet. Efter deltagelse modtager man en optagelse. Derudover kan man kontakte Rådgivningstjenesten for yderligere hjælp og spørgsmål på info@sparenergi.dk eller telefon 31 15 90 00. Energirenoveringspuljen åbner snart for ansøgninger, og det anbefales at forberede sig grundigt. Man kan også tilmelde sig nyhedsbrevet for løbende opdateringer og gode råd om at spare energi i hverdagen. I tilfælde af tekniske problemer kan Energistyrelsen kontaktes på energirenoveringspuljen@ens.dk.",
+    "meta": {
+        "id": 8713897046186085553,
+        "url": "https://sparenergi.dk/privat/se-webinar-om-energirenoveringspuljen",
+        "title": "Tilmeld dig et gratis webinar om Energirenoveringspuljen",
+        "time_requested": "2024-04-16T11:53:08.072440",
+        "error": null,
+        "num_tokens_in": 1163,
+        "num_tokens_out": 299,
+        "estimated_input_cost_gpt4": 0.011630000000000001,
+        "estimated_output_cost_gpt4": 0.00897,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

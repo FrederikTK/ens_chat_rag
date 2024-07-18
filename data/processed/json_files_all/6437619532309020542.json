@@ -1,0 +1,15 @@
+{
+    "text": "På SparEnergi.dk gives der gode råd til at spare energi på terrassevarmere. Terrassevarmere spilder mest af deres energi ud i luften, og derfor anbefales det at bruge en tyk trøje i stedet for. Hvis en terrassevarmer stadig ønskes, anbefales det at vælge en el-terrassevarmer med infrarød varme, da de er mere effektive. Det anbefales at undgå modeller med reflektorvarme, da de har et højere energiforbrug. Større terrassevarmere bruger også mere energi, så det anbefales at vælge en model, der passer til ens behov. Modeller til at placere under bordet har det laveste energiforbrug. Gasvarmere er typisk større og dækker et større område, men udleder også CO2, CO og NOx. Elvarmere er mindre og kan være mere effektive, især hvis de er infrarøde, da de kun varmer det, de rammer. Det frarådes at bruge en terrassevarmer til at varme boligen op, da det kan være skadeligt for helbredet og være dyrere end alternative opvarmningsformer.",
+    "meta": {
+        "id": 6437619532309020542,
+        "url": "https://sparenergi.dk/forbruger/varme/terrassevarmere",
+        "title": "Terrassevarmere | Energistyrelsen",
+        "time_requested": "2024-04-16T11:53:34.852843",
+        "error": null,
+        "num_tokens_in": 1298,
+        "num_tokens_out": 300,
+        "estimated_input_cost_gpt4": 0.01298,
+        "estimated_output_cost_gpt4": 0.009000000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

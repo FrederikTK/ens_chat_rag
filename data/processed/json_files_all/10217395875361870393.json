@@ -1,0 +1,15 @@
+{
+    "text": "På Energistyrelsens hjemmeside, SparEnergi.dk, er der mulighed for at nulstille sin adgangskode, hvis man har glemt den. For at nulstille adgangskoden skal man indtaste sit brugernavn, hvorefter der bliver sendt et link til nulstillingen til ens e-mail-adresse. Der er også et sikkerhedsspørgsmål, hvor man skal løse en simpel matematikopgave for at øge sikkerheden. Derudover tilbyder SparEnergi inspiration, viden og råd om energioptimering. Energistyrelsens adresse er Carsten Niebuhrs Gade 43, 1577 København V, og yderligere kontaktoplysninger og tilgængelighedserklæring kan findes på hjemmesiden.",
+    "meta": {
+        "id": 10217395875361870393,
+        "url": "https://ny.sparenergi.dk/user/password",
+        "title": "Nulstil din adgangskode | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:28.251935",
+        "error": null,
+        "num_tokens_in": 346,
+        "num_tokens_out": 199,
+        "estimated_input_cost_gpt4": 0.0034600000000000004,
+        "estimated_output_cost_gpt4": 0.0059700000000000005,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

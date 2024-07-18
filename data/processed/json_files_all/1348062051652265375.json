@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har en positivliste over godkendte vindues- og forsatssystemer, som man kan få tilskud til fra Bygningspuljen. Listen indeholder oplysninger om systemnavne, certifikater, producenter, materiale, U-værdi, velegnet til nyere eller ældre arkitektur og energiklasse. Eksempler på vindues- og forsatssystemer inkluderer KPK Vision, Outline, Hvidbjerg ZelaLUX, Schüco Nordic, Nordan ND Ntech One, samt mange flere. U-værdien angiver, hvor godt vinduet holder på varmen, og energiklassen viser energieffektiviteten. Det er nødvendigt med et energimærkningscertifikat eller en tilsvarende rapport fra et anerkendt prøvningsinstitut for at få tilskuddet udbetalt. Energistyrelsen tilbyder også gratis rådgivning om energioptimering.",
+    "meta": {
+        "id": 1348062051652265375,
+        "url": "https://sparenergi.dk/privat/godkendte-vindues-og-forsatssystemer-bygningspuljen",
+        "title": "Positivliste",
+        "time_requested": "2024-04-16T11:53:04.184212",
+        "error": null,
+        "num_tokens_in": 5457,
+        "num_tokens_out": 233,
+        "estimated_input_cost_gpt4": 0.05457000000000001,
+        "estimated_output_cost_gpt4": 0.0069900000000000006,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

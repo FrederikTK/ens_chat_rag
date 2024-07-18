@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har åbnet Energirenoveringspuljen, en tilskudsordning for boligejere, der ønsker at lave energibesparende forbedringer på deres bolig. For at søge tilskud skal boligen være en helårsbolig, have et gyldigt energimærke i kategorien E, F eller G, projektet må ikke være påbegyndt, man må ikke have fået tilskud til samme projekt før, og arbejdet skal udføres af en virksomhed med gyldigt CVR-nummer. Der kan søges tilskud til forskellige energiforbedringer som isolering af ydervægge, tag og loft, terrændæk, vinduer, etablering af mekanisk ventilationsanlæg, vandbåren rumvarme og energimærkning. Det anbefales at forberede sig grundigt før ansøgning, have energimærket klar, vide hvad man vil søge tilskud til, være registreret som ejer af huset, og udfylde eventuel de minimis-erklæring, hvis der er økonomisk aktivitet på adressen. Ansøgning skal indsendes via ansøgningsportalen, hvor også trin-for-trin guide er tilgængelig. Når ansøgningen behandles, gives der først tilsagn om tilskud, som skal ansøges om udbetaling af senest 60 dage efter projektet er færdigt. Tilskuddet udbetales, når dokumentation for udført arbejde er godkendt. Energistyrelsen forbeholder sig retten til at fordele pengene efter først-til-mølle princippet, og puljen lukkes når alle midler er opbrugt. Hvis man ønsker tilskud til varmepumpe, henvises der til Varmepumpepuljen, som forventes at åbne i foråret 2024.",
+    "meta": {
+        "id": 12570490834963577218,
+        "url": "https://sparenergi.dk/privat/soeg-tilskud/varm-op-til-soege-tilskud-til-energirenovering",
+        "title": "Varm op til at søge tilskud til energirenovering",
+        "time_requested": "2024-04-16T11:52:02.293037",
+        "error": null,
+        "num_tokens_in": 4656,
+        "num_tokens_out": 472,
+        "estimated_input_cost_gpt4": 0.046560000000000004,
+        "estimated_output_cost_gpt4": 0.01416,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

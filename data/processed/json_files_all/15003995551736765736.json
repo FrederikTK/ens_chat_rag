@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en nyhedsmail, hvor man kan tilmelde sig for at få gratis tips til at spare energi direkte i sin indbakke. Der sendes mindst 4 nyhedsmails om året, hvor man kan læse om emner som varmepumper, lys og renovering af huset. Man kan tilmelde sig eller afmelde sig nyhedsmailen når som helst, og ens oplysninger vil blive slettet ved afmelding. Man kan tilmelde sig nyhedsmailen via Energistyrelsens hjemmeside og modtage relevant information om energibesparelse. Energistyrelsen kan kontaktes på Carsten Niebuhrs Gade 43, 1577 København V, og deres hjemmeside er www.ens.dk.",
+    "meta": {
+        "id": 15003995551736765736,
+        "url": "https://old.sparenergi.dk/om-sparenergi/nyhedsmail",
+        "title": "Nyhedsmail | Energistyrelsen",
+        "time_requested": "2024-04-16T11:57:39.770255",
+        "error": null,
+        "num_tokens_in": 1000,
+        "num_tokens_out": 188,
+        "estimated_input_cost_gpt4": 0.01,
+        "estimated_output_cost_gpt4": 0.00564,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

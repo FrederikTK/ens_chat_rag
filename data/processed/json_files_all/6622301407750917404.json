@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside SparEnergi.dk anbefaler at isolere skråvægge og loft til kip for at opnå energioptimering. Hvis der kun er 100 mm isolering eller mindre i disse områder, anbefales det at forbedre isoleringen for at spare penge på varme og skabe et mere behageligt indeklima. Der gives en oversigt over potentiel årlig besparelse på opvarmning, samt hvilke faktorer der spiller ind på valget af isoleringsmetode både indefra og udefra. Der oplyses, at isolering af skråvægge og loft til kip giver store varmebesparelser, gør det lettere at opvarme rum, forbedrer indeklimaet og er klimavenligt. Derudover gives information om lovgivningen, som kræver minimum 300 mm isolering ved udskiftning af tagbeklædning og anbefaler minimum 400 mm for optimal energibesparelse. Der gives også mulighed for at finde en håndværker og vejledning til isoleringsprocessen både udefra og indefra. Det anbefales at bruge fagfolk for korrekt udførelse og at huske udluftning, især i tæt isolerede huse. Endelig opfordres det til at overveje energirenovering og skifte til mere energieffektive opvarmningsformer, samt at bruge Energistyrelsens ressourcer til yderligere rådgivning og vejledning.",
+    "meta": {
+        "id": 6622301407750917404,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/energiloesninger/isolering-af-loft",
+        "title": "Isolering af loft",
+        "time_requested": "2024-04-16T11:49:20.508643",
+        "error": null,
+        "num_tokens_in": 2705,
+        "num_tokens_out": 376,
+        "estimated_input_cost_gpt4": 0.02705,
+        "estimated_output_cost_gpt4": 0.01128,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

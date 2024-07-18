@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder vejledning og gode råd til renovering af lejligheder med fokus på energirenovering. Hjemmesiden indeholder information om fordele ved energirenovering såsom miljømæssige fordele, økonomiske besparelser og forbedret indeklima. Desuden opfordres brugerne til at bruge energimærkningsrapporten som udgangspunkt for renoveringen og til at inddrage andres erfaringer. Siden giver også vejledning om, hvordan man involverer beboere, bestyrelse og administratorer i processen og hvordan man bedst planlægger og gennemfører renoveringsprojekter. Der findes også særlige råd til ejere, andelshavere og lejere af både almen og private boliger. Energistyrelsens hjemmeside tilbyder også information om tilskudsmuligheder, økonomi samt vigtigheden af at sikre en korrekt udførelse af energirenoveringer. Samlet set er hjemmesiden en ressource for borgere, foreninger og virksomheder, der ønsker at implementere energivenlige løsninger i deres renoveringsprojekter.",
+    "meta": {
+        "id": 3183430494351452042,
+        "url": "https://sparenergi.dk/forbruger/boligen/renovering/renover-dit-hus-eller-din-lejlighed/renovering-af-lejligheder",
+        "title": "Renovering af lejligheder | Energistyrelsen",
+        "time_requested": "2024-04-16T11:50:46.246032",
+        "error": null,
+        "num_tokens_in": 4120,
+        "num_tokens_out": 299,
+        "estimated_input_cost_gpt4": 0.0412,
+        "estimated_output_cost_gpt4": 0.00897,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

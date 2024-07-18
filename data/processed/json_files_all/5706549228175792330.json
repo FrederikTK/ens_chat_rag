@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en række gode råd til energioptimering i hverdagen. Disse råd omfatter områder som belysning, vask og rengøring, elektronik, køkken og madlavning, opvarmning, badevand, samt generelle tips om at slukke for unødvendigt strømforbrug og bruge strømmen, når den er billigst. Eksempler på konkrete råd inkluderer at bruge mikroovn eller airfryer i stedet for ovn for at spare op til 70% elektricitet, tage kortere brusebade for at spare penge, vælge eco-programmet på vaskemaskinen, og sætte termostater ens på radiatorer for at fordele varmen bedre. Energistyrelsen oplyser også om at slukke for vandet, mens man sæber sig ind for at spare vand, bruge radio i stedet for tv eller computer for baggrundsstøj, samt slukke for unødvendigt strømforbrug som lyset i tomme rum, apparater på standby eller apparater, der sjældent bruges. Derudover opfordres til at bruge strømmen, når den er billigst, og der er information om timepriser for elektricitet og tips til at udnytte billigere strømperioder. Energistyrelsen tilbyder også muligheden for at indtaste sin adresse for at få mere præcise oplysninger om elforbrug og elektricitetspriser samt inspiration fra andre, der har været kreative med at spare energi derhjemme.",
+    "meta": {
+        "id": 5706549228175792330,
+        "url": "https://sparenergi.dk/spar-energi-i-hverdagen",
+        "title": "Spar energi i hverdagen | SparEnergi.dk",
+        "time_requested": "2024-04-16T11:47:53.857627",
+        "error": null,
+        "num_tokens_in": 2477,
+        "num_tokens_out": 399,
+        "estimated_input_cost_gpt4": 0.02477,
+        "estimated_output_cost_gpt4": 0.01197,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

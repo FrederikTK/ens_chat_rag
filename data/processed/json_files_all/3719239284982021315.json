@@ -1,0 +1,15 @@
+{
+    "text": "Der findes tre betegnelser for at skifte varmetype til jordvarme: væske til vand-varmepumpe, jordvarmepumpe eller bare jordvarme. Det anbefales især, hvis man bor i et område uden fjernvarme og har vandbårne radiatorer eller gulvvarme samt minimum 300 m2 ubebygget grund (medmindre man vælger vertikal jordvarme). Jordvarmepumpen kan hjælpe med at spare penge på varme, da man for 1 kWh el kan få op til 4-5 kWh varme tilbage. Derudover er jordvarmepumper mere effektive og miljøvenlige end luft til vand-varmepumper.\n\nDer er dog også nogle ting at være opmærksom på, når man skifter til jordvarme. For eksempel skal man være opmærksom på, at ens have vil blive gravet op, men for vertikal jordvarme kræves kun et mindre areal. En vertikal jordvarme er et godt alternativ, hvis man har begrænset plads på sin grund eller ikke ønsker at grave haven op. Installationen foregår ved at grave jordslangen ned i sin grund og koble den sammen med varmepumpen og husets varmesystem. Det anbefales at bruge en VE-godkendt installatør for at sikre korrekt installation.\n\nDer er også en række lovmæssige krav og anbefalinger, man skal være opmærksom på ved skift til jordvarme, herunder krav til SCOP-værdi, årligt eftersyn af varmepumpen og søgning af reduceret elafgift. Samlet set kan skift til jordvarme være en god investering, da det kan spare penge på varme, skåne klimaet og kræver minimal vedligeholdelse.",
+    "meta": {
+        "id": 3719239284982021315,
+        "url": "https://sparenergi.dk/skift-til-jordvarme",
+        "title": "Jordvarme | SparEnergi.dk",
+        "time_requested": "2024-04-16T11:58:12.256308",
+        "error": null,
+        "num_tokens_in": 3447,
+        "num_tokens_out": 462,
+        "estimated_input_cost_gpt4": 0.03447,
+        "estimated_output_cost_gpt4": 0.01386,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

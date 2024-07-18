@@ -1,0 +1,15 @@
+{
+    "text": "Håndværkerlisten tilbydes af Energistyrelsen og er tilgængelig for forbrugere, der søger håndværkere til energioptimering af deres bolig. Listen indeholder håndværkere, som anvender energiløsninger og er omfattet af en garantiordning. For at opnå tilskud til en energiforbedring skal man søge inden indgåelse af aftale med en håndværker. Håndværkerne dækker forskellige brancher som elektriker, entreprenør, isolering, murer, snedker, tagdækker, tømrer, varmepumpe-installatør og VVS. Energiløsningerne inkluderer bl.a. automatik til varmeanlæg, ny cirkulationspumpe, solvarmeanlæg, skift til biobrændsel, ventilationsanlæg med varmegenvinding, og meget mere. Hver håndværkerprofil inkluderer kontaktoplysninger, beskrivelse af virksomheden og hvilke energiløsninger de tilbyder. Energistyrelsen understreger, at de ikke anbefaler håndværkerne på listen, og det er forbrugerens ansvar at sikre sig, at håndværkerens arbejde overholder gældende lovkrav.",
+    "meta": {
+        "id": 6747293351226049221,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/haandvaerkerlisten",
+        "title": "Håndværkerlisten | Energistyrelsen",
+        "time_requested": "2024-04-16T11:51:28.476316",
+        "error": null,
+        "num_tokens_in": 3785,
+        "num_tokens_out": 331,
+        "estimated_input_cost_gpt4": 0.03785,
+        "estimated_output_cost_gpt4": 0.00993,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

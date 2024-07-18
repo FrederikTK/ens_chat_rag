@@ -1,0 +1,15 @@
+{
+    "text": "Bindingsværkshuset er et gammelt, enkelt hus opbygget af et tømmerskellet, der bærer tag og vægge. Felterne mellem tømmeret kaldes \"tavl\" og er ofte mursten. Farverne varierer afhængigt af regionen. Energiforbruget for bindingsværkhuse er typisk mærket med energimærke D-E. Typiske energiforbedringer omfatter isolering af loft, ydervægge, vinduer, hulmursisolering og etageadskillelse. Installationer som isolering af varme- og varmtvandsrør, solcelleanlæg, udskiftning af cirkulationspumper, olie- eller gaskedler, samt installation af varmepumper kan anbefales. Der er også fokus på gode energivaner som at justere termostater på radiatorer og varmtvandsbeholder, luft ud, og være opmærksom på elforbrug. Energimærket viser boligens energimæssige tilstand. Bindingsværkhuse er normalt energimærket D-E, og der kan opnås forbedringer ved at følge energimærkningsforslagene. Der gives også gode råd til renovering af huset, herunder fordele ved energirenovering, planlægning, rådgivning, tilskud og fradrag, og gennemførelse af selve renoveringsprojektet. Bæredygtig renovering af huset omfatter også aspekter som indeklima, sikkerhed, tilgængelighed og klimasikring. En arkitekt kan give råd og vejledning i forbindelse med renoverings- og ombygningsprojekter. Energiløsninger og yderligere information kan findes på Energistyrelsens hjemmeside.",
+    "meta": {
+        "id": 4367482011181505382,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/bygningsguiden/bindingsvaerkshus",
+        "title": "Bindingsværkshus | Energistyrelsen",
+        "time_requested": "2024-04-16T11:59:03.111995",
+        "error": null,
+        "num_tokens_in": 8360,
+        "num_tokens_out": 464,
+        "estimated_input_cost_gpt4": 0.08360000000000001,
+        "estimated_output_cost_gpt4": 0.01392,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Teksten omhandler information om cirkulationspumper og deres udskiftning for at opnå energieffektivitet i boliger. En ny cirkulationspumpe er anbefalet, hvis den gamle pumpe er fra før 1995, da nye pumper bruger mindre strøm. Ved at vælge en pumpe med et energieffektivitetsindeks på højst 0,23 kan man sikre lavt elforbrug og øget komfort. Det anbefales at slukke pumpen om sommeren for at spare strøm. Teksten giver også detaljer om, hvordan en cirkulationspumpe fungerer, de økonomiske besparelser ved udskiftning samt anvisninger på montering af en ny pumpe. Endvidere findes en liste over håndværkere, der kan installere en ny cirkulationspumpe, samt retningslinjer for at bruge Håndværkerlisten fra Energistyrelsen.",
+    "meta": {
+        "id": 17630670330576122556,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/energiloesninger/ny-cirkulationspumpe",
+        "title": "Ny cirkulationspumpe",
+        "time_requested": "2024-04-16T11:52:38.595885",
+        "error": null,
+        "num_tokens_in": 4073,
+        "num_tokens_out": 236,
+        "estimated_input_cost_gpt4": 0.04073,
+        "estimated_output_cost_gpt4": 0.00708,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

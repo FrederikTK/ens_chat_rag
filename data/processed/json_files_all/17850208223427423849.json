@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om energimærkning af bygninger, herunder lejligheder. Energimærkningen viser ejendommens energiforbrug, og det er påkrævet at have et energimærke, hvis man ønsker at sælge eller udleje en lejlighed. Jo nyere en bolig er, jo bedre er energimærket typisk. Alle bygninger over 60 m2 skal energimærkes ved salg, udlejning, annoncering og overdragelse. Ejendomsejeren har ansvaret for at sikre, at ejendommen er energimærket, og udgiften til energimærkningen lægges typisk på varmeregnskabet. Energimærket er gyldigt i 10 år fra udstedelsesdatoen og skal være synligt i annoncer, når en lejlighed udlejes eller sælges. Prisen for energimærkning af etageejendomme og flerfamiliehuse varierer, så det anbefales at indhente tilbud. Ved eventuelle klager eller spørgsmål vedrørende energimærket, skal man kontakte det firma, der har udarbejdet det. Energimærkningsfirmaer kan findes på Energistyrelsens hjemmeside.",
+    "meta": {
+        "id": 17850208223427423849,
+        "url": "https://old.sparenergi.dk/forbruger/boligen/energimaerkning-boliger/lejligheder",
+        "title": "Lejligheder | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:32.622219",
+        "error": null,
+        "num_tokens_in": 1508,
+        "num_tokens_out": 312,
+        "estimated_input_cost_gpt4": 0.015080000000000001,
+        "estimated_output_cost_gpt4": 0.00936,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

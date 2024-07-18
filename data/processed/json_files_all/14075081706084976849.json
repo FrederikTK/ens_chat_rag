@@ -1,0 +1,15 @@
+{
+    "text": "Den tilgængelige information omhandler emnet \"Nyt fjernvarmeanlæg\" og hvordan man kan opgradere sit fjernvarmeanlæg. Det anbefales at udskifte fjernvarmeuniten, hvis den er fra før 1990, især hvis man vælger en plusinstallation med ekstra lavt varmetab. Udskiftningen kan øge husets værdi og forbedre boligens udseende. Det anbefales at vælge en plusinstallation med lavt varmetab og en varmtvandsbeholder med lavt varmetab. Det anbefales også at vælge en virksomhed fra Fjernvarmens Serviceordning til at installere og indregulere anlægget. Derudover anbefales det at vælge et anlæg med automatik, som kan styre varmeforbruget efter vejret og døgnrytme. Man kan finde håndværkere på Håndværkerlisten, som er godkendt til at udføre sådanne opgaver. Der er også en liste over VE-godkendte virksomheder, som kan installere VE-anlæg (varmepumper, solvarmeanlæg, solcelleanlæg og biomasseanlæg). Energistyrelsen stiller Håndværkerlisten til rådighed for at hjælpe med at finde gode energiløsninger til boliger. Energiløsningerne på listen er standardløsninger, og det anbefales at søge rådgivning hos håndværkerne for at sikre, at løsningerne passer til ens behov. Energistyrelsen opdaterer løbende Håndværkerlisten, men der kan forekomme forældede eller ukorrekte oplysninger. Der er også forbehold for fejl i programmet og ansvar for skader eller tab af data ved brug af Håndværkerlisten. Energistyrelsen er ikke ansvarlig for de virksomheder, der er på Håndværkerlisten.",
+    "meta": {
+        "id": 14075081706084976849,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/energiloesninger/nyt-fjernvarmeanlaeg",
+        "title": "Nyt fjernvarmeanlæg",
+        "time_requested": "2024-04-16T11:49:09.515382",
+        "error": null,
+        "num_tokens_in": 3959,
+        "num_tokens_out": 493,
+        "estimated_input_cost_gpt4": 0.03959,
+        "estimated_output_cost_gpt4": 0.014790000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

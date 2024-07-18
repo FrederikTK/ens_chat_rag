@@ -1,0 +1,15 @@
+{
+    "text": "Informationen på hjemmesiden beskriver, hvordan man vælger den rette varmepumpemodel. Det anbefales først at bestemme, om man ønsker en luft til vand- eller jordvarmepumpe, og derefter vælge en model i samarbejde med en installatør, der passer til ens behov. Der findes en liste over varmepumper, hvor effektiviteten er testet af et uafhængigt laboratorium. Listen opdateres regelmæssigt, og hvis en varmepumpe ikke er på listen, skyldes det muligvis, at den ikke er blevet testet.\n\nPå listen kan man filtrere varmepumper efter forskellige kriterier som type (luft til vand, luft til luft, jordvarme), ydeevne, producent, effektivitet og støjniveau. Der er en række modeller fra forskellige producenter som Bosch, CTC, Viessmann, Metro Therm, Clivet, Panasonic, m.fl. Effektiviteten måles ud fra, hvor meget varme pumpen kan levere i forhold til den energi, der tilføres. Energimærket viser, hvor meget varme man får for pengene, og i EU er det kun tilladt at sælge varmepumper med energimærke A+, A++ eller A+++. Der er også råd om, hvordan man vælger den rigtige model ud fra boligens størrelse og varmebehov.\n\nDesuden gives tips om, hvordan man sparer energi i hverdagen og tilbydes gratis rådgivning fra energirådgivere. Der er også links til sider med yderligere inspiration og information om renovering af bolig for bedre energioptimering. Man kan også tilmelde sig nyhedsbrevet og kontakte Energistyrelsen for yderligere informationsforespørgsler.\n\nSamlet set er hjemmesiden en ressource for forbrugere, der ønsker at træffe informerede beslutninger om valg af varmepumpe og energieffektivitet.",
+    "meta": {
+        "id": 9005615314022129523,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/varmepumpelisten",
+        "title": "Site under opdatering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:47:36.000735",
+        "error": null,
+        "num_tokens_in": 4461,
+        "num_tokens_out": 496,
+        "estimated_input_cost_gpt4": 0.044610000000000004,
+        "estimated_output_cost_gpt4": 0.01488,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

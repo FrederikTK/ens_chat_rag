@@ -1,0 +1,15 @@
+{
+    "text": "Der er blevet foretaget en række dataindlæsninger på en hjemmeside relateret til VVS-installatører. Nogle af de nævnte virksomheder inkluderer Aage Andersen & Sønner, Aage Jørgensen VVS A/S, Aarhus Køleteknik ApS, Aaskov VVS ApS, Abild El-Forretning ApS, Abildaa Smede- og Maskinforretning A/S, ABILD El-Forretning ApS, AC EL-TEKNIK ApS, AC Energi A/S og ACEL A/S. Disse virksomheder har alle forskellige adresser og kontaktoplysninger samt oplysninger om deres godkendelser og hvilke installationer de er godkendt til. Der er også en downloadknap til en Excel-fil med yderligere oplysninger om certificerede VVS-installatører.",
+    "meta": {
+        "id": 18436164094809212564,
+        "url": "https://sparenergi.dk/craftsman-ve-installator-pager-ajax?hidden_css_form_id=craftsman-ve-certificated-ve-installator-form-1&_custom_element_pager=10&page=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:57:48.970129",
+        "error": null,
+        "num_tokens_in": 13607,
+        "num_tokens_out": 221,
+        "estimated_input_cost_gpt4": 0.13607000000000002,
+        "estimated_output_cost_gpt4": 0.0066300000000000005,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

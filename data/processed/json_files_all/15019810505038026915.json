@@ -1,0 +1,15 @@
+{
+    "text": "På Energistyrelsens hjemmeside kan man se tilskudssatserne for energiforbedrende tiltag, som man kan søge om tilskud til gennem Energirenoveringspuljen. Tilskudssatserne varierer alt efter kategori, og der er forskel på tilskudssatserne for ikke-momsregistrerede virksomheder og momsregistrerede institutioner og virksomheder. Der gives tilskud for isolering, udskiftning af vinduer, installation af vandbåret rumvarme og ventilationsanlæg.\n\nFor eksempel:\n- Tilskudssatser for udvendig isolering af massiv og let ydervæg er 180 kr./m2 for ikke-momsregistrerede virksomheder og 145 kr./m2 for momsregistrerede virksomheder.\n- Tilskudssatser for udskiftning af facadevindue er 680 kr./m2 for begge typer virksomheder.\n- Tilskudssatser for installation af fordelingsanlæg til vandbåret rumvarme er 80 kr./m2 for ikke-momsregistrerede virksomheder og 60 kr./m2 for momsregistrerede virksomheder.\n\nDer er også tilskud til energimærkning af bygninger ved projekter på 5.000-10.000 kr. Tilskuddet er på 750 kr. Vigtigt at forberede sig grundigt inden ansøgning om tilskud.\n\nMan kan finde yderligere oplysninger og kontakte Energistyrelsen for mere information på deres hjemmeside.",
+    "meta": {
+        "id": 15019810505038026915,
+        "url": "https://sparenergi.dk/privat/soeg-tilskud/varm-op-til-soege-tilskud-til-energirenovering/se-hvor-meget-du-kan-faa-i-tilskud",
+        "title": "Se hvor meget du kan få i tilskud",
+        "time_requested": "2024-04-16T11:48:19.401292",
+        "error": null,
+        "num_tokens_in": 1646,
+        "num_tokens_out": 391,
+        "estimated_input_cost_gpt4": 0.016460000000000002,
+        "estimated_output_cost_gpt4": 0.01173,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

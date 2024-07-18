@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen omhandler forberedelse af boligen til varmesæsonen, hvor fokus ligger på energioptimering for at reducere varmeregningen. Der gives specifikke råd til både lejligheder og husejere. For lejligheder anbefales det at tjekke tætheden i boligen, undersøge radiatorerne for effektiv opvarmning og generelt gennemgå boligen for eventuelle energisyndere. For husejere anbefales det også at tjekke tætheden, undersøge vinduer og døre for evt. behov for renovering, evaluere isoleringen samt lære varmesystemet bedre at kende for at optimere dets energieffektivitet. Der gives desuden guides til udførelse af disse tjek og forbedringer. Emnet for energibesparelse og energioptimering opstår i kontekst af at reducere energiforbruget og forberede boligen til vinteren.",
+    "meta": {
+        "id": 4329321098977158076,
+        "url": "https://sparenergi.dk/forbruger/en-ting-er-sikkert-og-det-er-gront/forbered-boligen-til-varmesaesonen",
+        "title": "Forbered boligen til varmesæsonen | Energistyrelsen",
+        "time_requested": "2024-04-16T11:47:56.611157",
+        "error": null,
+        "num_tokens_in": 1698,
+        "num_tokens_out": 242,
+        "estimated_input_cost_gpt4": 0.016980000000000002,
+        "estimated_output_cost_gpt4": 0.00726,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

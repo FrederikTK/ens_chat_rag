@@ -1,0 +1,15 @@
+{
+    "text": "I 2022 er Danmarks gasforbrug blevet sænket med 19 % og elforbruget med 6 % takket være energibesparelser derhjemme. Det gavner både pengepungen og klimaet. Det anbefales fortsat at spare på energien. Nogle råd inkluderer at skrue ned for varmen, bruge mindre varmt vand, slukke for unødvendigt strømforbrug, slukke for radiatoren under udluftning, bruge strømmen, når den er billigst, samt få gratis rådgivning om energibesparelser. Energistyrelsen giver de bedste råd til energibesparelse alt efter brugernes situation, om de bor i hus eller lejlighed, og uanset om det er sommer eller fyringssæson. Der tilbydes gratis rådgivning for private husstande, også ved overvejelse af at skifte varmetype pga. stigende gaspriser på grund af konflikten i Ukraine. Energistyrelsen opfordrer til fælles energibesparelse for at opnå en mere sikker energiforsyning og opfordrer til at tilmelde sig nyhedsmailen for at modtage spareråd direkte i indbakken.",
+    "meta": {
+        "id": 14557310993074005714,
+        "url": "https://sparenergi.dk/forbruger/sparerad-til-hjemmet",
+        "title": "Site under opdatering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:47:40.961865",
+        "error": null,
+        "num_tokens_in": 2022,
+        "num_tokens_out": 318,
+        "estimated_input_cost_gpt4": 0.020220000000000002,
+        "estimated_output_cost_gpt4": 0.00954,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

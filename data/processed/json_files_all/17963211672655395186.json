@@ -1,0 +1,15 @@
+{
+    "text": "Informationen beskriver, hvordan man kan spare strøm ved at vælge energirigtigt it- og elektronikudstyr og ved at undgå unødvendigt strømforbrug fra tv, computere og andre enheder. Der gives råd om at se efter energimærket F eller bedre, når man køber nyt tv, slukke på kontakten efter brug, vælge bærbare computere frem for stationære, lukke helt ned, når man ikke bruger computeren, vælge energimærke F eller bedre når man bruger ekstern skærm og have gode streamingvaner for at mindske elforbruget. Der gives også information om standbyforbrug, hvor man kan se, hvor meget strøm apparater bruger i dvale, samt en elberegner for at beregne strømforbrug for forskellige it- og elektronikapparater. Man opfordres til at tænke over sit forbrug af it- og elektronikudstyr for at mindske ens energiforbrug og skåne klimaet.",
+    "meta": {
+        "id": 17963211672655395186,
+        "url": "https://old.sparenergi.dk/forbruger/el/it-og-elektronik",
+        "title": "It og elektronik | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:52.423293",
+        "error": null,
+        "num_tokens_in": 1772,
+        "num_tokens_out": 260,
+        "estimated_input_cost_gpt4": 0.017720000000000003,
+        "estimated_output_cost_gpt4": 0.0078000000000000005,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

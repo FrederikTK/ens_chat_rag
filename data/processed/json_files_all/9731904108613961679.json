@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen handler om at få styr på cirkulationspumpen i hjemmet for at spare energi. En cirkulationspumpe er en enhed, der fordeler varmt vand til radiatorer, gulvvarme eller varmtvandsanlæg i boligen. Artiklen forklarer, hvordan man identificerer en cirkulationspumpe, hvordan man indstiller tidsstyringen på den, og hvordan man kan spare penge ved at skifte til en mere effektiv pumpe. Det anbefales at skifte en forældet cirkulationspumpe ud for at reducere elforbruget, især hvis man har gulvvarme eller har efterisoleret boligen. Det anbefales at udskifte pumper fra før 2014 med mere energieffektive modeller og slukke for pumpen om sommeren for yderligere energibesparelse. Der gives råd om at kontakte en VVS-installatør for hjælp og vejledning, når det kommer til cirkulationspumper.",
+    "meta": {
+        "id": 9731904108613961679,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/goer-det-selv-guides/cirkulationspumpe",
+        "title": "Cirkulationspumpe | Energistyrelsen",
+        "time_requested": "2024-04-16T11:52:28.006619",
+        "error": null,
+        "num_tokens_in": 2483,
+        "num_tokens_out": 248,
+        "estimated_input_cost_gpt4": 0.02483,
+        "estimated_output_cost_gpt4": 0.00744,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

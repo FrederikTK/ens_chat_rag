@@ -1,0 +1,15 @@
+{
+    "text": "Ejendomsejere, der overvejer at renovere deres bolig, kan overveje at få installeret et ventilationsanlæg. Hvis huset er velisoleret og tæt, kan et ventilationsanlæg bidrage til at genbruge varmen og sikre tilstrækkelig frisk luft. Der er tre typer ventilationsløsninger at overveje: mekanisk ventilation, hybridventilation og en boligventilationsvarmepumpe. Installation af et ventilationsanlæg kræver et uudnyttet loftsrum med plads til ventilationskanaler.\n\nFordele ved et ventilationsanlæg inkluderer at sikre frisk luft uden varmetab, øget husværdi, mindre varmeregning, reduktion af pollen, sod og fugt i indeluften samt en positiv indvirkning på miljøet ved at spare på energiforbruget.\n\nDet kræves, at ventilationsanlægget opfylder visse krav, såsom et specifikt elforbrug på maksimalt 1.000 J/m³, en virkningsgrad på mindst 80 %, og ved anvendelse af varmepumpe, en SCOP-værdi på mindst 3,8. Installationen indebærer at vælge den rette ventilationstype, opsætte anlægget, og løbende vedligeholde det, herunder årligt eftersyn og regelmæssig udskiftning af filtre.\n\nImidlertid er det vigtigt at bemærke, at installation af et ventilationsanlæg kræver et tomt loftsrum, og denne løsning er primært hensigtsmæssig i 1-planshuse. Derudover kan det være en god idé at rådføre sig med en ventilationsspecialist for at vælge den mest passende løsning til den konkrete bolig.",
+    "meta": {
+        "id": 17548323804547734475,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/energiloesninger/boligventilationsvarmepumpe",
+        "title": "Site under opdatering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:50:44.285864",
+        "error": null,
+        "num_tokens_in": 3227,
+        "num_tokens_out": 464,
+        "estimated_input_cost_gpt4": 0.03227,
+        "estimated_output_cost_gpt4": 0.01392,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

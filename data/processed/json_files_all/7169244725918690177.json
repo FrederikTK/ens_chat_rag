@@ -1,0 +1,15 @@
+{
+    "text": "På hjemmesiden SparEnergi.dk, der drives af Energistyrelsen, kan man finde gode råd til energioptimering i hverdagen. Hjemmesiden tilbyder en række tips og tricks inden for kategorier som lys og lamper, vask og rengøring, streaming og elektronik, køkken og madlavning, varme og varmt vand m.m. Her gives konkrete råd som at bruge mikroovn eller airfryer i stedet for ovn for at spare strøm, tage kortere bade for at spare på varmen, og skrue lige højt op på radiatorerne for at fordele varmen bedre og derved reducere varmeforbruget. Derudover opfordres man til at slukke for vandet, når man sæber sig ind under bruseren for at spare vand, bruge radio i stedet for tv eller computer for at spare strøm, og generelt at slukke for unødvendigt strømforbrug i hjemmet. Der er også tips om at bruge strømmen, når den er billigst, og det opfordres til at ændre små vaner, da det kan have stor effekt på både økonomien og klimaet. Derudover tilbyder hjemmesiden en strømpyramide, hvor man kan se, hvilke apparater der bruger mest strøm, og få inspiration til, hvor man kan spare energi. Man kan også få inspiration fra andres energivaner derhjemme og se, hvad de har gjort for at spare strøm og varme. Hjemmesiden tilbyder desuden muligheden for at indtaste sin adresse og få et mere præcist overslag over elforbruget samt se, hvor meget el man bruger i forhold til andre. Man kan også finde information om energitilskud, renovering af bolig og skift af varmetype. Samlet set giver SparEnergi.dk inspiration, viden og konkrete råd til, hvordan man kan spare energi i hverdagen og dermed bidrage til både pengebesparelse og klimaet.",
+    "meta": {
+        "id": 7169244725918690177,
+        "url": "https://sparenergi.dk/forbruger/en-ting-er-sikkert-og-det-er-gront",
+        "title": "Én ting er sikkert. Og det er grønt. | Energistyrelsen",
+        "time_requested": "2024-04-16T11:47:32.316539",
+        "error": null,
+        "num_tokens_in": 2477,
+        "num_tokens_out": 508,
+        "estimated_input_cost_gpt4": 0.02477,
+        "estimated_output_cost_gpt4": 0.01524,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

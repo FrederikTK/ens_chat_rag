@@ -1,0 +1,15 @@
+{
+    "text": "Typehuset fra perioden 1985-1997 var typisk 1 eller 1½ plan og var omkring 135-180 m2 stort. Husene havde ofte et rektangulært design med tegl- eller betontage og var enten murede med tunge ydervægge eller træhuse med lette ydervægge. Vinduerne var oprindeligt med termoruder. Opvarmning skete typisk med centralvarme, enten med en gaskedel eller fjernvarme, mens ventilationen ofte var naturlig med frisk luft via vinduerne og mekanisk udsugning af brugt luft. Elinstallationerne indeholdt flere stikkontakter, men måske ikke tilstrækkeligt til moderne behov. Energimærkningen var typisk C, og typiske forbedringer inkluderede isolering af loft, udskiftning af vinduer, installation af solcelleanlæg og varmepumper. Det var populært at have store valmede tegltage og postmoderne arkitektoniske elementer som skråt afskårne hjørner og spanske buer. ",
+    "meta": {
+        "id": 15978079202834068103,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/bygningsguiden/typehus-1985-1997",
+        "title": "Typehus 1985-1997 | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:11.392887",
+        "error": null,
+        "num_tokens_in": 8226,
+        "num_tokens_out": 284,
+        "estimated_input_cost_gpt4": 0.08226000000000001,
+        "estimated_output_cost_gpt4": 0.00852,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

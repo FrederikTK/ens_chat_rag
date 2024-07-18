@@ -1,0 +1,15 @@
+{
+    "text": "Informationen på hjemmesiden drejer sig om solcelleanlæg og hvordan man vælger og installerer dem. Solcelleanlæg producerer elektricitet ved hjælp af sollys, og det anbefales at installere dem på tage der vender mod syd og ikke er skyggefulde. Anlæggene bør dimensioneres efter forbrug og placering, samt installeres af en VE-godkendt installatør for at sikre korrekt installation. Det anbefales at bruge solcellestrømmen, der produceres i dagtimerne, og at tjekke lokalplanen inden installation. Hjemmesiden giver også en liste over VE-godkendte installatører, der kan installere solcelleanlæg korrekt.",
+    "meta": {
+        "id": 6396608176430466202,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/energiloesninger/solcelleanlaeg",
+        "title": "Solcelleanlæg",
+        "time_requested": "2024-04-16T11:53:27.039863",
+        "error": null,
+        "num_tokens_in": 3079,
+        "num_tokens_out": 183,
+        "estimated_input_cost_gpt4": 0.03079,
+        "estimated_output_cost_gpt4": 0.00549,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

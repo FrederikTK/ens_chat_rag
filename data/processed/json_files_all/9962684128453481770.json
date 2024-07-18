@@ -1,0 +1,15 @@
+{
+    "text": "API error: Error code: 400 - {'error': {'message': \"This model's maximum context length is 16385 tokens. However, your messages resulted in 38577 tokens. Please reduce the length of the messages.\", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}",
+    "meta": {
+        "id": 9962684128453481770,
+        "url": "https://sparenergi.dk/sites/forbruger.dk/files/contents/publication/noegletalsberegner-handel-og-service/noegletalsberegner-handel_og_service.xlsx",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:58:46.011627",
+        "error": null,
+        "num_tokens_in": 38520,
+        "num_tokens_out": 70,
+        "estimated_input_cost_gpt4": 0.38520000000000004,
+        "estimated_output_cost_gpt4": 0.0021,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

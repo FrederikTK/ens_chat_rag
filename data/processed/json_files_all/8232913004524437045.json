@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen beder virksomheder vælge deres størrelse ud af tre kategorier: lille virksomhed, mellemstor virksomhed eller stor virksomhed. Dette er en del af en formular eller undersøgelse lavet af Energistyrelsen, men der er ikke yderligere information tilgængelig om formålet med undersøgelsen eller de specifikke spørgsmål i formularen.",
+    "meta": {
+        "id": 8232913004524437045,
+        "url": "https://sparenergi.dk/tilskud-til-led?destination=/erhverv/belysningsberegner%23lighting-replacement-block-13",
+        "title": "| Energistyrelsen",
+        "time_requested": "2024-04-16T11:51:53.539121",
+        "error": null,
+        "num_tokens_in": 47,
+        "num_tokens_out": 106,
+        "estimated_input_cost_gpt4": 0.00047000000000000004,
+        "estimated_output_cost_gpt4": 0.00318,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

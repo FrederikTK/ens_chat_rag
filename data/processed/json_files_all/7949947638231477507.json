@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en demo, der viser, hvordan man kan kortlægge adresser ud fra postnumre. Demoen fokuserer på forbrugeres postnumre og viser, hvordan man kan lave en interaktiv kortlægning af disse postnumre. Demoen er tilgængelig på Energistyrelsens hjemmeside, hvor man kan få vist et interaktivt kort over postnumrene og få yderligere information omkring dette.",
+    "meta": {
+        "id": 7949947638231477507,
+        "url": "https://old.sparenergi.dk/demo/addresses/map",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:52:54.419641",
+        "error": null,
+        "num_tokens_in": 21,
+        "num_tokens_out": 112,
+        "estimated_input_cost_gpt4": 0.00021,
+        "estimated_output_cost_gpt4": 0.00336,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

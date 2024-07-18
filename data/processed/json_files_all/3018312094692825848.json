@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen handler om energieffektiv drift af svømmehaller og giver information om, hvordan man kan optimere energiforbruget inden for ventilation, varme og belysning. Svømmehaller bruger meget energi og der er store økonomiske besparelser at hente ved at reducere unødvendigt energiforbrug, især når svømmehaller står tomme. \n\nFor at identificere unødvendigt energiforbrug anbefales det at få et overblik over forbruget ved at fjernaflæse målerne og sætte bimålere på de største energiforbrugere som ventilationsanlæg og pumper. Der nævnes også brugen af energiovervågningssystemer, der automatiserer dataindsamlingen og advarer om unødvendigt energi- og vandforbrug. Driftsledere opfordres også til at uddanne sig i svømmebadsteknik.\n\nDer gives konkrete råd om at minimere ventilationsbehovet ved at dække bassiner, holde gangarealerne tørre, få udført eftersyn af ventilationsanlægget og isolere installationer. Der nævnes også anbefalinger i forhold til varme- og vandforbrug samt belysning såsom isolering af installationer, justering af pumper, brug af energieffektiv belysning og regulering af belysning med bevægelsessensorer.\n\nArtiklen opfordrer til at følge en række enkle råd for at spare energi og giver information om kurser i svømmebadsteknik og hvor man kan finde certificerede firmaer til energieftersyn. Der nævnes også behovet for at få data fra forsyningsselskaberne og hvordan man kan få forbrugsdata på timebasis.",
+    "meta": {
+        "id": 3018312094692825848,
+        "url": "https://sparenergi.dk/offentlig/kommuner/idraet-og-fritid/svommehaller",
+        "title": "Svømmehaller | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:29.350937",
+        "error": null,
+        "num_tokens_in": 1658,
+        "num_tokens_out": 457,
+        "estimated_input_cost_gpt4": 0.01658,
+        "estimated_output_cost_gpt4": 0.01371,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

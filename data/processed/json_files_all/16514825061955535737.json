@@ -1,0 +1,15 @@
+{
+    "text": "Guiden \"Tjek dine radiatorer\" fra Energistyrelsen hjælper forbrugere med at optimere deres vandbårne radiatorer for at minimere energiforbruget. Guiden består af fire nemme trin:\n\n1. Tjek placeringen af radiatorerne og termostaterne for at sikre, at de ikke er overdækkede eller står bag møbler eller gardiner, da det forhindrer varmen i at komme ud i rummet. Temperaturen på radiatoren skal være varm foroven og kold eller lunkne forneden.\n2. Tjek termostaterne for at sikre ens indstilling på radiatorerne i samme rum og i rum med åbne døre imellem. Hold dørene lukket mellem rum, hvor du ønsker forskellige temperaturer.\n3. Tjek om termostatventilerne sidder fast ved at forsigtigt løsne dem med en skruetrækker, hvis nødvendigt.\n4. Tjek om radiatorerne klukker eller risler, hvilket angiver luft i systemet. Luft kan fjernes ved at åbne luftskruen øverst på radiatoren og lukke den hurtigt igen, mens vandet kommer ud.\n\nGuiden giver også specifikke instruktioner afhængigt af opvarmningsmetoden - fjernvarme, varmepumper, naturgas, oliefyr, eller biobrændsel. Derudover gives der tips til at forbedre radiatorerne og råd om at åbne termostatventilerne om sommeren for at undgå, at de sidder fast. En vvs'er anbefales at kontakte, hvis radiatoren ikke fungerer korrekt efter udførelse af de nævnte trin.",
+    "meta": {
+        "id": 16514825061955535737,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktojer/guides-og-tjeklister/radiatorer",
+        "title": "Radiatorer | Energistyrelsen",
+        "time_requested": "2024-04-16T11:58:41.189567",
+        "error": null,
+        "num_tokens_in": 2488,
+        "num_tokens_out": 417,
+        "estimated_input_cost_gpt4": 0.024880000000000003,
+        "estimated_output_cost_gpt4": 0.01251,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

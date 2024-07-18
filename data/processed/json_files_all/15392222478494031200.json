@@ -1,0 +1,15 @@
+{
+    "text": "På Energistyrelsens hjemmeside SparEnergi.dk kan man finde information om energirigtige vinduer og anbefales at vælge A-mærkede vinduer, da disse vinduer rangeres bedre i energimærkningsskalaen fra A til F. Bygningsreglementet kræver, at man vælger A-mærkede vinduer ved udskiftning af vinduer i helårsboligen. Energimærket angiver, hvor effektive vinduerne er til at spare på energien, og vinduer med energimærke B eller dårligere er kun lovlige at bruge i byggeri, der ikke er omfattet af Bygningsreglementet. Energimærkningen baseres på, hvor meget varme der kommer ind eller ud gennem vinduet i opvarmningssæsonen for et vindue på 1,23 x 1,48 meter. Derudover bør energimærkede vinduer ikke have gennemgående sprosser, medmindre de er nødvendige for at gøre vinduet stabilt. Hvis karm og ramme er i god stand, behøver man ikke at udskifte hele vinduet, men kan eventuelt nøjes med at skifte ruden eller installere et forsatsvindue. Energistyrelsen giver desuden råd om at vælge et nyt vindue, der sparer mest energi og passer til husets arkitektur samt giver en oversigt over forskellige vinduestyper. Energistyrelsen tilbyder gratis rådgivning og opfordrer til at få mere information på deres hjemmeside energivinduer.dk.",
+    "meta": {
+        "id": 15392222478494031200,
+        "url": "https://sparenergi.dk/forbruger/boligen/vinduer/energimaerkede-vinduer",
+        "title": "Energimærkede vinduer | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:24.353939",
+        "error": null,
+        "num_tokens_in": 927,
+        "num_tokens_out": 389,
+        "estimated_input_cost_gpt4": 0.00927,
+        "estimated_output_cost_gpt4": 0.01167,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

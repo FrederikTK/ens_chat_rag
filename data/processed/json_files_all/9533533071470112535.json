@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside, SparEnergi, tilbyder information om fordelene ved at installere et ventilationsanlæg i et tæt og velisoleret hus. Ventilationsanlægget genbruger varmen fra huset og sikrer frisk luft uden behov for at åbne vinduer. Der er tre forskellige typer ventilationsanlæg: mekanisk ventilation, hybridventilation og boligventilationsvarmepumpe. Installationen kræver et uudnyttet loftrum med plads til ventilationskanaler og er mest egnet til 1-planshuse. Ved at installere et ventilationsanlæg med varmegenvinding kan man spare op til 2.000 kr. om året på varmeregningen. Anlægget filtrerer også udeluften, hvilket kan reducere risikoen for skimmelsvamp og fugt i huset. Det anbefales at vælge en model med høj energieffektivitet for at opnå den bedste økonomi på lang sigt. Eftersyn og vedligeholdelse af anlægget er vigtigt for at sikre dets optimale funktion. Installationen udføres typisk af ventilationsmontører og tømrere med ekspertise på området.",
+    "meta": {
+        "id": 9533533071470112535,
+        "url": "https://sparenergi.dk/privat/skal-du-renovere-din-bolig/hvornaar-har-du-brug-et-ventilationsanlaeg",
+        "title": "Få et ventilations-anlæg",
+        "time_requested": "2024-04-16T11:59:00.318167",
+        "error": null,
+        "num_tokens_in": 3227,
+        "num_tokens_out": 317,
+        "estimated_input_cost_gpt4": 0.03227,
+        "estimated_output_cost_gpt4": 0.009510000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

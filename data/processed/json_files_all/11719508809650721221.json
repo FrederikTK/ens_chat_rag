@@ -1,0 +1,15 @@
+{
+    "text": "På hjemmesiden SparEnergi under Energistyrelsen kan man finde information om forskellige tilskudsordninger til energirenoveringer og skift af varmekilde i boligen. Der er mulighed for at søge tilskud til energibesparende forbedringer gennem Energirenoveringspuljen, hvor man blandt andet kan få tilskud til isolering, vinduer og ventilation. Derudover er der en Varmepumpepulje, hvor man kan få tilskud til at skifte til en varmepumpe og få op til 27.000 kr., når man skrotter sit gamle fyr. Desuden er der mulighed for at få en varmepumpe på abonnement, hvor man kan få tilskud, hvis man skrotter sit gamle fyr samtidig. Der er også oplysninger om andre tilskudsmuligheder såsom gratis afkobling af gas, støtte til tinglysningsafgifter og lånegebyrer ved skift af varmekilde. Energirenoveringspuljen og varmepumpepuljen har åbnet ansøgningsperioder, mens puljen til lokale energifællesskaber forventes at åbne igen i andet halvår af 2024. Man kan også kontakte erfarne energirådgivere for gratis rådgivning om energirenoveringer, tilskud og skifte af varmekilde. Endvidere kan man tilmelde sig nyhedsbrevet for at få opdateringer om tilskudspuljerne.",
+    "meta": {
+        "id": 11719508809650721221,
+        "url": "https://old.sparenergi.dk/forbruger/boligen/tilskud/sadan-soger-du",
+        "title": "Sådan søger du | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:13.024065",
+        "error": null,
+        "num_tokens_in": 2233,
+        "num_tokens_out": 367,
+        "estimated_input_cost_gpt4": 0.022330000000000003,
+        "estimated_output_cost_gpt4": 0.01101,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

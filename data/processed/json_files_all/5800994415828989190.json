@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen opfordrer boligejere, der opvarmer deres boliger med olie, gas eller gammeldags elpaneler, til at overveje at skifte varmetype for at opnå billigere og mere klimavenlig opvarmning. Mulighederne inkluderer fjernvarme, varmepumper, solvarme, solceller og biobrændsel. Ved at skifte varmetype kan man spare penge på varmeregningen, reducere CO2-udledningen og minimere vedligeholdelse. Energistyrelsen tilbyder desuden gratis rådgivning og mulighed for at søge tilskud til at skifte til en mere energivenlig varmekilde. Det anbefales at indtaste ens adresse på Energistyrelsens hjemmeside for at få en vurdering af, hvilken varmeløsning der passer bedst til ens bolig og behov.",
+    "meta": {
+        "id": 5800994415828989190,
+        "url": "https://sparenergi.dk/privat/tid-til-skifte-varmetype",
+        "title": "Je čas změnit typ vytápění?",
+        "time_requested": "2024-04-16T11:48:22.259273",
+        "error": null,
+        "num_tokens_in": 1718,
+        "num_tokens_out": 221,
+        "estimated_input_cost_gpt4": 0.01718,
+        "estimated_output_cost_gpt4": 0.0066300000000000005,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

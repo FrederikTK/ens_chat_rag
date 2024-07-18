@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside, SparEnergi, giver gode råd til at spare på varme og køling derhjemme. Det anbefales at holde temperaturen i boligen på 18-20 °C og at sænke temperaturen om natten og når man ikke er hjemme for at spare energi. Ensretning af termostater på radiatorer, slukning af varmen under udluftning, træk for om aftenen for at holde på varmen, og sikring af, at radiatorer er fri for forhindringer er også effektive energisparetips. Det anbefales at investere i intelligente termostater og at få varmeanlægget efterset årligt for optimal drift. Gulvvarme bør have lavere fremløbstemperatur end radiatorer, og det anbefales at være tålmodig med at skrue op for varmen. Luftning af boligen, afskærmning for solen og brug af blæsere i stedet for køleanlæg er gode måder at køle hjemmet på uden at bruge for meget strøm. Hjemmesiden indeholder også information om forskellige energikilder og apparater, der kan bidrage til energibesparelse.",
+    "meta": {
+        "id": 17252729394475155858,
+        "url": "https://sparenergi.dk/forbruger/varme/dit-varmeforbrug",
+        "title": "Dit varmeforbrug | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:02.835117",
+        "error": null,
+        "num_tokens_in": 3397,
+        "num_tokens_out": 293,
+        "estimated_input_cost_gpt4": 0.03397,
+        "estimated_output_cost_gpt4": 0.008790000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

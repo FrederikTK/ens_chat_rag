@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder rådgivning til idrætsforeninger og selvejende institutioner for at spare energi i idrætshaller. Der gives gode råd om energibesparelser, så som at skifte til LED-lys, optimering af driften og muligheden for at installere solceller eller solvarme. Der er fokus på energibesparelser i kommunalt ejede idrætshaller samt i idrætshaller med svømmehaller, hvor der er store besparelser at hente på energiforbrug. Der nævnes fordele ved energiforbedringer som økonomiske besparelser, forbedret indeklima og reduceret CO2-udledning. Der gives konkrete tips til optimering af driften, f.eks. ved at indstille automatikken korrekt og udnytte hallen maksimalt. Der opfordres også til at skifte varmeform, isolere ordentligt og anvende lysstyring samt udskifte gamle belysningsanlæg med LED-lys. Desuden gives der vejledning om, hvordan idrætsforeninger kan gå i gang med energiforbedringsprojekter, herunder finansieringsmuligheder såsom at søge støtte fra kommunen, engagere sponsorer eller søge fonde. Der henvises også til en række cases, hvor idrætsforeninger har opnået energibesparelser ved at implementere forskellige tiltag.",
+    "meta": {
+        "id": 4103747033166542607,
+        "url": "https://sparenergi.dk/offentlig/kommuner/idraet-og-fritid/idraetshaller",
+        "title": "Idrætshaller | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:46.771385",
+        "error": null,
+        "num_tokens_in": 4299,
+        "num_tokens_out": 371,
+        "estimated_input_cost_gpt4": 0.04299,
+        "estimated_output_cost_gpt4": 0.011130000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om energimærkning af bygninger, herunder for forbrugere, erhverv og offentlige bygninger. Der er fokus på energiforbrug og energimærkning af forskellige typer varmesystemer som naturgas, fjernvarme, olie, varmepumper og elvarme. Der er også information om isolering, vinduer, ventilation, intelligent styring, varmeanlæg, biobrændselskedler, el-forbrug og energimærkning af apparater. Der findes desuden guides, rådgivning og lister over VE-virksomheder og håndværkere på Energistyrelsens hjemmeside. Energistyrelsen kan kontaktes på Carsten Niebuhrs Gade 43, 1577 København V, og via deres hjemmeside www.ens.dk. Man kan også tilmelde sig nyhedsbrevet for at modtage information om at spare energi.",
+    "meta": {
+        "id": 14417066243844955278,
+        "url": "https://old.sparenergi.dk/forbruger/el",
+        "title": "El | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:02.154112",
+        "error": null,
+        "num_tokens_in": 935,
+        "num_tokens_out": 237,
+        "estimated_input_cost_gpt4": 0.00935,
+        "estimated_output_cost_gpt4": 0.00711,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

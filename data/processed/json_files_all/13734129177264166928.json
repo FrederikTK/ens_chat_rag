@@ -1,0 +1,15 @@
+{
+    "text": "Hjemmesiden SparEnergi.dk oplyser om vigtigheden og fordelene ved at isolere hulmure i boliger som en effektiv måde at spare energi og penge på varmeregningen. Isolering af hulmuren giver store besparelser, forbedrer indeklimaet og kan gennemføres nemt ved blot at fjerne et par mursten og blæse ny isolering ind. Hjemmesiden informerer også om, hvordan man kan tjekke om hulmuren er isoleret, og beskriver processen for isolering af hulmuren. Der gives tips til at vælge den mest effektive isolering, og det nævnes, at hulmursisolering er obligatorisk under visse renoveringer. Der gives også praktiske råd og vejledning til håndværkere, samt eksempler på andre boligejeres erfaringer med hulmursisolering. Hjemmesiden tilbyder desuden en liste over andre typer af renoveringer samt tips om at skifte varmetype og hvordan man kan spare energi i hverdagen.",
+    "meta": {
+        "id": 13734129177264166928,
+        "url": "https://sparenergi.dk/privat/skal-du-renovere-din-bolig/isoler-din-hulmur",
+        "title": "Isoler din hulmur",
+        "time_requested": "2024-04-16T11:53:47.609896",
+        "error": null,
+        "num_tokens_in": 2230,
+        "num_tokens_out": 265,
+        "estimated_input_cost_gpt4": 0.0223,
+        "estimated_output_cost_gpt4": 0.00795,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

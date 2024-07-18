@@ -1,0 +1,15 @@
+{
+    "text": "Den tilgængelige information drejer sig om en tro og loveerklæring ved ansøgning om tilskud til gennemførelse af energiforbedringsprojekter i bygninger til helårsbeboelse (Bygningspuljen). Erklæringen skal udfyldes, når man søger på vegne af andre, og hvis man selv ejer bygningen, udfyldes erklæringen i ansøgningsportalen. Erklæringen er på 2 sider og kan downloades som en DOCX-fil fra Energistyrelsens hjemmeside.",
+    "meta": {
+        "id": 17217630742525600866,
+        "url": "https://sparenergi.dk/forbruger/materialer/tro-og-loveerklaering-ved-ansogning-om-tilskud",
+        "title": "Tro og loveerklæring ved ansøgning om tilskud",
+        "time_requested": "2024-04-16T11:48:47.922024",
+        "error": null,
+        "num_tokens_in": 944,
+        "num_tokens_out": 143,
+        "estimated_input_cost_gpt4": 0.00944,
+        "estimated_output_cost_gpt4": 0.00429,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

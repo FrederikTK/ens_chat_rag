@@ -1,0 +1,15 @@
+{
+    "text": "På Energistyrelsens hjemmeside SparEnergi.dk kan man finde gode råd til at spare energi i hverdagen. Hjemmesiden tilbyder råd inden for forskellige kategorier som lys og lamper, vask og rengøring, streaming og elektronik, køkken og madlavning, varme og varmt vand samt mange andre emner. Der gives konkrete råd som at bruge mikroovn eller airfryer i stedet for ovn, tage kortere bade, vælge det rigtige vaskeprogram og skrue ens på radiatorerne for at fordele varmen bedre. Der opfordres også til at slukke for vandet mens man sæber sig ind og bruge radio til baggrundslyd i stedet for tv eller computer for at spare energi. Hjemmesiden informerer også om at bruge strømmen, når den er billigst, og tilbyder et værktøj til at se, hvilke apparater der bruger mest strøm derhjemme. Der er desuden mulighed for at få inspiration fra andre, der har været kreative og sparet strøm og varme derhjemme samt at undersøge mulige tilskudsordninger for energioptimering. Samlet set tilbyder hjemmesiden brugbar information og rådgivning til energibesparelser i hverdagen.",
+    "meta": {
+        "id": 5880357238555230744,
+        "url": "https://sparenergi.dk/vores-energiaftale/profil-data?destination=/privat/spar-energi-i-hverdagen%23module-188",
+        "title": "Our energy agreement | Energistyrelsen",
+        "time_requested": "2024-04-16T11:52:58.255003",
+        "error": null,
+        "num_tokens_in": 2477,
+        "num_tokens_out": 334,
+        "estimated_input_cost_gpt4": 0.02477,
+        "estimated_output_cost_gpt4": 0.01002,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

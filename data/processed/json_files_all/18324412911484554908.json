@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en række energiløsninger til forbrugere, virksomheder og offentlige bygninger. På deres hjemmeside, SparEnergi.dk, kan man finde information om energimærkning af bygninger, energirådgivning, tilskud til energiforbedringer, isolering, vinduer, ventilation, intelligent styring og meget mere.\n\nNår det kommer til varme, kan man finde information om varmeforbrug, skifte af varmetype, herunder naturgas, fjernvarme, olie, varmepumper, elvarme, træpiller, solvarme og kombinationsløsninger. Derudover kan man også finde lister over varmepumper og biobrændselskedler samt information om cirkulationspumper og energimærkning af varmeanlæg.\n\nEnergistyrelsen tilbyder desuden information om elforbrug, elpriser, energimærkning af elektriske apparater, belysning, køl og frys, vask og rengøring, madlavning, IT og elektronik samt solceller og vindmøller.\n\nFor offentlige bygninger er der fokus på energimærkning, renovering, nybyggeri, ESCO, energirådgivning, opvarmning, køling, ventilation, belysning og IT.\n\nErhvervslivet kan finde information om energiledelse, nøgletal for energiforbrug, industriel energioptimering, ventilation, belysning, kølemøbler, landbrugsanlæg og meget mere.\n\nPå SparEnergi.dk er der desuden værktøjer som håndværkerlisten, VE-virksomhedsoversigten, energimærke-firma-søgning, BedreBolig-ordningen, bygningsguiden, energispare-casebank, låneberegner, varmepumpelisten og meget mere.\n\nPå Energistyrelsens adresse på Carsten Niebuhrs Gade 43 i København V, og deres hjemmeside www.ens.dk, kan man finde yderligere information om energibesparelser og energieffektive løsninger.",
+    "meta": {
+        "id": 18324412911484554908,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/energiloesninger/varme-og-varmt-vand",
+        "title": "Find energiløsninger | Energistyrelsen",
+        "time_requested": "2024-04-16T11:51:54.544831",
+        "error": null,
+        "num_tokens_in": 828,
+        "num_tokens_out": 529,
+        "estimated_input_cost_gpt4": 0.008280000000000001,
+        "estimated_output_cost_gpt4": 0.01587,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

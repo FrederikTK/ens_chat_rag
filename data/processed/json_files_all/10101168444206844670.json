@@ -1,0 +1,15 @@
+{
+    "text": "CP Kelco har gennemført et projekt, hvor de har erstattet naturgas med overskudsvarme i deres produktion på fabrikken i Køge. Projektet blev støttet af Erhvervspuljen, og det resulterede i en årlig besparelse på 1,25 mio. kr. Projektet reducerede energiforbruget med 4,9 mio. kWh årligt, hvilket svarer til en CO2-reduktion på 996 ton/år. Totalt investerede virksomheden 2,4 mio. kr., men med tilskuddet fra Erhvervspuljen på 905.400 kr. blev tilbagebetalingstiden reduceret fra 3 til 2 år. CP Kelco fokuserer på effektiv produktion med høj genanvendelse af restprodukter og energi. Projektet har styrket virksomhedens grønne profil og hjulpet dem med at fastholde og tiltrække nye kunder. Projektet blev set som en gevinst for alle parter, da det bidrager til CO2-reduktion og hjælper virksomheden med at spare penge.",
+    "meta": {
+        "id": 10101168444206844670,
+        "url": "https://sparenergi.dk/erhverv/vaerktojer/casebank/cp-kelco-anskaffer-sig-overskudsvarme",
+        "title": "CP Kelco anskaffer sig overskudsvarme",
+        "time_requested": "2024-04-16T11:55:44.477542",
+        "error": null,
+        "num_tokens_in": 2143,
+        "num_tokens_out": 278,
+        "estimated_input_cost_gpt4": 0.02143,
+        "estimated_output_cost_gpt4": 0.00834,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

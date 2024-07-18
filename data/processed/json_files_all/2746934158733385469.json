@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har oplysninger om energimærkning af luft til luft-varmepumper, som hjælper forbrugerne med at vælge den mest energieffektive løsning. Anbefalingen er at gå efter varmepumper med energiklasse A++ eller bedre for at opnå størst mulige besparelser. Besparelsen ved at installere en luft til luft-varmepumpe afhænger af forskellige faktorer såsom varmebehov, isolering af huset og valg af varmekilde. Et eksempel angiver, at ved udskiftning af elradiatorer med en luft til luft-varmepumpe, kan der opnås en årlig besparelse på 9.000-11.000 kr. Energimærkningen viser energieffektiviteten på en skala fra A+++ til D, og det kontrolleres af Sikkerhedsstyrelsen. Der findes også andre mærker som den europæiske blomst, der viser miljøvenlighed. Energimærkningsdata for luft til luft-varmepumper opdateres løbende på Energistyrelsens hjemmeside.",
+    "meta": {
+        "id": 2746934158733385469,
+        "url": "https://sparenergi.dk/forbruger/varme/varmepumper/energimaerkning-luft-til-luft-varmepumpe",
+        "title": "Energimærkning luft til luft-varmepumpe | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:22.096296",
+        "error": null,
+        "num_tokens_in": 1455,
+        "num_tokens_out": 288,
+        "estimated_input_cost_gpt4": 0.01455,
+        "estimated_output_cost_gpt4": 0.00864,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

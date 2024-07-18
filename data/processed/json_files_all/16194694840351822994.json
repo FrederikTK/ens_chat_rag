@@ -1,0 +1,15 @@
+{
+    "text": "Typehusene fra perioden 1977-84 er normalt i 1 plan og har en gennemsnitlig størrelse på ca. 130-160 m2. De har ofte et trekantet tag, kendt som et \"Toblerone-tag\", og er hovedsageligt opvarmet med centralvarme. Energimærkningen for disse huse er typisk C-D, og de kan forbedres ved at isolere loftet, udskifte vinduer, energiforbedre yderdøre, samt installere solcelleanlæg, isolere varme- og varmtvandsrør og investere i varmepumper. Huse fra denne periode blev præget af energikrisen, og derfor blev der lagt stor vægt på energieffektivitet og isolering af husene. Materialerne varierer, men mursten og træbeklædning var almindelige. Mange af disse huse er opvarmet med olie- eller gasfyr, og ventilationen sker naturligt gennem vinduerne og ventiler. Fokus på bæredygtig renovering og energiforbedringer er vigtigt for at reducere energiforbruget og forbedre indeklimaet. Energimærke C-D kan forbedres til energimærke C ved at følge energimærkningens forslag til energiforbedringer.",
+    "meta": {
+        "id": 16194694840351822994,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/bygningsguiden/typehus-1977-84",
+        "title": "Typehus 1977-84 | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:33.279578",
+        "error": null,
+        "num_tokens_in": 8719,
+        "num_tokens_out": 333,
+        "estimated_input_cost_gpt4": 0.08719,
+        "estimated_output_cost_gpt4": 0.00999,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

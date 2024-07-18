@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder forskellige tjeklister til at vurdere energieffektiviteten i bygninger, processer og installationer. Disse tjeklister kan hjælpe virksomheder med at identificere områder, hvor de kan reducere energiforbruget. Nogle af de tilgængelige tjeklister inkluderer:\n\n1. Tjekliste for automatik\n2. Tjekliste for belysningsanlæg\n3. Tjekliste for klimaskærm\n4. Tjekliste for køling\n5. Tjekliste for køling af serverrum\n6. Tjekliste for trykluft\n7. Tjekliste for ventilation\n8. Tjekliste til varmeanlæg\n\nDisse tjeklister kan downloades som PDF-filer og bruges enten direkte af virksomheden eller af specialister til at udføre energieftersyn. Energistyrelsen anbefaler også at skifte til LED-belysning for at reducere elforbruget. Derudover tilbyder de en nyhedsmailtjeneste, hvor virksomheder kan tilmelde sig for at modtage relevant information om energibesparelser, CO2-reduktioner og finansieringsmuligheder. Energistyrelsen bekræfter, at de beskytter data og kun bruger kontaktoplysninger til udsendelse af nyhedsmails.",
+    "meta": {
+        "id": 2709571527414082454,
+        "url": "https://sparenergi.dk/erhverv/vaerktoejer/tjeklister",
+        "title": "Fejl 404 – siden kunne ikke findes | Energistyrelsen",
+        "time_requested": "2024-04-16T11:53:06.762481",
+        "error": null,
+        "num_tokens_in": 1738,
+        "num_tokens_out": 351,
+        "estimated_input_cost_gpt4": 0.017380000000000003,
+        "estimated_output_cost_gpt4": 0.01053,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

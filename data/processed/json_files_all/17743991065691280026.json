@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen handler om at spare energi ved at styre lyset i hjemmet effektivt ved hjælp af lysstyring. Der er flere muligheder for lysstyring, herunder intelligente pærer, bevægelsessensorer, skumringsrelæer, tænd-sluk-ure og lysdæmpere. Intelligente LED-pærer giver fuld kontrol over lyset med fjernbetjening eller app, bevægelsessensorer tænder lyset ved bevægelse, skumringsrelæer tænder for lyset i mørke, og tænd-sluk-ure giver mulighed for at indstille lys til at tænde og slukke på bestemte tidspunkter. Lysstyring kan hjælpe med at reducere elforbruget og spare penge på elregningen, men det kan også have et lille standbyforbrug, der bør være under 0,5 watt pr. enhed for at undgå ekstraomkostninger. Det anbefales at bruge automatisk lysstyring specielt til udendørslys og at skifte til LED-pærer for at opnå større energibesparelser. Artiklen giver også eksempler på, hvor mange penge man kan spare ved at styre udelyset automatisk og ved at skifte til LED-pærer. Endelig nævnes det, at ikke alle lysdæmpere fungerer med LED-pærer, og at det kan være fordelagtigt at få rådgivning fra en forhandler, inden man foretager køb.",
+    "meta": {
+        "id": 17743991065691280026,
+        "url": "https://sparenergi.dk/forbruger/el/belysning/daempning",
+        "title": "Dæmpning | Energistyrelsen",
+        "time_requested": "2024-04-16T11:49:44.473996",
+        "error": null,
+        "num_tokens_in": 1849,
+        "num_tokens_out": 379,
+        "estimated_input_cost_gpt4": 0.018490000000000003,
+        "estimated_output_cost_gpt4": 0.01137,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

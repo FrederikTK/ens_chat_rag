@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen oplyser om fordelene ved at skifte til en luft til luft-varmepumpe som en billig og driftssikker måde at opvarme et sommerhus eller supplementere varmen i et helårshus. En luft til luft-varmepumpe er især velegnet, hvis man bor et sted uden fjernvarme og ikke har et vandbåret varmesystem. Pumpen giver en klimavenlig energiform, reducerer CO2-udledningen, er nem og billig at installere, giver mere varme for pengene og kræver ikke radiatorer eller gulvvarme. Dog har den også nogle ulemper, såsom at den kun opvarmer ét rum, ikke opvarmer brugsvand og kan være hørbar. Energimærke A+ anbefales, og det er vigtigt at vælge en VE-godkendt installatør. Installationen kræver blandt andet en korrekt placering af udedelen og årlige eftersyn. Der nævnes også mulighed for reduktion af elafgiften ved brug af varmepumpen som primær varmekilde. Energistyrelsen giver desuden tips til at vælge den rigtige varmepumpe, herunder at være opmærksom på, at en pumpe, der opfylder lovkrav, ikke nødvendigvis er den mest effektive. Endelig opfordres til at kontakte en VE-godkendt installatør og bruge huskelisten for at sikre den mest energieffektive løsning.",
+    "meta": {
+        "id": 9899785376035327818,
+        "url": "https://sparenergi.dk/privat/tid-til-skifte-varmetype/bliv-klogere-paa-luft-til-luft-varmepumpen",
+        "title": "Skift til luft til luft - varmepumpe",
+        "time_requested": "2024-04-16T11:55:30.780721",
+        "error": null,
+        "num_tokens_in": 2641,
+        "num_tokens_out": 376,
+        "estimated_input_cost_gpt4": 0.026410000000000003,
+        "estimated_output_cost_gpt4": 0.01128,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

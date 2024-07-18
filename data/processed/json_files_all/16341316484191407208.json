@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder flere former for økonomisk støtte til borgere, der har svært ved at betale deres el- og varmeregninger. \n\n1. Varmecheck: Et engangstilskud på 6.000 kr. til husstande med lav indkomst og naturgas, dyr fjernvarme eller elektricitet som varmekilde i fyringssæsonen. Borgere kan ansøge om varmechecken fra 14. marts 2023 på varmecheck.dk.\n\n2. Indefrysningsordning: Mulighed for at udsætte betaling af el, gas og fjernvarme over et vis prisloft. Tilmelding hos energiselskabet kræves.\n\n3. Varmetillæg til pensionister: Folkepensionister eller tilkendte førtidspensionister før 2003 kan søge varmetillæg, som dækker varmeudgifter over 5.600 kr. om året som enlig og 8.400 kr. pr. år som samlevende. Der er også mulighed for genberegning af tillægget.\n\n4. Personligt tillæg til pensionister: Folkepensionister eller tilkendte førtidspensionister før 2003 kan søge om personligt tillæg hos kommunen, som dækker rimelige og nødvendige udgifter, f.eks. højere varmeregninger.\n\n5. Hjælp til enkeltudgifter for kontanthjælpsmodtagere m.fl.: Kommunen kan yde hjælp til uforudsete enkeltudgifter til varme eller elektricitet.\n\n6. Særlig støtte for økonomisk vanskeligt stillede: Berettigede kan modtage hjælp til at dække høje udgifter til boligen, f.eks. el og varme, uden at være i kontanthjælpssystemet.\n\nDesuden er der økonomisk støtte til forbedringer af boligen, herunder tilskud til renovering og skift til varmepumpe samt tidligere mulighed for håndværkerfradrag (nu afskaffet) og gratis afkobling fra naturgasnettet.",
+    "meta": {
+        "id": 16341316484191407208,
+        "url": "https://sparenergi.dk/forbruger/stigende-energipriser/fa-okonomisk-stotte",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:49:10.928734",
+        "error": null,
+        "num_tokens_in": 3024,
+        "num_tokens_out": 540,
+        "estimated_input_cost_gpt4": 0.030240000000000003,
+        "estimated_output_cost_gpt4": 0.0162,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

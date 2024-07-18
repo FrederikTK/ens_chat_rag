@@ -1,0 +1,15 @@
+{
+    "text": "På hjemmesiden SparEnergi.dk opfordres boligejere til at isolere gulvet over deres kolde kælder, hvis gulvet har mindre end 75 mm isolering. Dette kan resultere i besparelse på varmeregningen og gøre boligen mere behagelig at opholde sig i. Det anbefales, at kælderen er uopvarmet og uden fugtproblemer. Isoleret gulv kan give bedre indeklima, lavere varmeregning og vedligeholde boligens værdi. Der opfordres til at isolere med 75 mm for at opfylde Bygningsreglementets krav og med 150 mm for at opnå lavenerginiveau. Det advares om risikoen for fugt og skimmelsvamp, hvis kælderen ikke er egnet til isolering. Håndværkerassistance anbefales, og det nødvendige isoleringsniveau afhænger af husets specifikationer. Hjemmesiden tilbyder også yderligere rådgivning og information om energirenovering.",
+    "meta": {
+        "id": 17290730749927806038,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/energiloesninger/isolering-af-gulv-over-uopvarmet-kaelder",
+        "title": "Isolering af gulv over uopvarmet kælder",
+        "time_requested": "2024-04-16T11:55:39.812234",
+        "error": null,
+        "num_tokens_in": 2197,
+        "num_tokens_out": 264,
+        "estimated_input_cost_gpt4": 0.021970000000000003,
+        "estimated_output_cost_gpt4": 0.00792,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

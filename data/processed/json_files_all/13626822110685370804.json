@@ -1,0 +1,15 @@
+{
+    "text": "Dokumenterne til ansøgning hos Energistyrelsen om tilskud fra Energirenoveringspuljen inkluderer en fuldmagt, en ansøgererklæring, en De minimis-erklæring og en overdragelseserklæring. Disse dokumenter skal udfyldes, hvis man søger på vegne af en anden, en virksomhed eller forening. Det er vigtigt at have et gyldigt energimærke i kategorien E, F eller G, som maksimalt må være 10 år gammelt og baseret på en bygningsgennemgang. Tilskud til energimærket kræver, at det er udarbejdet inden for de sidste 24 måneder. Der er også vejledninger og trin-for-trin guider til ansøgere og videoer tilgængelige. Det anbefales at tilmelde sig nyhedsbrevet for opdateringer og råd om energioptimering. Energistyrelsen er ansvarlig for denne information, og man kan finde yderligere oplysninger på deres hjemmeside.",
+    "meta": {
+        "id": 13626822110685370804,
+        "url": "https://sparenergi.dk/privat/soeg-tilskud/varm-op-til-soege-tilskud-til-energirenovering/dokumenter-til-din-ansoegning",
+        "title": "Dokumenter til din ansøgning",
+        "time_requested": "2024-04-16T11:55:01.962135",
+        "error": null,
+        "num_tokens_in": 936,
+        "num_tokens_out": 263,
+        "estimated_input_cost_gpt4": 0.00936,
+        "estimated_output_cost_gpt4": 0.00789,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

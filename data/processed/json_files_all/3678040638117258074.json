@@ -1,0 +1,15 @@
+{
+    "text": "Vejledningen omhandler ansøgning til Erhvervspuljen om tilskud til energibesparelser, energieffektiviseringer og CO2-reduktioner i erhvervsvirksomheder. Denne vejledning er gældende for ansøgninger indsendt fra januar 2023 og er 1.18 MB stor med 21 sider. Energistyrelsen er ansvarlig for puljen, og den er beliggende på Carsten Niebuhrs Gade 43 i København V. Der tilbydes også yderligere informationer på hjemmesiden www.ens.dk. Erhvervspuljen er et initiativ til at støtte virksomheder i deres arbejde med at opnå energibesparelser og CO2-reduktioner.",
+    "meta": {
+        "id": 3678040638117258074,
+        "url": "https://old.sparenergi.dk/forbruger/materialer/erhvervspuljen-vejledning-til-ansogning",
+        "title": "Erhvervspuljen: Vejledning til ansøgning",
+        "time_requested": "2024-04-16T11:58:13.850288",
+        "error": null,
+        "num_tokens_in": 912,
+        "num_tokens_out": 192,
+        "estimated_input_cost_gpt4": 0.009120000000000001,
+        "estimated_output_cost_gpt4": 0.00576,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

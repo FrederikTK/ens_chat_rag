@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har udgivet tips til at spare energi på tv og spillekonsoller. Nogle af de bedste råd inkluderer at skrue ned for lysstyrken på tv'et, se mindre tv, slukke for stikkontakten, når tv'et eller spillekonsollen ikke er i brug, bruge spillekonsollen kun til spil, undgå quick start-funktionen, bruge kortlæser frem for digital modtager og vælge den mindste digitale modtager til ens behov. Der gives også råd til køb af tv, herunder at regne på hele prisen, gå efter energimærke F eller bedre, vælge LED eller OLED-tv og vælge størrelse efter behov. Når det kommer til spillekonsoller, bruger de mere strøm end almindelige computere, og der gives også råd til reparation af tv, herunder at det som regel kan betale sig at reparere tv'et i stedet for at købe nyt. Energistyrelsen fastslår, at det ikke skader tv'et at blive slukket på kontakten. Myter om energibesparelse forklarer også dette. Energistyrelsen tilbyder gratis rådgivning og har fokus på at hjælpe forbrugerne med at spare energi i hverdagen. Kilde: https://energieffektivisering.dk/privat/husholdning/tv-og-spillekonsoller-spar-penge-paa-energiregningen",
+    "meta": {
+        "id": 6488752485945861047,
+        "url": "https://sparenergi.dk/forbruger/el/it-og-elektronik/tv-og-digitale-modtagere",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:54:41.485103",
+        "error": null,
+        "num_tokens_in": 2372,
+        "num_tokens_out": 370,
+        "estimated_input_cost_gpt4": 0.02372,
+        "estimated_output_cost_gpt4": 0.0111,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

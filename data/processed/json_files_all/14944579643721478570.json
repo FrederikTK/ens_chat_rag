@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder tilskud til energirenoveringsprojekter til boligejere, der opfylder visse betingelser. Der er 5 generelle krav, og der er også tekniske betingelser afhængigt af den specifikke energiforbedring, der ønskes. De vigtigste betingelser omhandler isolering, vinduer, ventilationsanlæg, vandbåret rumvarme og energimærke. \n\n**Isolering:** \n- Tilskud gives til udvendig isolering af ydervægge, efterisolering af tag og loft, efterisolering af terrændæk og konvertering af krybekælder til terrændæk.\n  \n**Vinduer:** \n- Der kan søges tilskud til udskiftning af forskellige typer af vinduer: ovenlysvinduer, forsatsvinduer og facadevinduer.\n  \n**Ventilationsanlæg:** \n- Tilskud kan søges til etablering af mekanisk ventilationsanlæg med varmegenvinding.\n  \n**Vandbåret rumvarme:** \n- Der gives tilskud til etablering af vandbåret rumvarme, hvis der ikke allerede er et fordelingsanlæg i boligen.\n  \n**Energimærke:** \n- Boligen skal have energimærke i kategori E, F eller G, maksimalt 10 år gammelt og baseret på en bygningsgennemgang.\n\nDet er vigtigt at forberede sig grundigt inden ansøgning om tilskud fra Energirenoveringspuljen, og at opfylde de specifikke betingelser for det valgte energiforbedringstiltag. Energistyrelsen tilbyder også gratis rådgivning og opdateringer gennem nyhedsbreve og webinarer.",
+    "meta": {
+        "id": 14944579643721478570,
+        "url": "https://sparenergi.dk/privat/soeg-tilskud/varm-op-til-soege-tilskud-til-energirenovering/specifikke-betingelser",
+        "title": "Specifikke betingelser",
+        "time_requested": "2024-04-16T11:48:14.700741",
+        "error": null,
+        "num_tokens_in": 3051,
+        "num_tokens_out": 443,
+        "estimated_input_cost_gpt4": 0.030510000000000002,
+        "estimated_output_cost_gpt4": 0.01329,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen omhandler fordelene ved at skifte til fjernvarme som varmekilde. Fjernvarme bruger forskellige varmekilder til at levere varme gennem et fælles rørnet, hvilket anses for at være både billigt og klimavenligt med minimal vedligeholdelse. Det fremhæves, at fjernvarme er en grøn og billig varmeform, kræver minimal vedligeholdelse, er en kollektiv forsyning, er støjfri og pladsbesparende. Derudover gives der information om installationsprocessen, krav ifølge lovgivning, og opfordres til at undersøge lokal fjernvarmepris og CO2-udledning.\n\nDer oplyses om at fjernvarmeinstallation kan kræve, at en del af grunden graves op, og at tilslutningspligt kan være påkrævet af kommunen. Ydermere oplyses det, at fjernvarmeinstallationen skal leve op til Bygningsreglementets krav, og man opfordres til at indstille og vedligeholde sit anlæg korrekt for at opnå optimal energieffektivitet. Hvis man skifter fra elvarme, kan det være nødvendigt at få vandbårne radiatorer eller gulvvarme installeret.\n\nDer gives råd om at skifte til fjernvarme om sommeren for at undgå at fryse, at man skal have et vandbårent varmesystem for at kunne modtage fjernvarme, og at det anbefales at tjekke anlægget med jævne mellemrum. Der opfordres desuden til at indsende nødvendige anmeldelser til kommunen samt anmelde ændringer til Bygnings- og Boligregistret (BBR).\n\nArtiklen tilbyder yderligere links og information om fjernvarme, råd til dialog med kommunen, og inspiration til energibesparelse og brug af vedvarende energikilder.",
+    "meta": {
+        "id": 2219728029460095133,
+        "url": "https://ny.sparenergi.dk/tid-til-skifte-varmetype/skift-til-fjernvarme",
+        "title": "Skift til fjernvarme. Få billig klimavenlig varme",
+        "time_requested": "2024-04-16T11:58:57.938395",
+        "error": null,
+        "num_tokens_in": 2394,
+        "num_tokens_out": 487,
+        "estimated_input_cost_gpt4": 0.023940000000000003,
+        "estimated_output_cost_gpt4": 0.01461,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

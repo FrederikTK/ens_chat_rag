@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen omhandler forskellige myter om energiforbrug og energibesparelse. Ekspertene giver gode råd og afkræfter nogle almindelige misforståelser. For eksempel nævnes det, at det er en god idé at lufte ud for at undgå fugt og skimmelsvamp i boligen, selvom nogle tror, at det spilder energi. Det pointeres også, at det ikke er sundt at varme op med stearinlys under en urtepotte, da dette kan frigive sundhedsskadelige partikler. Desuden diskuteres det, om det kan betale sig at tø madvarer op i køleskabet i stedet for at bruge anden metode, og det forklarer, at det er bedre at bruge opvaskemaskinen i stedet for at vaske op i hånden. Der gives også råd om at skrue ned for varmen, bruge elpærer fremfor stearinlys og andre gode vaner for energibesparelse i hverdagen. Derudover oplyses det om standbyforbrug, temperaturjustering på radiatorer, brug af varmepumper, cirkulationspumper, samt andre relevante emner vedrørende energieffektivitet i forskellige henseender.",
+    "meta": {
+        "id": 14097772295074100335,
+        "url": "https://old.sparenergi.dk/forbruger/myter-om-spare-energi",
+        "title": "Myter om at spare energi | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:38.941194",
+        "error": null,
+        "num_tokens_in": 7189,
+        "num_tokens_out": 319,
+        "estimated_input_cost_gpt4": 0.07189000000000001,
+        "estimated_output_cost_gpt4": 0.00957,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen stiller spørgsmålet om, hvilken størrelse virksomheden har i forhold til små virksomheder, mellemstore virksomheder eller store virksomheder. Der er ikke yderligere information tilgængelig ud over dette spørgsmål.",
+    "meta": {
+        "id": 5080766883212919915,
+        "url": "https://ny.sparenergi.dk/udskiftning-af-br%C3%A6ndselskedel?destination=/smaa-kedler-beregner%23business-grant-block-12",
+        "title": "| Energistyrelsen",
+        "time_requested": "2024-04-16T11:53:38.741121",
+        "error": null,
+        "num_tokens_in": 47,
+        "num_tokens_out": 76,
+        "estimated_input_cost_gpt4": 0.00047000000000000004,
+        "estimated_output_cost_gpt4": 0.00228,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

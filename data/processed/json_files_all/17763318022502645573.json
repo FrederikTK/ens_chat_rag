@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder gennem deres platform \"SparEnergi\" muligheden for at indtaste sin adresse og få de tre mest effektive råd til energioptimering på den pågældende adresse. Platformen giver desuden inspiration, viden og råd til, hvordan man kan få mest ud af energien i sit hjem. Man kan indtaste sin adresse og vælge personlige sparemål for at se, hvor meget man kan spare på strøm, varme og CO2. Der tilbydes også gratis rådgivning og information om energirenoveringspuljen. Energistyrelsen opfordrer til at spare energi på sin måde, og der er mulighed for at tilmelde sig nyhedsbrevet samt finde yderligere information om energipriser, materialer og kontaktmuligheder på platformen.",
+    "meta": {
+        "id": 17763318022502645573,
+        "url": "https://sparenergi.dk/vores-energiaftale/spareraad-opsummering?destination=/spar-energi-paa-din-maade&permission=1",
+        "title": "Vores energiaftale | Energistyrelsen",
+        "time_requested": "2024-04-16T11:58:08.596020",
+        "error": null,
+        "num_tokens_in": 363,
+        "num_tokens_out": 203,
+        "estimated_input_cost_gpt4": 0.0036300000000000004,
+        "estimated_output_cost_gpt4": 0.00609,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

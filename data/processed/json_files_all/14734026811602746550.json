@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om ventilationsanlæg og indeklima i bygninger. Det anbefales at vælge det rette ventilationsanlæg baseret på varmeprisen i boligen. Har man billig varmeform som fjernvarme eller jordvarme, anbefales ventilationsanlæg med varmegenvinding. Har man dyrere varme som elvarme, bør man vælge en boligventilationsvarmepumpe. Begge typer reducerer varmeudgifterne i forhold til naturlig ventilation. Det anbefales altid at lade en ekspert montere ventilationsanlægget og at vælge et anlæg, der lever op til energikravene i Bygningsreglementet. Andre råd inkluderer at sikre tæthed og god isolering i huset, vælge energieffektive ventilationsanlæg og få en uddannet montør til installation. Man bør også sikre adgang til fugtige rum, have synligt display for nem vedligeholdelse og filskifte, samt søge tilskud til energirenoveringer, herunder til mekanisk ventilation med varmegenvinding. Energistyrelsen tilbyder også en guide til valg af ventilationsanlæg, hvor man kan læse mere om forskellige ventilationstyper og installation af ventilationsanlæg. Energi- og tidsbesparende tips samt information om energitilskud findes også på hjemmesiden.",
+    "meta": {
+        "id": 14734026811602746550,
+        "url": "https://sparenergi.dk/forbruger/boligen/ventilation-og-indeklima/ventilationsanlaeg",
+        "title": "Ventilationsanlæg | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:54.131155",
+        "error": null,
+        "num_tokens_in": 2009,
+        "num_tokens_out": 362,
+        "estimated_input_cost_gpt4": 0.02009,
+        "estimated_output_cost_gpt4": 0.01086,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

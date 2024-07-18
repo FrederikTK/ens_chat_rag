@@ -1,0 +1,15 @@
+{
+    "text": "Den tilgængelige information er en vejledning til ansøgning om tilskud til energibesparelser, energieffektiviseringer og CO2-reduktioner i erhvervsvirksomheder. Vejledningen er udstedt af Energistyrelsen og er gældende for ansøgninger indsendt fra januar 2023. Dokumentet er 1,18 MB stort og strækker sig over 21 sider. Det indeholder detaljeret information om processen for at ansøge om tilskud til energiforbedringer i erhvervsvirksomheder. Energistyrelsen har kontor på Carsten Niebuhrs Gade 43 i København V. Dokumentet kan downloades som en PDF-fil.",
+    "meta": {
+        "id": 10378023942195753368,
+        "url": "https://sparenergi.dk/forbruger/materialer/erhvervspuljen-vejledning-til-ansogning",
+        "title": "Erhvervspuljen: Vejledning til ansøgning",
+        "time_requested": "2024-04-16T11:50:16.953788",
+        "error": null,
+        "num_tokens_in": 912,
+        "num_tokens_out": 183,
+        "estimated_input_cost_gpt4": 0.009120000000000001,
+        "estimated_output_cost_gpt4": 0.00549,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

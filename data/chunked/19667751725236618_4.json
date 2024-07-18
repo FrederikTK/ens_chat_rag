@@ -1,0 +1,15 @@
+{
+    "text": "af ansøgningen vil man modtage besked om eventuel godkendelse og et tilsagn om tilskud. Herefter skal man finde en VE-godkendt installatør, købe varmepumpen og overholde frister for installation og ansøgning om udbetaling. Ansøgning om udbetaling af tilskud sker senest 30 dage efter projektets færdiggørelse. Udbetalingen sker automatisk på NemKonto ved godkendelse.",
+    "meta": {
+        "id": 19667751725236618,
+        "url": "https://sparenergi.dk/varmepumpepuljen",
+        "title": "Site under opdatering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:36.606521",
+        "error": null,
+        "num_tokens_in": 3404,
+        "num_tokens_out": 451,
+        "estimated_input_cost_gpt4": 0.03404,
+        "estimated_output_cost_gpt4": 0.01353,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

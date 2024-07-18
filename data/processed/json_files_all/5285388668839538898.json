@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside indeholder information om isolering af boliger som en del af energirenovering. Ved efterisolering af boligen forbedres indeklimaet og varmeregningen sænkes. Fordelene ved efterisolering inkluderer mindre varmeforbrug samt mulighed for at skifte til et mindre varmeanlæg. Det anbefales at efterisolere, når man alligevel renoverer, og der er mulighed for at få tilskud til isolering gennem forskellige boligforbedringsprogrammer. Det anbefales at tjekke energimærkningsrapporten for information om eksisterende isolering og forslag til efterisolering. Der er også en guide til isolering af forskellige hustyper samt mulighed for at få udstedt produktgaranti, når isoleringsarbejdet udføres af autoriserede håndværkere. Der gives information om forskellige isoleringsmaterialer og deres isoleringsevne, og man kan kontakte Energistyrelsens gratis rådgivning for vejledning om energibesparelse og tilskud. Der er også specifikke informationer om isolering af tag, loft, ydervægge og gulve på hjemmesiden.",
+    "meta": {
+        "id": 5285388668839538898,
+        "url": "https://old.sparenergi.dk/forbruger/boligen/isolering",
+        "title": "Isolering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:28.386084",
+        "error": null,
+        "num_tokens_in": 1782,
+        "num_tokens_out": 300,
+        "estimated_input_cost_gpt4": 0.017820000000000003,
+        "estimated_output_cost_gpt4": 0.009000000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

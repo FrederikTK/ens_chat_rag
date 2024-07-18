@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside giver information om solvarme og om, hvorvidt det er en god løsning for dig. Et solvarmeanlæg bruger solenergi til at opvarme vand, og der findes to typer af anlæg - et til opvarmning af brugsvand og et, der også kan supplere rumopvarmning. Anlægget kan være en fornuftig investering, især hvis du opvarmer med el, olie eller gas. Der gives råd om at undersøge husets egnethed til solfangere, tjekke kommunens tilladelser, overveje behovet for anlægget og få tilbud fra VE-godkendte virksomheder. Prisen for et anlæg til en familie på 4 ligger typisk mellem 35.000-50.000 kr. Efter køb af anlægget kan det være relevant at få professionel installation, renholde solfangere, tjekke systemets drift og vedligeholde det. Solvarme er energimærket fra A+++ til G, og man bør gå efter det mest energieffektive anlæg. Man kan også kigge efter Solar Keymark-mærket, som er en europæisk mærkningsordning for solvarmekomponenter. Solvarme kan være en god mulighed for at spare energi og penge på lang sigt, selvom det kræver en vis investering og vedligeholdelse.",
+    "meta": {
+        "id": 16562883602202479416,
+        "url": "https://sparenergi.dk/forbruger/varme/solvarme",
+        "title": "Solvarme | Energistyrelsen",
+        "time_requested": "2024-04-16T11:49:03.468320",
+        "error": null,
+        "num_tokens_in": 6303,
+        "num_tokens_out": 355,
+        "estimated_input_cost_gpt4": 0.06303,
+        "estimated_output_cost_gpt4": 0.01065,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

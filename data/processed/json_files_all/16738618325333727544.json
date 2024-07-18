@@ -1,0 +1,15 @@
+{
+    "text": "Hjemmesiden \"Energistyrelsen\" giver information om energimærkning af bygninger, herunder råd og vejledning til forbrugere, offentlige institutioner og erhverv. Der gives specifik information om varmeforbrug, forskellige varmekilder som naturgas, fjernvarme, olie, varmepumper, elvarme, træpiller, solvarme og kombinationsløsninger. Der redegøres for energimærkning af varmeanlæg og biobrændselskedler samt forklaring af begreber som sommerdrift, varmt vand, cirkulationspumpe og elforbrug. Derudover er der information om forståelse af varmeregninger baseret på forskellige typer varmekilder med konkret eksempel på fjernvarme, elvarme, naturgas, solfanger, cirkulationspumpe, olie, biomasse og pillefyr. Der gives detaljer om afgifter og hvordan regninger er opbygget for hver varmekilde, f.eks. faste afgifter og variable afgifter.",
+    "meta": {
+        "id": 16738618325333727544,
+        "url": "https://old.sparenergi.dk/forbruger/varme/forsta-din-varmeregning/forsta-din-varme",
+        "title": "Forstå din varme | Energistyrelsen",
+        "time_requested": "2024-04-16T11:59:16.777919",
+        "error": null,
+        "num_tokens_in": 1734,
+        "num_tokens_out": 269,
+        "estimated_input_cost_gpt4": 0.01734,
+        "estimated_output_cost_gpt4": 0.00807,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

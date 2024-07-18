@@ -1,0 +1,15 @@
+{
+    "text": "For at forberede sig til at søge tilskud anbefales det at forstå kravene, vælge den rette type varmepumpe, undersøge eventuel momspligt på adressen, læse en trin-for-trin-guide og have MitID klar til login. Når puljen åbner, skal ansøgningen sendes via ansøgningsportalen, og tilskuddene fordeles efter \"først til mølle\"-princippet. Efter afsendelse af ansøgningen vil man modtage besked om eventuel",
+    "meta": {
+        "id": 19667751725236618,
+        "url": "https://sparenergi.dk/varmepumpepuljen",
+        "title": "Site under opdatering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:36.606521",
+        "error": null,
+        "num_tokens_in": 3404,
+        "num_tokens_out": 451,
+        "estimated_input_cost_gpt4": 0.03404,
+        "estimated_output_cost_gpt4": 0.01353,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

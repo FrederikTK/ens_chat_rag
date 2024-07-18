@@ -1,0 +1,15 @@
+{
+    "text": "Dette er en beskrivelse af et undervisningsforløb i fysik/kemi, hvor eleverne lærer om strøm, energieffektivitet og energimærkninger. \n\nLektion 1: Eleverne lærer om energi og strøm, samt de grundlæggende principper bag energiforbrug. De udfylder arbejdsark med energiforbrugende apparater og digitale platforme i deres hjem.\n\nLektion 2: Eleverne måler energiforbruget i forskellige lyskilder for at forstå begrebet energieffektivitet. De bruger et spar-o-meter til at måle strømforbruget i forskellige apparater.\n\nLektion 3: Eleverne introduceres for energimærkninger, levetidsomkostninger og den grønne omstilling. De lærer at forstå forskellen mellem energiklasser og udregner levetidsomkostninger for udvalgte produkter.\n\nDer er materialer som artikler, videoer og arbejdsark til hver lektion. Eleverne lærer også om vedvarende energi, fossile brændstoffer, danskernes energiforbrug og standby strøm. Der er også forslag til aktiviteter som virksomhedsbesøg og at reducere streamingforbrug som en del af den sociale kontrakt.\n\nDer lægges vægt på, at eleverne skal blive bevidste energiforbrugere og forstå, hvordan deres handlinger påvirker energiforbruget og klimaet. Undervisningen ser ud til at være interaktiv og praksisnær, hvilket skulle styrke elevernes forståelse og engagement.",
+    "meta": {
+        "id": 10043700346705115024,
+        "url": "https://sparenergi.dk/undervisning/fysik-kemi",
+        "title": "Fysik / kemi",
+        "time_requested": "2024-04-16T11:54:09.121450",
+        "error": null,
+        "num_tokens_in": 2305,
+        "num_tokens_out": 419,
+        "estimated_input_cost_gpt4": 0.02305,
+        "estimated_output_cost_gpt4": 0.01257,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

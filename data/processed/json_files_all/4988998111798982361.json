@@ -1,0 +1,15 @@
+{
+    "text": "Casebank er et værktøj, der giver eksempler på energioptimeringsprojekter i det offentlige. Der er case studies fra forskellige institutionstyper som kontorer, undervisningsfaciliteter, døgn- og daginstitutioner, svømmehaller og sportsfaciliteter, hospitaler og laboratorier. Eksemplerne viser konkrete initiativer og tiltag, der har ført til energibesparelser og grønne løsninger, herunder implementering af LED-lys, bevægelsessensorer, overvågning af ventilation, energiledelse, adfærdsændringer og optimering af bygningsdrift. Nogle eksempler omhandler samarbejde mellem kommuner for at identificere energibesparelsespotentiale, mens andre fokuserer på helhedsløsninger og vandbesparelser i undervisningsmiljøer. Energistyrelsens Casebank er en ressource til at finde inspiration og best practice for energioptimeringsprojekter i det offentlige.",
+    "meta": {
+        "id": 4988998111798982361,
+        "url": "https://sparenergi.dk/offentlig/vaerktojer/casebank",
+        "title": "Casebank | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:45.835236",
+        "error": null,
+        "num_tokens_in": 1283,
+        "num_tokens_out": 255,
+        "estimated_input_cost_gpt4": 0.012830000000000001,
+        "estimated_output_cost_gpt4": 0.0076500000000000005,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

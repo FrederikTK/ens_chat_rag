@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside indeholder information om isolering af boliger som et middel til at forbedre indeklimaet og sænke varmeregningen. Når man efterisolerer sin bolig, kan man opnå følgende fordele: mindske varmeforbruget, forbedre indeklimaet og muligvis nøjes med et mindre varmeanlæg. Det anbefales at efterisolere, når man alligevel er i gang med renovering eller ombygning. Der kan ydes tilskud til isolering og andre energiforbedringer, og det anbefales at søge tilskud. Energimærkningsrapporter kan give information om isoleringen i ens bolig samt forslag til efterisolering. Der findes forskellige typer isoleringsmaterialer med varierende egenskaber som isoleringsevne, levetid og brandegenskaber. Der findes også en liste over godkendte isoleringsmaterialer på Varmeisoleringskontrollen's hjemmeside. Energistyrelsen tilbyder gratis rådgivning om energibesparelser og isolering af boliger. Man kan kontakte deres erfarne energirådgivere, som kan give råd om energitilskud, udskiftning af fyr mm.\n\nSamlet set er isolering en effektiv måde at reducere energiforbruget og forbedre boligens indeklima på. Energistyrelsens hjemmeside tilbyder omfattende information om isolering og rådgivning til forbrugere, virksomheder og bygningsejere.",
+    "meta": {
+        "id": 4565854733183614949,
+        "url": "https://sparenergi.dk/forbruger/boligen/isolering",
+        "title": "Isolering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:49:29.921914",
+        "error": null,
+        "num_tokens_in": 1782,
+        "num_tokens_out": 390,
+        "estimated_input_cost_gpt4": 0.017820000000000003,
+        "estimated_output_cost_gpt4": 0.0117,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

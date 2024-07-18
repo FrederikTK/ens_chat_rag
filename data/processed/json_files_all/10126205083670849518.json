@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen er en dansk myndighed, der administrerer energipolitikken i Danmark. Energistyrelsen henvender sig til virksomheder og borgere med information og retningslinjer inden for energiområdet. Energistyrelsen spørger om størrelsen på virksomheder, hvor valgmulighederne er lille virksomhed, mellemstor virksomhed, og stor virksomhed. Intentionen bag spørgsmålet er ikke angivet, men det kan antages, at Energistyrelsen indsamler oplysninger for at tilpasse deres information og retningslinjer til virksomhedernes behov og størrelse.",
+    "meta": {
+        "id": 10126205083670849518,
+        "url": "https://ny.sparenergi.dk/tilskud-til-led?destination=/belysningsberegner%23lighting-replacement-block-13",
+        "title": "| Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:37.261423",
+        "error": null,
+        "num_tokens_in": 47,
+        "num_tokens_out": 166,
+        "estimated_input_cost_gpt4": 0.00047000000000000004,
+        "estimated_output_cost_gpt4": 0.00498,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

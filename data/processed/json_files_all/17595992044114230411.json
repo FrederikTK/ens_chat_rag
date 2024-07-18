@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har udgivet information om, hvordan man kan købe og bruge IT og elektronik energivenligt på arbejdspladsen. Der gives gode råd til indkøb af forskelligt udstyr som computere, skærme, kopimaskiner, printere, servere, interaktive tavler og projektorer samt andet elektronik. En af anbefalingerne er at investere i tynde klienter, som er mere energieffektive end stationære computere. Desuden foreslås det at vælge udstyr med funktioner såsom hurtig opvarmning, duplex print og eco-funktioner for projektorer. Der gives også råd til energivenlig brug af forskelligt udstyr, f.eks. at indstille strømstyring på computere og skærme, automatisk dvale til kopimaskiner og printere, samt afkobling af ubrugt udstyr på servere. Ligeledes opfordres til brug af elspareskinner og slukning af udstyr uden for arbejdstid for at reducere energiforbruget. Endvidere nævnes fordelene ved at skifte til LED-belysning for at sænke elforbruget. Energistyrelsen tilbyder også nyhedsbreve og cases som eksempler på vellykkede energibesparelser på arbejdspladser. Derudover kan man finde mere detaljerede indkøbsanbefalinger på Energistyrelsens hjemmeside.",
+    "meta": {
+        "id": 17595992044114230411,
+        "url": "https://sparenergi.dk/offentlig/el/it-og-elektronik",
+        "title": "Energivenlig køb og brug af it og elektronik",
+        "time_requested": "2024-04-16T11:54:23.925033",
+        "error": null,
+        "num_tokens_in": 1864,
+        "num_tokens_out": 369,
+        "estimated_input_cost_gpt4": 0.01864,
+        "estimated_output_cost_gpt4": 0.01107,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

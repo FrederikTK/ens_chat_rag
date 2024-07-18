@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder forskellige former for økonomisk støtte til borgere, der har svært ved at betale deres el- og varmeregninger. En af mulighederne er Varmechecken, der er et engangstilskud på 6.000 kr. til husstande med lav indkomst og specifikke varmekilder. Der er også en indefrysningsordning, hvor man kan udsætte betalingen af el, gas og fjernvarme, hvis den går over et bestemt prisloft. Pensionister kan søge om varmetillæg, som dækker lejere og ejere af boliger. Der er også mulighed for at søge om personligt tillæg hos kommunen, hvis man har udgifter, man ikke selv kan betale. Desuden findes der støtteordninger for kontanthjælpsmodtagere og andre økonomisk udfordrede borgere. Energistyrelsen tilbyder også mulighed for tilskud til renovering og skift til varmepumpe, selvom håndværkerfradraget til energiforbedringer er blevet afskaffet. Man kan få gratis afkobling fra gasnettet med støtte fra afkoblingsordningen. Energistyrelsen opdaterer løbende informationen om økonomisk støtte på deres hjemmeside SparEnergi.dk.",
+    "meta": {
+        "id": 17318035175175006645,
+        "url": "https://sparenergi.dk/forbruger/boligen/radgivning/gron-varmecheck",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:51:43.001938",
+        "error": null,
+        "num_tokens_in": 3024,
+        "num_tokens_out": 337,
+        "estimated_input_cost_gpt4": 0.030240000000000003,
+        "estimated_output_cost_gpt4": 0.010110000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

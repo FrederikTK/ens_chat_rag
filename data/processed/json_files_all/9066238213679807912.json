@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder et partnerskab via SparEnergi-platformen, hvor man som partner kan få adgang til relevante materialer og aktiviteter til gavn for energioptimeringsindsatsen. Partnerskabet indebærer muligheden for at tilmelde sig nyhedsmails med opdateringer om nye materialer og aktiviteter. SparEnergi er et sted, hvor man kan få inspiration, viden og rådgivning om energioptimering, samt gode råd til at få mest ud af energien. Man kan også finde information om energipriser, brug af indhold, cookies og privatliv, samt kontaktoplysninger. Energistyrelsen er placeret på Carsten Niebuhrs Gade 43, 1577 København V.",
+    "meta": {
+        "id": 9066238213679807912,
+        "url": "https://sparenergi.dk/partner",
+        "title": "Partner",
+        "time_requested": "2024-04-16T11:50:57.983978",
+        "error": null,
+        "num_tokens_in": 475,
+        "num_tokens_out": 182,
+        "estimated_input_cost_gpt4": 0.004750000000000001,
+        "estimated_output_cost_gpt4": 0.0054600000000000004,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

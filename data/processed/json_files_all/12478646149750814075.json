@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information og værktøjer til forbrugere, virksomheder og offentlige institutioner angående energimærkning af bygninger, renovering, energiløsninger og energibesparelse. Der er mulighed for at få rådgivning om isolering, vinduer, ventilation, varmesystemer, energimærkning af varmeanlæg og energiforbrug generelt. Der er også information om energimærkning af biobrændselskedler, sommerdrift, varmt vand, cirkulationspumper og elforbrug. For offentlige bygninger er der fokus på renovering, isolering, ESCO-løsninger, energirådgivning og energiforbrug inden for varme, køling, ventilation, belysning og it. For erhvervsvirksomheder er der information om energiledelse, nøgletal, energimærkning af bygninger og energioptimering inden for forskellige sektorer som handel, service, industri og landbrug. Energistyrelsen tilbyder også værktøjer som håndværkerlister, VE-virksomhedssøgning, energimærkningsfirmaer, låneberegner og elprisberegner. Derudover kan man finde energimærker, energiløsningsfirmaer og nyttige guides på hjemmesiden.",
+    "meta": {
+        "id": 12478646149750814075,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/energiloesninger",
+        "title": "Page not found | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:39.891635",
+        "error": null,
+        "num_tokens_in": 969,
+        "num_tokens_out": 347,
+        "estimated_input_cost_gpt4": 0.00969,
+        "estimated_output_cost_gpt4": 0.01041,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

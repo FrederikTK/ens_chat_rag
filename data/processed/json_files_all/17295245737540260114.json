@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside viser en formular, hvor man bliver bedt om at vælge størrelsen på virksomheden - lille virksomhed, mellemstor virksomhed eller stor virksomhed. Der er ikke yderligere information tilgængelig udover dette.",
+    "meta": {
+        "id": 17295245737540260114,
+        "url": "https://sparenergi.dk/udskiftning-af-br%C3%A6ndselskedel?destination=/erhverv/smaa-kedler-beregner%23module-12",
+        "title": "| Energistyrelsen",
+        "time_requested": "2024-04-16T11:50:27.628206",
+        "error": null,
+        "num_tokens_in": 47,
+        "num_tokens_out": 72,
+        "estimated_input_cost_gpt4": 0.00047000000000000004,
+        "estimated_output_cost_gpt4": 0.00216,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

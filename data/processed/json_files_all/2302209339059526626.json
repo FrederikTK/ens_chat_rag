@@ -1,0 +1,15 @@
+{
+    "text": "Energi- og lysstyring er en effektiv måde at spare energi på i hverdagen. Ved at bruge lysstyringsteknologier som intelligente pærer, bevægelsessensorer, skumringsrelæer, tænd-sluk-ure og lysdæmpere kan man få mere kontrol over lyset og samtidig reducere elregningen. Intelligente LED-pærer giver mulighed for fjernbetjening eller app-styring, så lyset kan tilpasses individuelle behov. Bevægelsessensorer og skumringsrelæer er gode til at tænde lyset automatisk ved bevægelse eller når det bliver mørkt. Tænd-sluk-ure kan programmere lyset til at tænde og slukke på bestemte tidspunkter. Lysdæmpere kan justere lysets intensitet og spare strøm. Det er vigtigt at være opmærksom på, at lysstyring kan have et standbyforbrug, hvilket bør være under 0,5 watt pr. enhed for at undgå forøgelse af elregningen. Automatisk lysstyring bidrager typisk til besparelser på elregningen og øger komforten. Ved at styre udelyset automatisk med f.eks. bevægelsessensorer og skifte til LED-pærer, kan man spare omkring 2.400 kr. årligt. Det anbefales at konsultere en forhandler, hvis man skal købe nye lysdæmpere til LED-pærer. Endvidere kan lysstyring variere besparelsen afhængigt af pæretypen. Bo og Lisbet har opnået betydelige energibesparelser ved at skifte til LED-lys og implementere smart lysstyring i deres hjem. Lysstyring er en del af en effektiv energioptimeringsstrategi, der også kan omfatte andre apparater som vaskemaskiner, tørretumblere, køkkenudstyr og varmeanlæg. Ved at følge energirådene kan man reducere energiforbruget og opnå besparelser på elregningen.",
+    "meta": {
+        "id": 2302209339059526626,
+        "url": "https://sparenergi.dk/forbruger/el/belysning/styring-af-lys",
+        "title": "Styring af lys | Energistyrelsen",
+        "time_requested": "2024-04-16T11:50:39.596590",
+        "error": null,
+        "num_tokens_in": 1849,
+        "num_tokens_out": 535,
+        "estimated_input_cost_gpt4": 0.018490000000000003,
+        "estimated_output_cost_gpt4": 0.016050000000000002,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

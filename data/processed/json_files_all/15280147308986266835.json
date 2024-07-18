@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen og SparEnergi anbefaler at udskifte gamle vinduer med energiruder for at spare penge på varmeregningen og forbedre indeklimaet. Ved at udskifte gamle vinduer med termoruder eller 1-lags glas til energiruder kan man spare op til 6.910 kr. om året. En god investering, da nye vinduer og ruder holder længe og giver bedre isolering. Det anbefales at vælge energimærke A ved udskiftning af vinduer i helårsboliger og energimærke B i sommerhuse. Håndværker anbefales til udskiftningen, og der er mulighed for at vælge mellem 2- eller 3-lags energiruder afhængigt af behov og økonomi. Det bør også overvejes at fjerne kuldebroer under vinduerne og isolere ydervæggene omkring vinduerne samtidig. Udskiftningen sker på fire trin: fjernelse af gamle vinduer, tætning, isolering og fastgørelse af de nye vinduer. Man kan finde en liste over håndværkere i nærheden til at udføre udskiftningen.",
+    "meta": {
+        "id": 15280147308986266835,
+        "url": "https://sparenergi.dk/skal-du-renovere-din-bolig/udskift-dine-gamle-vinduer",
+        "title": "Udskift vinduer | SparEnergi.dk",
+        "time_requested": "2024-04-16T11:54:56.959295",
+        "error": null,
+        "num_tokens_in": 3499,
+        "num_tokens_out": 299,
+        "estimated_input_cost_gpt4": 0.03499,
+        "estimated_output_cost_gpt4": 0.00897,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

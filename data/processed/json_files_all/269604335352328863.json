@@ -1,0 +1,15 @@
+{
+    "text": "Tilmeld dig Sparenergi.dk's nyhedsmail for erhverv og offentlige institutioner på websiden www.sparenergi.dk. Nyhedsmailen holder dig opdateret om nye energitiltag. Energistyrelsens adresse er Carsten Niebuhrs Gade 43, 1577 København V.",
+    "meta": {
+        "id": 269604335352328863,
+        "url": "https://nyheder.sparenergi.dk/nyhedsmail-erhverv-offentlig",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:55:42.159011",
+        "error": null,
+        "num_tokens_in": 81,
+        "num_tokens_out": 74,
+        "estimated_input_cost_gpt4": 0.0008100000000000001,
+        "estimated_output_cost_gpt4": 0.00222,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

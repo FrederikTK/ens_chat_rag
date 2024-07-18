@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder et omfattende program for energimærkning af boliger, som er relevant for forbrugere, offentlige institutioner og erhverv. Energimærkning af boliger giver et samlet billede af husets energieffektivitet på en skala fra A til G, samt forslag til forbedringer. Energimærkningen viser, hvordan boligen kan bruge mindre varme og skabe et sundere indeklima.\n\nEnergimærkningen er vigtig ved salg og udlejning af boliger, da den skal være synlig i annoncen. Energimærkningsrapporten indeholder forslag til forbedringer, såsom isolering, udskiftning af vinduer osv., og angiver også de tre mest effektive forbedringstiltag. Energimærkningen er lovpligtig, skal udføres af en energimærkningskonsulent, og er gyldig i 10 år.\n\nDer er undtagelser for energimærkningskrav for små fritliggende bygninger, sommerhuse og fredede bygninger. Energimærkningen giver også information om tidligere energiforbrug og kan anvendes til budgettering af fremtidige energiudgifter. Yderligere oplysninger om energimærkning, herunder energimærkning af nybyggeri, tilskudsmuligheder og valg af energikonsulenter, kan findes på Energistyrelsens hjemmeside.",
+    "meta": {
+        "id": 14707182437839777045,
+        "url": "https://old.sparenergi.dk/forbruger/boligen/energimaerkning-boliger",
+        "title": "Energimærkning boliger | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:45.684404",
+        "error": null,
+        "num_tokens_in": 2506,
+        "num_tokens_out": 361,
+        "estimated_input_cost_gpt4": 0.025060000000000002,
+        "estimated_output_cost_gpt4": 0.010830000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

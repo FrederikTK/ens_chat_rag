@@ -1,0 +1,15 @@
+{
+    "text": "Ydervægge i parcelhuse fra 1960-76 kan være opbygget på forskellig vis. De kan enten være tunge ydervægge, som består af murværk udvendigt og gasbeton indvendigt, lette ydervægge med træskelet indvendigt og træ eller eternitplader udvendigt, eller massive ydervægge af letbeton. De tunge ydervægge har som regel en hulmur, der kan være isoleret. De lette ydervægge er typisk fyldt op med isolering, mens de massive ydervægge ofte har behov for udvendig efterisolering, da de er dårligt isolerede. Vedligeholdelse afhænger af materialet, men generelt kræver lette ydervægge ofte vedligeholdelse af pladebeklædning og træbeklædning samt kontrol af ventilationsåbninger. Vedligeholdelsen af tunge murværksvægge afhænger af mørtelkvaliteten og miljøbelastningen.\n\nFor forbedringer anbefales det at overveje indvendig eller udvendig efterisolering af ydervæggene alt efter husets konstruktion. Det kan være en god idé at få hjælp fra håndværkere til at udføre isoleringsarbejdet korrekt. Der kan også være mulighed for at få tilskud til energirenoveringer. Især indvendig efterisolering kan være en løsning for lette ydervægge, mens udvendig isolering anbefales for tunge ydervægge. Det er vigtigt at sikre, at konstruktionen er tæt, så isoleringen virker effektivt. Tabellen viser eksempler på renoveringsprojekter på parcelhuse fra 1960-76, herunder isolering, udskiftning af vinduer, installation af varmepumper, solceller, og totalrenoveringer.\n\nKilde: Energistyrelsen, SparEnergi.dk, Energimærkning af bygninger, Hulmursisolering, Isolering af ydervægge, Cases om renovering, Efterisolering og vedligeholdelse af ydervægge.",
+    "meta": {
+        "id": 16096555493574736253,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/bygningsguiden/parcelhus-1960-76/ydervaegge",
+        "title": "Ydervægge | Energistyrelsen",
+        "time_requested": "2024-04-16T11:57:36.389699",
+        "error": null,
+        "num_tokens_in": 6352,
+        "num_tokens_out": 570,
+        "estimated_input_cost_gpt4": 0.06352000000000001,
+        "estimated_output_cost_gpt4": 0.0171,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

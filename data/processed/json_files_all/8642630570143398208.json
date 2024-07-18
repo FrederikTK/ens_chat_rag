@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen omhandler forskellige metoder til at spare energi på computere og andre elektroniske enheder. Først og fremmest opfordres læseren til at indstille strømstyringen på computeren, slukke helt for den, når den ikke er i brug, og rydde op i skyen for at spare energi. Derudover anbefales det at vælge en computer, der matcher ens behov for at undgå unødig energiforbrug. Når det kommer til eksterne skærme, opfordres læseren til at vælge et godt energimærke og den mindste skærm, der opfylder ens behov. Der gives også råd om, hvordan man sparer strøm på printere, projektorer og trådløse opladere, f.eks. ved at vælge en usb-printer, printe på begge sider af papiret og sætte projektoren på eco-mode. Endelig opfordres læseren til at slukke alt med én knap for at undgå standbyforbrug og til at aflevere gammel elektronik til genbrug for at undgå forurening. Der Gives også praktiske råd som det koste i strøm og hvordan man kan aflevere elektronik til genbrug. Man kan også læse at opladere bruger altid strøm, hvis de sidder i en tændt stikkontakt, typisk under 1,5 kWh om året, hvilket svarer til ca. 3 kr. på elregningen. Der findes også myter om energiforbrug, og guiden opfordrer til at undersøge og ikke blot tro på de mest kendte myter.",
+    "meta": {
+        "id": 8642630570143398208,
+        "url": "https://sparenergi.dk/forbruger/el/it-og-elektronik/computere-og-it-udstyr",
+        "title": "Computere og it-udstyr | Energistyrelsen",
+        "time_requested": "2024-04-16T11:51:48.128430",
+        "error": null,
+        "num_tokens_in": 2191,
+        "num_tokens_out": 408,
+        "estimated_input_cost_gpt4": 0.021910000000000002,
+        "estimated_output_cost_gpt4": 0.012240000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

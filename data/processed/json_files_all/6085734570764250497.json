@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen giver gode råd til at spare energi, når du tørrer tøj. Tørretumbleren er en stor strømsluger, og derfor er der meget at spare på elregningen ved at følge nogle enkle tips. Det anbefales at bruge tørrestativ i stedet for tørretumbler for at spare energi, da det koster ca. 9 kr. at tørre tøj i en tørretumbler med energimærke C og kun 2,2 kr. i en A+++-mærket tørretumbler. Det anbefales også at tørre tøjet udendørs, da det er bedst for indeklimaet. Centrifugering af tøjet grundigt før tørring reducerer tørretiden og elforbruget. Det anbefales at undgå at overfylde tørretumbleren, da for meget tøj tørrer langsommere, giver krøllet tøj og øger elforbruget.\n\nDet er vigtigt at rengøre fnugfilteret før eller efter hver tørring, da et dækket fnugfilter forlænger tørretiden og øger energiforbruget. Desuden bør tøj ikke være foldet eller tætpakket i tørretumbleren, da det forlænger tørretiden. Det anbefales også at sortere tøjet efter tekstiltype og tørre det ved den rette temperatur for at forkorte tørretiden og forlænge tøjets levetid. Tørring bør gøres, når strømmen er billigst, for eksempel undgå timerne mellem kl. 17 og 21, hvor strømmen er dyrest.\n\nDer gives også råd om reparation og køb af nye tørretumblere. Det anbefales at undersøge muligheden for reparation, da det er godt for både miljøet og økonomien. Når man skal købe en ny tørretumbler, bør man vælge en med energimærke A+++, kigge på det årlige elforbrug på energimærket og overveje om det skal være kondenstumbler eller aftrækstumbler. Der advares desuden om at undgå kombinerede vaske-/tørremaskiner, da de har et højere forbrug af både el og vand. Endelig afkræftes myten om, at der går ild i hvidevarer, hvis de bruges om natten, men det anbefales altid at have en røgalarm som en sikkerhedsforanstaltning.",
+    "meta": {
+        "id": 6085734570764250497,
+        "url": "https://sparenergi.dk/forbruger/el/vask-og-rengoering/toerretumblere",
+        "title": "Tørretumblere | Energistyrelsen",
+        "time_requested": "2024-04-16T11:49:25.560828",
+        "error": null,
+        "num_tokens_in": 2515,
+        "num_tokens_out": 635,
+        "estimated_input_cost_gpt4": 0.025150000000000002,
+        "estimated_output_cost_gpt4": 0.01905,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

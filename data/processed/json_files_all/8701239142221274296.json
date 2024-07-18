@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen giver råd til at spare energi på belysning ved at skifte alle pærer til LED og slukke lyset, når det ikke er i brug. De bedste råd inkluderer at bruge LED-pærer, slukke lyset automatisk med intelligente pærer, bevægelsessensorer eller timere, og bruge batterilamper i rum uden strøm. Desuden opfordres det til at vælge LED-lys med energimærke D eller bedre, vælge den rigtige type LED-pære og overveje dæmpning. Artiklen oplyser også om at aflevere gamle pærer på genbrugsstationen og ikke smide dem i skraldespanden. Lyskæder bør også vælges med lavt elforbrug, og LED-lyskæder anbefales frem for glødepærer eller halogener. Kommunerne tilbyder forskellige indsamlingsordninger for brugte pærer, og det oplyses, at op til 98% af materialerne i gamle pærer kan genanvendes.\n\nDer gives også information om valg af lysrør, hvor LED-lysrør anbefales over lysstofrør, da de er billigere i længden pga. lavere elforbrug og længere levetid samt fri for kviksølv. Det anbefales at bruge armaturer udviklet til LED-lysrør og at undgå at bruge LED-lysrør til gamle armaturer. Desuden opfordres til at vælge lyskæder med lavt elforbrug, skifte gamle lyskæder med glødepærer eller halogener ud med LED-lyskæder, og bruge timer eller tænd-sluk-ur til at styre lyskæderne.\n\nArtiklen oplyser også om energimærkning, valg af lysstyrke i lumen, og myter om elpærer og tænd/sluk. Der findes desuden cases og yderligere information om at vælge energivenlige apparater og bruge energien effektivt i hverdagen. Generelt tilbyder artiklen inspiration, viden og råd til at optimere energiforbruget i hjemmet.",
+    "meta": {
+        "id": 8701239142221274296,
+        "url": "https://sparenergi.dk/forbruger/el/belysning/energimaerkning-af-paerer-og-lamper",
+        "title": "Energimærkning af pærer og lamper | Energistyrelsen",
+        "time_requested": "2024-04-16T11:49:27.936817",
+        "error": null,
+        "num_tokens_in": 3636,
+        "num_tokens_out": 540,
+        "estimated_input_cost_gpt4": 0.03636,
+        "estimated_output_cost_gpt4": 0.0162,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

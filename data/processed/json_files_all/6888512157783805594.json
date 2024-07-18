@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har arrangeret et webinar om Varmepumpepuljen, hvor man kan få information om, hvem der kan søge tilskud, hvordan man søger, og hvilken dokumentation der kræves. Webinaret blev afholdt i august 2023, og man kan se det optagede webinar på hjemmesiden. Der opfordres til at forberede sig grundigt inden ansøgningsåbningen for at søge tilskud til en varmepumpe. Energistyrelsen tilbyder også et nyhedsbrev med opdateringer om Varmepumpepuljen og andre gode råd til energibesparelser. Man kan tilmelde sig nyhedsbrevet på hjemmesiden. Desuden tilbyder SparEnergi gratis rådgivning og inspiration til at få mest ud af energien. Varmepumpepuljen er desværre lukket for ansøgninger på nuværende tidspunkt.",
+    "meta": {
+        "id": 6888512157783805594,
+        "url": "https://sparenergi.dk/privat/soeg-tilskud/varm-op-til-soege-tilskud-til-en-varmepumpe/se-webinar-om-varmepumpepuljen",
+        "title": "Se webinar om Varmepumpepuljen",
+        "time_requested": "2024-04-16T11:52:47.012479",
+        "error": null,
+        "num_tokens_in": 576,
+        "num_tokens_out": 230,
+        "estimated_input_cost_gpt4": 0.00576,
+        "estimated_output_cost_gpt4": 0.0069,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

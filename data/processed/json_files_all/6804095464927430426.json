@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen \"Hold din varmepumpe ved lige\" på SparEnergis hjemmeside giver råd om at optimere brugen af varmepumper for at spare energi og penge. Følgende punkterne dækkes:\n1. Udnyt billig strøm: Elprisen er lavest fra kl. 00-06 og højest fra kl. 17-21, så det anbefales at indstille varmepumpen til at køre mere i de billige timer.\n2. Minimer brug af elpatronen: Undgå at elpatronen tænder, da den er dyr i drift, og sørg for at justere indstillingerne korrekt.\n3. Skru op og ned om efteråret og foråret: Gradvist hæv eller sænk fremløbstemperaturen for at spare energi.\n4. Få hjælp til indstillinger: Bed en installatør om assistance med indstillingerne for at undgå fejl og sikre optimal drift.\n5. Årligt eftersyn: Varmepumpen med mere end 1 kg kølemiddel bør efterses mindst én gang om året, jordvarmeanlæg kræver årlig check af certificeret installatør.\n6. Overvåg elforbruget: Aflæs elforbruget regelmæssigt og få hjælp, hvis forbruget stiger uden grund.\n7. Tjek lyde og hold filteret rent: Vær opmærksom på unormal støj og rens luftfiltret jævnligt for effektivitet.\n8. Indstil sommerdrift: Reducer vandtemperaturen i sommermånederne for at spare strøm.\n9. Reducer elafgiften: Opdater BBR-oplysninger og søg reduktion af elafgiften for varmepumpen.\nArtiklen opfordrer også til generelle energibesparelser som at spare på varmtvand, justere radiatorer og isolere huset. Yderligere information, herunder links og kontaktoplysninger til SpareEnergi og Energistyrelsen, findes på hjemmesiden.",
+    "meta": {
+        "id": 6804095464927430426,
+        "url": "https://sparenergi.dk/privat/spar-energi-i-hverdagen/hold-din-varmepumpe-ved-lige",
+        "title": "Udržujte své tepelné čerpadlo v chodu",
+        "time_requested": "2024-04-16T11:54:22.257109",
+        "error": null,
+        "num_tokens_in": 2260,
+        "num_tokens_out": 514,
+        "estimated_input_cost_gpt4": 0.022600000000000002,
+        "estimated_output_cost_gpt4": 0.01542,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

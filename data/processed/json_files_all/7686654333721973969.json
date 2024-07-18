@@ -1,0 +1,15 @@
+{
+    "text": "Guiden omhandler isolering af brevsprækken for at forhindre varmetab. Det beskrives, hvordan man selv kan udføre projektet på cirka 1 time ved at følge en trinvis vejledning. Materialerne, der kræves, inkluderer hobbykniv, sav, blyant, sandpapir, montagelim, krydsfinerplade, isolering, udendørsmaling og sandpapir. Processen indeholder trin som afmontering af brevsprækken, tilskæring af isolering, montering af plader og maling. Der angives, at alle materialer er let tilgængelige og kan købes billigt i et byggemarked. Til sidst opfordres man til at male pladen for at beskytte den mod vejrforhold. Dette DIY-projekt hjælper med at reducere varmetabet gennem brevsprækken.",
+    "meta": {
+        "id": 7686654333721973969,
+        "url": "https://sparenergi.dk/guide-isoler-brevspr%C3%A6kken",
+        "title": "Guide: Isoler brevsprækken",
+        "time_requested": "2024-04-16T11:59:40.350420",
+        "error": null,
+        "num_tokens_in": 1107,
+        "num_tokens_out": 219,
+        "estimated_input_cost_gpt4": 0.011070000000000002,
+        "estimated_output_cost_gpt4": 0.00657,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

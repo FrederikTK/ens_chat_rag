@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen handler om valg af varmepumper og hvordan man kan vælge den rette type til ens behov. Den beskriver, hvordan varmepumper fungerer ved at flytte varmeenergi fra udeluften eller jorden til varmesystemet i huset. Der bliver præsenteret tre typer varmepumper: luft til vand-varmepumpe, luft til luft-varmepumpe og jordvarme (væske til vand-varmepumpe). For hver type beskrives det, hvilken type hus den egner sig til, installationsomkostninger og mulige besparelser i forhold til traditionelle opvarmningsmetoder. Der opfordres til at undersøge mulighederne for tilskud og gratis rådgivning. Desuden er der links til yderligere information om renovering, energibesparelse og kontaktmuligheder.",
+    "meta": {
+        "id": 3340934333413788833,
+        "url": "https://old.sparenergi.dk/forbruger/varme/varmepumpe/varmepumpetyper",
+        "title": "Varmepumpetyper | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:14.395072",
+        "error": null,
+        "num_tokens_in": 1565,
+        "num_tokens_out": 218,
+        "estimated_input_cost_gpt4": 0.01565,
+        "estimated_output_cost_gpt4": 0.00654,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

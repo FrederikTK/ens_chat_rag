@@ -1,0 +1,15 @@
+{
+    "text": "Informationen beskriver en dialogboks, der vises på en hjemmeside. Dialogboksen advarer brugeren om, at deres indtastninger ikke vil blive gemt. Dialogboksen har to knapper: \"Afslut\" og \"Fortryd\". \"Afslut\" knappen fører brugeren til en bestemt side: \"/privat/skal-du-renovere-din-bolig#module-992\". \"Fortryd\" knappen lukker dialogboksen. Dialogboksen har en titel: \"Er du sikker på, at du vil forlade Vores energiaftale?\". Dialogboksen har en bredde på 50% af siden og er sat til at være modal, så brugeren skal interagere med den, før de kan fortsætte på siden bagved.",
+    "meta": {
+        "id": 14493112177468986010,
+        "url": "https://sparenergi.dk/our-energy-agreement/close?destination=/privat/skal-du-renovere-din-bolig%23module-992",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:59:25.141984",
+        "error": null,
+        "num_tokens_in": 184,
+        "num_tokens_out": 184,
+        "estimated_input_cost_gpt4": 0.00184,
+        "estimated_output_cost_gpt4": 0.00552,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

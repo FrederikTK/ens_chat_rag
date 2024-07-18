@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen administrerer Varmepumpepuljen, som er en tilskudsordning for danske boligejere, virksomheder og foreninger, der ønsker at skifte deres nuværende opvarmningskilde ud med en varmepumpe. Puljen giver tilskud på 17.000 kr. ved skift til luft til vand-varmepumpe og 27.000 kr. ved skift til jordvarmepumpe. Puljen forventes at åbne igen i foråret 2024 og lukker igen derefter. Tilskuddene fordeles efter først til mølle-princippet blandt tilskudsberettigede ansøgere. For at få tilskud skal man bo i et område uden fjernvarme, planlagt fjernvarme eller potentielt fjernvarme.\n\nAnsøgningsprocessen indebærer tre faser: forberedelse, selve ansøgningen og efter ansøgningen, hvor man kan få et tilsagn om tilskud, som udbetales efter installationen af varmepumpen. Det er vigtigt at forberede sig godt inden ansøgningen, da fejl kan føre til afslag. Hvis ansøgningen afvises, kan man søge igen ved næste puljeåbning. 236,1 mio. kroner er afsat til Varmepumpepuljen i 2023. Der er 5 krav, man og ens hus skal leve op til for at få tilskud, og det anbefales at forberede sig grundigt inden ansøgningen. Man kan kontakte Rådgivningstjenesten for hjælp, men de har ikke adgang til information om specifikke ansøgninger. Ved tekniske problemer kan Energistyrelsen kontaktes.",
+    "meta": {
+        "id": 10311178755883886349,
+        "url": "https://sparenergi.dk/privat/soeg-tilskud/varm-op-til-soege-tilskud-til-en-varmepumpe/faq-varmepumpepulje",
+        "title": "Har du spørgsmål?",
+        "time_requested": "2024-04-16T11:52:02.517431",
+        "error": null,
+        "num_tokens_in": 3327,
+        "num_tokens_out": 429,
+        "estimated_input_cost_gpt4": 0.03327,
+        "estimated_output_cost_gpt4": 0.01287,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

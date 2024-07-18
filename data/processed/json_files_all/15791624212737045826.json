@@ -1,0 +1,15 @@
+{
+    "text": "Rentabilitet i Bygningsreglementet er vigtigt, når man renoverer sin bolig. Ifølge Bygningsreglementet skal man isolere sin bolig bedre samtidig med renovering, hvis det er rentabelt på sigt. Man kan beregne rentabiliteten ved at multiplicere den årlige besparelse på varmeregningen med levetiden af forbedringen. Hvis resultatet er større end 1,33, betragtes arbejdet som rentabelt. Man kan også se i Bygningsreglementets oversigt over tiltag, der ofte er rentable, hvis ens forbedring er medtaget der. Hvis rentabiliteten er under 1,33, kan det stadig være en god idé at efterisolere, især hvis energipriserne stiger i fremtiden. Det anbefales generelt at efterisolere under en renovering, da man kun betaler en gang for f.eks. opmåling, stillads og oprydning. Energistyrelsen tilbyder gratis rådgivning om energioptimering.",
+    "meta": {
+        "id": 15791624212737045826,
+        "url": "https://sparenergi.dk/privat/bygningsreglementets-energikrav/rentabilitet-i-bygningsreglementet",
+        "title": "Rentabilitet i Bygningsreglementet",
+        "time_requested": "2024-04-16T11:53:01.686415",
+        "error": null,
+        "num_tokens_in": 1262,
+        "num_tokens_out": 253,
+        "estimated_input_cost_gpt4": 0.012620000000000001,
+        "estimated_output_cost_gpt4": 0.00759,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har offentliggjort data om Københavns energiforbrug og CO2-udledning for årene 2018, 2019, 2020 og 2021. København har 638.117 indbyggere og et areal på 90 km². Den gennemsnitlige udledning af CO2 pr. indbygger er 1,63 ton CO2e. Den samlede CO2-udledning i kommunen er 1.040.961 ton CO2e, fordelt på sektorer som energi (65%), transport (23%), kemiske processer (6%), affaldsdeponi (5%), spildevand (1%) og landbrug (0%). Energisektoren udleder 678.542 ton CO2e, transportsektoren udleder 236.847 ton CO2e, kemiske processer udleder 58.570 ton CO2e, landbruget udleder 463 ton CO2e, affaldsdeponi og biogas udleder 52.180 ton CO2e, og spildevand udleder 14.359 ton CO2e. Energistyrelsen arbejder på at gøre det muligt at sammenligne data helt tilbage til 2010. Informationen inkluderer også detaljer om energiforbrug til opvarmning, fjernvarmeproduktion, elforbrug og -produktion, vejkøretøjer, kemiske processer, landbruget, affaldsdeponi og spildevand. Energistyrelsen tilbyder rådgivning og information om energibesparelser.",
+    "meta": {
+        "id": 1954359261578365706,
+        "url": "https://sparenergi.dk/offentlig/vaerktoejer/energi-og-co2-regnskab/koebenhavn",
+        "title": "København | Energistyrelsen",
+        "time_requested": "2024-04-16T11:58:18.496524",
+        "error": null,
+        "num_tokens_in": 1562,
+        "num_tokens_out": 383,
+        "estimated_input_cost_gpt4": 0.015620000000000002,
+        "estimated_output_cost_gpt4": 0.01149,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

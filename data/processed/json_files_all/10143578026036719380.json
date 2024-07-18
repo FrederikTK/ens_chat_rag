@@ -1,0 +1,15 @@
+{
+    "text": "Resumé af dokumentet:\nDette dokument er en ZIP-fil, der indeholder flere filer, herunder relateret til printerindstillinger, stilark, media-billeder og calcChain. Dokumentet indeholder også XML-filer såsom app.xml, core.xml og Content_Types.xml. Der er også en VML-tegning og relaterede filer til regneark og temaudgave.\n",
+    "meta": {
+        "id": 10143578026036719380,
+        "url": "https://sparenergi.dk/sites/forbruger.dk/files/contents/publication/ecxel-ark-til-aflaesning-af-maaler/skema-til-aflaesning-af-maaler_-_06-2012.xlsx",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:52:20.910912",
+        "error": null,
+        "num_tokens_in": 13082,
+        "num_tokens_out": 92,
+        "estimated_input_cost_gpt4": 0.13082000000000002,
+        "estimated_output_cost_gpt4": 0.00276,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

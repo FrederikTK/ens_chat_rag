@@ -1,0 +1,15 @@
+{
+    "text": "Sideløbende med energirenoveringspuljen har Energistyrelsen udgivet en indholdsrig vejledning om, hvordan man isolerer et fladt tag på et hus, især fra 60'erne og 70'erne, da disse ofte er dårligt isolerede. Med mindre end 75-100 mm isolering anbefales det at tilføje ekstra isolering for at spare penge på varmeregningen og forbedre indeklimaet. Taget kan betragtes som et godt sted at begynde energirenoveringer. Renoveringen indebærer at tjekke taget, reparere eventuelle skader på tagpappet, lægge ny isolering direkte oven på det gamle tag og skabe en hældning, så regnvand og smeltevand kan løbe af taget. Isoleringen anbefales udført om sommeren for at undgå fugtproblemer, før installation af solceller eller solvarme og med professionelle håndværkere for at undgå fejl. Det anbefales at kontrollere taget årligt for at undgå fugtskader. Desuden gives der råd om at udskifte ovenlyskupler samtidig med tagisoleringen samt links til at finde fagfolk og mere information om energirenovering. Er der mindre end 75 mm isolering, anbefales mindst 300 mm isolering ifølge bygningsreglementet, men for at opnå lavenerginiveau anbefales 400 mm. Taget skal have en hældning på mindst 2,5 cm pr. meter for at undgå vandansamling. Energirenovering af tag er også gavnligt for klimaet, da mindre varmetab betyder mindre energiforbrug og lavere CO2-udledning.",
+    "meta": {
+        "id": 18199511827329178895,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/energiloesninger/isolering-af-fladt-tag",
+        "title": "Isolering af fladt tag",
+        "time_requested": "2024-04-16T11:52:22.174137",
+        "error": null,
+        "num_tokens_in": 2510,
+        "num_tokens_out": 438,
+        "estimated_input_cost_gpt4": 0.0251,
+        "estimated_output_cost_gpt4": 0.01314,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

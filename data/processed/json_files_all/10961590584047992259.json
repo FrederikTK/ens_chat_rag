@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om energimærkning af bygninger, herunder boliger. De tilbyder råd og vejledning om isolering, vinduer, ventilation, intelligent styring, varme (inklusive forskellige varmekilder som naturgas, fjernvarme, varmepumper, elvarme, olie osv.), energimærkning af varmeanlæg, elforbrug og energimærkning af elektriske apparater. Der er også information om renovering af bygninger, nybyggeri, ESCO-løsninger, energirådgivning og energioptimering i erhvervsmæssige og offentlige bygninger. Energistyrelsen tilbyder også værktøjer som en energiberegner, en apparatberegner, elforbrugsberegner og elpriser. Der er også links til nyttige ressourcer som Energibarometeret, håndværkerlister, VE-virksomheder og energimærkningsfirmaer. Energistyrelsen opfordrer også til tilmelding af deres nyhedsmail for at holde sig opdateret på energisparetips og information om energioptimering. Der er desuden kontaktinformation til Energistyrelsen og link til deres officielle hjemmeside sparEnergi.dk.",
+    "meta": {
+        "id": 10961590584047992259,
+        "url": "https://sparenergi.dk/forbruger/boligen",
+        "title": "Boligen | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:39.651246",
+        "error": null,
+        "num_tokens_in": 947,
+        "num_tokens_out": 320,
+        "estimated_input_cost_gpt4": 0.009470000000000001,
+        "estimated_output_cost_gpt4": 0.009600000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

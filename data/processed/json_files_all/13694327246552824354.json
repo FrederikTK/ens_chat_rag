@@ -1,0 +1,15 @@
+{
+    "text": "Der findes en Excel-fil tilgængelig på SparEnergi.dk, som kan bruges til aflæsning af målere i forbindelse med natrundering. Filen er på 18,33 KB og indeholder 1 side. Excel-arket er tilgængeligt til download i XLSX-format. Energistyrelsen står bag denne ressource, og der er mulighed for at kontakte dem på adressen Carsten Niebuhrs Gade 43, 1577 København V. Filen er blevet tilgængelig på SparEnergi.dk den 30. juni 2012.",
+    "meta": {
+        "id": 13694327246552824354,
+        "url": "https://sparenergi.dk/forbruger/materialer/excel-ark-til-aflaesning-af-maaler",
+        "title": "Excel-ark til aflæsning af måler",
+        "time_requested": "2024-04-16T11:51:07.826227",
+        "error": null,
+        "num_tokens_in": 849,
+        "num_tokens_out": 143,
+        "estimated_input_cost_gpt4": 0.008490000000000001,
+        "estimated_output_cost_gpt4": 0.00429,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

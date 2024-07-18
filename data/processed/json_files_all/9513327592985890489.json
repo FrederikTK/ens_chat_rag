@@ -1,0 +1,15 @@
+{
+    "text": "Erhvervspuljen tilbyder økonomisk støtte til danske virksomheder, der ønsker at spare energi og reducere deres CO2-udledning. Puljen indeholder 640 mio. kr. i 2024 og kan dække op til 50 % af omkostningerne til energirenoveringsprojekter. Tilskuddet beregnes ud fra den forventede energi- eller CO2-besparelse, hvor virksomhedens størrelse fastsætter den procentdel af støtteberettigede omkostninger, der kan dækkes (op til 50 % for små virksomheder, 40 % for mellemstore virksomheder, og 30 % for store virksomheder). Puljen giver tilskud til projekter som udskiftning af varmekilder til varmepumper eller fjernvarme, udskiftning af ældre belysning til LED samt intern udnyttelse af overskudsvarme. Dog gives der ikke tilskud til solceller. Siden den 1. november 2022 er reglerne for Erhvervspuljen blevet lempet, og støttesatsen for tilskud er blevet øget. Virksomheder kan søge minimum 10.000 kr. og op til 112 mio. kr. i tilskud til grøn omstilling af deres virksomhed. Processen for at få tilskud fra Erhvervspuljen inkluderer forberedelse af projekt, ansøgning, igangsættelse af projektet, modtagelse af tilsagn, færdiggørelse af projektet samt anmodning og modtagelse af tilskud. Energistyrelsen tilbyder vejledninger, beregnere, trin-for-trin guider, webinarer, skabeloner og andre hjælpeværktøjer for at lette ansøgningsprocessen. Virksomheder kan også kontakte Energistyrelsen for yderligere hjælp via telefon eller e-mail. Erhvervspuljen er medfinansieret af Den Europæiske Unions genopretningsplan for perioden 2022-2025, og formålet er at fremme energibesparelser og den grønne omstilling i virksomhederne.",
+    "meta": {
+        "id": 9513327592985890489,
+        "url": "https://sparenergi.dk/erhverv/vaerktojer/erhvervstilskud",
+        "title": "Site under opdatering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:47:59.076913",
+        "error": null,
+        "num_tokens_in": 4772,
+        "num_tokens_out": 549,
+        "estimated_input_cost_gpt4": 0.047720000000000005,
+        "estimated_output_cost_gpt4": 0.016470000000000002,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

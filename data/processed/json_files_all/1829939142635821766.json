@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen opfordrer læseren til at udnytte de billigere elpriser, der er tilgængelige på visse tidspunkter af døgnet ved at flytte sit elforbrug. Der gives to metoder til at udnytte de variable priser: at bruge strømmen, når transportafgiften er lavest, og at skifte til variabel timepris. Der nævnes også konkrete tidspunkter, hvor priserne er billigst og dyrest. Det foreslås at flytte elforbruget til de billigere timer, f.eks. ved at starte hårde hvidevarer på 'udskudt start', lave mad tidligere på dagen og undgå dyre timer. Artiklen debunker også en myte om, at det ikke kan betale sig at bruge 'udsat start' på vaskemaskiner og opvaskemaskiner. Den forklarer desuden, hvorfor prisen på transport af strøm varierer, og hvordan det påvirker elregningen. Endelig gives der eksempler på, hvordan et par har sparet 40% på deres elregning ved at flytte deres energiforbrug og en gennemgang af poster på elregningen for at forbedre forståelsen af omkostningerne.",
+    "meta": {
+        "id": 1829939142635821766,
+        "url": "https://sparenergi.dk/forbruger/el/variabel-elpris",
+        "title": "Variabel elpris | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:20.833955",
+        "error": null,
+        "num_tokens_in": 3458,
+        "num_tokens_out": 308,
+        "estimated_input_cost_gpt4": 0.03458,
+        "estimated_output_cost_gpt4": 0.00924,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen oplyser på deres hjemmeside, SparEnergi.dk, at det er tid til at skifte varmeart, hvis man opvarmer sin bolig med olie, gas eller gamle elpaneler. De opfordrer til at vælge en mere fremtidssikret og billig løsning, som er klimavenlig. Der er forskellige varmetyper at vælge imellem, såsom fjernvarme, varmepumper (luft til vand, luft til luft, jordvarme, brugsvandsvarmepumpe), lokal fællesvarme, solvarme, solceller, biobrændsel og træpillefyr. At skifte varmeform kan medføre besparelser på energiforbruget og varmeregningen, samtidig med at det gavner klimaet ved at reducere CO2-udledningen. Desuden kræver de nye varmekilder minimal vedligeholdelse i forhold til olie eller træpiller. Energistyrelsen tilbyder også at hjælpe med at beregne, hvad man potentielt kan spare ved at skifte varmeform ved at indtaste sin adresse på deres hjemmeside. Derudover kan man undersøge muligheden for fjernvarme og få vejledning om varmepumper. Energistyrelsen tilbyder også tilskud til at skifte til mere energivenlige varmeløsninger og gratis rådgivning om energioptimering. Man kan også producere sin egen energi gennem solceller og solvarme for at dække strøm- og varmeforbruget. Energirenoveringspuljen er desuden åben, og der er mulighed for at få tilskud til energirenoveringer. Energistyrelsen opfordrer også til at følge deres gode råd for at spare energi i hverdagen og tilbyder information om flere emner som renovering af boligen og indhentning af tilskud.",
+    "meta": {
+        "id": 486746849754015931,
+        "url": "https://sparenergi.dk/tid-til-skifte-varmetype",
+        "title": "Se de 3 bedste varmetyper og få en lavere varmeregning",
+        "time_requested": "2024-04-16T11:48:28.419526",
+        "error": null,
+        "num_tokens_in": 1718,
+        "num_tokens_out": 483,
+        "estimated_input_cost_gpt4": 0.01718,
+        "estimated_output_cost_gpt4": 0.014490000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

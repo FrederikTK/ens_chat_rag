@@ -1,0 +1,15 @@
+{
+    "text": "Energiledelse og nøgletal er afgørende redskaber for virksomheder, der ønsker at optimere deres energiforbrug og opnå besparelser. Energiledelse indebærer en systematisk gennemgang af virksomhedens muligheder for at spare energi gennem både teknisk optimering og ledelsesmæssig styring. Virksomheder, der implementerer energiledelse, opnår generelt større besparelser end ved en traditionel tilgang. Det kan føre til optimeret drift, produktionsflow og logistik samt effektivisering af processer og forsyningsanlæg.\n\nNøgletal er afgørende for at vurdere, hvordan en virksomhed kan blive mere energieffektiv. Disse nøgletal kan identificere energispild, vurdere udviklingen i energiforbruget, budgettere mere realistisk, støtte systematisk vedligeholdelse, gennemføre benchmarking og måle effektiviteten af energirigtige adfærdprojekter. Der findes tre typer nøgletal: faktisk forbrug, simple nøgletal og normaliserede nøgletal, hvor de normaliserede nøgletal giver det mest retvisende billede af energieffektivitet.\n\nDet anbefales at organisere energiledelsesindsatsen fra starten og eventuelt søge ekstern rådgivning. Det er også vigtigt at inddrage medarbejderne, da de har viden om optimering af drift. Energistyrelsen har udgivet hæfter om energiledelse og medarbejderinddragelse samt om hvordan man skaber retvisende nøgletal. Der er også eksempler på projekter og undersøgelser om energiledelse, som danske virksomheder har gennemført under Energistyrelsens aftaleordning om energieffektivisering. Disse projekter har fokuseret på udvikling af nøgletal, effektivitet i processer, organisering af energiledelsesindsatsen og implementering af energibesparende tiltag.",
+    "meta": {
+        "id": 15222104880101867014,
+        "url": "https://sparenergi.dk/erhverv/industri-og-produktion/energiledelse-og-nogletal",
+        "title": "Energiledelse og nøgletal | Energistyrelsen",
+        "time_requested": "2024-04-16T11:57:15.689151",
+        "error": null,
+        "num_tokens_in": 3782,
+        "num_tokens_out": 516,
+        "estimated_input_cost_gpt4": 0.037820000000000006,
+        "estimated_output_cost_gpt4": 0.01548,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

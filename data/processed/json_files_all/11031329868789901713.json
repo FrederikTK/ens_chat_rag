@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en række værktøjer og information til forbrugere, virksomheder og offentlige institutioner om energimærkning af bygninger og energiløsninger. For forbrugere inkluderer informationen bl.a. råd om isolering, vinduer, ventilation, varmeforbrug og valg af varmekilder såsom naturgas, fjernvarme, varmepumper og solvarme. Der findes også information om elforbrug, energimærkning af apparater og lys. For virksomheder omfatter informationen bl.a. energimærkning af bygninger, energioptimering, opvarmning af bygninger, belysning og ventilation. Der er også information om energiledelse, nøgletal for energiforbrug og energieffektivitet i forskellige brancher som industri, handel, service og landbrug. Energistyrelsen tilbyder også redskaber som energimærkningsfirma-finder, håndværkerlister, VE-virksomhedssøgning, låneberegner, varmepumpeliste og elforbrugsberegner. Energistyrelsen er placeret på Carsten Niebuhrs Gade 43 i København V. Samlet set tilbyder Energistyrelsen omfattende information og værktøjer til at optimere energiforbruget og energieffektiviteten i bygninger og virksomheder.",
+    "meta": {
+        "id": 11031329868789901713,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/energiloesninger",
+        "title": "Energistyrelsen | Find energiløsninger",
+        "time_requested": "2024-04-16T11:52:49.402223",
+        "error": null,
+        "num_tokens_in": 969,
+        "num_tokens_out": 354,
+        "estimated_input_cost_gpt4": 0.00969,
+        "estimated_output_cost_gpt4": 0.010620000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

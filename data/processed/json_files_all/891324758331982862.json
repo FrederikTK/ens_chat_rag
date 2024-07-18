@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen handler om at tjekke husets tæthed for at undgå varmetab gennem utætheder. Cirka 10% af varmen i et hus forsvinder gennem utætheder, og det er derfor vigtigt at sikre, at huset er tæt. Artiklen giver en guide til, hvordan man kan selv kan tjekke husets tæthed, blandt andet ved at kontrollere vinduer og døre for sprækker, bruge papirtest for at undersøge tætheden mellem vindue og karm, og teste træk med fugtet hud eller et stearinlys. Der gives også råd til, hvordan man forbedrer tætheden, herunder udskiftning af fuger, brug af tætningslister og isolering af lemmekanter. Artiklen fremhæver vigtigheden af at få professionel hjælp ved eksempelvis udskiftning af dampspærre eller håndtering af PCB-fuger. Der gives også råd til at tætne pejse og brændeovne samt paneler og hjørner i gulvhøjde og loftshøjde. Generelt opfordres det til at være opmærksom på husets tæthed for at mindske varmetab og opnå en lavere varmeregning.",
+    "meta": {
+        "id": 891324758331982862,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/goer-det-selv-guides/husets-taethed",
+        "title": "Husets tæthed | Energistyrelsen",
+        "time_requested": "2024-04-16T11:57:28.134252",
+        "error": null,
+        "num_tokens_in": 3105,
+        "num_tokens_out": 317,
+        "estimated_input_cost_gpt4": 0.03105,
+        "estimated_output_cost_gpt4": 0.009510000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

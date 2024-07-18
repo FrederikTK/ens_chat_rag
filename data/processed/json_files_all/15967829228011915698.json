@@ -1,0 +1,15 @@
+{
+    "text": "SparEnergi giver gode råd til energioptimering på belysning. Det anbefales at skifte alle pærer til LED og huske at slukke lyset, når det ikke er i brug. Man kan også overveje at bruge automatisk styring som intelligente pærer, bevægelsessensorer eller timere for at slukke lyset i tomme rum. Det anbefales at skifte glødepærer og halogenpærer ud med LED-pærer, da de bruger 4-5 gange mindre strøm. I rum uden strøm anbefales det at bruge batterilamper, mens LED-pærer, der får strøm fra en ledning, er bedre og billigere for klimaet i rum med strøm. Man skal altid vælge LED-lys og vælge det rigtige energimærke. Der findes to typer LED-pærer: retningsbestemte (spots) og ikke-retningsbestemte. Det anbefales at overveje dæmpning af lyset og at tjekke om pæren kan skiftes. Når det kommer til lysstofrør og LED-lysrør, anbefales det at vælge LED-lysrør frem for lysstofrør, da de er billigst i længden og har en længere levetid. Det anbefales at vælge armaturer og lyskæder med lavt elforbrug samt at slukke lyskæderne, når de ikke er i brug. Man bør også aflevere gamle pærer på genbrugsstationen for genanvendelse.",
+    "meta": {
+        "id": 15967829228011915698,
+        "url": "https://sparenergi.dk/privat/spar-energi-i-hverdagen/spar-energi-paa-belysning",
+        "title": "Spar energi på belysning",
+        "time_requested": "2024-04-16T11:53:11.556833",
+        "error": null,
+        "num_tokens_in": 3636,
+        "num_tokens_out": 395,
+        "estimated_input_cost_gpt4": 0.03636,
+        "estimated_output_cost_gpt4": 0.011850000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

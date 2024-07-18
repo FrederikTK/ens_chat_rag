@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder gratis hjælp og inspiration til energioptimering i boliger. Deres erfarne rådgivere står klar til at hjælpe med spørgsmål om energibesparelse, tilskud til renovering og valg af varmekilder. Man kan kontakte dem på telefon 31 15 90 00 eller på mail info@sparenergi.dk på hverdage mellem kl. 9-15. Energistyrelsen tilbyder også en række arrangementer og webinarer, hvor man kan få inspiration og viden om energirenovering og sparemuligheder. Derudover har de udviklet en aktivitetsbog med spareråd samt en podcast kaldet \"Spar 10.000 på 10 uger\", der giver tips til at reducere el- og varmeregninger. Energirenoveringspuljen er også åben, hvor man kan søge om tilskud til energirigtige løsninger som f.eks. varmepumper. Man kan tilmelde sig nyhedsbrevet for at modtage spareråd tilpasset sin bolig og interesser direkte i indbakken. Energistyrelsen opfordrer til at deltage i inspirationsmøder og webinarer samt at udforske deres ressourcer på sparenergi.dk for at få mest ud af energien og spare penge.",
+    "meta": {
+        "id": 6029230308939577869,
+        "url": "https://sparenergi.dk/privat/raadgivningen",
+        "title": "Få gratis hjælp og inspiration",
+        "time_requested": "2024-04-16T11:49:16.466961",
+        "error": null,
+        "num_tokens_in": 1384,
+        "num_tokens_out": 325,
+        "estimated_input_cost_gpt4": 0.013840000000000002,
+        "estimated_output_cost_gpt4": 0.00975,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

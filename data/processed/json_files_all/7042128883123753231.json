@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside, SparEnergi, tilbyder gratis rådgivning til private om energi, energioptimering og tilskudsmuligheder. Man kan kontakte dem via telefon, e-mail eller møde dem personligt. Hvis man har spørgsmål om varmechecken, kan man skrive til varmecheck@ens.dk. Spørgsmål angående energimærkning af boliger kan sendes til emo-info@ens.dk.\n\nHvis man ønsker hjælp til at renovere sin bolig energieffektivt, kan man tale med en BedreBolig-rådgiver ved at sende en mail til info@bedrebolig.dk. For presserelaterede henvendelser, håndværkere, leverandører af varmepumper, VE-godkendelsesordningen, offentligt energiforbrug og spørgsmål vedrørende SparEnergi.dk er der angivet kontaktoplysninger på hjemmesiden.\n\nDer er også mulighed for at besøge Energistyrelsen personligt på adressen Carsten Niebuhrs Gade 43, DK-1577 København V i deres åbningstider. Energistyrelsen kan kontaktes via telefon, e-mail og deres hjemmeside. Hjemmesiden indeholder også informationsmaterialer, energipriser, information om brug af indhold, cookies og privatlivspolitik. Energistyrelsen stræber efter at give inspiration, viden og råd til at optimere energiforbruget.",
+    "meta": {
+        "id": 7042128883123753231,
+        "url": "https://old.sparenergi.dk/kontakt",
+        "title": "Kontakt | Energistyrelsen",
+        "time_requested": "2024-04-16T11:51:22.765125",
+        "error": null,
+        "num_tokens_in": 1099,
+        "num_tokens_out": 367,
+        "estimated_input_cost_gpt4": 0.010990000000000002,
+        "estimated_output_cost_gpt4": 0.01101,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

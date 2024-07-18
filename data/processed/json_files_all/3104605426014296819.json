@@ -1,0 +1,15 @@
+{
+    "text": "Ved at besøge Energistyrelsens hjemmeside kan man søge om tilskud til energirenoveringsprojekter på vegne af en privatperson, en virksomhed eller en forening. Der er forskellige krav og dokumenter, der skal være klar, afhængigt af hvem man søger tilskud på vegne af. \n\nHvis man søger tilskud på vegne af en privatperson, kræves der en fuldmagt, som skal udfyldes sammen med bygningsejeren, samt en ansøgererklæring. Hvis der er virksomhed eller økonomisk aktivitet på adressen, kræves der også en de minimis-erklæring. \n\nHvis man søger tilskud på vegne af en virksomhed, kræves der en fuldmagt, en ansøgererklæring og en de minimis-erklæring. Det er desuden et krav, at virksomheden har et CVR-nummer, og at bygningens hovedanvendelse er registreret som helårsbeboelse i BBR.\n\nHvis man søger tilskud på vegne af en forening, kræves der en fuldmagt, en ansøgererklæring, en de minimis-erklæring samt dokumentation på, hvem de tegningsberettigede er i foreningen. Det er et krav, at foreningen har et CVR-nummer, og at bygningens hovedanvendelse er registreret som helårsbeboelse i BBR.\n\nDer er udarbejdet en grundig vejledning, som gennemgår ansøgningsprocessen trin for trin for at hjælpe med at forberede og sikre, at alle dokumenter er klar inden ansøgningen udfyldes. Energirenoveringspuljen opfordrer også til at tilmelde sig deres nyhedsbrev for opdateringer og rådgivning om energirenovering. Der er desuden en FAQ-sektion tilgængelig, hvor man kan finde svar på en række typiske spørgsmål.",
+    "meta": {
+        "id": 3104605426014296819,
+        "url": "https://sparenergi.dk/privat/soeg-tilskud/varm-op-til-soege-tilskud-til-energirenovering/soeger-du-tilskud-paa-vegne-af-en",
+        "title": "Søger du tilskud på vegne af en anden, en virksomhed eller forening?",
+        "time_requested": "2024-04-16T11:56:10.545399",
+        "error": null,
+        "num_tokens_in": 2777,
+        "num_tokens_out": 501,
+        "estimated_input_cost_gpt4": 0.027770000000000003,
+        "estimated_output_cost_gpt4": 0.01503,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

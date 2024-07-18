@@ -1,0 +1,15 @@
+{
+    "text": "Sommerluk for varmeanlægget er en energibesparende foranstaltning, der kan reducere dit årlige varmeforbrug med 3-5%. Dette svarer til en besparelse på ca. 600-1.600 kr., afhængigt af din varmeform. Sommerlukning indebærer at lukke for varmeanlægget i sommerhalvåret, hvilket betyder, at kun produceres varmt vand og ikke varme til radiatorer eller gulvvarme. Dette sparer både penge på varmeregningen og bidrager til en mindre belastning af klimaet.\n\nDet anbefales at lukke varmeanlægget fra maj til oktober, afhængigt af vejret og husets isolering. Man opfordres til at lave en opskrift til sig selv første gang man summerlukker for at gøre processen nemmere fremover. Når varmeanlægget er lukket, bør termostaterne på radiatorerne åbnes helt for at undgå, at de sætter sig fast.\n\nDer er specifikke instruktioner til at sommerlukke varmeanlægget afhængigt af varmeformen: fjernvarme, varmepumpe, naturgas, oliefyr og træpillefyr. Der gives også tips til at huske at slukke cirkulationspumpen, da den sender varmt vand til radiatorerne eller gulvvarmen. En guide til at slukke cirkulationspumpen og løsne den, hvis den sætter sig fast, beskrives også.\n\nDerudover præsenteres yderligere 3 måder at spare energi på: justering af varmtvandshanen, skift til en mere energivenlig varmeform og isolering af huset. Der er også råd om energibesparelse i forhold til lys, vask, rengøring, køkken, varme og varmt vand, elektronik og andre områder.\n\nEndelig opfordres brugerne til at bruge strømmen, når den er billigst, og de får information om, hvordan de kan få gratis rådgivning i energibesparelse. Hjemmesiden SparEnergi.dk har fokus på at inspirere, informere og rådgive om effektiv energianvendelse.",
+    "meta": {
+        "id": 5926608465370628650,
+        "url": "https://sparenergi.dk/spar-energi-i-hverdagen/sommerluk-varmeanlaegget",
+        "title": "Spar 1.000 kr. på 5 min. arbejde. Sommerluk dit varmeanlæg.",
+        "time_requested": "2024-04-16T11:53:04.447428",
+        "error": null,
+        "num_tokens_in": 3474,
+        "num_tokens_out": 565,
+        "estimated_input_cost_gpt4": 0.03474,
+        "estimated_output_cost_gpt4": 0.01695,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Informationen beskriver vigtigheden af styring af en cirkulationspumpe til varmt vand, som pumper varmt vand fra varmtvandsbeholderen til vandhanen. Ved at bruge termostatstyring kan man vælge præcise tidspunkter på dagen, hvor man har behov for varmt vand, hvilket kan reducere både vandspild og elregninger. Der gives råd om at skifte til en ny, energieffektiv cirkulationspumpe med termostat- eller urstyring, hvis den eksisterende pumpe er forældet. Desuden opfordres til at kontakte en håndværker for at få hjælp til indstilling af en ny pumpe, hvis den ikke allerede har termostat- eller urstyring. Informationen indeholder også links til at finde håndværkere i nærområdet, som kan hjælpe med at installere styring til cirkulationspumpen til varmt brugsvand.",
+    "meta": {
+        "id": 9260967497777077171,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/energiloesninger/styring-af-cirkulationspumpe-til-varmt-vand",
+        "title": "Styring af cirkulationspumpe til varmt vand",
+        "time_requested": "2024-04-16T11:51:06.454465",
+        "error": null,
+        "num_tokens_in": 3734,
+        "num_tokens_out": 245,
+        "estimated_input_cost_gpt4": 0.037340000000000005,
+        "estimated_output_cost_gpt4": 0.00735,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

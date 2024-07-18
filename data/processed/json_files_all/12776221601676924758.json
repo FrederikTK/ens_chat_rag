@@ -1,0 +1,15 @@
+{
+    "text": "Hjemmesiden SparEnergi.dk tilbyder information om energioptimering og valg af varmepumpe. På siden kan man søge efter forskellige varmepumper ud fra kriterier som varmepumpestype, ydeevne, producent og effektivitet. Der er en liste med 25 varmepumper, hvor man kan sammenligne deres effektivitet, støjniveau og ydeevne. Det anbefales at vælge en varmepumpe med energimærke A+, A++ eller A+++, da disse er de mest energieffektive. Der gives også råd om at vælge en varmepumpe, der passer til husets størrelse og varmebehov. Man opfordres desuden til at kontakte en installatør for at få hjælp til at vælge den rette model. Energimærket viser, hvor meget varme man får for pengene, og det anbefales at vælge en varmepumpe med energimærke A+++, da den giver mest varme ud af 1 kWh el. Der er også mulighed for at få gratis rådgivning fra energirådgivere på siden. Man kan desuden finde yderligere inspiration til at spare på strøm og varme og få tips til hverdagen for at være mere energieffektiv.",
+    "meta": {
+        "id": 12776221601676924758,
+        "url": "https://sparenergi.dk/varmepumpelisten",
+        "title": "Vyberte si správný model tepelného čerpadla",
+        "time_requested": "2024-04-16T11:48:09.034106",
+        "error": null,
+        "num_tokens_in": 4461,
+        "num_tokens_out": 317,
+        "estimated_input_cost_gpt4": 0.044610000000000004,
+        "estimated_output_cost_gpt4": 0.009510000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

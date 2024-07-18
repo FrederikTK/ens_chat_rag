@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen giver gode råd om, hvordan man bedst muligt kan optimere driften af sit gasfyr for at spare penge på gasregningen og hjælpe miljøet. Her er nogle af de bedste råd:\n\n1. Tjek gaskedlens alder, og overvej at skifte varmeform, hvis den er over 15 år gammel.\n2. Kontroller trykket i radiatorsystemet, og juster det, hvis nødvendigt.\n3. Lyt til fyret og juster det, hvis det starter og stopper unormalt.\n4. Indstil automatikken til at styre fyret efter tidspunkt og vejret.\n5. Få regelmæssige eftersyn af dit gasfyr for at sikre god drift.\n6. Juster temperaturen i varmeanlægget om efteråret og foråret for at spare energi.\n7. Sommerluk varmeanlægget for at spare penge og CO2.\n8. Tjek og eventuelt udskift forældede cirkulationspumper.\n\nDerudover beskrives fordele ved at skifte fra naturgas til andre varmekilder som fjernvarme eller varmepumper pga. fokus på at mindske brugen af fossile brændstoffer. Artiklen oplyser også om vigtigheden af at få gasanlæg vedligeholdt af autoriserede installatører for at forebygge ulykker med kulilte. Der tilbydes også andre energibesparende råd som korrekt brug af varmt vand, styring af lys, korrekt brug af elektronik, energieffektiv madlavning og isolering af huset.",
+    "meta": {
+        "id": 4012631081210312029,
+        "url": "https://sparenergi.dk/privat/spar-energi-i-hverdagen/gode-raad-om-drift-af-dit-gasfyr",
+        "title": "Gode råd om drift af dit gasfyr",
+        "time_requested": "2024-04-16T11:54:36.148923",
+        "error": null,
+        "num_tokens_in": 2006,
+        "num_tokens_out": 409,
+        "estimated_input_cost_gpt4": 0.02006,
+        "estimated_output_cost_gpt4": 0.01227,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

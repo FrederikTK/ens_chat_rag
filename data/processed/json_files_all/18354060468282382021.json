@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder på deres hjemmeside guides og tjeklister til forbrugere, offentlige institutioner og erhvervslivet om energimærkning af bygninger og energiløsninger. Der er information om energimærkning af boliger, energiforbrug, varmeanlæg, el, apparater, bygninger, ventilation, belysning, IT og elektronik, samt energiledelse og nøgletal inden for industri og produktion, handel og service. Der tilbydes også værktøjer som energimærkestyrer, energibarometeret, og en låne- og apparatberegner. Der er desuden mulighed for at finde energimærkefirmaer og VE-virksomheder samt benytte Gør det selv-guides og låneberegner. Energistyrelsen opfordrer også til tilmelding af deres nyhedsmail, hvor man kan lære mere om energibesparelse og energiløsninger. Energistyrelsens adresse er Carsten Niebuhrs Gade 43, 1577 København V, og deres hjemmeside er www.ens.dk.",
+    "meta": {
+        "id": 18354060468282382021,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/goer-det-selv-guides",
+        "title": "Guides og tjeklister | Energistyrelsen",
+        "time_requested": "2024-04-16T11:53:22.934715",
+        "error": null,
+        "num_tokens_in": 968,
+        "num_tokens_out": 276,
+        "estimated_input_cost_gpt4": 0.009680000000000001,
+        "estimated_output_cost_gpt4": 0.008280000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

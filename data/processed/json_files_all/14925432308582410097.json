@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside indeholder en sektion dedikeret til rådgivning om effektivisering af el- og varmeforbrug på arbejdspladsen. Der gives relevante spareråd, som kan bidrage til et lavere energiforbrug og dermed sikre, at der er tilstrækkelig energi. Der opfordres til at søge tilskud fra Erhvervspuljen, hvor man kan finde yderligere oplysninger, hvis man allerede har ansøgt. Emner som indkøb af produkter, energimærkning, tjeklister til overblik, krav om energieffektivitet og nøgletal for energiforbrug behandles også. Der tilbydes nyhedsmails med relevant information om energibesparelser, CO2-reduktioner og Erhvervspuljen. SparEnergi giver inspiration, viden og råd til at optimere energiforbrug og tilbyder gratis rådgivning. Energistyrelsens adresse er Carsten Niebuhrs Gade 43, 1577 København V, og de kan kontaktes via deres hjemmeside ens.dk.",
+    "meta": {
+        "id": 14925432308582410097,
+        "url": "https://old.sparenergi.dk/erhverv",
+        "title": "Erhverv | Energistyrelsen",
+        "time_requested": "2024-04-16T11:52:32.673187",
+        "error": null,
+        "num_tokens_in": 857,
+        "num_tokens_out": 279,
+        "estimated_input_cost_gpt4": 0.008570000000000001,
+        "estimated_output_cost_gpt4": 0.00837,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

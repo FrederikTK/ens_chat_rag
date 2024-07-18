@@ -1,0 +1,15 @@
+{
+    "text": "Vejledningen er en 12 sider lang guide til ansøgningsprocessen om tilskudsudbetaling fra tilskudspuljen til energiforbedringer i kommunale og regionale bygninger. Den indeholder en trin-for-trin guide til ansøgning samt en præcisering og uddybning af reglerne for udbetaling af tilskud. Dokumentet kan downloades som en PDF-fil og er udarbejdet af Energistyrelsen. Kontaktoplysninger til Energistyrelsen er angivet på informationsarket, som også inkluderer en adresse, hjemmeside og mulighed for kontakt via energibarometeret.",
+    "meta": {
+        "id": 5125799399020860992,
+        "url": "https://sparenergi.dk/forbruger/materialer/ansogervejledning-til-anmodning-om-udbetaling-energiforbedringsprojekter",
+        "title": "Ansøgervejledning til anmodning om udbetaling - energiforbedringsprojekter kommuner og regioner",
+        "time_requested": "2024-04-16T11:58:48.322962",
+        "error": null,
+        "num_tokens_in": 1009,
+        "num_tokens_out": 154,
+        "estimated_input_cost_gpt4": 0.01009,
+        "estimated_output_cost_gpt4": 0.00462,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

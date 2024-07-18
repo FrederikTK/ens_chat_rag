@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen omhandler forskellige vindues- og rudetyper samt beskriver dem i detaljer. Der nævnes følgende vinduestyper: vindue uden sprosser, sprossevindue, dannebrogsvindue, palævindue samt vindue med forsatsramme og vindue med koblede rammer. Derudover beskrives rudetyper såsom 1 lags glas, energiglas, termoruder og energiruder. Artiklen forklarer, hvordan energiruder adskiller sig fra termoruder ved hjælp af lavemissionsbelægning, varmt kant afstandsprofil og brug af argon eller krypton gas mellem glassene. Der fremhæves også fordele ved energiruder med 3 lag glas og betydningen af energimærkning samt isoleringstjek for at optimere energiforbrug.",
+    "meta": {
+        "id": 2903338978357230026,
+        "url": "https://sparenergi.dk/forbruger/boligen/vinduer/vinduestyper",
+        "title": "Vinduestyper | Energistyrelsen",
+        "time_requested": "2024-04-16T11:58:06.140867",
+        "error": null,
+        "num_tokens_in": 1399,
+        "num_tokens_out": 210,
+        "estimated_input_cost_gpt4": 0.01399,
+        "estimated_output_cost_gpt4": 0.0063,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

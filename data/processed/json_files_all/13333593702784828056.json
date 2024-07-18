@@ -1,0 +1,15 @@
+{
+    "text": "På Energistyrelsens hjemmeside SparEnergi.dk er der en artikel om at få styr på cirkulationspumpen. En cirkulationspumpe er en skjult strømsluger, der kan stå for op til 10% af ens samlede elforbrug i hjemmet. Artiklen går i dybden med, hvad en cirkulationspumpe er, hvordan man finder den, hvordan man indstiller tidsstyring, hvordan man kan spare penge ved at skifte den ud, hvornår man bør skifte den, og om den er overflødig i boligen. Der gives også information om, hvordan man slukker pumpen om sommeren for at spare energi. Artiklen oplyser desuden om forskellige producenter af cirkulationspumper og hvordan man kan identificere disse ud fra typeskiltets information. Derudover gives der tips til indstilling af tidsstyring og retningslinjer for udskiftning af en ældre pumpe med en mere energieffektiv model. Det nævnes også, at man bør kontakte en VVS'er for hjælp og rådgivning i forbindelse med cirkulationspumper.\n\nArtiklen opfordrer til at skifte en ældre cirkulationspumpe ud med en mere strømbesparende model, især hvis pumpen er fra før 2014 eller har et højt strømforbrug. At justere tidsstyringen og slukke pumpen om sommeren kan bidrage til betydelige energibesparelser. Der gives også tips til at identificere om cirkulationspumpen er overflødig, f.eks. hvis der er kort afstand fra varmtvandsbeholderen til vandhanen, hvilket gør at pumpen ikke er nødvendig. Artiklen er opdateret senest den 16. november 2023 og er en del af Energistyrelsens bestræbelser på at give forbrugerne praktisk rådgivning i forbindelse med energibesparelser.",
+    "meta": {
+        "id": 13333593702784828056,
+        "url": "https://sparenergi.dk/forbruger/varme/cirkulationspumpe",
+        "title": "Cirkulationspumpe | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:56.450516",
+        "error": null,
+        "num_tokens_in": 2483,
+        "num_tokens_out": 491,
+        "estimated_input_cost_gpt4": 0.02483,
+        "estimated_output_cost_gpt4": 0.01473,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

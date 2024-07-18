@@ -1,0 +1,15 @@
+{
+    "text": "Resumé: \n- Energistyrelsen tilbyder råd og inspiration til energibesparelse i hverdagen på deres hjemmeside SparEnergi.dk.\n- Ved at ændre små daglige vaner for at spare på energien kan danskere reducere deres samlede CO2-udledning betydeligt.\n- Eksempler på energibesparende vaner inkluderer at slukke for tv'et, koge pasta med låg på gryden og tage kortere brusebade.\n- Hjemmesiden fremhæver råd til energibesparelse inden for områder som tv-forbrug, badning, gaming og andre daglige aktiviteter.\n- Desuden gives der gode vaner for at spare på el og vand, såsom at sætte låg på gryden, slukke for spillekonsollen og bruge kun en skærm ad gangen.\n- Energistyrelsen opmuntrer danske borgere til at deltage i energibesparelsesinitiativer for at bidrage positivt til både deres egen økonomi og klimaet.",
+    "meta": {
+        "id": 5983332777153181913,
+        "url": "https://sparenergi.dk/vidste-du-det",
+        "title": "Vidste du...",
+        "time_requested": "2024-04-16T11:53:10.627698",
+        "error": null,
+        "num_tokens_in": 1718,
+        "num_tokens_out": 264,
+        "estimated_input_cost_gpt4": 0.01718,
+        "estimated_output_cost_gpt4": 0.00792,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

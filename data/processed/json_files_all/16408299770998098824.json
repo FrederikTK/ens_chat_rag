@@ -1,0 +1,15 @@
+{
+    "text": "Den tilgængelige information indeholder information om indstillingerne for en hjemmeside på forbruger.dk. Baseline stien er \"/\". Der er ikke mulighed for at angive en sti-prefix. Der er ikke aktiveret JsCookie. Der er nævnt et tema kaldet \"forbruger_theme\" og en token til dette tema.\n\nDer er også information om stier til billeder og skrifttyper på hjemmesiden. Der er en frontend_helper, der angiver stien til billeder på hjemmesiden.\n\nDer nævnes en \"raffle\" med endpoints for feedback. Der er feedback typer, herunder \"click\". Der er også CSS-klasser angivet for henholdsvis autocomplete og feedback-click.\n\nSamlet set er informationen en del af en kommando, der viser en advarsel om, at brugeren ikke har adgang til at tilgå siden på forbruger.dk.",
+    "meta": {
+        "id": 16408299770998098824,
+        "url": "https://old.sparenergi.dk/forbruger/findfirma/button_c",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:58:00.183237",
+        "error": null,
+        "num_tokens_in": 214,
+        "num_tokens_out": 203,
+        "estimated_input_cost_gpt4": 0.00214,
+        "estimated_output_cost_gpt4": 0.00609,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Informationen handler om energimærkning af varmeanlæg og indeholder en guide til, hvordan man kan tjekke og optimere ens varmeanlæg for at sikre effektiv drift. Guiden indeholder følgende punkter: \n1. Tjek alderen på varmeanlægget for fjernvarme, naturgas og olie, og overvej udskiftning til mere energieffektive modeller, hvis de er mere end 15 år gamle.\n2. Tjek om varmeanlægget har været efterset regelmæssigt, hvilket kan forlænge levetiden og sikre effektiv drift.\n3. Kontroller om varmeanlægget har automatik som natsænkning, klimastyring og mulighed for sommerdrift, da det kan spare energi.\n4. Fyld vand på anlægget og tjek returvandets temperatur for at optimere effektiviteten.\nGuiden opfordrer også til at få professionel hjælp, hvis der er behov for udskiftning eller indstilling af varmeanlægget.",
+    "meta": {
+        "id": 3311157680136898641,
+        "url": "https://sparenergi.dk/forbruger/vaerktojer/guides-og-tjeklister/varmeanlaeg",
+        "title": "Varmeanlæg | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:11.541446",
+        "error": null,
+        "num_tokens_in": 2429,
+        "num_tokens_out": 267,
+        "estimated_input_cost_gpt4": 0.024290000000000003,
+        "estimated_output_cost_gpt4": 0.00801,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

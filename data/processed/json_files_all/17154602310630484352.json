@@ -1,0 +1,15 @@
+{
+    "text": "På Sparenergi.dk kan man finde information om energimærkning af bygninger, både for forbrugere, offentlige institutioner og virksomheder. Hjemmesiden indeholder information om energikrav i bygningsreglementet, tilskud til energiforbedringer, isolering, vinduer, ventilation, varmeforbrug, forskellige varmetyper som naturgas, fjernvarme, varmepumper osv. Der er også information om energimærkning af varmeanlæg, el-forbrug og energimærkning af apparater som belysning, køle- og fryseskabe osv. Der er desuden materiale om energimærkning af offentlige bygninger, renovering, nybyggeri, ESCO, energirådgivning osv. For erhvervslivet findes der information om energiledelse, opvarmning af bygninger, køling, belysning, IT og elektronik. Derudover kan man finde materialer som brochurer, vejledninger, rapporter og værktøjer til at optimere energiforbruget i forskellige typer af bygninger. Der er også en liste over aktuelle materialer til download, f.eks. vejledninger til energiforbedringsprojekter i kommunale og regionale bygninger, erfaringer med energiledelse på hospitaler, intelligente bygninger og energiscreening af ventilation på landbrug.",
+    "meta": {
+        "id": 17154602310630484352,
+        "url": "https://old.sparenergi.dk/forbruger/materialer",
+        "title": "Materialer - Sparenergi.dk",
+        "time_requested": "2024-04-16T11:51:08.149755",
+        "error": null,
+        "num_tokens_in": 1208,
+        "num_tokens_out": 348,
+        "estimated_input_cost_gpt4": 0.01208,
+        "estimated_output_cost_gpt4": 0.01044,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

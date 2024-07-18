@@ -1,0 +1,15 @@
+{
+    "text": "No content available to summarize.",
+    "meta": {
+        "id": 12717834531641189053,
+        "url": "https://old.sparenergi.dk/sites/default/files/media/documents/2023-10/Varmepumpepuljen%20-%20Momserkl%C3%A6ring%20-%20s%C3%B8ger%20p%C3%A5%20vegne%20af%20sig%20selv.pdf",
+        "title": "Fejl 404 – siden kunne ikke findes | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:44.101246",
+        "error": "404 Client Error: Not Found for url: https://old.sparenergi.dk/sites/default/files/media/documents/2023-10/Varmepumpepuljen%20-%20Momserkl%C3%A6ring%20-%20s%C3%B8ger%20p%C3%A5%20vegne%20af%20sig%20selv.pdf",
+        "num_tokens_in": 0,
+        "num_tokens_out": 6,
+        "estimated_input_cost_gpt4": 0.0,
+        "estimated_output_cost_gpt4": 0.00018,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

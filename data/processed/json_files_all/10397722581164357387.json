@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder forskellige tilskudsordninger til energioptimering af boliger, herunder Energirenoveringspuljen, Varmepumpepuljen og tilskud til varmepumper på abonnement. Energirenoveringspuljen giver tilskud til energibesparende forbedringer som isolering, vinduer og ventilation. Varmepumpepuljen giver mulighed for tilskud på op til 27.000 kr. ved skift til varmepumpe og forventes at åbne igen i foråret 2024. Der er også tilskudsmuligheder for at skifte gasfyr, oliefyr eller træpillefyr ud med en varmepumpe eller få varmepumpe på abonnement. Desuden er der mulighed for gratis afkobling af gas, tinglysningsafgiftsbesparelse og slip for lånegebyr i forbindelse med fyrskift. Energistyrelsen tilbyder også rådgivning og opfordrer til at tilmelde sig nyhedsbrev for at være informeret om nye tilskudspuljer.",
+    "meta": {
+        "id": 10397722581164357387,
+        "url": "https://sparenergi.dk/forbruger/boligen/tilskud/sadan-soger-du",
+        "title": "Sådan søger du | Energistyrelsen",
+        "time_requested": "2024-04-16T11:47:33.137764",
+        "error": null,
+        "num_tokens_in": 2233,
+        "num_tokens_out": 274,
+        "estimated_input_cost_gpt4": 0.022330000000000003,
+        "estimated_output_cost_gpt4": 0.00822,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en række energiløsninger til forbrugere, virksomheder og det offentlige. For forbrugere fokuserer de på energimærkning af bygninger, renovering, isolering, vinduer, ventilation, intelligent styring, varmeforbrug, varmetyper (f.eks. naturgas, fjernvarme, varmepumper, elvarme, olie, træpiller, solvarme), kombinationsløsninger, terrassevarmere, varmepumpeliste, energimærkning af varmeanlæg, apparater, el, belysning, køl og frys, vask og rengøring, madlavning, it og elektronik samt energimærkning af biobrændselskedler. For virksomheder tilbyder de energirådgivning, ESCO-løsninger, energiledelse, nøgletal for energiforbrug og specifikke løsninger til engros, hotel og restauration, kontorer, byggeri, industrien, handel og service samt landbrug. Energistyrelsen har også værktøjer som Håndværkerlisten, VE-virksomheder, Find energimærke, Find energimærkningsfirma, BedreBolig, Bygningsguiden, Casebank, Gør det selv-guides, låneberegner, Varmepumpelisten, Apparatberegner, Elforbrugsberegner og Elpriser. Energistyrelsen er beliggende på Carsten Niebuhrs Gade 43, 1577 København V, og deres hjemmeside er www.ens.dk.",
+    "meta": {
+        "id": 6016552816991497109,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/energiloesninger/facade",
+        "title": "Find energiløsninger | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:31.422429",
+        "error": null,
+        "num_tokens_in": 861,
+        "num_tokens_out": 403,
+        "estimated_input_cost_gpt4": 0.008610000000000001,
+        "estimated_output_cost_gpt4": 0.01209,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "På SparEnergi's hjemmeside findes en guide til klubber og foreninger med egne faciliteter og selvejende institutioner om, hvordan man kan spare energi i klubhuse og spejderhytter. Nogle af rådene inkluderer at optimere opvarmningssystemerne ved at skifte til mere energieffektive varmekilder som fjernvarme eller varmepumper, installere automatisk styring på varmen for mere effektiv regulering, få årlige eftersyn af varmesystemet, udskifte gamle cirkulationspumper, efterisolere bygningen for bedre indeklima og lavere varmeregning, samt at kontrollere vinduer og døre for tæthed og udskifte dem om nødvendigt. Der nævnes også råd om at skifte til LED-lys, udskifte gamle apparater med energieffektive modeller, spare på vandforbruget i toiletter og badefaciliteter samt at søge finansiering hos kommunen, sponsorer eller fonde for at dække omkostningerne ved energiforbedringer. Endelig gives der en trinvis vejledning i at gå i gang med energiforbedringer samt forslag til finansieringsmuligheder som kommunale puljer, sponsorater eller fonde.",
+    "meta": {
+        "id": 10857273939402492465,
+        "url": "https://sparenergi.dk/offentlig/kommuner/idraet-og-fritid/klubhuse-og-spejderhytter",
+        "title": "Klubhuse og spejderhytter | Energistyrelsen",
+        "time_requested": "2024-04-16T11:58:45.814416",
+        "error": null,
+        "num_tokens_in": 4980,
+        "num_tokens_out": 319,
+        "estimated_input_cost_gpt4": 0.049800000000000004,
+        "estimated_output_cost_gpt4": 0.00957,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

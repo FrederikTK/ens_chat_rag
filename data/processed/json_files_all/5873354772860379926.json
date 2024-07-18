@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside, SparEnergi.dk, oplyser om vigtigheden af at isolere soklen i en bolig. Soklen er den nederste del af ydervæggen, og hvis den ikke er isoleret, kan det føre til varmetab og dårligt indeklima. Isolering af soklen kan spare penge på varmeregningen, øge boligens værdi og være klimavenligt. Hjemmesiden giver en vejledning i processen: 1) Soklen graves fri og rengøres. 2) Ekstra isolering monteres på soklen. 3) Hullet fyldes igen med drænende materialer. Der gives også tips som at isolere soklen hvis den har mindre end 100 mm isolering, bruge fagfolk for at undgå problemer med råd og svamp, og isolere ydervæggen samtidigt for optimal energioptimering. Hjemmesiden linker til en video som viser processen, og der er en historie om hvordan Toni og Wilfried opnåede besparelser og et bedre indeklima i deres hus efter isolering af soklen. Der er også information om at tjekke energimærkningsrapporten, og muligheden for at få gratis rådgivning.",
+    "meta": {
+        "id": 5873354772860379926,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/energiloesninger/isolering-af-sokkel",
+        "title": "Isolering af sokkel",
+        "time_requested": "2024-04-16T11:49:45.272418",
+        "error": null,
+        "num_tokens_in": 2287,
+        "num_tokens_out": 311,
+        "estimated_input_cost_gpt4": 0.02287,
+        "estimated_output_cost_gpt4": 0.00933,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

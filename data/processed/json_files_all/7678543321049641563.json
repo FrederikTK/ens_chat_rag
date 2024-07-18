@@ -1,0 +1,15 @@
+{
+    "text": "SparEnergi er en service fra Energistyrelsen, hvor man kan indtaste sin adresse og modtage gode råd til energioptimering af ens bolig. Man kan få de tre mest effektive råd til energioptimering baseret på ens adresse. Derudover tilbyder SparEnergi inspiration, viden og råd til at maksimere energiforbruget i hjemmet. Man kan vælge personlige sparemål og se, hvor meget energi og CO2 man kan spare i sit hjem. Der er mulighed for at lave en aftale med sig selv eller sin familie og få hjælp til at nå målene. SparEnergi tilbyder også gratis rådgivning. Energistyrelsens adresse er Carsten Niebuhrs Gade 43, 1577 Kbh. V.",
+    "meta": {
+        "id": 7678543321049641563,
+        "url": "https://sparenergi.dk/spar-energi-paa-din-maade?permission=1",
+        "title": "Lav en energiaftale | SparEnergi.dk",
+        "time_requested": "2024-04-16T11:53:30.577624",
+        "error": null,
+        "num_tokens_in": 363,
+        "num_tokens_out": 194,
+        "estimated_input_cost_gpt4": 0.0036300000000000004,
+        "estimated_output_cost_gpt4": 0.0058200000000000005,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

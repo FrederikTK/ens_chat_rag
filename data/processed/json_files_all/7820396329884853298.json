@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder gratis hjælp og inspiration til energibesparelser i boliger. Deres erfarne rådgivere kan hjælpe med at spare energi og penge på alt fra opvask til opvarmning og ombygning. Man kan ringe eller skrive til dem for at få svar på spørgsmål om gode sparevaner, tilskud til renovering, valg af varmeform og andre emner. Energistyrelsen transmitterer også podcasts, inspirationsmøder og webinarer, hvor man kan lære mere om energibesparelser. Der er desuden mulighed for at tilmelde sig nyhedsbrevet for at modtage spareråd tilpasset ens bolig og interesser. Energistyrelsens tjenester er gratis og har til formål at hjælpe med at reducere CO2-udledningen.",
+    "meta": {
+        "id": 7820396329884853298,
+        "url": "https://old.sparenergi.dk/forbruger/boligen/raadgivning",
+        "title": "Rådgivning | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:46.161047",
+        "error": null,
+        "num_tokens_in": 1384,
+        "num_tokens_out": 212,
+        "estimated_input_cost_gpt4": 0.013840000000000002,
+        "estimated_output_cost_gpt4": 0.00636,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

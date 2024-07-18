@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om at få gratis strøm fra solceller. Solceller giver mulighed for at producere klimavenlig strøm og spare penge på elregningen. Hvis man producerer mere strøm, end man selv bruger, kan overskuddet sendes ud i fælles elnettet, hvor man kan tjene penge på det. For at kunne installere solceller skal det være tilladt ifølge lokalplanen, og man skal have et tag, der er stort og stærkt nok eller en facade. Solceller sparer penge på elregningen og man kan skattefrit tjene penge på at sælge overskudsstrøm til elnettet. Solceller er også klimavenlig strøm, da man udleder mindre CO2 ved produktion af strøm med vedvarende energi. Solceller har en forventet levetid på ca. 25 år og kræver minimal vedligeholdelse. Erfaringer viser, at man som husejer med solcelleanlæg kan blive mere opmærksom på sit energiforbrug og eventuelt nedbringe det. Der er dog nogle overvejelser, man skal gøre, inden man investerer i solceller, såsom lokalplanregler, solens placering på huset, størrelsen på anlægget og valg af ve-godkendt installatør. Efter installationen kan man nyde godt af den gratis grønne strøm og eventuelt sælge overskydende strøm til elnettet gennem en produktionselleverandør. Man kan tjene mellem 1.000-4.000 kr. om året på at sælge overskudsstrøm, og beløb over 7.000 kr. skal indberettes til SKAT og beskattes. Energistyrelsen tilbyder også cases og vejledninger til håndværkere og produkter, der kan hjælpe med at optimere energiforbruget.",
+    "meta": {
+        "id": 2687021937663448670,
+        "url": "https://sparenergi.dk/privat/skal-du-renovere-din-bolig/faa-gratis-stroem-fra-solceller",
+        "title": "Få gratis strøm fra solceller",
+        "time_requested": "2024-04-16T11:50:00.069771",
+        "error": null,
+        "num_tokens_in": 4552,
+        "num_tokens_out": 487,
+        "estimated_input_cost_gpt4": 0.045520000000000005,
+        "estimated_output_cost_gpt4": 0.01461,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

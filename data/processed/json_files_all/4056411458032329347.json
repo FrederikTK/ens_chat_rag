@@ -1,0 +1,15 @@
+{
+    "text": "EnergiStyrelsen giver råd om at skifte til en luft til vand-varmepumpe som en billig, klimavenlig og driftssikker opvarmningsmetode. Varmepumpen er særligt velegnet til områder uden fjernvarme og kan fås med tilskud eller på abonnement for at mindske bekymringer og investeringer. For at installere en luft til vand-varmepumpe kræves vandrette radiatorer eller gulvvarme og plads til en udedel. Fordelene inkluderer minimalt strømforbrug, skånende for miljøet og minimal vedligeholdelse. Dog kan udedelen være støjende og kræve støjreduktion. ECOdesignkrav fastlægger en minimum SCOP-værdi, og årligt eftersyn anbefales. Installationen involverer at vælge en passende varmepumpe, fjerne det gamle varmesystem, og koble varmepumpen til det eksisterende system. Installation og vedligeholdelse kan inkluderes i et abonnement. Reduceret elafgift kan søges efter installationen, og VE-godkendte virksomheder anbefales. Der er også mulighed for tilskud fra Skrotningsordningen ved skift til varmepumpe på abonnement.",
+    "meta": {
+        "id": 4056411458032329347,
+        "url": "https://sparenergi.dk/forbruger/varme/varmepumper/varmepumper-pa-abonnement",
+        "title": "Varmepumper på abonnement | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:16.064041",
+        "error": null,
+        "num_tokens_in": 3628,
+        "num_tokens_out": 327,
+        "estimated_input_cost_gpt4": 0.03628,
+        "estimated_output_cost_gpt4": 0.009810000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

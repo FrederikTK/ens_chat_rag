@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside tilbyder en Casebank, hvor der præsenteres 82 cases om energibesparelser i forskellige brancher som industri, landbrug, kontorer, hotel og restauration samt byggeri. Eksempler på cases inkluderer brugen af overskudsvarme fra en ny kompressor, elektrisk drevne pumper til at spare diesel i landbruget, procesoptimering og udskiftning af varmekilde og belysning i kontorbygninger. Der er også cases om anvendelse af varmepumper i ferieparker, grøn opvarmning i produktionsvirksomheder og effektiv udnyttelse af overskudsvarme hos virksomheder som CP Kelco. Energistyrelsens hjemmeside tilbyder desuden ressourcer som tjeklister, kravspecifikationer for nye anlæg og værktøjer til energimærkning af bygninger. Der er også mulighed for at tilmelde sig nyhedsmails for at modtage opdateringer om energibesparelsesmuligheder for erhvervsvirksomheder.",
+    "meta": {
+        "id": 9190533496360275949,
+        "url": "https://sparenergi.dk/erhverv/vaerktojer/casebank",
+        "title": "Casebank | Energistyrelsen",
+        "time_requested": "2024-04-16T11:57:35.013180",
+        "error": null,
+        "num_tokens_in": 1244,
+        "num_tokens_out": 277,
+        "estimated_input_cost_gpt4": 0.012440000000000001,
+        "estimated_output_cost_gpt4": 0.00831,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

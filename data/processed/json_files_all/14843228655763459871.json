@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen fra SparEnergi, udgivet af Energistyrelsen, opfordrer forbrugere til at udnytte strømmen, når den er billigst. Den forklarer, at strøm er billigere på visse tidspunkter af døgnet, uanset om forbrugerne har fast eller variabel timepris. Der gives to metoder til at udnytte de varierende priser: 1) Brug strømmen, når afgiften for transport er lav, som varierer i løbet af dagen og mellem sommer og vinter. 2) Skift til variabel timepris, hvor den rå elpris svinger fra time til time. Artiklen opfordrer også til at flytte elforbruget til de billigere timer, f.eks. ved at bruge 'udskudt start' på hårde hvidevarer samt at undgå dyre timer fra kl. 17-21. Der gives eksempler på, hvordan man kan spare penge ved at flytte elforbruget og hvordan man kan læse sin elregning for at forstå prissammensætningen. Til sidst nævnes et eksempel med Birgitte og Esben, der har reduceret deres elregning med 40 % ved at flytte deres energiforbrug. Overordnet fokuserer artiklen på at hjælpe forbrugere med at spare penge og gøre deres forbrug mere bæredygtigt ved at udnytte strømmen på de billigere tidspunkter.",
+    "meta": {
+        "id": 14843228655763459871,
+        "url": "https://sparenergi.dk/forbruger/el/din-elpris",
+        "title": "Din elpris | Energistyrelsen",
+        "time_requested": "2024-04-16T11:47:51.048620",
+        "error": null,
+        "num_tokens_in": 3458,
+        "num_tokens_out": 370,
+        "estimated_input_cost_gpt4": 0.03458,
+        "estimated_output_cost_gpt4": 0.0111,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "På Energistyrelsens hjemmeside, SparEnergi, kan erhvervsvirksomheder finde gode råd til energioptimering på deres arbejdsplads. Der gives blandt andet tips til at spare på energien både på arbejdet og i bygningerne. Virksomheder opfordres til at søge tilskud fra Erhvervspuljen og bruge indkøbsanbefalingerne som rettesnor for energikrav ved indkøb. Der er også information om energimærkning, tjeklister til overblik over energieffektiviteten og kravspecifikationer til leverandører. Man kan tilmelde sig nyhedsmail for at modtage relevante opdateringer om energibesparelser og CO2-reduktioner. Derudover er der kontaktinformation og en tilgængelighedserklæring på hjemmesiden.",
+    "meta": {
+        "id": 7809106231591278595,
+        "url": "https://sparenergi.dk/erhverv",
+        "title": "Erhverv",
+        "time_requested": "2024-04-16T11:47:51.510154",
+        "error": null,
+        "num_tokens_in": 857,
+        "num_tokens_out": 220,
+        "estimated_input_cost_gpt4": 0.008570000000000001,
+        "estimated_output_cost_gpt4": 0.0066,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

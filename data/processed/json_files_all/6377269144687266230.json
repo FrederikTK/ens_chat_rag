@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen beskriver processen for at få installeret og placere en varmepumpe. Først skal man sørge for at finde en professionel installatør og vælge en passende model. Installationen skal følge lokale krav og lovgivning, f.eks. kommunale retningslinjer og lovkrav om måling af elforbrug. Det anbefales at undgå støjgener ved at placere udedelen korrekt og sikre, at støjniveauet ikke overstiger 35 dB. Der er også nævnt lovgivning om måling af elforbrug over 3.000 kWh og krav til den enkelte varmepumpe, så det er vigtigt at tale med installatøren om disse ting. Hvis installationen er mangelfuld, kan man klage til Ankenævnet for Tekniske Installationer eller Forbrugerklagenævnet. Artikel indeholder også links til yderligere information om energioptimering og gratis rådgivning.",
+    "meta": {
+        "id": 6377269144687266230,
+        "url": "https://sparenergi.dk/privat/tid-til-skifte-varmetype/installering-og-placering-af-varmepumpe",
+        "title": "Installering og placering af varmepumpe",
+        "time_requested": "2024-04-16T11:53:42.872130",
+        "error": null,
+        "num_tokens_in": 1253,
+        "num_tokens_out": 241,
+        "estimated_input_cost_gpt4": 0.012530000000000001,
+        "estimated_output_cost_gpt4": 0.00723,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

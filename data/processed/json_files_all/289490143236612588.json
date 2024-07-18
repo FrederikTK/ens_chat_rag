@@ -1,0 +1,15 @@
+{
+    "text": "Ventilationsanlæg med varmegenvinding er en energiløsning, der genbruger varmen fra dit hus, hvilket giver en mindre varmeregning og forbedrer indeklimaet. Anlægget blæser frisk luft ind i rummene via kanaler og suge luften ud gennem andre udsugningsåbninger. Varmegenvindingen overfører varme fra den udgående luft til den indgående luft og filtrerer udeluften. Fordele inkluderer et bedre indeklima, øget komfort og en potentiel forøgelse af husets værdi. Anbefales til velisolerede og tætte huse, især hvis de har energimærke A eller A+. Installatøren bør vælge et anlæg med en virkningsgrad på mindst 80% og et specifikt elforbrug på maksimalt 1000 J/m3. Det kan søges tilskud til sådanne anlæg, og filtrene skal skiftes årligt. Placeringen af anlægget bør undgå støjproblemer, hvis det er på loftet. Energibesparelsen anslås til 1980 kr/år med en virkningsgrad på 80% og SFP på 1000 J/m3 for et hus på 100 m2 med elvarme. Hjemmesiden indeholder også en håndværkerliste, der kan hjælpe med at finde en egnet håndværker til installationen.",
+    "meta": {
+        "id": 289490143236612588,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/energiloesninger/ventilationsanlaeg-med-varmegenvinding",
+        "title": "Ventilationsanlæg med varmegenvinding",
+        "time_requested": "2024-04-16T11:53:15.976509",
+        "error": null,
+        "num_tokens_in": 3821,
+        "num_tokens_out": 373,
+        "estimated_input_cost_gpt4": 0.03821,
+        "estimated_output_cost_gpt4": 0.01119,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

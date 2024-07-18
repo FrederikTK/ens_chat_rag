@@ -1,0 +1,15 @@
+{
+    "text": "Guiden fra Energistyrelsen omhandler isolering af gulve i forskellige typer af bygninger. Der gives vejledning til at tjekke isoleringen over en uopvarmet kælder og fra en krybekælder. For at tjekke isoleringen over en uopvarmet kælder, kan man enten se i energimærkningsrapporten eller fjerne en lille del af loftbeklædningen for at måle isoleringen med en tommestok. Hvis der er mindre end 100 mm isolering, bør man overveje at efterisolere. Anbefalingen er mindst 75 mm, helst 150 mm isolering. For krybekældre anbefales mindst 150 mm isolering, og det kan være en bedre løsning at nedlægge krybekælderen og etablere et velisoleret terrændæk. Det fremgår også, at det er vigtigt, at kælderen ikke er fugtig eller har skimmelsvamp, før man isolerer. Energistyrelsen anbefaler at få en håndværker til at udføre isoleringsarbejdet, da det typisk tager 1-2 uger.",
+    "meta": {
+        "id": 16787096891701565906,
+        "url": "https://sparenergi.dk/forbruger/vaerktojer/guides-og-tjeklister/gulve",
+        "title": "Gulve | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:23.772679",
+        "error": null,
+        "num_tokens_in": 1516,
+        "num_tokens_out": 287,
+        "estimated_input_cost_gpt4": 0.015160000000000002,
+        "estimated_output_cost_gpt4": 0.00861,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

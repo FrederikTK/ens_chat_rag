@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder råd og vejledning til at spare energi i en lejlighed. Der gives konkrete spareråd til både varmeforbrug og elforbrug, samt information om økonomisk støtteordninger til dem, der har svært ved at betale el- og varmeregninger. Der opfordres til at bruge strøm, når prisen er lavest, og der gives forslag til langsigtede energibesparelsestiltag såsom at investere i fjernvarme eller varmepumper. Desuden opfordres til at renovere ejendommen med fokus på energiforbrug, da dette både reducerer varmeforbruget og forbedrer indeklimaet. Energistyrelsen giver eksempler på, hvad andre har gjort for at reducere deres energiforbrug og oplyser om muligheder for økonomisk støtte til forbedringer. Der er også links til yderligere information, materialer og kontakt muligheder med energirådgivere.",
+    "meta": {
+        "id": 462218784611938980,
+        "url": "https://sparenergi.dk/forbruger/spar-energi-i-din-lejlighed",
+        "title": "Spar energi i din lejlighed | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:12.647279",
+        "error": null,
+        "num_tokens_in": 2455,
+        "num_tokens_out": 254,
+        "estimated_input_cost_gpt4": 0.024550000000000002,
+        "estimated_output_cost_gpt4": 0.00762,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

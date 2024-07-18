@@ -1,0 +1,15 @@
+{
+    "text": "Informationen handler om energimærkning af forskellige typer køleskabe, frysere, køle-/fryseskabe og vinkøleskabe. Energimærkningen viser, hvor energieffektive de forskellige apparater er på en skala fra A til G. For køleskabe og fryseskabe anbefales det at gå efter et mærke på minimum D eller bedre, for køle-/fryseskabe er anbefalingen C eller bedre, og for kummefrysere E eller bedre. Der gives eksempler på, hvor meget strøm forskellige apparater bruger årligt baseret på deres energimærke. Desuden opfordres forbrugerne til at beregne totaløkonomien, dvs. de samlede udgifter til både indkøb og brug i apparatets levetid, før de foretager et køb. For vinkøleskabe anbefales det at gå efter energimærkning F eller bedre og et støjniveau under 40 dB. Kontrol med energimærkningen udføres af Sikkerhedsstyrelsen for at sikre, at apparaterne overholder kravene for at opnå den angivne energiklasse. Energimærkningen er obligatorisk og gælder blandt andet for hårde hvidevarer, elpærer, TV, klimaanlæg og varmeanlæg.",
+    "meta": {
+        "id": 9228940804815796974,
+        "url": "https://old.sparenergi.dk/forbruger/el/koel-og-frys/energimaerkning-af-koeleskabe-og-frysere",
+        "title": "Energimærkning af køleskabe, frysere, køle-/fryseskabe og vinkøleskabe",
+        "time_requested": "2024-04-16T11:49:48.671003",
+        "error": null,
+        "num_tokens_in": 1676,
+        "num_tokens_out": 345,
+        "estimated_input_cost_gpt4": 0.01676,
+        "estimated_output_cost_gpt4": 0.01035,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

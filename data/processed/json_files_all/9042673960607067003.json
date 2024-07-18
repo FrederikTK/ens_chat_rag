@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen giver gode råd til at spare på varme og køling i hjemmet. Ved at sænke temperaturen bare 1 °C i hele huset kan man spare 5% på varmeregningen. Det anbefales at holde temperaturen mellem 18-20 °C for at undgå skimmelsvamp. Det er også vigtigt at fordele varmen ved at skrue lige højt op på radiatorerne og at slukke for varmen, når man lufter ud. Det anbefales at trække gardinerne for om aftenen for at holde på varmen. Termostater spiller en vigtig rolle, og det anbefales at installere intelligente termostater, som kan spare op til 15% på varmeregningen. Gulvvarme reagerer langsomt, så det er vigtigt at skrue op for varmen med tålmodighed. Desuden gives der råd om, hvordan man bedst udnytter varmeanlægget med eftersyn og automatik. Energistyrelsen råder også til at undgå at købe luft til luft-varmepumper eller køleanlæg til at køle ned, men i stedet anbefales det at lufte ud med gennemtræk og skærme for solen. Man kan også bruge en bordblæser i stedet for en varmepumpe, da blæseren bruger mindre strøm. Energistyrelsen understreger vigtigheden af at lufte ud om aftenen og tidlig morgen, når det er køligere udenfor, hvis man bruger elektrisk køling. Der er også fokus på at spare energi på andre apparater i hjemmet, såsom lys, vaskemaskine, tørretumbler, streaming og elektronik, køkken- og madlavningapparater samt standbyforbrug. Energistyrelsen tilbyder desuden gratis rådgivning og en række værktøjer og guides til energibesparelse i hverdagen.",
+    "meta": {
+        "id": 9042673960607067003,
+        "url": "https://sparenergi.dk/privat/spar-energi-i-hverdagen/spar-paa-varme-og-vand-i-hjemmet",
+        "title": "Spar på varme og køling i hjemmet",
+        "time_requested": "2024-04-16T11:50:04.408938",
+        "error": null,
+        "num_tokens_in": 3397,
+        "num_tokens_out": 487,
+        "estimated_input_cost_gpt4": 0.03397,
+        "estimated_output_cost_gpt4": 0.01461,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

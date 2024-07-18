@@ -1,0 +1,15 @@
+{
+    "text": "Den tilgængelige information omhandler en case, hvor en boligejer har udskiftet sit oliefyr med en moderne luft til vand-varmepumpe. Boligejeren, Eskild fra Odsherred, boede alene i huset og valgte at skifte til en varmepumpe på grund af utætheder i oliefyret og revner i skorstenen. Han valgte varmepumpen for at undgå skorstenen og udnytte et tilskud til varmepumpe. Processen med udskiftningen forløb problemfrit, men Eskild måtte vænne sig til, at varmepumpen varmer mindre end oliefyret og at radiatorene fungerede anderledes. Samlet set er han tilfreds, men han har ikke anbefalet varmepumpen til andre, da han er usikker på de langsigtede omkostninger. Økonomisk har Eskild sparet 2.200 kr. om året efter skiftet til varmepumpen. Case'en indeholder også information om husets beboere og billeder af renoveringen samt typiske besparelser ved skift til luft til vand-varmepumpe og gode råd ved renovering. Case’en blev skabt i samarbejde med SEAS-NVE.",
+    "meta": {
+        "id": 15325700794812449215,
+        "url": "https://sparenergi.dk/node-view/ajax/5984/full",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:59:31.051498",
+        "error": null,
+        "num_tokens_in": 14886,
+        "num_tokens_out": 317,
+        "estimated_input_cost_gpt4": 0.14886000000000002,
+        "estimated_output_cost_gpt4": 0.009510000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

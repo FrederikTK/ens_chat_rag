@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen administrerer SparEnergi.dk, hvor man kan finde information om energimærkning af bygninger. Hjemmesiden indeholder oplysninger og værktøjer relateret til energirenovering, isolering, vinduer, ventilation, intelligent styring, varmeforbrug, varmekilder som naturgas, fjernvarme, varmepumper, elvarme, olie og solvarme. Derudover er der information om energimærkning af varmeanlæg, biobrændselskedler, sommerdrift, varmt vand, cirkulationspumper og elforbrug. Der er også sektioner rettet mod forbrugere, virksomheder og bygninger samt muligheden for at finde håndværkere og energirådgivning. Energistyrelsen tilbyder også API'er, som gør det muligt at integrere SparEnergi.dk's værktøjer på andre hjemmesider. Der er også mulighed for at bruge Casebanken, Varmepumpelisten, YouTube-kanalen, låneberegneren, BedreBolig-rådgivere og andre værktøjer. Man kan kontakte Energistyrelsen for yderligere information om API'er og brug af indhold fra SparEnergi.dk.",
+    "meta": {
+        "id": 16300973952799319545,
+        "url": "https://sparenergi.dk/brug-af-indhold-paa-sparenergi",
+        "title": "Brug af indhold på SparEnergi | Energistyrelsen",
+        "time_requested": "2024-04-16T11:49:55.867150",
+        "error": null,
+        "num_tokens_in": 5416,
+        "num_tokens_out": 311,
+        "estimated_input_cost_gpt4": 0.05416000000000001,
+        "estimated_output_cost_gpt4": 0.00933,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

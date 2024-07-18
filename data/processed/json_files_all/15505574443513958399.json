@@ -1,0 +1,15 @@
+{
+    "text": "SparEnergi.dk er en hjemmeside, der tilbyder hjælp til at spare el og varme i boliger. På hjemmesiden kan man indtaste sin adresse og få gode råd til energioptimering på netop den adresse. Der tilbydes desuden information og vejledning inden for områder som hverdagsbesparelser, skift af varmetype, boligrenovering og tilskudsmuligheder. Der er også mulighed for at se aktuelle elpriser baseret på region og timeforbrug. Endvidere tilbyder hjemmesiden nyhedsbrev med personlig tilpassede energisparetips, webinars og gratis rådgivning. Man kan også tilmelde sig diverse arrangementer og få nyheder direkte i sin indbakke. Samlet set er formålet med hjemmesiden at guide og inspirere brugerne til at spare energi i deres hjem på en bæredygtig og omkostningseffektiv måde.",
+    "meta": {
+        "id": 15505574443513958399,
+        "url": "https://sparenergi.dk/vores-energiaftale/spareraad?destination=/",
+        "title": "Vores energiaftale | Energistyrelsen",
+        "time_requested": "2024-04-16T11:57:14.548218",
+        "error": null,
+        "num_tokens_in": 1267,
+        "num_tokens_out": 238,
+        "estimated_input_cost_gpt4": 0.01267,
+        "estimated_output_cost_gpt4": 0.0071400000000000005,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har information om energimærkning af bygninger og tilbyder rådgivning til forbrugere, virksomheder og offentlige institutioner. Der er fokus på energimærkning af boliger og varmeanlæg samt vejledning om isolering, vinduer, ventilation, intelligente styringssystemer og forskellige varmekilder som naturgas, fjernvarme, olie, varmepumper, elvarme, træpiller, solvarme og kombinationsløsninger. Der er en liste over varmepumper og energimærkning af disse. Der tilbydes også information om energimærkning af biobrændselskedler og sommerdrift. Energistyrelsen har desuden en Varmepumpeliste og tilbyder API'er til brug af indhold på deres hjemmeside. Der er også information om tilskudsordninger som Varmepumpepuljen og Fjernvarmens Serviceordning. Man kan også finde information om at skifte varmetype, f.eks. til luft til luft-varmepumpe eller luft til vand-varmepumpe. Energistyrelsen tilbyder også informationsmateriale om energimærkning af luft til luft-varmepumpe, valg af varmepumpemodel, og skrotning af gamle varmepumper. Der er produkter som Metro Therm Metroair og Bosch Compress 7000i AW på deres produktliste. Energistyrelsen har kontor på Carsten Niebuhrs Gade 43 i København.",
+    "meta": {
+        "id": 7352374951552833721,
+        "url": "https://sparenergi.dk/google-search?tab=2490&query=varmepumpelisten",
+        "title": "Søgeresultat | Energistyrelsen",
+        "time_requested": "2024-04-16T11:59:15.741148",
+        "error": null,
+        "num_tokens_in": 3341,
+        "num_tokens_out": 372,
+        "estimated_input_cost_gpt4": 0.03341,
+        "estimated_output_cost_gpt4": 0.01116,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

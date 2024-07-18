@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en række tjeklister til erhvervsvirksomheder for at vurdere energieffektiviteten af deres bygninger, processer og installationer. Disse tjeklister kan hjælpe virksomheder med at identificere områder, hvor de kan reducere energiforbruget. Nogle af de tilgængelige tjeklister inkluderer tjeklister for automatik, belysningsanlæg, klimaskærm, køling, køling af serverrum, trykluft, ventilation og varmeanlæg. Hver tjekliste kommer med en beskrivelse og mulighed for at downloade en PDF-fil, der kan anvendes enten til selvinspektion eller med inddragelse af en specialist. Energistyrelsen opfordrer også virksomheder til at skifte til LED-belysning for at reducere elforbruget og tilbyder en tilmelding til deres nyhedsmail for at modtage relevant information om energibesparelser og CO2-reduktioner. Energistyrelsens adresse er Carsten Niebuhrs Gade 43, 1577 København V, og yderligere information kan findes på deres hjemmeside www.ens.dk.",
+    "meta": {
+        "id": 13233932858407809042,
+        "url": "https://sparenergi.dk/erhverv/vaerktojer/tjeklister",
+        "title": "Tjeklister | Energistyrelsen",
+        "time_requested": "2024-04-16T11:58:25.456809",
+        "error": null,
+        "num_tokens_in": 1738,
+        "num_tokens_out": 311,
+        "estimated_input_cost_gpt4": 0.017380000000000003,
+        "estimated_output_cost_gpt4": 0.00933,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

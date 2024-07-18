@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har samlet gode råd til energioptimering i sommerhuset. Her er nogle af de bedste tips:\n\n1. Tag de gode vaner med fra hjemmet: Opfrisk dine gode strøm- og varmevaner i sommerhuset.\n2. Husk temperaturen i køleskabet og fryseren: Hold 5 °C i køleskabet og -18 °C i fryseren.\n3. Drop terrassevarmeren: En terrassevarmer spilder energi, overvej et ekstra tæppe i stedet.\n4. Tør tøjet udendørs: Spar strøm ved at tørre tøj på et tørrestativ.\n5. Gode badevaner: Dæk pool og spa til for at holde på varmen, tag kortere og køligere bade.\n6. Skru ned for varmen: Sænk temperaturen med 1 °C i ydersæsonerne for at spare på varmeregningen.\n7. Brug strømmen, når den er billig: Udnyt billig strøm til f.eks. vasketøj og opvaskemaskine.\n8. Check sommerhuset for forbedringsmuligheder: Isolér bedre, forbedr vinduer og undgå fugt.\n9. Varmt brugsvand: Overvej solvarme eller en gennemstrømsvandvarmer for at spare strøm.\n10. Hvis du har elvarme, overvej en varmepumpe: Varmepumper er mere effektive og kan reducere elforbruget betydeligt.\n11. Hold sommerhuset frostfrit om vinteren: Luk vandet, tøm rør og beholdere og sluk for strømmen.\n\nVed at følge disse råd kan du spare på energiforbruget i dit sommerhus og dermed reducere dine omkostninger. Energistyrelsen tilbyder også gratis rådgivning og giver vejledning om valg af varmepumper og energibesparende tiltag i dit sommerhus.",
+    "meta": {
+        "id": 1166365839395018827,
+        "url": "https://sparenergi.dk/privat/spar-energi-i-dit-sommerhus",
+        "title": "Spar energi i sommerhuset",
+        "time_requested": "2024-04-16T11:52:17.756836",
+        "error": null,
+        "num_tokens_in": 6476,
+        "num_tokens_out": 495,
+        "estimated_input_cost_gpt4": 0.06476000000000001,
+        "estimated_output_cost_gpt4": 0.01485,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

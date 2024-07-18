@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har samlet en række gode råd til at spare energi i sommerhuset. Nogle af de væsentlige råd inkluderer at tage gode vaner med fra hjemmet, huske at holde temperaturen på køleskab og fryser korrekt, droppe terrassevarmeren til fordel for et tæppe, tørre tøj udenfor i stedet for i tørretumbleren, dække pool og spa til for at holde på varmen, skrue ned for varmen i ydersæsonerne, udnytte billigere strømpriser til fx vasketøj og opvask, isolere sommerhuset for at spare på varmen, bruge solvarme til varmt vand og varme, overveje en gennemstrømsvandvarmer for at spare strøm, muligvis installere solceller eller en luft til vand-varmepumpe, lukke sommerhuset ordentligt ned om vinteren for at undgå frostskader, og tjekke energiforbruget og isoleringen på et sommerhus, inden man køber det. Energistyrelsen opfordrer også til at kontakte deres rådgivning for at få hjælp og vejledning omkring energibesparelser i sommerhuset.",
+    "meta": {
+        "id": 15232327489902731295,
+        "url": "https://sparenergi.dk/forbruger/sommerhus",
+        "title": "Sommerhus | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:11.296431",
+        "error": null,
+        "num_tokens_in": 6476,
+        "num_tokens_out": 313,
+        "estimated_input_cost_gpt4": 0.06476000000000001,
+        "estimated_output_cost_gpt4": 0.00939,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

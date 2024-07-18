@@ -1,0 +1,15 @@
+{
+    "text": "Ansøgervejledningen til Bygningspuljen indeholder 34 sider og er en vejledning til ansøgning om tilskud til energibesparelser og energieffektiviseringer i bygninger til helårsbeboelse. Den er udgivet af Energistyrelsen og kan downloades som en PDF. Vejledningen indeholder sandsynligvis information om kriterier for ansøgning, krav til dokumentation, hvilke typer af energibesparelser der kan få tilskud, og hvordan man udfylder ansøgningsprocessen. Man kan finde vejledningen på SparEnergi.dk under fanen \"Ansøgervejledning til Bygningspuljen\" og den er tilgængelig for både forbrugere, offentlige institutioner og erhverv. Energistyrelsens kontaktoplysninger er også inkluderet på sidste side af vejledningen.",
+    "meta": {
+        "id": 4101617473851917296,
+        "url": "https://sparenergi.dk/forbruger/materialer/ansogervejledning-til-bygningspuljen",
+        "title": "Ansøgervejledning til Bygningspuljen",
+        "time_requested": "2024-04-16T11:48:01.681396",
+        "error": null,
+        "num_tokens_in": 877,
+        "num_tokens_out": 219,
+        "estimated_input_cost_gpt4": 0.00877,
+        "estimated_output_cost_gpt4": 0.00657,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

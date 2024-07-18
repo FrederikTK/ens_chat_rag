@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen oplyser om energimærkning af luft til vand-varmepumper og jordvarme. Energimærket viser varmepumpens energieffektivitet og energiklasse på en skala fra A+++ til F. På mærket findes information om ydelse, støjniveau, forbrugsprofil og eventuelle sol- eller styringskomponenter. Pakkeløsninger med varmepumper skal have et pakkemærke, som angiver energiklasse for både varmepumpen og den samlede løsning. Anbefalingen er at vælge A++ eller bedre for varmepumpen. Besparelsen afhænger af varmeforbrug, isolering og opvarmningsform. Energimærkningen kontrolleres af Sikkerhedsstyrelsen. Energistyrelsen anbefaler at bruge Ny Varme beregneren for at få et bud på økonomien ved at skifte til varmepumpe. Man kan finde de bedste varmepumper på det danske marked på Varmepumpelisten. Energimærkningsordningen gælder også for pakkeløsninger, hvor forskellige teknologier kombineres. Støjniveauet fra anlægget angives som \"lydeffektniveau\" på energimærket. Energistyrelsen opfordrer forbrugere til at vælge energiklasse A med flest plusser for at opnå størst besparelse.",
+    "meta": {
+        "id": 17838888687895113743,
+        "url": "https://old.sparenergi.dk/forbruger/varme/varmepumper/energimaerkning-af-varmepumper",
+        "title": "Energimærkning af varmepumper | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:56.764103",
+        "error": null,
+        "num_tokens_in": 2341,
+        "num_tokens_out": 355,
+        "estimated_input_cost_gpt4": 0.02341,
+        "estimated_output_cost_gpt4": 0.01065,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

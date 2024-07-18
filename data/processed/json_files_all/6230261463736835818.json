@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen anbefaler at isolere kældervæggen udefra, hvis kælderen er opvarmet og der er mindre end 100 mm isolering i kældervæggen. Ved at isolere yderligere kan man opnå en mindre varmeregning og et bedre indeklima. Isolering af kældervæggene giver et bedre indeklima med varmere vægge, mindre træk og færre problemer med fugt og skimmelsvamp. Samtidig vil isoleringen også resultere i en lavere varmeregning, øget værdi af huset og skåne vores klima ved at holde på varmen. Hvis kældervæggene har mindre end 100 mm isolering, og kælderen er opvarmet, kan det normalt betale sig at efterisolere. Isoleringen udføres ved at grave væggen fri, sikre at regn- og grundvand ledes væk og montere ekstra isolering på væggen. Det er vigtigt at bruge fagfolk, da forkert udført isolering kan føre til fugt og skimmelsvamp. Isoleringsarbejdet bør udføres når kældervæggen alligevel er gravet fri for eksempel i forbindelse med etablering af omfangsdræn. Energistyrelsen anbefaler at tjekke energimærkningsrapporten og rådføre sig med håndværkere før igangsættelse af arbejdet. Man kan få mere information og finde håndværkere i nærheden på Energistyrelsens hjemmeside.",
+    "meta": {
+        "id": 6230261463736835818,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/energiloesninger/isolering-af-kaeldervaeg-udefra",
+        "title": "Isolering af kældervæg, udefra",
+        "time_requested": "2024-04-16T11:51:35.341649",
+        "error": null,
+        "num_tokens_in": 2179,
+        "num_tokens_out": 406,
+        "estimated_input_cost_gpt4": 0.02179,
+        "estimated_output_cost_gpt4": 0.01218,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

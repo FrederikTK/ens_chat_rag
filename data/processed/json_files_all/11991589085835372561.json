@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside tilbyder en guide til at kontrollere døre og vinduer i ens bolig for at vurdere, om de trænger til renovering eller udskiftning. Guiden beskriver blandt andet hvordan man kan undersøge om vinduerne har termoruder eller energiruder, hvordan man kan skifte ruderne ud med energiruder, hvordan man kan tætne vinduer med tætningslister, og hvordan man kan energiforbedre vinduer med forsatsrammer. Derudover informeres der om hvordan man kan forbedre yderdøre, isolere og lukke brevsprækker for at spare energi. Guiden indeholder også information om udskiftning af ovenlyskupler og råd om hvad man kan gøre, hvis det trækker fra vinduer, døre eller ovenlyskupler. Der gives også råd om at søge professionel rådgivning ved behov for renovering. Energistyrelsens hjemmeside tilbyder desuden forskellige værktøjer, guides og tjeklister for energibesparelse samt en liste med håndværkere, der kan hjælpe med energirenovering.",
+    "meta": {
+        "id": 11991589085835372561,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktojer/guides-og-tjeklister/dore-og-vinduer",
+        "title": "Døre og vinduer | Energistyrelsen",
+        "time_requested": "2024-04-16T11:53:46.476080",
+        "error": null,
+        "num_tokens_in": 3724,
+        "num_tokens_out": 286,
+        "estimated_input_cost_gpt4": 0.03724,
+        "estimated_output_cost_gpt4": 0.00858,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside indeholder information om isolering af tag og loft. Der gives råd om efterisolering, som kan reducere både varmeregningen og CO2-udledningen. En guide med titlen 'Isoler tag og loft' tilbyder hjælp til at kontrollere isoleringen og vurdere behovet for efterisolering. Det anbefales at øge isoleringstykkelsen på loftet til mindst 300 mm. Der nævnes desuden, at Bygningsreglementet har energikrav, der skal overholdes ved udskiftning af dele af en eksisterende bygning. Siden indeholder også eksempler på, hvordan forskellige typer huse fra forskellige perioder kan isoleres og opgraderes energimæssigt. Energistyrelsens kontaktoplysninger og links til yderligere information om isolering af tag, loft og andre områder kan også findes på siden.",
+    "meta": {
+        "id": 6481253885829949367,
+        "url": "https://sparenergi.dk/forbruger/boligen/isolering/isolering-af-tag-og-loft",
+        "title": "Isolering af tag og loft | Energistyrelsen",
+        "time_requested": "2024-04-16T11:57:41.684628",
+        "error": null,
+        "num_tokens_in": 1581,
+        "num_tokens_out": 222,
+        "estimated_input_cost_gpt4": 0.01581,
+        "estimated_output_cost_gpt4": 0.00666,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

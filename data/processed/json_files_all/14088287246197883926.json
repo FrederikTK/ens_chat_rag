@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder råd og vejledning til offentlige organisationer for at optimere deres energiforbrug. Første skridt er at skabe et overblik over energiforbruget ved at monitorere forbruget manuelt eller ved hjælp af et energistyringssystem, som kan justere anlægget efter behov. Der er tre primære råd til energioptimering: 1) Køb energirigtige apparater for at sikre lavt energiforbrug over produktets levetid. 2) Overvej at renovere bygningerne med fokus på energibesparelser, især hvis de allerede bruger meget varme. Energiledelse anbefales som en organiseret indsats for energibesparelser, hvilket også kan bidrage til en grønnere virksomhedsprofil. Når det kommer til varmeforbrug, anbefales det at mindske varmespild og vælge den mest energieffektive opvarmningsform samt at få et overblik over varmeforbruget og opgradere varmesystemerne. Når det gælder elforbrug, bør man få overblik over elforbruget, analysere hvad strømmen bliver brugt til, og sætte ind de rigtige steder for at spare energi. Der anbefales at bruge energimærket til at få indsigt i forbruget og købe energirigtige produkter. For vandforbrug gives der råd om at stoppe vandspild, bruge vandbesparende faciliteter og-installationer, samt overvåge og kontrollere vandforbruget regelmæssigt. Energistyrelsen tilbyder ligeledes gratis rådgivning og har fokus på at give inspiration, viden og råd til at få mest ud af energien.",
+    "meta": {
+        "id": 14088287246197883926,
+        "url": "https://old.sparenergi.dk/offentlig/bygninger/forbrug/om-vandforbrug",
+        "title": "Om vandforbrug | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:36.376746",
+        "error": null,
+        "num_tokens_in": 4292,
+        "num_tokens_out": 454,
+        "estimated_input_cost_gpt4": 0.04292000000000001,
+        "estimated_output_cost_gpt4": 0.01362,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

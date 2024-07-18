@@ -1,0 +1,15 @@
+{
+    "text": "Energirådgivning kan være nyttigt for at reducere energiforbruget i bygninger. Energirådgivere kan hjælpe med at identificere energioptimeringsmuligheder og give anbefalinger til energirenovering. En energirådgiver besøger bygningen, gennemgår faste installationer og udarbejder en rapport med forslag til forbedringer, omkostninger, og potentielle besparelser på el- og varmeregninger. Rapporten indeholder en prioriteret liste over de mest rentable tiltag. Desuden kan kravspecifikationer anvendes til at stille de rette krav til leverandører af energieffektive anlæg og udstyr. Energistyrelsen tilbyder også information om energimærkning af bygninger og kravspecifikationer. SparEnergi tilbyder gratis rådgivning og materialer til at optimere energiforbruget.",
+    "meta": {
+        "id": 14053767667194043375,
+        "url": "https://sparenergi.dk/offentlig/bygninger/energiraadgivning",
+        "title": "Energirådgivning | Energistyrelsen",
+        "time_requested": "2024-04-16T11:53:38.444143",
+        "error": null,
+        "num_tokens_in": 587,
+        "num_tokens_out": 237,
+        "estimated_input_cost_gpt4": 0.00587,
+        "estimated_output_cost_gpt4": 0.00711,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

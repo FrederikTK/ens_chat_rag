@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en række værktøjer og informationer til brugere inden for kategorierne forbruger, offentlig og erhverv. Disse værktøjer inkluderer bl.a. information om energimærkning af bygninger, råd om energioptimering i boliger, oplysninger om forskellige varmekilder og energibesparende løsninger. Der er også guides og beregnere tilgængelige, herunder en låneberegner, værktøjer til at finde energimærker, energimærkningsfirmaer og håndværkere, samt information om energiforbrug og elpriser. Energistyrelsen har desuden en nyhedsmail, hvor man kan tilmelde sig for at få opdateringer om energibesparelser.\u000b",
+    "meta": {
+        "id": 5992586410109202964,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer",
+        "title": "Værktøjer | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:40.996470",
+        "error": null,
+        "num_tokens_in": 1022,
+        "num_tokens_out": 201,
+        "estimated_input_cost_gpt4": 0.010220000000000002,
+        "estimated_output_cost_gpt4": 0.00603,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

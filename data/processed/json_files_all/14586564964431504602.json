@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har et omfattende online informationssystem om energimærkning af bygninger, som er inddelt i kategorierne Forbruger, Offentlig og Erhverv. Under kategorien Forbruger kan man finde information om energimærkning af boliger, isolering, vinduer, ventilation, varmeforbrug, valg af varmetype, energimærkning af varmeanlæg, elforbrug og energimærkning af apparater.  \nI kategorien Offentlig findes information om energimærkning af bygninger, renovering af bygninger, ESCO, energirådgivning, opvarmning og køling af bygninger samt diverse typer af energiforbrug og løsninger.  \nI Erhvervskategorien indeholder information om energiledelse og nøgletal indenfor industriel og erhvervsmæssig energianvendelse, herunder lys, ventilation, byggeri og landbrug.  \nDer findes også værktøjer som energimærkefirma finder, energimærke og energimærkningsfirma og andre guides og værktøjer til at forbedre energieffektiviteten i bygninger. Energistyrelsen kan kontaktes på Carsten Niebuhrs gade 43, 1577 København V. Der henvises også til SparEnergi.dk, hvor man kan få yderligere information og bruge diverse værktøjer, såsom apparatberegner og elforbrugsberegner.",
+    "meta": {
+        "id": 14586564964431504602,
+        "url": "https://sparenergi.dk/login",
+        "title": "Page not found",
+        "time_requested": "2024-04-16T11:47:47.192635",
+        "error": null,
+        "num_tokens_in": 771,
+        "num_tokens_out": 368,
+        "estimated_input_cost_gpt4": 0.007710000000000001,
+        "estimated_output_cost_gpt4": 0.01104,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

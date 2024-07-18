@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en række energiløsninger, som man kan finde information om på deres hjemmeside. Der er en række værktøjer til rådighed, herunder energimærkning af bygninger, information om energikrav i bygningsreglementet, tilskudsmuligheder, isolering, vinduer, ventilation, intelligent styring, valg af varmekilde (naturgas, fjernvarme, olie, varmepumper, elvarme, træpiller, solvarme og kombinationsløsninger), lister over varmepumper, energimærkning af varmeanlæg og biobrændselskedler, samt information om elforbrug og elpriser. Der er også specifikke sektioner rettet mod forbrugere, offentlige bygninger og erhverv. Man kan finde information om varmepumper, herunder luft-til-vand varmepumper, jordvarme varmepumper, luft-til-luft varmepumper, boligventilationsvarmepumper og brugsvandsvarmepumper. Energistyrelsen tilbyder også en liste over håndværkere og VE-virksomheder, samt mulighed for at finde energimærkefirmaer og få adgang til yderligere værktøjer og information såsom låneberegninger, gør-det-selv guides, varmepumpelisten, apparatberegninger, elforbrugsberegninger og elpriser. Energistyrelsen's hjemmeside er tilgængelig på www.ens.dk.",
+    "meta": {
+        "id": 3058228360643300576,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/energiloesninger/varmepumpe",
+        "title": "Find energiløsninger | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:55.406311",
+        "error": null,
+        "num_tokens_in": 1026,
+        "num_tokens_out": 386,
+        "estimated_input_cost_gpt4": 0.01026,
+        "estimated_output_cost_gpt4": 0.01158,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

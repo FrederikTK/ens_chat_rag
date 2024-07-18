@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside indeholder information om energimærkning af boliger. Energimærkningen bruges til at vurdere, hvordan en bolig bruger energi og hvordan man kan gøre den mere energieffektiv og sund. Energimærket viser boligens energimærke på en skala fra A til G og indeholder forslag til forbedringer. Energimærkningsrapporten viser, hvilke energiforbedringer der kan betale sig og angiver de tre bedste forslag, hvis rapporten er udarbejdet efter september 2021. Energimærkningen er obligatorisk ved salg eller udlejning af en bolig i mere end 4 uger, og det er sælger eller udlejer, der betaler for energimærkningen. Energimærket gælder i 10 år. Energimærkningen udarbejdes af energimærkningskonsulenter, og der er undtagelser fra kravet om energimærkning for visse mindre bygninger, sommerhuse og fredede bygninger. Information om energimærkning i forhold til køb af bolig, renovering, nybyggeri og tilskud er også tilgængelig på hjemmesiden. Energistyrelsen tilbyder yderligere rådgivning om energimærkning og energibesparelser via erfarne energirådgivere, som kan kontaktes for gratis rådgivning.",
+    "meta": {
+        "id": 733690320155471865,
+        "url": "https://sparenergi.dk/forbruger/boligen/energimaerkning-boliger",
+        "title": "Site under opdatering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:06.206127",
+        "error": null,
+        "num_tokens_in": 2506,
+        "num_tokens_out": 356,
+        "estimated_input_cost_gpt4": 0.025060000000000002,
+        "estimated_output_cost_gpt4": 0.01068,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

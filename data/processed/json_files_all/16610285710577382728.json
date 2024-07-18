@@ -1,0 +1,15 @@
+{
+    "text": "Indholdet på SparEnergi.dk fortæller om fordelene ved at skifte fra termoruder til energiruder i en bolig. Hjemmesiden anbefaler at skifte ruderne til energiruder i stedet for at udskifte hele vinduet, så længe vinduesrammerne er i god stand. Energiruder kan holde bedre på varmen end ældre termoruder, hvilket resulterer i besparelser på varmeregningen og et bedre indeklima. Det fremhæves, at det er billigere at skifte ruderne end hele vinduet. Hjemmesiden forklarer også forskellen mellem 2- og 3-lags energiruder, hvordan man kan tjekke om ens ruder er energiruder, og hvordan udskiftningen af ruderne kan foregå, enten som gør-det-selv projekt eller ved at bruge en professionel håndværker. Der gives også information om lovgivningen og kravene til energimærkning ved udskiftning af vinduer. Sluttelig opfordres brugere til at kontakte en professionel for hjælp og rådgivning vedrørende energioptimering i boligen.",
+    "meta": {
+        "id": 16610285710577382728,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/energiloesninger/fra-termorude-til-energirude",
+        "title": "Fra termorude til energirude",
+        "time_requested": "2024-04-16T11:50:24.468041",
+        "error": null,
+        "num_tokens_in": 2433,
+        "num_tokens_out": 290,
+        "estimated_input_cost_gpt4": 0.02433,
+        "estimated_output_cost_gpt4": 0.0087,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

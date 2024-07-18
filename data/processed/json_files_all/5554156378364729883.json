@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen omhandler fundament og kældere i 1950'erne villaer og beskriver typiske træk og problemer ved disse. Kælderen i disse villaer rummer ofte sekundære rum og er oprindeligt indrettet med vaskerum, fyrrum, oplagsrum, og viktualierum til fødevarer. Typisk er kælderen højtliggende, med loft på 2,10 meter og gulv under 1,5 meter under jordoverfladen. Kældervæggene er fuldmurede og ofte fugtige, da de er i direkte kontakt med jorden. Den naturlige varmekilde fra en kedel der afbrænder olie er nu sjælden, så det anbefales at installere radiatorer i kælderen for at undgå fugtproblemer.\n\nFor uopvarmede kældere anbefales det at tjekke og reparere revner, lade overflader stå diffusionsåbne, lufte ud for at undgå sommerkondens og eventuelt isolere gulvet over kælderen. For opvarmede kældere anbefales det at reparere revner, lade overflader stå diffusionsåbne, lufte ud, og eventuelt efterisolere kældervægge udefra og isolere kældergulvet.\n\nArtiklen opfordrer til at tage hensyn til fugtproblem og vælge en passende isoleringsmetode for at undgå skimmeldannelse. Desuden omtales muligheden for at få tilskud til energirenoveringer og gives eksempler på tidligere energirenoveringsprojekter i 1950'erne villaer.",
+    "meta": {
+        "id": 5554156378364729883,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/bygningsguiden/50er-villa/fundament-og-kaelder",
+        "title": "Fundament og kælder | Energistyrelsen",
+        "time_requested": "2024-04-16T11:59:26.474273",
+        "error": null,
+        "num_tokens_in": 4317,
+        "num_tokens_out": 416,
+        "estimated_input_cost_gpt4": 0.04317000000000001,
+        "estimated_output_cost_gpt4": 0.01248,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "På SparEnergi.dk kan man få hjælp til at spare el og varme i sin bolig. Hjemmesiden tilbyder gode råd til energioptimering ved at indtaste sin adresse. Man kan få de tre mest effektive råd til energioptimering tilpasset sin adresse. Hjemmesiden tilbyder også information om aktuelle tilskudsordninger og Energirenoveringspuljen. Man kan få råd til at spare energi i hverdagen, skifte varmetype og renovere sin bolig for at forbedre indeklimaet. Derudover kan man se elpriser for de kommende timer og få et estimat på, hvad det koster at skifte varmetype og hvor meget man kan spare. Hjemmesiden tilbyder også en guide til at afkoble gasfyret og få bedre varme næste vinter. Man kan tilmelde sig nyhedsmailen for at få spareråd tilpasset sin bolig og interesser direkte i indbakken.",
+    "meta": {
+        "id": 4077696636064554489,
+        "url": "https://sparenergi.dk/forbruger/boligen/bygningsreglementets-energikrav/installationer",
+        "title": "Installationer | Energistyrelsen",
+        "time_requested": "2024-04-16T11:57:48.241810",
+        "error": null,
+        "num_tokens_in": 1267,
+        "num_tokens_out": 242,
+        "estimated_input_cost_gpt4": 0.01267,
+        "estimated_output_cost_gpt4": 0.00726,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

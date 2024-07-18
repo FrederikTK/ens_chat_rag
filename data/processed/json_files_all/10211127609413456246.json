@@ -1,0 +1,15 @@
+{
+    "text": "På Energistyrelsens hjemmeside er der en funktion kaldet \"Find bygningens energimærke\", hvor man kan indtaste en bygnings adresse for at finde ud af, hvor energieffektiv bygningen er. Funktionen giver mulighed for at indtaste zip code, street og number for at finde det konkrete energimærke. Energimærkningen hjælper med at vurdere bygningens energieffektivitet. Energistyrelsen har adressen Carsten Niebuhrs Gade 43, 1577 København V, og man kan finde mere information på deres hjemmeside www.ens.dk.",
+    "meta": {
+        "id": 10211127609413456246,
+        "url": "https://sparenergi.dk/offentlig/vaerktoejer/find-bygningens-energimaerke",
+        "title": "Find bygningens energimærke | Energistyrelsen",
+        "time_requested": "2024-04-16T11:53:12.986509",
+        "error": null,
+        "num_tokens_in": 1056,
+        "num_tokens_out": 151,
+        "estimated_input_cost_gpt4": 0.010560000000000002,
+        "estimated_output_cost_gpt4": 0.00453,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

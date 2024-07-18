@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information og værktøjer inden for energimærkning af bygninger og energiløsninger til forbrugere, virksomheder og offentlige instanser. På deres hjemmeside kan man finde information om isolering, vinduer, ventilation, varmetyper som naturgas, fjernvarme, varmepumper, elvarme, olie og træpiller, samt energimærkning af varmeanlæg og apparater. Der er også rådgivning om energiløsninger, energimærkning af biobrændselskedler, varmt vand, cirkulationspumper, elpriser og energiledelse. Der er forskellige typer varmepumper at vælge imellem som luft til vand-varmepumpe, jordvarme, luft til luft-varmepumpe, boligventilationsvarmepumpe og brugsvandsvarmepumpe. Energistyrelsens hjemmeside indeholder også information om renovering af bygninger, nybyggeri, ESCO, energirådgivning, opvarmning af bygninger, køling, belysning, IT og elektronik, samt en håndværkerliste og VE-virksomheder. Man kan også finde links til værktøjer som energimærke-firmaer, BedreBolig, Bygningsguiden, Casebank, Gør det selv-guides, låneberegner, varmepumpelisten, ny varme app og flere andre nyttige ressourcer. Energistyrelsen's adresse er Carsten Niebuhrs Gade 43, 1577 København V, og der er mulighed for at kontakte dem via deres hjemmeside www.ens.dk.",
+    "meta": {
+        "id": 17100241337341471078,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/energiloesninger/varmepumpe",
+        "title": "Find energiløsninger | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:22.941380",
+        "error": null,
+        "num_tokens_in": 1026,
+        "num_tokens_out": 424,
+        "estimated_input_cost_gpt4": 0.01026,
+        "estimated_output_cost_gpt4": 0.01272,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

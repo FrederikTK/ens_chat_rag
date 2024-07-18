@@ -1,0 +1,15 @@
+{
+    "text": "Resumé:\nEnergistyrelsens hjemmeside, SparEnergi, tilbyder en vejledning i at tjekke husets tæthed for at forhindre varmetab. Cirka 10% af varmen i et hus går tabt gennem utætheder. Hjemmesiden giver konkrete trin-for-trin instruktioner til at undersøge og forbedre tæthed ved vinduer, døre, brevsprækker, lemme, pejse, brændeovne, paneler i gulvhøjde og loftshøjde. For hvert område gives en metode til at tjekke for utætheder samt anbefalinger til forbedring, f.eks. udskiftning af fuger, installation af tætningslister eller brug af en fagperson. Hjemmesiden opfordrer også til at få professionel hjælp i tilfælde af komplekse opgaver eller håndtering af farlige materialer som PCB. Selve hjemmesiden indeholder også yderligere information om energibesparelse og muligheder for gratis rådgivning.",
+    "meta": {
+        "id": 13625483524461001473,
+        "url": "https://sparenergi.dk/guide-tjek-husets-t%C3%A6thed",
+        "title": "Guide: Tjek husets tæthed",
+        "time_requested": "2024-04-16T11:54:50.875717",
+        "error": null,
+        "num_tokens_in": 3105,
+        "num_tokens_out": 265,
+        "estimated_input_cost_gpt4": 0.03105,
+        "estimated_output_cost_gpt4": 0.00795,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

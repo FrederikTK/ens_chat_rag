@@ -1,0 +1,15 @@
+{
+    "text": "BedreBolig er en ordning udviklet af Energistyrelsen, der hjælper boligejere med at renovere deres bolig på en energirigtig måde. Ved at kontakte en BedreBolig-rådgiver kan man få en BedreBolig-plan, som inkluderer fakta om huset, ønsker til renoveringen, en prioriteret liste over forbedringer, økonomisk oversigt, og gode råd til energirigtig adfærd. Prisen for en BedreBolig-plan aftales med rådgiveren. Renovering med BedreBolig kan resultere i lavere varmeregning, bedre komfort, øget salgsværdi, og en mere klimavenlig bolig. Rådgivningen hjælper boligejeren hele vejen gennem renoveringsprocessen, og man kan vælge en rådgiver baseret på ens behov og ønsker. Man kan også få et energimærke og opfølgende tjek efter renoveringen. BedreBolig-rådgivere kan være arkitekter, ingeniører, energikonsulenter eller håndværkere, og det anbefales at vælge en rådgiver, der ikke er tilknyttet en udførende virksomhed. Energistyrelsen tilbyder yderligere information om BedreBolig på deres hjemmeside.",
+    "meta": {
+        "id": 9123681145644917674,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/bedrebolig",
+        "title": "Enfamiliehus | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:27.016141",
+        "error": null,
+        "num_tokens_in": 2389,
+        "num_tokens_out": 345,
+        "estimated_input_cost_gpt4": 0.02389,
+        "estimated_output_cost_gpt4": 0.01035,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

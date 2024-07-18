@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har en hjemmeside, hvor de stiller spørgsmål om virksomhedens størrelse. De mulige svarmuligheder er \"Lille virksomhed\", \"Mellemstor virksomhed\" og \"Stor virksomhed\". Energistyrelsen anmoder om at angive virksomhedens størrelse ved at vælge et af disse svar for at fortsætte.",
+    "meta": {
+        "id": 2033478152819746387,
+        "url": "https://sparenergi.dk/udskiftning-af-br%C3%A6ndselskedel/reset?destination=/udskiftning-af-br%25C3%25A6ndselskedel%3Fdestination%3D/erhverv/smaa-kedler-beregner%2523business-grant-block-12",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:59:25.442967",
+        "error": null,
+        "num_tokens_in": 47,
+        "num_tokens_out": 100,
+        "estimated_input_cost_gpt4": 0.00047000000000000004,
+        "estimated_output_cost_gpt4": 0.003,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

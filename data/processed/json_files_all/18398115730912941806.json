@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder rådgivning og information til nye husejere, der ønsker at energirenovere deres bolig. Energirenovering medfører et lavere varmeforbrug, hvilket resulterer i en lavere varmeregning og et mere klimavenligt hus. Energistyrelsen anbefaler at bruge professionelle eksperter til energirenovering i stedet for venner eller familie. Der er også tips og inspiration til energirenovering af forskellige husetyper som typehuse, byhuse, landhuse, murermestervillaer, patriciervillaer og parcelhuse. Derudover gives der information om vigtige begreber som fjernvarme, varmepumpe, energiruder, efterisolering og energimærkningsrapport. Energistyrelsen tilbyder også gratis rådgivning og lister over lokalrådgivere og håndværkere, der kan hjælpe med energirenovering. Der opfordres til at tilmelde sig nyhedsbrevet for at modtage tips og guides til energioptimering i hverdagen og under renovering.",
+    "meta": {
+        "id": 18398115730912941806,
+        "url": "https://sparenergi.dk/forbruger/dit-foerste-hus",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:57:38.230992",
+        "error": null,
+        "num_tokens_in": 2300,
+        "num_tokens_out": 281,
+        "estimated_input_cost_gpt4": 0.023000000000000003,
+        "estimated_output_cost_gpt4": 0.00843,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

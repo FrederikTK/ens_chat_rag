@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder et værktøj kaldet \"Find dit energimærke\", hvor man kan indtaste sin adresse for at finde ud af, hvor energieffektivt ens hus er. Energimærket kan hjælpe med at undersøge, hvordan man kan få en mindre varmeregning og et mere energieffektivt hus. Man kan finde sit energimærke ved at indtaste sin adresse i værktøjet. Energimærkningen er tilgængelig for huse, lejligheder og sommerhuse. Energistyrelsens adresse er Carsten Niebuhrs Gade 43, 1577 København V. Man kan også tilmelde sig nyhedsmail fra SparEnergi.dk.",
+    "meta": {
+        "id": 6956940655706089793,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/det-digitale-energimaerke",
+        "title": "Site under opdatering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:37.790825",
+        "error": null,
+        "num_tokens_in": 1036,
+        "num_tokens_out": 176,
+        "estimated_input_cost_gpt4": 0.010360000000000001,
+        "estimated_output_cost_gpt4": 0.00528,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

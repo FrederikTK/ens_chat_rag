@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside SparEnergi.dk tilbyder en række informationer og værktøjer inden for energirenovering og energioptimering af bygninger. Hjemmesiden indeholder blandt andet information om energimærkning af bygninger, isolering, vinduer, ventilation, varmesystemer, el-forbrug, apparater, energirådgivning samt lister over håndværkere og virksomheder inden for energirenovering. Man kan også finde værktøjer som en låneberegner, tilskudsberegner, Varmepumpelisten, energimærkning af boliger, BedreBolig-rådgivere, energiløsningsguides og casestudier om energirenoveringer. Desuden tilbyder Energistyrelsen API'er, der gør det muligt at dele indhold fra SparEnergi.dk til andre hjemmesider eller applikationer. Hjemmesiden tilbyder også en YouTube-kanal med informative videoer. Energistyrelsen oplyser, at man må linke til alt indhold på SparEnergi.dk og gerne bruge det i egne kanaler, så længe kilden angives tydeligt. Man kan kontakte Energistyrelsen for at få nøjagtige beregninger og forudsætninger bag informationerne. Energistyrelsen opfordrer også til at bruge deres API'er på andre hjemmesider for at øge værdien af produkter eller services ved at vise eksempler på energirenoveringer og energibesparelser.",
+    "meta": {
+        "id": 16458815201945665758,
+        "url": "https://old.sparenergi.dk/brug-af-indhold-paa-sparenergi",
+        "title": "Brug af indhold på SparEnergi | Energistyrelsen",
+        "time_requested": "2024-04-16T11:58:52.085020",
+        "error": null,
+        "num_tokens_in": 5416,
+        "num_tokens_out": 368,
+        "estimated_input_cost_gpt4": 0.05416000000000001,
+        "estimated_output_cost_gpt4": 0.01104,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

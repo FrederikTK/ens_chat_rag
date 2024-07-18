@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen \"Gode råd om drift af dit gasfyr\" på SparEnergi-guddommen indeholder følgende råd til at optimere driften af et gasfyr for at spare penge og hjælpe miljøet. \n\n1. **Tjek alderen**: Finder mærkepladen på gaskedlen for at se alderen. Er den over 15 år, bør man overveje at skifte varmetype.\n  \n2. **Tjek trykket**: Kontroller radiatorsystemets tryk og fyld vand på anlægget, hvis trykket er lavt.\n\n3. **Lyt til fyret**: Hvis fyret starter og stopper ofte, juster varmekurven i manualen eller kontakt en tekniker.\n\n4. **Indstil automatikken**: Indstil anlægget til automatisk styring baseret på tidspunkt og vejrforhold.\n\n5. **Få lavet regelmæssige tjek**: Eftersyn af gasfyr hvert eller hvert 2. år for at sikre god drift.\n\n6. **Skru op og ned efterår og forår**: Justér langsomt varmen fra varmeanlægget baseret på vejrforholdene. Opvarm gradvist om efteråret og sænk om foråret.\n\n7. **Sommerluk varmeanlægget**: Sæt anlægget på sommerdrift for kun at producere varmt brugsvand om sommeren og sluk cirkulationspumpen.\n\n8. **Tjek din cirkulationspumpe**: Spar penge ved at skifte forældede pumper ud og slukke, når cirkulationspumpen er unødvendig.\n\nDerudover opfordres man til at få efterset gasfyret af en autoriseret installatør for at forebygge risikoen for kulilteudslip og overveje at skifte gasfyr ud med fjernvarme eller varmepumper. Artiklen indeholder også tips til at spare varme i hverdagen, såsom energibesparende adfærd i badet, justering af radiatorer og isolering af huset.",
+    "meta": {
+        "id": 13247802591733848587,
+        "url": "https://sparenergi.dk/forbruger/varme/naturgas/vedligehold-og-drift-af-naturgasanlaeg",
+        "title": "Vedligehold og drift af naturgasanlæg | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:42.871074",
+        "error": null,
+        "num_tokens_in": 2006,
+        "num_tokens_out": 524,
+        "estimated_input_cost_gpt4": 0.02006,
+        "estimated_output_cost_gpt4": 0.01572,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

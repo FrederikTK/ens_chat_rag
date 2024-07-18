@@ -1,0 +1,15 @@
+{
+    "text": "Dansk Energistyrelse oplyser, at danskere i gennemsnit bruger ca. 1/5 af deres strøm på køl og frys, hvilket betyder, der er mange penge at spare ved at anvende god energioptimering i hverdagen og ved reparation eller køb af nye apparater. Nogle gode råd til energibesparelse inkluderer at holde køleskabet ved 5 °C og fryseren ved -18 °C, undgå at åbne døren for længe, tø op i køleskabet i stedet for på køkkenbordet, lade varme madvarer køle af inden nedkøling, og afrime fryseren ved mere end 5 mm rim. Der rådes også til at tjekke tætningslisten, placere fryseren i et køligt rum, give plads til ventilation, og undgå støv på kondensator-rørene for at spare energi. Hvis hvidevarer går i stykker, kan det betale sig at reparere dem for at forlænge deres levetid og skåne klimaet. Når man skal købe nye køle- og fryseapparater, anbefales det at gå efter det bedste energimærke, vælge separat køle- og fryser, vælge den rigtige størrelse, vælge modeller med digital termostat og display samt at regne på hele prisen for at sammenligne totaløkonomien. Energistyrelsen advarer imod myten om at slukke fryseren i visse timer, da det kan påvirke holdbarheden på madvarerne og øge strømforbruget. Når hvidevarer skal skrottes, bør de afleveres på genbrugsstationen eller til storskrald for korrekt håndtering af miljøfarlige materialer. Energistyrelsen giver også råd om energibesparelse i andre kategorier som lys og lamper, vask og rengøring, streaming og elektronik, køkken og madlavning, varme og varmt vand, samt andre områder i hjemmet. Energistyrelsen tilbyder gratis rådgivning og giver indhold om energimærker, energimyter og energivaner i tal.",
+    "meta": {
+        "id": 7037174697558072501,
+        "url": "https://sparenergi.dk/forbruger/el/koel-og-frys/gode-raad-til-brug",
+        "title": "Gode råd til brug | Energistyrelsen",
+        "time_requested": "2024-04-16T11:51:02.774550",
+        "error": null,
+        "num_tokens_in": 2814,
+        "num_tokens_out": 551,
+        "estimated_input_cost_gpt4": 0.028140000000000002,
+        "estimated_output_cost_gpt4": 0.01653,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

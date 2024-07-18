@@ -1,0 +1,15 @@
+{
+    "text": "På SparEnergi.dk har Energistyrelsen en service, hvor man kan indtaste sin adresse for at modtage tre effektive råd til energioptimering baseret på BBR-data. Man kan også få oplysninger om, hvad man kan spare ved at skifte til en ny varmekilde, der passer til ens bolig og behov. Der er desuden gode råd til energi- og varmevaner, som også påvirker varmeregningen. SparEnergi.dk tilbyder gratis rådgivning og inspiration til at få mest ud af energien i hverdagen. Energistyrelsens adresse er Carsten Niebuhrs Gade 43, 1577 København V.",
+    "meta": {
+        "id": 6219374291854666991,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/ny-varme",
+        "title": "Ny Varme-beregner | Energistyrelsen",
+        "time_requested": "2024-04-16T11:47:49.022585",
+        "error": null,
+        "num_tokens_in": 418,
+        "num_tokens_out": 165,
+        "estimated_input_cost_gpt4": 0.0041800000000000006,
+        "estimated_output_cost_gpt4": 0.00495,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

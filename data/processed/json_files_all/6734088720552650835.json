@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en Energimærkeberegner, hvor forbrugere kan beregne, hvor meget deres elektriske apparater koster i strømforbrug. Ved at vælge kategorien og specifikke apparat samt indtaste forbruget i watt og antal timer brug pr. dag, kan man få en beregning af apparatets årlige strømforbrug. Det er også muligt at angive ens elpris for at få en mere præcis beregning. Energistyrelsens Energimærkeberegner gives forudsætningerne for beregningerne og opfordrer brugerne til at tilmelde sig nyhedsbrevet for at blive ekspert i energibesparelser. Energimærkeberegneren er tilgængelig på SparEnergi.dk.",
+    "meta": {
+        "id": 6734088720552650835,
+        "url": "https://sparenergi.dk/forbruger/el/energimaerkning-apparater/energimaerkeberegner",
+        "title": "Energimærkeberegner | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:03.255388",
+        "error": null,
+        "num_tokens_in": 1127,
+        "num_tokens_out": 202,
+        "estimated_input_cost_gpt4": 0.01127,
+        "estimated_output_cost_gpt4": 0.00606,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

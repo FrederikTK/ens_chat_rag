@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en guide til at kontrollere varmtvandsbeholderen. Guiden omfatter to trin: Tjek beholderens alder og temperatur. Hvis varmtvandsbeholderen er over 10 år gammel, anbefales det at overveje at udskifte den, da gamle beholdere er ineffektive. En ny varmtvandsbeholder er bedre isoleret og kan reducere energiforbruget. For at måle vandtemperaturen anbefales det at lade vandet løbe, fylde en kop med varmt vand og måle temperaturen. Den optimale temperatur i varmtvandsbeholderen bør være 55 ºC for at undgå bakterievækst og unødvendigt energiforbrug. Energistyrelsen opfordrer også til at læse mere om legionella-bakterier hos Bolig- og Planstyrelsen.",
+    "meta": {
+        "id": 12709787558507954013,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/goer-det-selv-guides/varmt-vand",
+        "title": "Varmt vand | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:49.124328",
+        "error": null,
+        "num_tokens_in": 1580,
+        "num_tokens_out": 219,
+        "estimated_input_cost_gpt4": 0.0158,
+        "estimated_output_cost_gpt4": 0.00657,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

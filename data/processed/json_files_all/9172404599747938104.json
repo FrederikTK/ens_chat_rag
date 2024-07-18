@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder råd til energioptimering baseret på ens adresse. Et af rådene er at slukke for standbyforbruget for at spare op til 1000 kr. om året. Standbyforbrug refererer til den strøm, som apparater bruger, mens de er på standby for at være klar til brug f.eks. via en fjernbetjening. Man kan minimere standbyforbruget ved at slukke på kontakten, trække stikket ud eller slå WiFi fra. Smart-apparater, som er tilkoblet internettet, har et større standbyforbrug end almindelige apparater. Der gives råd om at etablere en sluk-alt-knap, bruge elspareskinner eller stikkontakter, der kan tænde/slukke automatisk.\n\nDet nævnes, at nogle myter om standbyforbrug, f.eks. at apparater tager skade af at blive tændt og slukket ofte, ikke er sande. Smart-apparater kan være en del af et smart home-system og have højere standbyforbrug. Eksempler på smarte apparater er smart-tv, elpærer, robotstøvsuger og termostater. Gode råd inkluderer at udnytte smart styring til at spare energi, f.eks. smartstyrede stikkontakter, intelligent lysstyring og smarte termostater. Der gives også gennemsnitlige standbyforbrugstal og råd til at vælge de rigtige smarte apparater, hvis man ønsker at reducere standbyforbruget og spare energi. Energistyrelsen opfordrer til at vælge smarte apparater med omtanke og kun hvis man vil bruge de smarte funktioner.",
+    "meta": {
+        "id": 9172404599747938104,
+        "url": "https://sparenergi.dk/forbruger/el/standbyforbrug",
+        "title": "Standbyforbrug | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:24.932333",
+        "error": null,
+        "num_tokens_in": 2207,
+        "num_tokens_out": 425,
+        "estimated_input_cost_gpt4": 0.022070000000000003,
+        "estimated_output_cost_gpt4": 0.012750000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

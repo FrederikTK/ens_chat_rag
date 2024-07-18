@@ -1,0 +1,15 @@
+{
+    "text": "SpareEnergi tilbyder gratis hjælp og inspiration til at spare energi i hverdagen. De tilbyder rådgivning om alt fra opvask til opvarmning og ombygning. Der er mulighed for at ringe eller maile dem for at få svar på spørgsmål om gode sparevaner, tilskud til renovering, valg af varmeform m.m. De har erfarne og uvildige rådgivere, der er klar til at hjælpe. Derudover tilbyder de også en aktivitetsbog med spareråd, en podcast med tips til at spare penge på strøm og varme, samt inspirationsmøder og webinarer rundt om i hele landet. Der er desuden kommende arrangementer i forskellige regioner, hvor man kan møde deres rådgivere og få svar på spørgsmål ansigt til ansigt. Man kan også tilmelde sig deres nyhedsmail for at få de bedste spareråd tilpasset ens bolig og interesser direkte i indbakken.",
+    "meta": {
+        "id": 415246811529162063,
+        "url": "https://sparenergi.dk/raadgivningen",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:52:10.831376",
+        "error": null,
+        "num_tokens_in": 1384,
+        "num_tokens_out": 259,
+        "estimated_input_cost_gpt4": 0.013840000000000002,
+        "estimated_output_cost_gpt4": 0.00777,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

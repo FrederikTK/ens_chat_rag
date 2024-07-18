@@ -1,0 +1,15 @@
+{
+    "text": "Guiden handler om at vælge den rigtige pære til belysning. LED-pærer anbefales som den bedste økonomiske løsning med lavt elforbrug og lang levetid. Der gives oplysninger om, at levetiden varierer mellem forskellige lyskilder, pærens energieffektivitet måles i lumen pr. watt, farvetemperaturen angiver om lyset er varmt eller koldt, og farvegengivelsen angives ved Ra-indekset. Desuden tages der fat på myten om at tænde og slukke pærer ofte skader dem, hvilket ikke gælder for LED-pærer. Guiden tilbyder også en sammenligning af forskellige pærer, herunder LED, halogen, glødepærer og lysstofrør baseret på parametre som elforbrug, levetid, lysfarve og farvegengivelse. Endelig informeres der om, hvordan man genanvender pærer korrekt på genbrugsstationerne. Energistyrelsens SparEnergi-guide er en del af tilbuddet om gratis rådgivning og inspiration til energioptimering i hverdagen.",
+    "meta": {
+        "id": 12631524415813876112,
+        "url": "https://sparenergi.dk/privat/guide-vaelg-den-rigtige-paere",
+        "title": "Guide: Vælg den rigtige pære",
+        "time_requested": "2024-04-16T11:58:27.227842",
+        "error": null,
+        "num_tokens_in": 1671,
+        "num_tokens_out": 290,
+        "estimated_input_cost_gpt4": 0.016710000000000003,
+        "estimated_output_cost_gpt4": 0.0087,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

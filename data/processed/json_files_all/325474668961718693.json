@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside har information om isolering af gulve. Isolering af gulve er en god idé, da det gør hjemmet mindre fodkoldt. Der er forskellige typer isolering af gulve afhængigt af husets struktur. For eksempel, hvis huset har terrændæk, anbefales det at isolere til mindst 300mm i overensstemmelse med Bygningsreglementet. Hvis dit hus har gulve over uopvarmede kældre, og de ikke er isoleret til mindst 100mm, bør de efterisoleres til mindst 200mm. For huse med krybekældre, kan det være en god idé at nedlægge krybekælderen og opbygge et velisoleret terrændæk. I nogle tilfælde kan efterisolering være påkrævet i henhold til Bygningsreglementet, især hvis du renoverer hele gulvkonstruktionen eller hvis renoveringen er rentabel. Energistyrelsen tilbyder også energiløsninger, som beskriver, hvordan man kan forbedre boligen med fokus på energiforbrug og byggetekniske løsninger. Der er også eksempler fra forskellige perioder, der viser, hvordan andre har isoleret deres boliger. Isolering af gulve er en del af Energistyrelsens vejledning om isolering, der også dækker isolering af ydervægge, tag og loft samt rørisolering.",
+    "meta": {
+        "id": 325474668961718693,
+        "url": "https://old.sparenergi.dk/forbruger/boligen/isolering/isolering-af-gulv",
+        "title": "Isolering af gulv | Energistyrelsen",
+        "time_requested": "2024-04-16T11:53:48.583703",
+        "error": null,
+        "num_tokens_in": 2144,
+        "num_tokens_out": 364,
+        "estimated_input_cost_gpt4": 0.02144,
+        "estimated_output_cost_gpt4": 0.010920000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

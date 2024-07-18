@@ -1,0 +1,63 @@
+sparenergi_rag/
+├── src/
+│   ├── data_ingestion/
+│   │   ├── __init__.py
+│   │   ├── extractor.py
+│   │   ├── load_data.py
+│   │   └── summarizer.py
+│   ├── data_processing/
+│   │   ├── __init__.py
+│   │   ├── text_splitter.py
+│   │   └── embedder.py
+│   ├── rag_system/
+│   │   ├── __init__.py
+│   │   ├── vector_store.py
+│   │   └── retriever.py
+│   ├── chatbot/
+│   │   ├── __init__.py
+│   │   ├── agent.py
+│   │   └── conversation_manager.py
+│   ├── utils/
+│   │   ├── __init__.py
+│   │   ├── beautify_url.py
+│   │   ├── chunker.py
+│   │   ├── gen_uuid.py
+│   │   ├── llm_interface.py
+│   │   ├── num_tokens.py
+│   │   ├── process_urls.py
+│   │   ├── request_load.py
+│   │   └── save_summary.py
+│   ├── api/
+│   │   ├── __init__.py
+│   │   ├── main.py
+│   │   ├── routes/
+│   │   │   ├── __init__.py
+│   │   │   ├── chat.py
+│   │   │   └── data.py
+│   │   └── models/
+│   │       ├── __init__.py
+│   │       └── request_models.py
+│   └── cli/
+│       ├── __init__.py
+│       └── main.py
+├── config/
+│   ├── __init__.py
+│   └── config.py
+├── data/
+│   ├── raw/
+│   ├── processed/
+│   ├── chunked/
+│   ├── logs/
+│   ├── output/
+│   └── embedded/
+├── tests/
+│   ├── __init__.py
+│   ├── test_data_ingestion/
+│   ├── test_data_processing/
+│   ├── test_rag_system/
+│   └── test_chatbot/
+├── .env
+├── Dockerfile
+├── Makefile
+├── requirements.txt
+└── README.md

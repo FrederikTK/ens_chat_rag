@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens elforbrugsregner giver dig mulighed for at finde det typiske elforbrug for en husstand baseret på husets størrelse. Du bliver bedt om at vælge mellem hus eller lejlighed og angive størrelsen på boligen i kvadratmeter. Derefter kan du se det gennemsnitlige årlige elforbrug i kroner og kilowatt-timer for husstande, der ligner din.",
+    "meta": {
+        "id": 15033256620717736443,
+        "url": "https://sparenergi.dk/electricity-consumption?destination=/privat/elforbrugsberegner%23module-7369&no_cookie=1",
+        "title": "Elforbrugsregner | Energistyrelsen",
+        "time_requested": "2024-04-16T11:52:24.006093",
+        "error": null,
+        "num_tokens_in": 70,
+        "num_tokens_out": 111,
+        "estimated_input_cost_gpt4": 0.0007000000000000001,
+        "estimated_output_cost_gpt4": 0.00333,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

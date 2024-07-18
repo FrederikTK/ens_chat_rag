@@ -1,0 +1,15 @@
+{
+    "text": "Informationen omhandler muligheden for at få gratis strøm fra solceller. Ved at investere i solceller kan man producere sin egen strøm, reducere elregningen og muligvis tjene penge ved at sælge overskydende strøm til elnettet. Solceller er ikke kun økonomisk fordelagtige, men også miljøvenlige, da de reducerer CO2-udledningen. Solceller har en forventet levetid på ca. 25 år og kræver minimal vedligeholdelse. Dog bør man være opmærksom på, at solcelleanlæg kan være synlige på huset og at produktionen er højest om dagen med solskin. Der er også lovkrav, der regulerer, hvor solcellerne må placeres på huset. Processen for at få solceller inkluderer research, forberedelse, installation og efterfølgende drift og salg af overskudsstrøm gennem en produktionselleverandør. Hjemmesiden giver også en række cases om personer, der har implementeret solceller og opnået store besparelser. Der er desuden information om andre former for energirenoveringer og tips til at optimere sit energiforbrug. Hjemmesiden tilbyder også gratis rådgivning og har ressourcer til videre læsning om emnet.",
+    "meta": {
+        "id": 4812681573326665895,
+        "url": "https://sparenergi.dk/forbruger/el/solceller",
+        "title": "Solceller | Energistyrelsen",
+        "time_requested": "2024-04-16T11:47:54.621085",
+        "error": null,
+        "num_tokens_in": 4552,
+        "num_tokens_out": 332,
+        "estimated_input_cost_gpt4": 0.045520000000000005,
+        "estimated_output_cost_gpt4": 0.00996,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

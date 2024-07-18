@@ -1,0 +1,15 @@
+{
+    "text": "Informationen omhandler energimærkning af bygninger og isolering. Siden indeholder kategorier som energimærkning af boliger, opvarmningssystemer, el-forbrug, energimærkning af apparater, energiforbrug i offentlige bygninger og erhvervsbygninger. Der er også information om isolering, vinduer, ventilation, belysning, varmekilder og energirådgivning. En specifik side omhandler valg af at isolere terrændækket oppefra eller nedefra, samt isolering af soklen. Energistyrelsen er afsenderen af informationen, som kan kontaktes på Carsten Niebuhrs Gade 43, 1577 København V. Energistyrelsens hjemmeside er sparEnergi.dk, hvor man kan finde yderligere information og partnerskaber.",
+    "meta": {
+        "id": 5383202033666263408,
+        "url": "https://sparenergi.dk/craftsman/energy-solutions/guide/10496/99883-2",
+        "title": "Ingen kælder | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:48.289773",
+        "error": null,
+        "num_tokens_in": 861,
+        "num_tokens_out": 201,
+        "estimated_input_cost_gpt4": 0.008610000000000001,
+        "estimated_output_cost_gpt4": 0.00603,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

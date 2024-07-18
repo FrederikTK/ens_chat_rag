@@ -1,0 +1,15 @@
+{
+    "text": "Bygningspuljen er lukket for nye ansøgninger, men hvis man allerede har søgt, er der stadig en del man skal være opmærksom på. Der er en række typiske fejl og mangler i udbetalingsanmodninger, såsom manglende oplysninger på fakturaer, manglende angivelse af arealer og certifikatnumre, samt manglende model og energimærke på varmepumper. Sagsbehandlingstiden for udbetalingsanmodninger er cirka 6 måneder, men der arbejdes på at forkorte ventetiden. Man kan følge status på sin ansøgning på Ansøgningsportalen. Der er tilskudsmuligheder hvert år frem til 2026, og beløbene i puljen varierer fra år til år. Når man får svar på sin ansøgning, kan det være et tilsagn, afslag eller krav om yderligere oplysninger. Hvis man har fået tilsagn, skal man indgå aftale med en håndværker, gennemføre projektet og ansøge om udbetaling. Det er vigtigt at følge retningslinjerne for dokumentation af arbejdet, fx ved at gemme fakturaer og betalingsbilag. Udbetalingen skal ansøges senest 30 dage efter projektets færdiggørelse og inden for 2 år fra tilsagnet er givet. Ansøgningsportalen kan bruges til at indsende udbetalingsanmodninger. Energistyrelsens servicemål er at udbetale tilskuddet indenfor maksimalt 6 måneder fra anmodningen. Man kan tilmelde sig mailnotifikationer for at blive informeret om sagen.",
+    "meta": {
+        "id": 13848828653520804671,
+        "url": "https://sparenergi.dk/privat/soeg-tilskud/har-du-allerede-soegt-tilskud-bygningspuljen",
+        "title": "Har du allerede søgt tilskud via Bygningspuljen?",
+        "time_requested": "2024-04-16T11:48:34.700020",
+        "error": null,
+        "num_tokens_in": 3322,
+        "num_tokens_out": 430,
+        "estimated_input_cost_gpt4": 0.03322,
+        "estimated_output_cost_gpt4": 0.0129,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

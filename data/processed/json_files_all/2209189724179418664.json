@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har information til erhverv om energibesparelser i forbindelse med varme og ventilation i engrosbranchens lagre. Analyser viser, at der i gennemsnit kan spares 30-45% på varmeregningen ved at investere i tiltag for at mindske varmetabet. Eksempler på tiltag inkluderer installation af sluseporte, brug af strålevarme, skift til mere klimavenlige energikilder som varmepumper, behovsstyret ventilation, energivinduer eller efterisolering af tag, vægge og gulv. Der er også stort besparelsespotentiale i udnyttelse af overskudsvarme. Energistyrelsen opfordrer virksomheder til at få hjælp af installatører eller energirådgivere til at beregne besparelser og tilbagebetalingstider for energitiltag. Derudover tilbyder Energistyrelsen indsigter i energiforbruget i engrosbranchen samt tips til, hvordan man kan optimere energiforbruget og opnå besparelser.",
+    "meta": {
+        "id": 2209189724179418664,
+        "url": "https://sparenergi.dk/erhverv/engros/varme-og-ventilation",
+        "title": "Varme og ventilation | Energistyrelsen",
+        "time_requested": "2024-04-16T11:59:12.329302",
+        "error": null,
+        "num_tokens_in": 2930,
+        "num_tokens_out": 264,
+        "estimated_input_cost_gpt4": 0.029300000000000003,
+        "estimated_output_cost_gpt4": 0.00792,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

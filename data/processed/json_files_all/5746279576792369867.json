@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen deler gode råd til at spare energi på køl og frys. De oplyser, at danskerne bruger ca. 1/5 af deres strøm på køl og frys, så der er store besparelser at hente ved at være energibevidst. Nogle af de gode energivaner inkluderer at holde temperaturen på 5°C i køleskabet og -18°C i fryseren, undgå at åbne døren for længe ad gangen, optø mad i køleskabet, lade varme madvarer køle af inden opbevaring, afrime fryseren ved mere end 5 mm rim, tjekke tætningslisten, placere fryseren i et køligt rum, give plads til ventilation, støve af for at undgå overophedning og reparation af hvidevarer for at forlænge deres levetid og skåne klimaet. Energistyrelsen råder også til at vælge energieffektive apparater med det bedste energimærke ved køb af nye køle- og fryseapparater. De anbefaler at vælge separat køleskab og fryser, gå efter den rigtige størrelse og valg med digital termostat og display. Energistyrelsen advarer også imod at slukke fryseren i visse tidsrum, da det kan skade madvarerne og forøge strømforbruget. De opfordrer til korrekt skrotning af udtjente hvidevarer og tilbyder yderligere energibesparelser inden for belysning, vask og rengøring, streaming og elektronik, køkken og madlavning, varme og varmt vand, varme og køling i hjemmet, gør-det-selv energiråd, myter om energi samt information om energimærkning og energivaner i tal. Energistyrelsen tilbyder desuden gratis rådgivning og yderligere information på deres hjemmeside SparEnergi.dk.",
+    "meta": {
+        "id": 5746279576792369867,
+        "url": "https://sparenergi.dk/forbruger/el/koel-og-frys",
+        "title": "Køl og frys | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:02.621373",
+        "error": null,
+        "num_tokens_in": 2814,
+        "num_tokens_out": 496,
+        "estimated_input_cost_gpt4": 0.028140000000000002,
+        "estimated_output_cost_gpt4": 0.01488,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

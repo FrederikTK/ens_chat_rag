@@ -1,0 +1,15 @@
+{
+    "text": "Guiden \"Vælg den rigtige pære\" på SparEnergi.dk beskriver forskellige typer af pærer og deres egenskaber. LED-pærer anbefales som den mest økonomiske og miljøvenlige løsning med lavt elforbrug, lang holdbarhed og mulighed for farve og lysstyring. Det beskrives, at gamle myter om pærer, f.eks. at tænde og slukke dem ofte skader dem, ikke gælder for LED-pærer. Derudover gives information om elpærer, halogenpærer, glødepærer og lysstofrør, herunder levetid, effektivitet, lysfarve og farvegengivelse. Der oplyses også om vigtigheden af farvetemperatur og Ra-indeks samt forskellen på at måle lysstyrken i lumen for LED-pærer og watt for halogen- og glødepærer. Til sidst fremhæves behovet for korrekt genanvendelse af elpærer pga. indholdet af stoffer, herunder kviksølv i sparepærer og lysstofrør.",
+    "meta": {
+        "id": 494731621346805415,
+        "url": "https://sparenergi.dk/forbruger/el/belysning/fakta-om-belysning",
+        "title": "Fakta om belysning | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:40.925067",
+        "error": null,
+        "num_tokens_in": 1671,
+        "num_tokens_out": 286,
+        "estimated_input_cost_gpt4": 0.016710000000000003,
+        "estimated_output_cost_gpt4": 0.00858,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

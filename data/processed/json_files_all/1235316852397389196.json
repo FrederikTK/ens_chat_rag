@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen anbefaler at nedlægge din krybekælder, hvis den har mindre end 150 mm isolering, da det kan medføre fugt- og svampeproblemer. I stedet foreslås det at etablere et nyt, velisoleret terrændæk. Fordelene ved at udskifte krybekælderen inkluderer et bedre indeklima med varmere gulve og mindre træk, en lavere varmeregning og øget husværdi. Der er også en klimamæssig fordel, da mindre varmetab resulterer i mindre belastning af miljøet. Renoveringsarbejdet indebærer at fjerne det gamle gulv, isolere terrændækket korrekt og derefter lægge ny gulvbelægning. Det anbefales at bruge fagfolk for at undgå problemer med fugt og svamp. Man kan også vælge at isolere krybekælderen, men det anbefales at nedlægge den, hvis den er fodkold og fugtig. Håndværkeren skal også sikre, at alle installationer i krybekælderen er afinstalleret, inden arbejdet påbegyndes. Energistyrelsen oplyser også om lovmæssige krav til isolering og giver generelle råd om, hvordan man bedst kan energirenovere sit hjem. Man kan også få hjælp fra professionelle håndværkere og få råd om andre renoveringsmuligheder såsom isolering af loft, skunk, tag, gulv, kælder, ydervægge, rør, samt installation af ventilation og vedvarende energi som solceller og solvarme. Energistyrelsen tilbyder desuden gratis rådgivning og vejledning til energibesparelser og renoveringer.",
+    "meta": {
+        "id": 1235316852397389196,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/energiloesninger/nedlaeg-krybekaelderen",
+        "title": "Nedlæg krybekælderen",
+        "time_requested": "2024-04-16T11:52:04.546302",
+        "error": null,
+        "num_tokens_in": 2221,
+        "num_tokens_out": 456,
+        "estimated_input_cost_gpt4": 0.02221,
+        "estimated_output_cost_gpt4": 0.013680000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

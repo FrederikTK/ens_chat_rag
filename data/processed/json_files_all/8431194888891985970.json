@@ -1,0 +1,15 @@
+{
+    "text": "På Energistyrelsens hjemmeside \"SparEnergi\" findes gode råd til at spare energi, når man tørrer tøj. Tørretumbleren anses som en af de største strømslugere i hjemmet, og derfor er der mange penge at spare på elregningen ved at følge nogle enkle råd. Her er nogle af de gode energivaner, man kan have, når det handler om tørring og tørretumbling af tøj: \n\n- Brug tørrestativet i stedet for tørretumbleren for at spare penge - en C-mærket tørretumbler koster ca. 9 kr. pr. tørrecyklus, mens en A+++ tørretumbler koster omkring 2,2 kr.\n- Foretræk at tørre tøj udendørs for at undgå for højt energiforbrug indendørs.\n- Centrifuger tøjet godt inden tørring for at minimere tørretiden og energiforbruget.\n- Overfyld ikke tumbleren, da det kan forlænge tørretiden og øge elforbruget.\n- Rens fnugfilteret efter hver tørring for at sikre optimal tørring.\n- Undgå at pakke tøjet for tæt sammen i tumbleren for at undgå forlænget tørretid.\n- Sorter tøjet efter tekstiltype og tør det ved den rette temperatur for at forkorte tørretiden.\n- Tørrer tøj, når strømmen er billigst for at spare penge og skåne klimaet.\n\nDerudover gives der også gode råd omkring reparation og køb af ny tørretumbler. Det anbefales at undersøge muligheden for reparation af en tørretumbler, før man køber en ny. Når man skal købe en ny tørretumbler, bør man vælge en med det bedste energimærke, såsom A+++, og vurdere om man har brug for en tørretumbler, da den har et stort elforbrug. Man bør også overveje om man vil have en kondenstumbler eller en aftrækstumbler, samt undgå kombinerede vaske-/tørremaskiner, da de har et højere forbrug af el og vand. Energistyrelsen opfordrer desuden til at bruge online-værktøjet \"Hele prisen\" til at sammenligne totaløkonomien for tørretumblere. Derudover gives der også gode råd om, hvordan man bør skrotte en tørretumbler, samt at man kan køre hvidevarer om natten uden risiko for brand, ifølge Sikkerhedsstyrelsen.",
+    "meta": {
+        "id": 8431194888891985970,
+        "url": "https://sparenergi.dk/forbruger/el/vask-og-rengoering/toerretumblere/toerreraad",
+        "title": "Tørreråd | Energistyrelsen",
+        "time_requested": "2024-04-16T11:53:40.276099",
+        "error": null,
+        "num_tokens_in": 2515,
+        "num_tokens_out": 675,
+        "estimated_input_cost_gpt4": 0.025150000000000002,
+        "estimated_output_cost_gpt4": 0.02025,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Resumé:\n\nInformationen omhandler bygningsreglementet i forhold til gulvkonstruktion og isolering. Der er beskrevet kravene, når man udskifter hele gulvkonstruktionen inklusive de bærende dele, og hvordan man skal isolere for at leve op til bygningsreglementet. Desuden opfordres der til at få en fagmand til at tjekke konstruktionen og isoleringen, før man går i gang.\n\nDer gives også vejledning om kravene ift. renovering af gulv eller gulvkonstruktion, og hvordan man skal efterisolerer i forbindelse med vedligeholdelse eller renovering. Der er beskrevet typiske eksempler på gulvtyper og konkrete krav til isoleringstykkelse og U-værdi i forhold til bygningsreglementet.\n\nDer er forskellige krav alt efter, om gulvet er på bjælkelag over uopvarmet kælder, betondæk over krybekælder, terrændæk osv. Det forklarer også, hvordan man kan efterisolere for at leve op til bygningsreglementet, og hvornår det er rentabelt at gøre det.",
+    "meta": {
+        "id": 3780805887402816197,
+        "url": "https://sparenergi.dk/forbruger/boligen/bygningsreglementets-energikrav/naar-hele-konstruktionen-udskiftes-gulv",
+        "title": "Når hele konstruktionen udskiftes gulv | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:14.968364",
+        "error": null,
+        "num_tokens_in": 2624,
+        "num_tokens_out": 285,
+        "estimated_input_cost_gpt4": 0.026240000000000003,
+        "estimated_output_cost_gpt4": 0.00855,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

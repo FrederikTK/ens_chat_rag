@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder et undervisningsforløb kaldet \"Eleven som energijournalist\" i danskfaget. Forløbet lærer eleverne at foretage undersøgelser og interviews, fortolke empiri og formidle deres resultater og holdninger i et kritisk essay. \n\nLektion 1 fokuserer på at være en god undersøger, hvor eleverne lærer om undersøgelsesmetoder og dataindsamlingsmetoder som kvantitativ og kvalitativ data. \n\nLektion 2 handler om at bruge interviews og observationer til at undersøge emner. Eleverne lærer at forberede gode interviews og observere adfærd.\n\nMellem lektion 2 og 3 skal eleverne agere energijournalister derhjemme og undersøge deres eget energiforbrug ved hjælp af interview og observation. Eleverne får introduktion til Eprel-databasen.\n\nI lektion 3 skal eleverne tolke deres dataindsamling og analysere deres resultater. \n\nLektion 4 fokuserer på at formidle resultaterne i et kritisk essay. Eleverne lærer om argumentation og opbygning af en god tekst.\n\nMaterialer som artikler, arbejdsark og videoer bruges gennem forløbet til at understøtte undervisningen. Eleverne får mulighed for at udvikle deres færdigheder inden for undersøgelser, interviews, analysering og formidling af data om energiforbrug.",
+    "meta": {
+        "id": 1911346056473193540,
+        "url": "https://sparenergi.dk/undervisning/dansk",
+        "title": "Dansk",
+        "time_requested": "2024-04-16T11:59:28.230114",
+        "error": null,
+        "num_tokens_in": 2538,
+        "num_tokens_out": 377,
+        "estimated_input_cost_gpt4": 0.025380000000000003,
+        "estimated_output_cost_gpt4": 0.01131,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

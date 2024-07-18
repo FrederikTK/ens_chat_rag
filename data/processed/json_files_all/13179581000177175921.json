@@ -1,0 +1,15 @@
+{
+    "text": "SpareEnergi, der er en del af Energistyrelsen, tilbyder gratis rådgivning og inspiration til energioptimering i hjemmet. Deres erfarne og uvildige rådgivere står klar til at hjælpe med alt fra opvask til opvarmning og ombygning for at spare energi, penge og reducere CO2-udledningen. Man kan kontakte dem via telefon eller e-mail i deres træffetider mandag-fredag kl. 9-15. Derudover tilbyder de aktivitetsbøger og podcasts om at spare energi samt inspirationsmøder og webinarer rundt om i landet, hvor man kan møde deres rådgivere og få spørgsmål besvaret ansigt til ansigt. SparEnergi arrangerer desuden adskillige arrangementer, inspirationsmøder og pop ups på forskellige lokaliteter. De tilbyder også mulighed for at tilmelde sig nyhedsbrevet for at modtage de bedste spareråd tilpasset ens bolig og interesser direkte i indbakken. Man kan også følge SpareEnergi og Energistyrelsen på deres sociale medier for at holde sig opdateret.",
+    "meta": {
+        "id": 13179581000177175921,
+        "url": "https://sparenergi.dk/privat/faa-gratis-hjaelp-og-inspiration",
+        "title": "Få gratis hjælp og inspiration",
+        "time_requested": "2024-04-16T11:52:17.228838",
+        "error": null,
+        "num_tokens_in": 1384,
+        "num_tokens_out": 298,
+        "estimated_input_cost_gpt4": 0.013840000000000002,
+        "estimated_output_cost_gpt4": 0.00894,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

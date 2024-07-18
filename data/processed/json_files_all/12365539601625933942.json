@@ -1,0 +1,15 @@
+{
+    "text": "Solvarmeanlæg og solcelleanlæg kræver ikke meget vedligeholdelse, men der er alligevel nogle vigtige ting at holde øje med for at få det optimale ud af anlæggene. For solvarmeanlæg anbefales det at rengøre solfangere med vand og uden rengøringsmidler samt tjekke for skader og misfarvninger ca. én gang om året. Det er også vigtigt at sørge for, at træer ikke skygger for solfangere. For solceller er det vigtigt at rengøre dem efter behov og holde inverteren ved lige ved at tjekke køleribber, filtre, udblæsning og kabinettet regelmæssigt. Derudover anbefales det at aflæse elmåleren jævnligt for at opdage eventuelle problemer. Det er også vigtigt at holde øje med, om solcellerne er blevet beskadigede eller misfarvede, da dette kan påvirke produktionen. Der er også tips til at undgå beskadigelse af solceller og solfangere som at fjerne sne, når det er nødvendigt, og at styre træers skygge over anlæggene. Solvarmeanlæg giver varmt vand og nogle gange også rumvarme, mens solcelleanlæg genererer strøm. Det pointeres også, at selvforsyning med el kun er delvist mulig med solcelleanlæg, da strømforbruget ofte er højest om aftenen og om vinteren.",
+    "meta": {
+        "id": 12365539601625933942,
+        "url": "https://sparenergi.dk/privat/spar-energi-i-hverdagen/saadan-vedligeholder-du-solceller-og-solvarme",
+        "title": "Sådan vedligeholder du solceller og solvarme",
+        "time_requested": "2024-04-16T11:59:08.625586",
+        "error": null,
+        "num_tokens_in": 2276,
+        "num_tokens_out": 391,
+        "estimated_input_cost_gpt4": 0.022760000000000002,
+        "estimated_output_cost_gpt4": 0.01173,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

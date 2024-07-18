@@ -1,0 +1,15 @@
+{
+    "text": "Den tilgængelige information angiver, at der på en hjemmeside med Drupal-version 9.5.11 allerede er installeret. Hvis man ønsker at starte forfra, skal man tømme den eksisterende database og kopiere default.settings.php til settings.php. Hvis der derimod ønskes at opgradere en eksisterende installation, skal man køre et update-script. Derudover henvises der til at se det eksisterende site for yderligere instruktioner.",
+    "meta": {
+        "id": 8115570537044964429,
+        "url": "https://ny.sparenergi.dk/core/install.php",
+        "title": "| Starter profile",
+        "time_requested": "2024-04-16T11:56:21.761550",
+        "error": null,
+        "num_tokens_in": 77,
+        "num_tokens_out": 116,
+        "estimated_input_cost_gpt4": 0.0007700000000000001,
+        "estimated_output_cost_gpt4": 0.00348,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

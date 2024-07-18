@@ -1,0 +1,15 @@
+{
+    "text": "På Energistyrelsens hjemmeside SparEnergi.dk kan man indtaste sin adresse for at modtage tre effektive energioptimeringsråd til boligen. Man kan logge ind med brugernavn eller e-mailadresse samt tilhørende adgangskode, som kan nulstilles, hvis man har glemt den. SparEnergi.dk tilbyder gratis rådgivning, inspiration og viden om optimering af energiforbruget. Hjemmesiden indeholder desuden oplysninger om partnere, materialer, kontaktmuligheder og tilgængelighedserklæring. Energistyrelsens adresse er Carsten Niebuhrs Gade 43, 1577 København V, og yderligere oplysninger kan findes på www.ens.dk.",
+    "meta": {
+        "id": 5499414991131900045,
+        "url": "https://sparenergi.dk/user/login",
+        "title": "Log ind | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:34.132325",
+        "error": null,
+        "num_tokens_in": 317,
+        "num_tokens_out": 186,
+        "estimated_input_cost_gpt4": 0.00317,
+        "estimated_output_cost_gpt4": 0.00558,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

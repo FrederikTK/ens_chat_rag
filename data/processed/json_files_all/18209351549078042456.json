@@ -1,0 +1,15 @@
+{
+    "text": "På SparEnergi.dk tilbyder Energistyrelsen hjælp til at spare el og varme i boliger. Besøgende kan indtaste deres adresse og få tre effektive råd til energioptimering. Siden tilbyder information om at spare energi i hverdagen, skifte varmetype, renovere boligen, søge tilskud og få gratis rådgivning. Der er også information om aktuelle tilskudsordninger og muligheder for at deltage i Energirenoveringspuljen. Siden tilbyder desuden mulighed for at se aktuelle elpriser, indtaste sine personlige sparemål og tilmelde sig nyhedsbrevet. Derudover kan man finde information om afkobling af gasfyret, planlægning af varmeskift og webinars. Samlet set er SparEnergi.dk en ressourcefuld platform for energibesparelse i hjemmet.",
+    "meta": {
+        "id": 18209351549078042456,
+        "url": "https://sparenergi.dk/vores-energiaftale/spareraad?destination=/%23module-820",
+        "title": "Our energy agreement | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:07.880954",
+        "error": null,
+        "num_tokens_in": 1267,
+        "num_tokens_out": 222,
+        "estimated_input_cost_gpt4": 0.01267,
+        "estimated_output_cost_gpt4": 0.00666,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

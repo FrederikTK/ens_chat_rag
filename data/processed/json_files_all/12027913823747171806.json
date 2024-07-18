@@ -1,0 +1,15 @@
+{
+    "text": "No content available to summarize.",
+    "meta": {
+        "id": 12027913823747171806,
+        "url": "https://sparenergi.dk/forbruger/sommerhus/se-sommerhuset-efter-i-sommene/isolering-af-let-ydervaeg-i-sommerhus",
+        "title": "Isolering af let ydervæg i sommerhus | Energistyrelsen",
+        "time_requested": "2024-04-16T11:53:55.099897",
+        "error": "404 Client Error: Not Found for url: https://old.sparenergi.dk/forbruger/sommerhus/se-sommerhuset-efter-i-sommene/isolering-af-let-ydervaeg-i-sommerhus",
+        "num_tokens_in": 0,
+        "num_tokens_out": 6,
+        "estimated_input_cost_gpt4": 0.0,
+        "estimated_output_cost_gpt4": 0.00018,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

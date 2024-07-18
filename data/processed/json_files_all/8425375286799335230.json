@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder kravspecifikationer, som virksomheder kan anvende til at stille krav om energieffektive anlæg eller udstyr ved renovering eller nyanskaffelser. Kravspecifikationerne er beregnet til at sikre, at leverandøren leverer et anlæg, der ikke kun er dimensioneret korrekt, men også er indreguleret, trimmet og har en vedligeholdelsesplan. Der findes kravspecifikationer til forskellige typer anlæg, herunder ventilationsanlæg, belysningsanlæg, komfortkøling, kølemontrer, maskiner eller procesanlæg, varmeanlæg og klimaskærme. Disse dokumenter indeholder detaljerede krav, som virksomheder kan følge for at sikre optimal energieffektivitet i deres bygninger. Energistyrelsen opdaterer løbende disse kravspecifikationer for at sikre, at virksomheder har adgang til den nyeste viden og bedste praksis inden for energieffektivitet.",
+    "meta": {
+        "id": 8425375286799335230,
+        "url": "https://sparenergi.dk/erhverv/vaerktoejer/kravspecifikationer",
+        "title": "Kravspecifikationer | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:59.517988",
+        "error": null,
+        "num_tokens_in": 1745,
+        "num_tokens_out": 279,
+        "estimated_input_cost_gpt4": 0.01745,
+        "estimated_output_cost_gpt4": 0.00837,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

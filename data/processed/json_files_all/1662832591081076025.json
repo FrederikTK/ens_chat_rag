@@ -1,0 +1,15 @@
+{
+    "text": "Der er tilgængelige dokumenter til ansøgning om tilskud til en varmepumpe på Energistyrelsens hjemmeside. Dokumenterne inkluderer en fuldmagt, ansøgererklæring, de minimis-erklæring, overdragelseserklæring, momserklæring for fuldmagtssager, momserklæring for ansøgninger på vegne af sig selv samt vejledninger som trin-for-trin guider til ansøgninger for private husejere eller virksomheder/foreninger. Det anbefales at forberede sig grundigt inden åbningen af Varmepumpepuljen for ansøgninger. Desuden tilbyder SparEnergi nyhedsbreve med opdateringer om Varmepumpepuljen og tips til energibesparelser. Man kan også tilmelde sig gratis rådgivning og finde mere information på Energistyrelsens hjemmeside.",
+    "meta": {
+        "id": 1662832591081076025,
+        "url": "https://sparenergi.dk/soeg-tilskud/varm-op-til-soege-tilskud-til-en-varmepumpe/dokumenter-til-din-ansoegning",
+        "title": "Dokumenter til din ansøgning | Energistyrelsen",
+        "time_requested": "2024-04-16T11:57:45.006263",
+        "error": null,
+        "num_tokens_in": 803,
+        "num_tokens_out": 227,
+        "estimated_input_cost_gpt4": 0.00803,
+        "estimated_output_cost_gpt4": 0.00681,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

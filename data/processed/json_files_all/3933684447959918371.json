@@ -1,0 +1,15 @@
+{
+    "text": "API error: Error code: 429 - {'error': {'message': 'Request too large for gpt-3.5-turbo in organization org-pbjBzu83v0jiC0pn9YEHmyDU on tokens per min (TPM): Limit 60000, Requested 300346. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}",
+    "meta": {
+        "id": 3933684447959918371,
+        "url": "https://sparenergi.dk/sites/forbruger.dk/files/img/Boligen/Tilskud/faktura_varmepumpe_eksempel.pdf",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:50:37.279860",
+        "error": null,
+        "num_tokens_in": 505194,
+        "num_tokens_out": 117,
+        "estimated_input_cost_gpt4": 5.05194,
+        "estimated_output_cost_gpt4": 0.00351,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

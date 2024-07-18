@@ -1,0 +1,15 @@
+{
+    "text": "Der er adgang til energi- og CO2-regnskabet for kommunerne i Danmark via en online platform. Regnskabet viser data om energiforbrug og CO2-udledning for kommunerne. Der er mulighed for at filtrere data på område, type og år for at få detaljeret indsigt i hver enkelt kommunes energi- og CO2-regnskab. Data og resultater for år 2018, 2019, 2020 og 2021 er ikke direkte sammenlignelige med tidligere år pga. et større og mere detaljeret datagrundlag. Platformen arbejder på at gøre det muligt at se udviklingen helt tilbage til 2010.\n\nDer er også tilgængelige materialer og informationer om Energi- og CO2-regnskabet, herunder notater om metoder, metodenotater for RS-regnskaber for 2020-2021, FAQ samt metodenotater for opgørelsesårene 2010-2019.\n\nPlatformen tilbyder desuden gratis rådgivning og er en del af Energistyrelsen. Man kan finde yderligere information og kontakte Energistyrelsen på deres hjemmeside.",
+    "meta": {
+        "id": 598282946026360795,
+        "url": "https://sparenergi.dk/offentlig/vaerktoejer/energi-og-co2-regnskabet",
+        "title": "Energi- og CO₂-regnskabet | Energistyrelsen",
+        "time_requested": "2024-04-16T11:49:07.193620",
+        "error": null,
+        "num_tokens_in": 1728,
+        "num_tokens_out": 286,
+        "estimated_input_cost_gpt4": 0.01728,
+        "estimated_output_cost_gpt4": 0.00858,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

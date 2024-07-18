@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en service, hvor man kan tjekke, om ens bolig trænger til renovering for at opnå et lavere energiforbrug og forbedret komfort. Man skal indtaste sin adresse for at se, om det er tid til at gå boligen efter i sømmene. Energistyrelsen tilbyder desuden information om energimærkning af bygninger, bygningsreglementets energikrav, tilskud til renovering, isolering, vinduer, ventilation, intelligente styringssystemer og meget mere. Energistyrelsen opfordrer desuden til at tilmelde sig deres nyhedsmail for at blive ekspert i at spare energi. Man kan til enhver tid afmelde sig nyhedsmailen, og ens oplysninger vil blive slettet.",
+    "meta": {
+        "id": 12498759207634195099,
+        "url": "https://old.sparenergi.dk/forbruger/boligen/traenger-din-bolig-til-renovering",
+        "title": "Trænger din bolig til renovering? | Energistyrelsen",
+        "time_requested": "2024-04-16T11:53:01.487246",
+        "error": null,
+        "num_tokens_in": 1009,
+        "num_tokens_out": 198,
+        "estimated_input_cost_gpt4": 0.01009,
+        "estimated_output_cost_gpt4": 0.00594,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

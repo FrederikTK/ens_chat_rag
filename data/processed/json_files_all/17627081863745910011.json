@@ -1,0 +1,15 @@
+{
+    "text": "Varmepumpepuljen er lukket for ansøgninger, og det forventes at åbne igen i foråret 2024. For at søge tilskud til en varmepumpe skal man opfylde 5 krav:\n\n1. Huset skal være en helårsbolig, og man skal være ejer af det.\n2. Huset skal opvarmes med oliefyr, gasfyr, elvarme eller biokedel.\n3. Huset må ikke ligge i et område med fjernvarme eller planlagt fjernvarme.\n4. Man må ikke allerede have påbegyndt skiftet til en varmepumpe.\n5. Man skal ønske enten en luft-til-vand varmepumpe eller en væske-til-vand varmepumpe (jordvarme).\n\nDet anbefales at forberede sig grundigt, inden puljen åbner, herunder at undersøge kravene, vælge varmepumpetype og tilblive dokumentation. Efter indsendelse af ansøgning, skal man vente på behandling og efterfølgende tilsagn om tilskud. Når tilsagnet er givet, kan man finde en VE-godkendt installatør og købe varmepumpen. Der er en frist på 2 år for at skifte til varmepumpe og ansøge om udbetaling. Udbetalingen sker, når ansøgning om udbetaling er godkendt, og tilskuddet indsættes på NemKontoen. Der gives også information om at søge tilskud til renoveringsprojekter såsom isolering, vinduer og ventilation gennem Energirenoveringspuljen.",
+    "meta": {
+        "id": 17627081863745910011,
+        "url": "https://sparenergi.dk/soeg-tilskud/varm-op-til-soege-tilskud-til-en-varmepumpe",
+        "title": "Varm op til at søge tilskud til en varmepumpe | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:31.437159",
+        "error": null,
+        "num_tokens_in": 3404,
+        "num_tokens_out": 413,
+        "estimated_input_cost_gpt4": 0.03404,
+        "estimated_output_cost_gpt4": 0.01239,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

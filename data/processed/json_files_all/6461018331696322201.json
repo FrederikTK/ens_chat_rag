@@ -1,0 +1,15 @@
+{
+    "text": "Varmepumpepuljen er en tilskudsordning til boligejere, der ønsker at skifte til en varmepumpe for at opvarme deres hjem på en billigere og mere miljøvenlig måde. For at søge tilskud til en varmepumpe, skal man opfylde fem krav: huset skal være en helårsbolig, opvarmes med oliefyr, gasfyr, elvarme eller biokedel, må ikke være placeret i et område med fjernvarme, må ikke allerede være i gang med at skifte til en varmepumpe, og ønsker en luft-til-vand eller væske-til-vand varmepumpe. Puljen forventes at åbne igen i foråret 2024, og man kan tilmelde sig nyhedsbrevet for løbende opdateringer. Når man søger tilskud, skal man være forberedt med de nødvendige dokumenter og oplysninger, og ansøgningen indsendes gennem ansøgningsportalen. Efter ansøgningen behandles, og hvis den godkendes, vil man modtage et tilsagn om tilskud. Efter installationen af varmepumpen kan man ansøge om udbetaling af tilskuddet, som sker inden for en frist på 2 år. Man skal sørge for at vælge en VE-godkendt installatør og dokumentere installationen korrekt for at få udbetalt tilskuddet.",
+    "meta": {
+        "id": 6461018331696322201,
+        "url": "https://sparenergi.dk/varm-op-til-soege-tilskud-til-en-varmepumpe",
+        "title": "Varm op til at søge tilskud til en varmepumpe | Energistyrelsen",
+        "time_requested": "2024-04-16T11:49:28.240839",
+        "error": null,
+        "num_tokens_in": 3404,
+        "num_tokens_out": 371,
+        "estimated_input_cost_gpt4": 0.03404,
+        "estimated_output_cost_gpt4": 0.011130000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

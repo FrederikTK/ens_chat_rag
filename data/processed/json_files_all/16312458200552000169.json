@@ -1,0 +1,15 @@
+{
+    "text": "Der afholdes et inspirationsmøde den 6. december i Furesø Kommune i Multisalen på Furesø Rådhus fra kl. 19:00-21:00. Mødet arrangeres af SparEnergi og Furesø Kommune og henvender sig til borgere i området, hvor der er planer om at tilslutte fjernvarme i perioden 2024-2028. På mødet vil Furesø Kommune præsentere varmeplanen og status for udrulningen af fjernvarme, mens Energistyrelsen vil holde et oplæg om, hvordan man kan spare på el og varme. Tilmeldingen til mødet er nu lukket, da alle pladser er booket. Mødet har til formål at informere om energibesparelser og muligheder indtil tilslutning til fjernvarme.",
+    "meta": {
+        "id": 16312458200552000169,
+        "url": "https://old.sparenergi.dk/furesoe-6-dec-2023",
+        "title": "Furesø 6. december: Spar på energien, imens du venter på fjernvarme",
+        "time_requested": "2024-04-16T11:58:19.357290",
+        "error": null,
+        "num_tokens_in": 1144,
+        "num_tokens_out": 210,
+        "estimated_input_cost_gpt4": 0.01144,
+        "estimated_output_cost_gpt4": 0.0063,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

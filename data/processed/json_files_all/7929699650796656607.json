@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen opfordrer til at spare energi på arbejdspladsen ved at følge en række sparertips. Disse inkluderer at få overblik over energiforbruget, justere temperaturen for varme og køling, slukke for lys og elektronik, skifte til LED-belysning og bruge mindre varmt vand. Det anbefales også at inddrage kollegaer i energibesparelsesinitiativer og at optimere drift og investeringer for at opnå energibesparelser. Der gives specifikke råd til særlige arbejdspladser som hospitaler, svømmehaller, idrætshaller og klubhuse. Endelig tilbydes yderligere information om LED-belysning, it og elektronik samt mulighed for at tilmelde sig nyhedsbrevet for at få løbende information om energisparemuligheder på arbejdspladsen. Energistyrelsens kampagnemateriale kan også downloades for yderligere hjælp til at skabe gode energivaner på arbejdspladsen.",
+    "meta": {
+        "id": 7929699650796656607,
+        "url": "https://sparenergi.dk/erhverv/spareraad-paa-arbejdspladsen",
+        "title": "Sammen sparer vi på energien. Også på arbejdet.",
+        "time_requested": "2024-04-16T11:57:55.405391",
+        "error": null,
+        "num_tokens_in": 1367,
+        "num_tokens_out": 271,
+        "estimated_input_cost_gpt4": 0.013670000000000002,
+        "estimated_output_cost_gpt4": 0.00813,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

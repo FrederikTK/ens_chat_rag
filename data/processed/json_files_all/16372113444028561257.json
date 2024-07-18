@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen fra Energistyrelsen omhandler tips og råd til at spare på strømmen på arbejdspladsen. For at opnå besparelser anbefales det at skabe et overblik over det nuværende strømforbrug og løbende monitorere forbruget for at identificere områder, hvor der kan sættes ind for at spare strøm. Det foreslås at sammenligne ens eget elforbrug med andre bygninger for at se, om forbruget er højere end gennemsnittet. De store energiforbrugende områder på arbejdspladser nævnes som belysning, ventilation og IT-udstyr.\n\nDer gives også konkrete råd til at nedsætte elforbruget, herunder at bruge bygningens energimærke til at identificere områder, der kan energioptimeres, at installere et CTS-anlæg til at styre og overvåge tekniske installationer, at købe energirigtige produkter og at have fokus på smart brug af energiforbrugende apparater. Desuden opfordres til at foretage en natrundering for at identificere og reducere natligt energiforbrug, som kan udgøre op til 40 % af strømforbruget.\n\nDerudover tilbyder Energistyrelsen en nyhedsmail, hvor virksomheder kan tilmelde sig for at modtage relevant information om energibesparelser, CO2-reduktioner og ny viden. Energistyrelsen oplyser, at de passer godt på modtagernes data og kun bruger kontaktdata til udsendelse af nyhedsmailen. Man kan til enhver tid afmelde sig nyhedsmailen, hvorefter oplysningerne slettes.",
+    "meta": {
+        "id": 16372113444028561257,
+        "url": "https://sparenergi.dk/erhverv/sparerad-pa-arbejdspladsen/spar-pa-strommen",
+        "title": "Spar på strømmen | Energistyrelsen",
+        "time_requested": "2024-04-16T11:53:14.601158",
+        "error": null,
+        "num_tokens_in": 1780,
+        "num_tokens_out": 436,
+        "estimated_input_cost_gpt4": 0.0178,
+        "estimated_output_cost_gpt4": 0.01308,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

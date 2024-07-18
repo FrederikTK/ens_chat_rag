@@ -1,0 +1,15 @@
+{
+    "text": "Dette er en zip-fil med forskellige XML-filer, billeder og andre ressourcer, der udgør en Excel-fil. Filerne inkluderer bl.a. sharedStrings.xml, styles.xml, app.xml og core.xml. Der er også en printerSettings1.bin-fil og en calcChain.xml. Der er flere mappestrukturer, der indeholder relaterede filer, som f.eks. i mapperne xl/worksheets og xl/drawings. Allerede med denne information kan der udføres flere former for manipulation af indholdet i Excel-filen ved at ændre i de forskellige XML-filer.",
+    "meta": {
+        "id": 2838266403342257374,
+        "url": "https://old.sparenergi.dk/sites/forbruger.dk/files/contents/publication/ecxel-ark-til-aflaesning-af-maaler/skema-til-aflaesning-af-maaler_-_06-2012.xlsx",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:57:32.490912",
+        "error": null,
+        "num_tokens_in": 13082,
+        "num_tokens_out": 144,
+        "estimated_input_cost_gpt4": 0.13082000000000002,
+        "estimated_output_cost_gpt4": 0.00432,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

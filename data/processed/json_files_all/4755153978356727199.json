@@ -1,0 +1,15 @@
+{
+    "text": "Dette er en vejledning fra Energistyrelsen omkring krav og anbefalinger i forhold til efterisolering af ydervægge i boliger. Bygningsreglementet kræver efterisolering, hvis man renoverer sine ydervægge, men kravene gælder kun, hvis det er økonomisk rentabelt. Det anbefales at bruge fagfolk til efterisolering for at undgå skader som råd og svamp. Typiske eksempler viser, hvornår der er krav, og hvad de går ud på. For eksempel kræver bygningsreglementet normalt ca. 250 mm isolering eller en U-værdi på højst 0,18 W/m²K. Der er forskellige anbefalinger alt efter hvilken type ydervæg det drejer sig om, fx let ydervæg, hulmur, massiv mur, etc.\n\nHvis man udskifter hele ydervæggen i sin bolig, skal den nye konstruktion isoleres efter reglerne i Bygningsreglementet, herunder krav til isolering og døre/vinduer. Energikravene gælder også ved udskiftning af en del af facaden. Energistyrelsen giver gratis rådgivning og opfordrer til at benytte fagfolk til arbejdet.",
+    "meta": {
+        "id": 4755153978356727199,
+        "url": "https://sparenergi.dk/forbruger/boligen/bygningsreglementets-energikrav/renovering-ydervaeg",
+        "title": "Renovering ydervæg | Energistyrelsen",
+        "time_requested": "2024-04-16T11:49:33.513245",
+        "error": null,
+        "num_tokens_in": 2843,
+        "num_tokens_out": 326,
+        "estimated_input_cost_gpt4": 0.028430000000000004,
+        "estimated_output_cost_gpt4": 0.00978,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

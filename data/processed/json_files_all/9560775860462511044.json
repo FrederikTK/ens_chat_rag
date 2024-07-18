@@ -1,0 +1,15 @@
+{
+    "text": "\"Mærk Energien\" er en online platform, der har til formål at give elever viden om energiforbrug, den grønne omstilling og energimærkning. Eleverne kan interagere i tre interaktive rum - køkkenet, stuen og badeværelset - hvor de kan lære om energimærkning, energieffektivitet og få spareråd til elektroniske apparater. Der er også mulighed for at indgå en samfundskontrakt med Energistyrelsen om at halvere energiforbruget. \n\nPlatformen tilbyder undervisningsvideoer og undervisningsforløb i fagene dansk, samfundsfag og fysik/kemi, som blandt andet inkluderer læring om interviews, energi og energieffektivitet, samt regulering af forbrugeradfærd. Der er også et fokus på at klæde lærere på til at undervise eleverne i energiforbrug og energimærkning. Siden tilbyder også gode råd og inspiration til energioptimering.",
+    "meta": {
+        "id": 9560775860462511044,
+        "url": "https://sparenergi.dk/undervisning",
+        "title": "Velkommen til Mærk Energien",
+        "time_requested": "2024-04-16T11:51:22.126618",
+        "error": null,
+        "num_tokens_in": 1493,
+        "num_tokens_out": 264,
+        "estimated_input_cost_gpt4": 0.01493,
+        "estimated_output_cost_gpt4": 0.00792,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

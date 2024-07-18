@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en guide til rørisolering, som giver hjælp til at kontrollere og forbedre isoleringen af varmerør. Guiden anbefaler at efterisolere varmerør i uopvarmede rum med mindre end 30 mm isolering for at reducere varmetab gennem systemet. Der gives anvisninger på, hvordan man kan måle isoleringstykkelsen og rørets tykkelse samt beregne besparelser ved efterisolering. Der opfordres til at sikre, at der er minimum 40 mm isolering på rørene og at isolere bøjningerne ordentligt. Man kan købe rørisolering i forskellige tykkelser i byggemarkeder, og det anbefales at sikre, at isoleringen slutter tæt omkring røret. Energistyrelsens guide oplyser også om betydningen af isoleringens varmeledningsevne og tilbyder at finde en håndværker til at hjælpe med rørisoleringen.",
+    "meta": {
+        "id": 8781443387403434854,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktojer/guides-og-tjeklister/rorisolering",
+        "title": "Rørisolering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:50:15.816684",
+        "error": null,
+        "num_tokens_in": 1738,
+        "num_tokens_out": 249,
+        "estimated_input_cost_gpt4": 0.017380000000000003,
+        "estimated_output_cost_gpt4": 0.00747,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

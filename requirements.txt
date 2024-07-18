@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+click
+requests
+beautifulsoup4
+langchain
+langchain_community
+pinecone-client
+numpy
+pandas
+python-dotenv
+pytest
+flake8
+openai
+tiktoken

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen opfordrer til at isolere soklen på dit hus for at spare penge på varmeregningen og forbedre indeklimaet. Isolering af soklen hjælper med at skabe varmere gulve langs ydervæggene, reducere træk og kulde, og øge husets værdi. Der er en online beregner, der kan give et overslag på, hvor meget du kan spare i dit hus ved at isolere soklen. For at opnå den bedste økonomi på lang sigt anbefales det at isolere soklen med mindst 100 mm, gerne 200 mm. Energistyrelsen angiver også lovkrav om maksimalt linjetab på 0,12 W/mK ved samtidig isolering af sokkel og ydervægge. Der er en trin-for-trin guide til isolering af soklen, hvor processen indebærer at grave soklen fri, tilføje ekstra isolering og derefter fylde hullet igen. Energistyrelsen anbefaler at bruge fagfolk for at sikre korrekt udførelse af isoleringen og at kigge på energimærkningsrapporten eller de originale tegninger af huset for at se isoleringsmængden i soklen. Derudover opfordres til at isolere soklen samtidig med isolering af ydervægge udefra og evt. inkludere omfangsdræn. Energistyrelsen tilbyder også vejledning til håndværkere og en liste over håndværkere i nærheden. Der er yderligere information om andre typer af energirenoveringer samt gratis rådgivning og energisparetips på Energistyrelsens hjemmeside.",
+    "meta": {
+        "id": 2664398856376170191,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/energiloesninger/isolering-af-sokkel",
+        "title": "Isolering af sokkel",
+        "time_requested": "2024-04-16T11:52:18.650509",
+        "error": null,
+        "num_tokens_in": 2287,
+        "num_tokens_out": 414,
+        "estimated_input_cost_gpt4": 0.02287,
+        "estimated_output_cost_gpt4": 0.01242,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

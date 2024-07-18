@@ -1,0 +1,15 @@
+{
+    "text": "Gennem Energistyrelsens tjeneste \"SparEnergi\" kan man få information om at skifte til solvarme som en energieffektiv løsning. Solvarmeanlæg kan levere gratis varmt brugsvand og delvist dække opvarmningsbehovet, især for boliger der bruger el, olie eller gas til opvarmning. Det fremhæves, at solvarme er klimavenlig, uafhængig af fossile brændstoffer og kræver minimal vedligeholdelse.\n\nFor at installere et solvarmeanlæg kræves tilladelse fra kommunen, et egnet tag og plads til en stor indendørs varmtvandsbeholder. Man kan spare op til 2210 kr. om året med solvarme, og det anbefales især hvis man alligevel skal renovere taget eller varmtvandsbeholderen. Installation kræver godkendelse fra VE-godkendte installatører samt byggetilladelse fra kommunen.\n\nDet nævnes også at solvarme ikke kan dække hele varmebehovet, der kan være genskinsproblemer og krav om beskæring af træer i nærheden. Installationen skal også opfylde lovkrav og kræver minimal vedligeholdelse. Energistyrelsen giver råd om, hvordan man vælger den rette installatør, og de nævner også muligheden for at få solceller i stedet for solvarme. Desuden deler de information om cases, lovgivning og installationsprocessen, og om at opdatere bygningens BBR-oplysninger.",
+    "meta": {
+        "id": 11062895441022091432,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/energiloesninger/solvarmeanlaeg-til-varmt-vand-og-varme",
+        "title": "Solvarmeanlæg til varmt vand og varme",
+        "time_requested": "2024-04-16T11:50:21.864994",
+        "error": null,
+        "num_tokens_in": 3014,
+        "num_tokens_out": 394,
+        "estimated_input_cost_gpt4": 0.030140000000000004,
+        "estimated_output_cost_gpt4": 0.01182,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside SparEnergi.dk giver råd og vejledning til energioptimering i boliger. Et af rådene omhandler isolering af tunge ydervægge. Hvis murstens- eller betonydervægge har mindre end 25 mm isolering, anbefales det at isolere bedre for at opnå en mindre varmeregning og et mere behageligt indeklima. Isolering af ydervægge fører til et bedre indeklima med varmere overflader og mindre træk. Det kan også resultere i en mindre varmeregning og en øget værdi af huset samt være mere klimavenligt ved at reducere varmetab. Isoleringen kan foregå indefra eller udefra og ændrer husets udseende. Der er lovkrav til isoleringstykkelse afhængigt af væggens byggemateriale. Det anbefales at bruge fagfolk til isoleringsarbejdet og sikre, at isoleringen udføres korrekt for at undgå fugtproblemer. Yderligere råd inkluderer at tage hensyn til soklen, vinduer og døre samt at konsultere en professionel håndværker og eventuelt lokalplanen inden start. Energistyrelsens hjemmeside tilbyder desuden vejledning, videoer og lister over håndværkere for at hjælpe boligejere med isolering og andre renoveringsprojekter i hjemmet.",
+    "meta": {
+        "id": 2667724415278342634,
+        "url": "https://sparenergi.dk/privat/skal-du-renovere-din-bolig/isoler-din-tunge-ydervaeg",
+        "title": "Isoler tung ydervæg",
+        "time_requested": "2024-04-16T11:54:35.600020",
+        "error": null,
+        "num_tokens_in": 2296,
+        "num_tokens_out": 376,
+        "estimated_input_cost_gpt4": 0.02296,
+        "estimated_output_cost_gpt4": 0.01128,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

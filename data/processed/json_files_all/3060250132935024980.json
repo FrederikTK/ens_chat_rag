@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen handler om, hvordan man kan spare energi, når man vasker tøj. Nogle gode råd inkluderer at springe en vask over, luft tøjet i stedet for altid at vaske det, vaske ved lavere temperaturer, fylde vaskemaskinen helt op, vælge det rigtige vaskeprogram og undgå forvask og kogevask. Der er også tips til at reparere hvidevarer og råd til at købe en energieffektiv vaskemaskine, herunder at se efter energimærke, vand- og elforbrug, og ikke at købe en større maskine end nødvendigt. Endvidere nævnes en myte om, at udsat start af vask kan give energibesparelser på trods af standbyforbrug. Artiklen omhandler også vilkår for at skrotte maskiner, smart styring af apparater og andre energibesparelsestips i hjemmet. Informationen om energibesparelse er fra Energistyrelsens hjemmeside, SparEnergi.dk, og er opdateret den 20.11.2023.",
+    "meta": {
+        "id": 3060250132935024980,
+        "url": "https://sparenergi.dk/forbruger/el/vask/vaskemaskiner/energimaerkning",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:59:17.550589",
+        "error": null,
+        "num_tokens_in": 2875,
+        "num_tokens_out": 275,
+        "estimated_input_cost_gpt4": 0.02875,
+        "estimated_output_cost_gpt4": 0.00825,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

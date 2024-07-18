@@ -1,0 +1,15 @@
+{
+    "text": "Informationen er en arkivside på hjemmesiden SparEnergi fra Energistyrelsen. Siden indeholder dokumenter og vejledninger om energioptimering i erhvervsvirksomheder. Der er oplysninger om ansøgningsprocessen, standardløsninger, vejledninger, beregnere og skabeloner fra tidligere perioder fra 2022 til 2024. Dokumenterne omfatter blandt andet vejledninger til ansøgning, trin-for-trin guider, standardløsninger, standardforudsætninger, skabeloner, bekendtgørelser, love og bilag.\n\nHjemmesiden tilbyder desuden gratis rådgivning inden for energioptimering for virksomheder. Energistyrelsens adresse er Carsten Niebuhrs Gade 43, 1577 København V.",
+    "meta": {
+        "id": 136503517029906699,
+        "url": "https://sparenergi.dk/erhverv/arkiv",
+        "title": "Arkiv",
+        "time_requested": "2024-04-16T11:58:09.120200",
+        "error": null,
+        "num_tokens_in": 2985,
+        "num_tokens_out": 203,
+        "estimated_input_cost_gpt4": 0.02985,
+        "estimated_output_cost_gpt4": 0.00609,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

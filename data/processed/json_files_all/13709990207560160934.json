@@ -1,0 +1,15 @@
+{
+    "text": "På Energistyrelsens hjemmeside SparEnergi.dk giver de gode råd til at spare energi på køl og frys. Danskerne bruger ca. 1/5 af deres strøm på køl og frys, så der er mange penge at spare ved at tænke energirigtigt. Nogle af de gode energivaner til køl og frys inkluderer at holde 5°C i køleskabet og -18°C i fryseren, lukke døren og undgå at åbne den unødigt, optø mad i køleskabet, køle varme madvarer af inden opbevaring, afrime fryseren regelmæssigt, tjekke tætningslisten, placere fryseren køligt og give plads til ventilation. Der gives også råd til reparation af hvidevarer og køb af nye apparater, hvor det anbefales at gå efter det bedste energimærke, vælge separat køleskab og fryser, vælge den rigtige størrelse, kigge efter stjernerne på indbyggede frysebokse og købe med digital termostat og display. Det anbefales desuden at undgå at slukke fryseren i perioder, da det kan påvirke madvarernes holdbarhed og øge elforbruget. Energistyrelsen oplyser også om anbefalede temperaturer, reservedele der let kan udskiftes, og hvordan man korrekt skrotter gamle hvidevarer på genbrugsstationen. Hjemmesiden tilbyder også gratis rådgivning og yderligere information om energibesparelse i hverdagen. ",
+    "meta": {
+        "id": 13709990207560160934,
+        "url": "https://sparenergi.dk/forbruger/el/kol-og-frys/forlaeng-levetiden-kol-og-frys",
+        "title": "Forlæng levetiden for køl og frys | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:33.608942",
+        "error": null,
+        "num_tokens_in": 2814,
+        "num_tokens_out": 399,
+        "estimated_input_cost_gpt4": 0.028140000000000002,
+        "estimated_output_cost_gpt4": 0.01197,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

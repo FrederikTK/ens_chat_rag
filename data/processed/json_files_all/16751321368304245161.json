@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder gasfyrsejere muligheden for at tilmelde sig et webinar om gasfyr. Webinaret vil blive optaget, og man kan modtage optagelsen ved at tilmelde sig. Webinaret henvender sig til interesserede i København, da Energistyrelsen har adresse på Carsten Niebuhrs Gade 43, 1577 København V. Man kan tilmelde sig og finde yderligere information på www.ens.dk.",
+    "meta": {
+        "id": 16751321368304245161,
+        "url": "https://nyheder.sparenergi.dk/tilmelding-til-webinar-optagelse-eboks",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:56:02.641807",
+        "error": null,
+        "num_tokens_in": 73,
+        "num_tokens_out": 119,
+        "estimated_input_cost_gpt4": 0.0007300000000000001,
+        "estimated_output_cost_gpt4": 0.0035700000000000003,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

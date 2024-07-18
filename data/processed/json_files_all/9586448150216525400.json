@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om LED-belysning til landbrug, herunder fordele ved at skifte til LED-belysning i stalde samt beregningseksempler for både svinestalde og kvægstalde. Udskiftning af lysstofrør med LED-belysning kan resultere i en betydelig energibesparelse på mellem 40-50%, da LED-rør har en længere levetid og giver mulighed for at vælge forskellige lysstyrker og farvetemperaturer. Energistyrelsen anbefaler, at udskiftningen foretages af en professionel installatør for at sikre korrekt installation og overholdelse af regler og love. Det er også vigtigt at overveje lysstyrke, lysspredning, kvalitet og omkostninger ved skiftet til LED-belysning. Energistyrelsen har udviklet en lysberegner, som kan hjælpe med at vurdere energibesparelser, investeringer og tilbagebetalingstid i forbindelse med udskiftning til LED-belysning. En undersøgelse viser stor tilfredshed blandt svine- og kvægbedrifter, der har skiftet til LED-belysning i stalde. Energistyrelsen opfordrer til at drøfte udskiftningen med en energikonsulent og få et tilbud fra en installatør med erfaring i LED og staldbelysning. Undersøgelsen beskriver også sammenhængen mellem LED-belysning og dyrevelfærd samt muligheden for energibesparelser og forbedret driftsøkonomi ved skiftet til LED-belysning i landbrug.",
+    "meta": {
+        "id": 9586448150216525400,
+        "url": "https://sparenergi.dk/erhverv/landbrug/belysning",
+        "title": "Belysning | Energistyrelsen",
+        "time_requested": "2024-04-16T11:57:08.475997",
+        "error": null,
+        "num_tokens_in": 2715,
+        "num_tokens_out": 419,
+        "estimated_input_cost_gpt4": 0.02715,
+        "estimated_output_cost_gpt4": 0.01257,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

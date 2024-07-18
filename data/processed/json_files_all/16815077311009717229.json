@@ -1,0 +1,15 @@
+{
+    "text": "Varmepumpepuljen er lukket for ansøgninger, og forventes at åbne igen i foråret 2024. Hvis man har ansøgt om tilskud i 2023 og ansøgningen bliver godkendt, får man besked senest i december 2023. Man kan følge sin ansøgning i Selvbetjeningen på Energistyrelsens hjemmeside. For at søge tilskud til en varmepumpe, skal man opfylde fem krav: Huset skal være en helårsbolig, opvarmes med olie-, gas- eller elvarme, må ikke have fjernvarme, man må ikke allerede være i gang med at skifte til en varmepumpe, og man skal ønske en luft-til-vand eller væske-til-vand varmepumpe. Det er vigtigt at være godt forberedt inden ansøgningsportalen åbner, så man bør tjekke kravene, hvilken type varmepumpe man ønsker, om der er momspligt på adressen, og læse vejledningen grundigt igennem. Ansøgningen indsendes gennem ansøgningsportalen på Energistyrelsens hjemmeside, og tilskuddene fordeles efter først til mølle-princippet. Når man har sendt sin ansøgning, får man en bekræftelse (tilsagn om tilskud) og herefter skal man finde en VE-godkendt installatør og købe den valgte varmepumpe. Når varmepumpen er installeret, har man to år til at skifte og ansøge om udbetaling af tilskuddet. Efter man har ansøgt om udbetaling, vil tilskuddet automatisk blive indsat på ens NemKonto. Man kan også tilmelde sig Energistyrelsens nyhedsbrev for at få løbende opdateringer om Varmepumpepuljen og andre råd til energibesparelse.",
+    "meta": {
+        "id": 16815077311009717229,
+        "url": "https://sparenergi.dk/privat/soeg-tilskud/varm-op-til-soege-tilskud-til-en-varmepumpe",
+        "title": "Varmepumpepuljen er lukket for ansøgninger",
+        "time_requested": "2024-04-16T11:47:37.043100",
+        "error": null,
+        "num_tokens_in": 3404,
+        "num_tokens_out": 487,
+        "estimated_input_cost_gpt4": 0.03404,
+        "estimated_output_cost_gpt4": 0.01461,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Suppler med en brugsvandsvarmepumpe er en informationsside fra Energistyrelsen, som fortæller om fordelene ved at installere en brugsvandsvarmepumpe i boliger, der opvarmes med el, olie eller naturgas og ikke har ventilationsanlæg. En brugsvandsvarmepumpe kan bidrage til billigere opvarmning, forbedret indeklima og giver et mere bæredygtigt valg end fossile brændstoffer. Siden giver også information om forudsætningerne for installation, årlige eftersyn og installationsprocessen samt vigtigheden af at vælge en varmepumpe med et energimærke A eller A+. Der nævnes også information om typiske besparelser og lovkrav, og der gives råd om at vælge en VE-godkendt virksomhed til installationen. Desuden opfordres læseren til at indhente yderligere vejledning og rådgivning fra eksperter, hvis man overvejer at supplere eksisterende varmekilder med en brugsvandsvarmepumpe.",
+    "meta": {
+        "id": 5945777402421166639,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/energiloesninger/brugsvandsvarmepumpe",
+        "title": "Brugsvandsvarmepumpe",
+        "time_requested": "2024-04-16T11:53:39.490252",
+        "error": null,
+        "num_tokens_in": 1985,
+        "num_tokens_out": 273,
+        "estimated_input_cost_gpt4": 0.019850000000000003,
+        "estimated_output_cost_gpt4": 0.00819,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

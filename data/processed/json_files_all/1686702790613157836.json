@@ -1,0 +1,15 @@
+{
+    "text": "Energirenoveringspuljen tilbyder tilskud til energibesparende forbedringer i boliger. For at søge tilskud skal man opfylde 5 krav, herunder at huset skal være en helårsbolig og man skal selv eje det. Man må ikke have fået tilskud til samme projekt tidligere. Puljen dækker bl.a. isolering, udskiftning af vinduer, etablering af ventilationsanlæg og vandbåret rumvarme. Der gives tilskud til et gyldigt energimærke, hvis man også søger tilskud til andre energiforbedringer. Når man søger tilskud, skal arbejdet udføres af en virksomhed med gyldigt CVR-nummer. Tilskuddet udbetales efter, at projektet er afsluttet, og man har ansøgt om udbetaling med korrekt dokumentation. Energirenoveringspuljen fordeles efter først-til-mølle-princippet, og man skal være opmærksom på frister vedrørende udførelsen af arbejdet og ansøgning om udbetaling. Man kan få ændret sit tilsagn om tilskud i særlige tilfælde. Ansøgning om udbetaling af tilskud skal godkendes for at blive indsat på ens NemKonto. Puljen er åben, og der er mulighed for at deltage i webinarer og få mere information. Vardepumpepuljen forventes at åbne i foråret 2024.",
+    "meta": {
+        "id": 1686702790613157836,
+        "url": "https://sparenergi.dk/energirenoveringspuljen",
+        "title": "Varm op til at søge tilskud til energirenovering",
+        "time_requested": "2024-04-16T11:47:33.338610",
+        "error": null,
+        "num_tokens_in": 4656,
+        "num_tokens_out": 380,
+        "estimated_input_cost_gpt4": 0.046560000000000004,
+        "estimated_output_cost_gpt4": 0.0114,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

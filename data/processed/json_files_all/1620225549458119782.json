@@ -1,0 +1,15 @@
+{
+    "text": "Intelligent varmestyring kan være en effektiv måde at optimere varmeforbruget i din bolig. Der findes forskellige løsninger, herunder intelligente termostater og automatik til varmeanlægget. Intelligente termostater kan styres og overvåges via WiFi eller Bluetooth, samt indstilles til at regulere varmen efter behov med funktioner som styring via sensorer, GPS og oprettelse af scenarier. Ved at investere i intelligente termostater kan man potentielt opnå en besparelse på 10-15% afhængigt af opvarmningsform, boligtype og vaner. Omkostningerne til intelligente termostater varierer mellem 1.500-4.000 kr. for termostater til 5 radiatorer afhængigt af mærket. Automatik til varmeanlægget kan også være en god investering, især ved udskiftning eller renovering af varmeanlægget. Automatikken kan stoppe varmeanlægget når det ikke er nødvendigt, f.eks. om sommeren, eller sænke temperaturen om natten. Besparelsen ved automatik afhænger af varmetypen. Energistyrelsen anbefaler at undersøge, hvor meget man kan spare med intelligent varmestyring, og opdaterer løbende deres informationer på siden.",
+    "meta": {
+        "id": 1620225549458119782,
+        "url": "https://sparenergi.dk/forbruger/varme/intelligent-varmestyring",
+        "title": "Intelligent varmestyring | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:06.903809",
+        "error": null,
+        "num_tokens_in": 1441,
+        "num_tokens_out": 335,
+        "estimated_input_cost_gpt4": 0.014410000000000001,
+        "estimated_output_cost_gpt4": 0.01005,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

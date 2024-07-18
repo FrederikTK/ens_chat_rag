@@ -1,0 +1,15 @@
+{
+    "text": "Informationen omhandler energioptimering i forbindelse med udskiftning af tag eller tagkonstruktion. Når hele tagkonstruktionen udskiftes, inklusive spær og andre bærende dele, skal den nye konstruktion isoleres, så den lever op til Bygningsreglementets krav. Kravene indebærer, at der skal isoleres, så U-værdien (varmetabet) bliver mindre end 0,12 W/m2 K. Dette gælder for lofter, skråvægge, skunkvægge og samlinger mellem tag og vinduer. \n\nVed renovering af tag eller tagetage kræver Bygningsreglementet efterisolering, hvis det er rentabelt. Eksemplerne viser, hvornår der er krav om efterisolering og hvilke typer isolation der skal anvendes. For eksempel bør der normalt være ca. 300 mm isolering i alt, eller en U-værdi på højst 0,12 W/m2 K, for at opfylde Bygningsreglementets krav.\n\nDet anbefales at bruge fagfolk til udførelsen af efterisoleringen, da forkert udført arbejde kan resultere i problemer som råd og svamp. Energistyrelsen tilbyder gratis rådgivning og vejledning omkring energioptimering. Man kan også finde energikrav til andre bygningsdele såsom gulv, rør, vinduer og installationer på Energistyrelsens hjemmeside.",
+    "meta": {
+        "id": 8179784267947637414,
+        "url": "https://old.sparenergi.dk/forbruger/boligen/bygningsreglementets-energikrav/renovering-tag-og-loft",
+        "title": "Renovering tag og loft | Energistyrelsen",
+        "time_requested": "2024-04-16T11:53:56.339763",
+        "error": null,
+        "num_tokens_in": 2347,
+        "num_tokens_out": 372,
+        "estimated_input_cost_gpt4": 0.02347,
+        "estimated_output_cost_gpt4": 0.01116,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

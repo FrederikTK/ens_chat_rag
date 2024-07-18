@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder rådgivning og inspiration til energirenovering af boliger. De opfordrer til at tænke energibesparelse ind i renoveringsprojekter, da det kan føre til mindre varmetab, lavere varmeregning, mindre træk og kulde, forbedret indeklima, øget boligværdi, mere klimavenlig bolig og mindre støj. Der er forskellige renoveringsmuligheder for at forbedre isoleringen af loft, tag, ydervægge, gulve, kældervægge, rør samt at installere energivenlige vinduer, ventilationsanlæg og vedvarende energikilder som solvarme og solceller. Energistyrelsen tilbyder også gratis rådgivning og information om tilskud til renoveringsprojekter. Der er desuden en liste over cases, hvor danskere har valgt at renovere deres boliger frem for at bygge nyt. Energistyrelsen understreger også vigtigheden af energibesparelser i hverdagen og tilbyder redskaber til at sætte mål for energibesparelser i hjemmet. Man kan finde mere information om energirenovering og tilskud på Energistyrelsens hjemmeside SparEnergi.dk.",
+    "meta": {
+        "id": 9998749626614815714,
+        "url": "https://sparenergi.dk/vores-energiaftale/spareraad?destination=/overvejer-du-renovere-din-bolig",
+        "title": "Vores energiaftale | Energistyrelsen",
+        "time_requested": "2024-04-16T11:59:08.122422",
+        "error": null,
+        "num_tokens_in": 2821,
+        "num_tokens_out": 316,
+        "estimated_input_cost_gpt4": 0.028210000000000002,
+        "estimated_output_cost_gpt4": 0.00948,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

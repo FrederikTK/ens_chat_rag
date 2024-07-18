@@ -1,0 +1,15 @@
+{
+    "text": "No content available to summarize.",
+    "meta": {
+        "id": 10301876297701015591,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/varmepumpelisten?type=Jordvarmepumpe&manufacturer=all",
+        "title": "Varmepumpelisten | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:52.279655",
+        "error": "500 Server Error: 500 Service unavailable (with message) for url: https://sparenergi.dk/varmepumpelisten?type=Jordvarmepumpe&manufacturer=all",
+        "num_tokens_in": 0,
+        "num_tokens_out": 6,
+        "estimated_input_cost_gpt4": 0.0,
+        "estimated_output_cost_gpt4": 0.00018,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "På Energistyrelsens hjemmeside SparEnergi.dk kan du finde information om, hvordan du kan foretage en sommerlukning af dit varmeanlæg for at spare energi og penge. Ved at lukke for dit varmeanlæg i sommerhalvåret sparer du 3-5% af dit årlige varmeforbrug, hvilket svarer til ca. 600-1600 kr., afhængigt af din varmeform. Sommerlukning indebærer at lukke for varmeanlægget, så det kun producerer varmt vand og ikke varme til radiatorer eller gulvvarme. Dette hjælper med at reducere spild og nedbringer din varmeregning. Processen tager kun 5 minutter og består af at lukke for varmeanlægget og slukke cirkulationspumpen. Energistyrelsen vejleder også i at åbne termostaterne på radiatorerne, når varmeanlægget er lukket. Der er specifikke instruktioner til forskellige varmesystemer som fjernvarme, varmepumper, naturgas, oliefyr og træpillefyr. Der opfordres også til at huske at slukke cirkulationspumpen, da dette er afgørende for effektiv sommerlukning. Energistyrelsen giver også råd om at spare varme på andre måder, såsom at justere vandtemperaturen, skifte varmeform og isolere huset. Energistyrelsen tilbyder desuden gratis rådgivning og information om energibesparelse.",
+    "meta": {
+        "id": 5201291494832203600,
+        "url": "https://sparenergi.dk/privat/spar-energi-i-hverdagen/sommerluk-varmeanlaegget",
+        "title": "Sommerluk for varmeanlægget",
+        "time_requested": "2024-04-16T11:53:10.479647",
+        "error": null,
+        "num_tokens_in": 3474,
+        "num_tokens_out": 386,
+        "estimated_input_cost_gpt4": 0.03474,
+        "estimated_output_cost_gpt4": 0.01158,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

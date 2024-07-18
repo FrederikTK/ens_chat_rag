@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen giver gode råd til renovering af lejligheder med fokus på energieffektivitet. Renovering af lejligheder kan forbedre miljøet, reducere energiregningen, forbedre indeklimaet og øge bygningens værdi. Initiativet til energirenovering kan komme fra ejendomsbestyrelsen eller fra lejerne/ejerne/andelshaverne. Det anbefales at kigge i energimærkningsrapporten for forslag til forbedringer og potentiale for energibesparelser. Det er vigtigt at gøre tingene i den rigtige rækkefølge ved renovering og inddrage relevante parter som byggeteknisk rådgiver, administrator eller advokat. Der er mulighed for at søge tilskud til energirenoveringer, og det anbefales at indhente flere tilbud og involvere alle parter i beslutningsprocessen. Energiforbedringer kan have indflydelse på hverdagen, f.eks. ved ændringer i energiforbrug afhængigt af brugervaner og installationer som altaner eller ventilationsanlæg. Energirenovering i lejeboliger kan finansieres via huslejestigning eller fastholdelse af huslejen, og det anbefales at koordinere med andre lejere og udlejer. Energistyrelsens hjemmeside giver yderligere information og vejledning om energirenovering af lejligheder.",
+    "meta": {
+        "id": 14515946268095320174,
+        "url": "https://old.sparenergi.dk/forbruger/boligen/renovering/renover-dit-hus-eller-din-lejlighed/renovering-af-lejligheder",
+        "title": "Renovering af lejligheder | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:25.995674",
+        "error": null,
+        "num_tokens_in": 4120,
+        "num_tokens_out": 371,
+        "estimated_input_cost_gpt4": 0.0412,
+        "estimated_output_cost_gpt4": 0.011130000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

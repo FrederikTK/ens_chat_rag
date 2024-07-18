@@ -1,0 +1,15 @@
+{
+    "text": "Dette er en artikel fra SparEnergi, en del af Energistyrelsen, der omhandler cirkulationspumper og hvordan man kan spare energi på dem. Cirkulationspumpen er ansvarlig for op til 10% af elforbruget i et hjem. Artiklen forklarer, hvad en cirkulationspumpe er, hvor den er placeret, hvordan man indstiller tidsstyring, og hvordan man kan spare penge ved at skifte til en nyere pumpe. Det anbefales at skifte en forældet pumpe ud, især hvis boligen har gulvvarme eller er blevet efterisoleret. Der gives også råd om hvornår man bør overveje at skifte en pumpe ud baseret på energiforbrug og indstillinger. Artiklen oplyser også om hvordan man kan finde ud af om cirkulationspumpen er overflødig i ens bolig, samt hvordan man kan spare energi ved at slukke pumpen om sommeren. Anbefalinger inkluderer at indstille pumpen til at køre i perioder, udskifte gamle pumper for at reducere strømforbrug og få hjælp fra en VVS'er for at vælge den rette pumpe til boligen.",
+    "meta": {
+        "id": 1593969498717333373,
+        "url": "https://sparenergi.dk/privat/spar-energi-i-hverdagen/cirkulationspumpe",
+        "title": "Få styr på cirkulationspumpen",
+        "time_requested": "2024-04-16T11:52:28.222623",
+        "error": null,
+        "num_tokens_in": 2483,
+        "num_tokens_out": 306,
+        "estimated_input_cost_gpt4": 0.02483,
+        "estimated_output_cost_gpt4": 0.00918,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

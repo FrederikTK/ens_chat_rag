@@ -1,0 +1,15 @@
+{
+    "text": "Energirenoveringspuljen er åben og tilbyder tilskud til energibesparende forbedringer på helårsboliger. For at søge tilskud skal man opfylde 5 krav, herunder at man selv ejer huset, har en energimærkekategori på E, F eller G, ikke har påbegyndt projektet, ikke tidligere har fået tilskud til samme projekt, og arbejdet udføres af en virksomhed med gyldigt CVR-nummer. Man kan søge tilskud til isolering af ydervægge, loft, tag, terrændæk, samt konvertering af krybekælder til terrændæk. Derudover tilbydes tilskud til udskiftning eller etablering af vinduer og mekanisk ventilationsanlæg med varmegenvinding. Hvis man ønsker at etablere vandbåren rumvarme, kan der også søges tilskud. Endelig kan man søge tilskud til sit eksisterende energimærke under visse betingelser. Det anbefales at forberede sig grundigt inden ansøgningen åbner, og man skal ansøge om udbetaling af tilskuddet efter afsluttet projekt. Energirenoveringspuljen fordeles efter først-til-mølle-princippet, og tilskuddet udbetales først efter korrekt dokumentation og inden for tidsfristen. Man skal ansøge om udbetaling senest 60 dage efter projektets afslutning.",
+    "meta": {
+        "id": 7802560925433978473,
+        "url": "https://sparenergi.dk/privat/varm-op-til-soege-tilskud-til-energirenovering",
+        "title": "Varm op til at søge tilskud til energirenovering",
+        "time_requested": "2024-04-16T11:49:59.835805",
+        "error": null,
+        "num_tokens_in": 4656,
+        "num_tokens_out": 372,
+        "estimated_input_cost_gpt4": 0.046560000000000004,
+        "estimated_output_cost_gpt4": 0.01116,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

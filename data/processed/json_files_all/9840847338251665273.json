@@ -1,0 +1,15 @@
+{
+    "text": "På Energistyrelsens hjemmeside SparEnergi findes en belysningsberegner, hvor virksomheder kan indtaste deres adresse og få råd til energioptimering. Der er også en tilskudsberegner til LED-belysning, som kan benyttes, hvis man ønsker at udskifte ældre belysning til LED og beregne, hvor meget tilskud man kan forvente at få. SparEnergi giver inspiration, viden og råd til at få mest ud af energien, og der tilbydes gratis rådgivning. Energistyrelsen har en tilgængelighedserklæring på hjemmesiden samt kontaktoplysninger.",
+    "meta": {
+        "id": 9840847338251665273,
+        "url": "https://sparenergi.dk/belysningsberegner",
+        "title": "Site under opdatering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:59:02.881709",
+        "error": null,
+        "num_tokens_in": 378,
+        "num_tokens_out": 168,
+        "estimated_input_cost_gpt4": 0.0037800000000000004,
+        "estimated_output_cost_gpt4": 0.00504,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

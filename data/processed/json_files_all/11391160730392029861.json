@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder rådgivning til ejere, lejere og potentielle købere af sommerhuse om, hvordan de kan spare energi i deres sommerboliger. Eksperterne har samlet gode vaner såsom at holde køleskabet og fryseren på optimale temperaturer, undlade at bruge terrassevarmeren, tørre tøj udendørs og dække poolen til for at spare på varmen. Der gives også råd om at skrue ned for varmen i ydersæsonerne, udnytte billig strøm til at vaske tøj og køre opvaskemaskinen samt isolere bedre for at spare på varmen om vinteren. Der er desuden tips til at spare på brugsvandet ved at anvende solvarme eller gennemstrømsvandvarmere. Endvidere anbefales det at installere varmepumper, solceller og ventilationssystemer for at opnå mere energieffektiv opvarmning af sommerhuset. Der gives også gode råd om lukning og åbning af sommerhuset i sommer- og vintersæsonen for at minimere energiforbruget, samt overvejelser man bør have i tankerne, når man køber et sommerhus med hensyn til isolering, vinduer, opvarmning og ventilation. Energistyrelsen tilbyder desuden gratis rådgivning vedrørende energibesparelser og valg af energieffektive løsninger.",
+    "meta": {
+        "id": 11391160730392029861,
+        "url": "https://sparenergi.dk/forbruger/boligen/sommerhus",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:53:02.416149",
+        "error": null,
+        "num_tokens_in": 6476,
+        "num_tokens_out": 366,
+        "estimated_input_cost_gpt4": 0.06476000000000001,
+        "estimated_output_cost_gpt4": 0.01098,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Informationen omhandler, hvordan man finder en varmepumpeinstallatør gennem Energistyrelsens hjemmeside SparEnergi.dk. Hjemmesiden opfordrer til at vælge en VE-godkendt virksomhed, som har dokumenterede kompetencer til at installere VE-anlæg. Derudover anbefales det at indhente tilbud fra flere installatører for at få forskellige varmepumper at vælge imellem. Der er også en tilskudspulje fra Energistyrelsen til skift til varmepumpe, hvor man blandt andet skal have et tilbud fra en installatør for at søge om tilskud. Man kan finde VE-godkendte virksomheder på hjemmesiden, som er erfarne med den type varmepumpe, man skal have, og der er en liste med kontaktoplysninger til forskellige installatører. Desuden er der ekstra råd om at renovere boligen for at spare på strøm og varme samt muligheden for gratis rådgivning.",
+    "meta": {
+        "id": 4537475695905091068,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/ve-virksomheder",
+        "title": "Liste over VEG-virksomheder | Energistyrelsen",
+        "time_requested": "2024-04-16T11:47:55.584957",
+        "error": null,
+        "num_tokens_in": 1483,
+        "num_tokens_out": 256,
+        "estimated_input_cost_gpt4": 0.014830000000000001,
+        "estimated_output_cost_gpt4": 0.00768,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

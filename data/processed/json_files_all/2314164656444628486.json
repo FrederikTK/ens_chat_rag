@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en positivliste over vindues- og forsatssystemer, som er velegnede til energirenovering og kan opnå tilskud fra Energirenoveringspuljen. Listen indeholder information om producenter, produktnavne, materialer, U-værdier, velegnethed til nyere eller ældre arkitektur og energiklasse. Eksempler på vindues- og forsatssystemer inkluderer KPK Vision, Outline, Hvidbjerg ZelaLUX, Lodberg Schüco Nordic, Nordan ND Ntech One IsoPlus, m.fl. Positivlisten giver forbrugerne mulighed for at vælge energieffektive vinduer og derved optimere energiforbruget i deres hjem. Energistyrelsen tilbyder også gratis rådgivning og vejledning til energibesparende tiltag.",
+    "meta": {
+        "id": 2314164656444628486,
+        "url": "https://sparenergi.dk/privat/varm-op-til-soege-tilskud-til-energirenovering/positivlisten",
+        "title": "Positivlisten",
+        "time_requested": "2024-04-16T11:48:42.070336",
+        "error": null,
+        "num_tokens_in": 2707,
+        "num_tokens_out": 209,
+        "estimated_input_cost_gpt4": 0.027070000000000004,
+        "estimated_output_cost_gpt4": 0.00627,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

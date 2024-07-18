@@ -1,0 +1,15 @@
+{
+    "text": "På Energistyrelsens hjemmeside \"Spar energi når du støvsuger\" findes der gode råd og tips til at spare energi under støvsugning. Her nævnes det blandt andet, at man kan skrue ned for sugestyrken på støvsugeren, da man ikke altid behøver fuld kraft. Det anbefales også at skifte støvsugerposen regelmæssigt, da en fyldt pose kan reducere støvsugerens ydeevne og få én til at øge sugestyrken, hvilket bruger mere strøm.\n\nVed køb af en ny støvsuger anbefales det at vælge en model med et lavt elforbrug, helst på 750 watt eller derunder, da dette har betydning for sugeevnen. Der nævnes også, at et nyt energimærke for støvsugere forventes at være tilgængeligt i butikkerne i 2024 eller 2025, men indtil da kan man fokusere på watt-tallet.\n\nYderligere gives der tips i forhold til valg af robotstøvsuger, batteridrevet støvsuger og poseløs støvsuger, hvor det blandt andet pointeres, at robotstøvsugere ikke nødvendigvis bruger mere strøm end almindelige støvsugere. Til sidst oplyses der om korrekt bortskaffelse af støvsugere, hvor støvsugerposen skal smides til restaffald, og støvsugeren sorteres som elektronikaffald.\n\nDer er også information om andre energibesparelsesforslag på hjemmesiden, og det oplyses, at SparEnergi tilbyder gratis rådgivning, samt at man kan finde dem på Facebook. Energistyrelsens adresse er Carsten Niebuhrs Gade 43, 1577 Kbh. V. Det er desuden angivet, at der er en tilgængelighedserklæring for SparEnergi.dk tilgængelig på siden.",
+    "meta": {
+        "id": 1858891018964082846,
+        "url": "https://sparenergi.dk/privat/spar-energi-i-hverdagen/spar-energi-naar-du-stoevsuger",
+        "title": "Spar energi når du støvsuger",
+        "time_requested": "2024-04-16T11:57:04.573326",
+        "error": null,
+        "num_tokens_in": 1487,
+        "num_tokens_out": 497,
+        "estimated_input_cost_gpt4": 0.014870000000000001,
+        "estimated_output_cost_gpt4": 0.01491,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

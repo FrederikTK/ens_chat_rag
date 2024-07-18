@@ -1,0 +1,15 @@
+{
+    "text": "BedreBolig er et program udviklet af Energistyrelsen, der hjælper husejere med at energirenovere deres boliger på en energirigtig måde. Programmet tilbyder blandt andet rådgivning fra BedreBolig-rådgivere, som udarbejder en plan for energioptimering i boligen. En BedreBolig-plan indeholder fakta om huset, ønsker til renoveringen, en prioriteret liste over energioptimerende tiltag, gode råd til energirigtig adfærd og et samlet budget inklusive investeringer og besparelser.\n\nPrisen for en BedreBolig-plan aftales med rådgiveren forud for udarbejdelsen af planen. Renovering med BedreBolig-programmet kan resultere i flere fordele, herunder lavere varmeregninger, bedre komfort i form af et forbedret indeklima, øget salgsværdi af boligen, reduceret CO2-forbrug og en mere klimavenlig bolig.\n\nBedreBolig-rådgiveren kan også hjælpe hele vejen fra planlægning til færdig renovering af boligen. Dette inkluderer indledende samtaler om renoveringsplaner, udarbejdelse af renoveringsplan, hjælp til byggestyring og afslutning af projektet med dokumentation af renoveringen og opfølgning på tilfredsheden og besparelser efter et år. Man kan vælge sin rådgiver baseret på behov og ønsker, og det anbefales at vælge en rådgiver med erfaring og ekspertise inden for ens specifikke renoveringsbehov. BedreBolig-programmet har til formål at gøre energirenovering af boliger mere tilgængeligt, effektivt og gavnligt for både boligejere og miljøet.",
+    "meta": {
+        "id": 3129944875394410056,
+        "url": "https://sparenergi.dk/privat/velkommen-til-bedrebolig",
+        "title": "Velkommen til BedreBolig",
+        "time_requested": "2024-04-16T11:56:03.210908",
+        "error": null,
+        "num_tokens_in": 2389,
+        "num_tokens_out": 472,
+        "estimated_input_cost_gpt4": 0.02389,
+        "estimated_output_cost_gpt4": 0.01416,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

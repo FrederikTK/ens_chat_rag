@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en kedelberegner til virksomheder, som ønsker at udskifte deres brændselskedel, strålevarmer eller kalorifer med en grønnere varmekilde. Ved at bruge tilskudsberegneren kan virksomheder beregne, hvor meget de kan få i tilskud til udskiftning af varmekilder. Energistyrelsen tilbyder også inspiration, viden og råd om energioptimering gennem deres gratis rådgivning og materialer på SparEnergi.dk. Man kan indtaste sin adresse for at modtage de tre mest effektive råd til energioptimering på stedet. Energistyrelsen oplyser, at de kan kontaktes på Carsten Niebuhrs Gade 43, 1577 København V, og yderligere information kan findes på deres hjemmeside www.ens.dk.",
+    "meta": {
+        "id": 13743706159282239355,
+        "url": "https://sparenergi.dk/erhverv/smaa-kedler-beregner",
+        "title": "Kedel beregner",
+        "time_requested": "2024-04-16T11:48:33.411426",
+        "error": null,
+        "num_tokens_in": 351,
+        "num_tokens_out": 224,
+        "estimated_input_cost_gpt4": 0.00351,
+        "estimated_output_cost_gpt4": 0.00672,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens Casebank indeholder erfaringer med energioptimering i det offentlige, opdelt i forskellige institutionstyper som kontorer, undervisningssteder, svømmehaller, sportsfaciliteter, hospitaler og meget mere. Der er eksempler på forskellige indsatsområder, herunder drift og optimering af bygninger, energiledelse, grønne regnskaber og adfærdsændringer. Nogle konkrete eksempler inkluderer installation af ventilatorer i idrætshaller, brug af LED-lys og bevægelsessensorer i rideklubber, overvågning af ventilationssystemer i Roskilde Kommune, og samarbejder mellem kommuner for at finde energibesparelser. Der er også cases om energiledelse på kontorer, vandbesparelser på undervisningssteder, samt helhedsløsninger til energibesparelse på Roskilde Universitet. Casebanken er en ressource for det offentlige for at kunne lære og udveksle viden om energioptimeringstiltag.",
+    "meta": {
+        "id": 3186887850655926375,
+        "url": "https://old.sparenergi.dk/offentlig/vaerktojer/casebank",
+        "title": "Casebank | Energistyrelsen",
+        "time_requested": "2024-04-16T11:57:27.459877",
+        "error": null,
+        "num_tokens_in": 1283,
+        "num_tokens_out": 268,
+        "estimated_input_cost_gpt4": 0.012830000000000001,
+        "estimated_output_cost_gpt4": 0.00804,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

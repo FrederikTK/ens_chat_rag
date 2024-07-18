@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen omhandler vigtigheden af at passe godt på sin varmepumpe for at forlænge dens levetid. Den indeholder følgende råd til vedligeholdelse af varmepumpen:\n1. Få årligt serviceeftersyn\n2. Skrot varmepumpen korrekt, når den ikke længere virker\n3. Følg manualen for vedligeholdelse\n4. Hold øje med elforbruget og reager på fejl\n5. Hold 55°C i varmtvandsbeholderen\n6. Brug el, når det er billigst\n7. Tjek og eventuelt udskift cirkulationspumpen\nArtiklen opfordrer desuden til at søge tilskud til varmepumpen gennem Energistyrelsens tilskudspulje. Derudover gives der yderligere information om cirkulationspumper, herunder beskrivelse af, hvordan man finder pumpen, hvad man kan spare ved at skifte den, hvornår det kan være nødvendigt at skifte, og om pumpen er overflødig. Desuden gives der råd til at slukke pumpen om sommeren for at spare på energiforbruget.",
+    "meta": {
+        "id": 8762914907147899267,
+        "url": "https://sparenergi.dk/privat/tid-til-skifte-varmetype/pas-godt-paa-din-varmepumpe",
+        "title": "Pas godt på din varmepumpe",
+        "time_requested": "2024-04-16T11:56:06.412617",
+        "error": null,
+        "num_tokens_in": 3015,
+        "num_tokens_out": 294,
+        "estimated_input_cost_gpt4": 0.030150000000000003,
+        "estimated_output_cost_gpt4": 0.00882,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

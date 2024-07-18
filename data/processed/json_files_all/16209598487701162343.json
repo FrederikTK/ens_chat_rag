@@ -1,0 +1,15 @@
+{
+    "text": "Ministeriet EE-Plan er en del af Energistyrelsen og har fokus på energieffektivitetsplaner for forskellige områder, herunder Hvidovre. På nuværende tidspunkt er energieffektivitetsplanen for Hvidovre endnu ikke færdiggjort. Ministeriet EE-Plan, gennem SparEnergi, tilbyder gratis rådgivning, inspiration og viden om, hvordan man kan optimere energiforbruget i ens hjem. Man kan indtaste sin adresse og få tre effektive råd til energioptimering på netop den adresse. Energistyrelsen's adresse er Carsten Niebuhrs Gade 43, 1577 København V.",
+    "meta": {
+        "id": 16209598487701162343,
+        "url": "https://sparenergi.dk/hvidovre",
+        "title": "Ministeriet EE-Plan | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:34.827119",
+        "error": null,
+        "num_tokens_in": 248,
+        "num_tokens_out": 173,
+        "estimated_input_cost_gpt4": 0.00248,
+        "estimated_output_cost_gpt4": 0.00519,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

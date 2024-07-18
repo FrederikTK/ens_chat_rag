@@ -1,0 +1,15 @@
+{
+    "text": "Informationen omhandler renovering og energiforbedring af fundament og kælder i et bindingsværkshus. Det nævnes, at bindingsværkshuset normalt er funderet på store sten kaldet syldsten, som hæver den nederste vandrette del af huset fra jorden. Det anbefales at isolere soklen og fundamentet udefra for at forbedre husets isoleringsevne og forhindre varmetab. Der er også råd om at understøbe syldstenene med beton, hvis gulvet skal sænkes, og at holde stenpigningen ren for at forhindre fugtproblemer. Derudover nævnes muligheden for at etablere et terrændæk i stedet for en eventuel krybekælder for at forbedre isoleringen og komforten i huset. Vigtigheden af at dræne omkring huset for at undgå fugtproblemer og forbedringsmuligheder såsom isolering over krybekælderen bliver også fremhævet. Til sidst nævnes det, at man kan få tilskud til mange energirenoveringer og rådes til at undersøge dette nærmere.",
+    "meta": {
+        "id": 7790580326599403097,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/bygningsguiden/bindingsvaerkshus/fundament-og-kaelder",
+        "title": "Fundament og kælder | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:49.014298",
+        "error": null,
+        "num_tokens_in": 3772,
+        "num_tokens_out": 292,
+        "estimated_input_cost_gpt4": 0.037720000000000004,
+        "estimated_output_cost_gpt4": 0.00876,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

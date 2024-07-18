@@ -1,0 +1,15 @@
+{
+    "text": "Den tilgængelige information handler om Bygningspuljen, hvor man kan søge tilskud til energirenovering af sin bolig. Puljen var åben for ansøgninger, men den er nu lukket for nye ansøgninger. Information gives om typiske fejl og mangler ved ansøgninger om udbetaling, herunder manglende oplysninger på fakturaer og certifikatnumre. Der er også anvisninger til processen for at søge udbetaling, inklusive krav til dokumentation og frister for afslutning af projekter. Der gives også tips til, hvordan man kan forbedre husets energieffektivitet, selvom man ikke modtager tilskud. Endelig er der oplysninger om, hvordan man kan kontakte Energistyrelsen for rådgivning og support.",
+    "meta": {
+        "id": 3075695510688963335,
+        "url": "https://sparenergi.dk/har-du-allerede-sogt-tilskud",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:49:24.655984",
+        "error": null,
+        "num_tokens_in": 3322,
+        "num_tokens_out": 194,
+        "estimated_input_cost_gpt4": 0.03322,
+        "estimated_output_cost_gpt4": 0.0058200000000000005,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

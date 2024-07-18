@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har udviklet en online elforbrugsregner, hvor man kan indtaste antallet af personer i husstanden opdelt i kategorierne voksne (over 18 år), teenagere (mellem 13 og 18 år) og børn (under 13 år). Derefter kan man få en estimering af det typiske elforbrug i husstande, der ligner ens egen. Man får resultatet i både kroner pr. år og kWh pr. år. Man kan fortsætte til næste skridt efter at have angivet antallet af personer i de forskellige aldersgrupper.",
+    "meta": {
+        "id": 9316622088378510743,
+        "url": "https://sparenergi.dk/electricity-consumption?destination=/privat/spar-energi-i-hverdagen",
+        "title": "Elforbrugsregner | Energistyrelsen",
+        "time_requested": "2024-04-16T11:59:02.419415",
+        "error": null,
+        "num_tokens_in": 105,
+        "num_tokens_out": 147,
+        "estimated_input_cost_gpt4": 0.0010500000000000002,
+        "estimated_output_cost_gpt4": 0.00441,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

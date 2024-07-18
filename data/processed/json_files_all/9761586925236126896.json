@@ -1,0 +1,15 @@
+{
+    "text": "På hjemmesiden fra Energistyrelsen kan man finde gode råd og tips til at spare energi, når man vasker tøj. Det anbefales at overveje om tøjet virkelig trænger til at blive vasket, og at lufte tøjet i stedet for. Ved at vaske tøjet ved lavere temperaturer, fylde maskinen helt op, vælge det rigtige vaskeprogram, undgå forvask og kogevask samt vaske tøj, når strømmen er billigst, kan man reducere energiforbruget betydeligt. Der gives råd til at reparere hvidevarer, købe nye hvidevarer med energimærke i tankerne og undgå for store maskiner og kombimaskiner. Desuden oplyses om den nye skala for energimærkning, vand- og elforbrug for vaskemaskiner samt anbefales det at regne på den samlede pris for at vælge den mest økonomiske løsning. Der er også information om myter og smart styring af apparater samt hvordan man skal skrotte gamle maskiner. Til slut gives et eksempel på en case, hvor Bo og Lisbet har ændret deres energivaner og engageret hele familien i at spare energi.",
+    "meta": {
+        "id": 9761586925236126896,
+        "url": "https://sparenergi.dk/forbruger/el/vask-og-rengoering/vaskemaskiner/koeb-af-vaskemaskiner",
+        "title": "Køb af vaskemaskiner | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:01.779999",
+        "error": null,
+        "num_tokens_in": 2875,
+        "num_tokens_out": 313,
+        "estimated_input_cost_gpt4": 0.02875,
+        "estimated_output_cost_gpt4": 0.00939,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

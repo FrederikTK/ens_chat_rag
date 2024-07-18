@@ -1,0 +1,15 @@
+{
+    "text": "Resumé:\nArtiklen handler om at få styr på cirkulationspumpen, som kan være en stor strømsluger i hjemmet og stå for op til 10% af elforbruget. En cirkulationspumpe sender varmt vand rundt i radiatorer, gulvvarme eller til varme vandhaner. Det anbefales at tjekke cirkulationspumpen, skifte den ud, slukke den når unødvendig og indstille tidsstyring for at spare energi. Udskiftning af gamle pumper kan give store besparelser, specielt hvis man har gulvvarme eller har efterisoleret boligen. Det anbefales at udskifte cirkulationspumpen, hvis den er fra før 2014 eller har højt strømforbrug. Der gives tips til at finde pumpen, indstille tidsstyring, spare ved udskiftning og vurdere om den er overflødig. Desuden anbefales sommerlukning af pumpen for yderligere energibesparelse.",
+    "meta": {
+        "id": 16443103982597168835,
+        "url": "https://sparenergi.dk/spar-energi-i-hverdagen/faa-styr-paa-cirkulationspumpen",
+        "title": "Cirkulationspumpen | SparEnergi.dk",
+        "time_requested": "2024-04-16T11:57:19.415048",
+        "error": null,
+        "num_tokens_in": 2483,
+        "num_tokens_out": 257,
+        "estimated_input_cost_gpt4": 0.02483,
+        "estimated_output_cost_gpt4": 0.00771,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

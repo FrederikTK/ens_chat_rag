@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om at få gratis strøm fra solceller til private boligejere. Solceller giver mulighed for at producere sin egen klimavenlige strøm, hvilket kan bidrage til besparelser på elregningen og endda give et overskud, der kan sælges til elnettet. Der er dog visse forudsætninger, såsom at det skal være tilladt i lokalplanen og at taget skal være stort og stærkt nok til at bære solcellerne. En række fordele ved solenergi nævnes: besparelser på elregningen, klimavenlig strøm, lang levetid med minimal vedligeholdelse og mulighed for at blive mere opmærksom på energiforbrug. Derudover nævnes det, at solceller er synlige og kræver en vis opmærksomhed på energiforbruget i forhold til produktionen. En trin-for-trin guide for at få solceller inkluderer punkter som at undersøge mulighederne inden køb, gøre klar til installation, vælge en VE-godkendt installatør, få flere tilbud, sikre at taget kan bære solcellerne og indgå kontrakt med installatøren. Installationen indebærer at solcellerne bliver monteret, elmåler udskiftes, solcellerne tilmeldes og tilsluttes, og at man kan begynde at nyde af den grønne strøm og eventuelt sælge overskudsstrøm. Der opfordres til at følge med i elforbruget og eventuelt sælge overskudsstrøm gennem en produktionselleverandør. Instruktioner om hvordan man indberetter salg af overskudsstrøm til SKAT gives også. Man kan også finde cases, hvor solceller kombineres med andre energiløsninger som jordvarme eller varmepumper, samt relevante vejledninger og rådgivning til håndværkere. Energistyrelsen tilbyder desuden information og rådgivning om andre energioptimeringsmuligheder, såsom renovering af boligen, energibesparelser i hverdagen og brug af solvarme.",
+    "meta": {
+        "id": 3861200134158948693,
+        "url": "https://sparenergi.dk/skal-du-renovere-din-bolig/faa-gratis-stroem-fra-solceller",
+        "title": "Solceller | SparEnergi.dk",
+        "time_requested": "2024-04-16T11:52:49.705678",
+        "error": null,
+        "num_tokens_in": 4552,
+        "num_tokens_out": 551,
+        "estimated_input_cost_gpt4": 0.045520000000000005,
+        "estimated_output_cost_gpt4": 0.01653,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

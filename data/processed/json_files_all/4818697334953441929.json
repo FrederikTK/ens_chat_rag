@@ -1,0 +1,15 @@
+{
+    "text": "Et webinar rettet mod personer, der har gasfyr, blev afholdt i december 2022. Webinaret går i dybden med emner som energimærkning af bygninger, isolering, vinduer, ventilation, intelligent styring og varmeanlæg. Der gives også information om renovering, energikrav i bygningsreglementet, tilskudsmuligheder og energimærkning af forskellige typer boliger og apparater. Webinaret tilbyder rådgivning og vejledning om energibesparelser og valg af energiløsninger. Energistyrelsen stod for arrangementet, og der henvises til deres hjemmeside for yderligere information.",
+    "meta": {
+        "id": 4818697334953441929,
+        "url": "https://sparenergi.dk/forbruger/boligen/radgivning/webinarer/se-optaget-gasfyrswebinar",
+        "title": "Se optaget gasfyrswebinar | Energistyrelsen",
+        "time_requested": "2024-04-16T11:51:51.465983",
+        "error": null,
+        "num_tokens_in": 2437,
+        "num_tokens_out": 171,
+        "estimated_input_cost_gpt4": 0.024370000000000003,
+        "estimated_output_cost_gpt4": 0.00513,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

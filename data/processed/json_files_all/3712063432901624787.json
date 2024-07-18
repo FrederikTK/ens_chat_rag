@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har udgivet en artikel om, hvordan man kan spare energi ved brug af ovn og komfur. Artiklen indeholder en række gode råd og metoder til at reducere energiforbruget under madlavning. Nogle af rådene inkluderer at koge med mindre vand, vælge en passende grydestørrelse, bruge låg på gryden, bruge varmluftovn, udnytte eftervarmen, bruge mikroovn eller airfryer i stedet for ovn, riste brød på brødrister, koge vand i elkedel, koge færdige retter med \"høkasse\" metoden og flytte elforbruget væk fra dyre tidspunkter. Derudover gives der råd til køb af nye ovne og komfurer, herunder at vælge et høje energimærke, købe brugt, vælge den rigtige kogeplade og at regne på hele prisen. Artiklen afsluttes med en debunking af myten om at spare varme ved at lade ovnen stå åben efter brug, samt information om korrekt bortskaffelse af ovne og komfurer. Det oplyses også, at der er mulighed for gratis rådgivning hos Energistyrelsen og at læse mere på deres hjemmeside SparEnergi.dk.",
+    "meta": {
+        "id": 3712063432901624787,
+        "url": "https://sparenergi.dk/privat/spar-energi-i-hverdagen/spar-energi-paa-ovn-og-komfur",
+        "title": "Spar energi på ovn og komfur",
+        "time_requested": "2024-04-16T11:57:43.091490",
+        "error": null,
+        "num_tokens_in": 2009,
+        "num_tokens_out": 341,
+        "estimated_input_cost_gpt4": 0.02009,
+        "estimated_output_cost_gpt4": 0.01023,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en række råd og informationer om, hvordan man kan spare energi i sit hus. Fokus ligger på at skære toppen af varme- og elregningen samt at bidrage til klimaet. Der gives konkrete spareråd til både varmeforbrug og elforbrug, samt information om økonomisk støtte til dem, der har svært ved at betale el- og varmeregninger. Det anbefales også at bruge strøm, når prisen er lav, og der gives råd om renov ering med fokus på energiforbruget. Energistyrelsen opfordrer også til at opgradere opvarmningen i huset og tilbyder information om forskellige tiltag og støttemuligheder for at forbedre energiforbruget i boligen. Slutteligt tilbyder de gratis rådgivning og mulighed for at kontakte erfarne energirådgivere, som kan give individuelle råd til at reducere energiforbruget og spare penge.",
+    "meta": {
+        "id": 13301507342343859545,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/goer-det-selv-guides/guide-til-en-mindre-varmeregning",
+        "title": "Site under opdatering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:49.931016",
+        "error": null,
+        "num_tokens_in": 2672,
+        "num_tokens_out": 255,
+        "estimated_input_cost_gpt4": 0.02672,
+        "estimated_output_cost_gpt4": 0.0076500000000000005,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Erhvervspuljen er en økonomisk støtteordning til danske virksomheder, der ønsker at spare energi og reducere deres CO2-udledning. Puljen giver tilskud til projekter, der f.eks. omhandler udskiftning af varmekilder til varmepumper eller fjernvarme, udskiftning af ældre belysning til LED og intern udnyttelse af overskudsvarme. Puljen giver ikke tilskud til solceller. Tilskuddet kan udgøre op til 50% af projektets omkostninger, og virksomhedens størrelse har indflydelse på den procentvise støtte, man kan opnå. Puljen er på 640 mio. kr. i 2024, og støttesager behandles i den rækkefølge, de modtages. Processen for at søge tilskud indebærer bl.a. forberedelse af projektet, ansøgning, gennemførelse af projektet, ansøgning om udbetaling og modtagelse af tilskuddet. Der er også forskellige hjælpeværktøjer, guider, webinars og skabeloner til rådighed for virksomhederne, som kan hjælpe dem gennem ansøgningsprocessen. Man kan altid kontakte Energistyrelsen for yderligere hjælp og vejledning, og det er også muligt at kontakte installatører og energirådgivere i forbindelse med ansøgningsprocessen. Samlet set er Erhvervspuljen en central del af den grønne omstilling af dansk erhvervsliv og har til formål at støtte virksomheder i at opnå energibesparelser og reducere deres CO2-aftryk.",
+    "meta": {
+        "id": 14793134898271019818,
+        "url": "https://sparenergi.dk/erhverv/vaerktojer/tilskud/hvad-er-erhvervspuljen",
+        "title": "Hvad er Erhvervspuljen? | Energistyrelsen",
+        "time_requested": "2024-04-16T11:59:24.940828",
+        "error": null,
+        "num_tokens_in": 4772,
+        "num_tokens_out": 442,
+        "estimated_input_cost_gpt4": 0.047720000000000005,
+        "estimated_output_cost_gpt4": 0.013260000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

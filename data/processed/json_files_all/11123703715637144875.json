@@ -1,0 +1,15 @@
+{
+    "text": "Energifronten har information om isolering af rør til varmt brugsvand og varmerør. Hjemmesiden opfordrer til at isolere rørene, da det kan spare penge på varmeregningen, særligt i rum uden opvarmning som loft eller kælder. Isolering af ventiler anbefales også. Isolering af rør er et billigt og nemt gør-det-selv-projekt, der tjener sig hurtigt hjem. Der gives også information om lovkrav, rørtykkelser, isoleringens varmeledningsevne, samt en guide til rørisolering. Der oplyses om vigtige punkter før, under og efter isoleringen, herunder hvordan man måler størrelser, vælger isoleringsmateriale og udfører selve isoleringen. Der gives gode råd om at isolere rør i opvarmede rum også, da man ellers mister varme til rummene og bruger penge på varme konstant. Det nævnes også at gammel rørisolering før 1973 kan indeholde asbest, og derfor bør man være opmærksom ved udskiftning af isolering. Hjemmesiden tilbyder en liste over håndværkere, inspiration til bedre varmevaner og information om at skifte varmetype.",
+    "meta": {
+        "id": 11123703715637144875,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/energiloesninger/isolering-af-varmeroer",
+        "title": "Isolering af varmerør",
+        "time_requested": "2024-04-16T11:56:26.617344",
+        "error": null,
+        "num_tokens_in": 2730,
+        "num_tokens_out": 321,
+        "estimated_input_cost_gpt4": 0.0273,
+        "estimated_output_cost_gpt4": 0.00963,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

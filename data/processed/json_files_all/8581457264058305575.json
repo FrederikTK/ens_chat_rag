@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder vejledning til borgere, der ønsker at skifte til varmepumpe. De anbefaler at vælge en VE-godkendt installatør for at sikre den bedste løsning med størst effektivitet. Processen indeholder følgende trin: 1) Find en VE-godkendt installatør, 2) Vælg en model, 3) Placer og installer, 4) Vedligehold og reparer, 5) Få oplysninger inden kontakten med installatøren. Energistyrelsen opfordrer til indhentning af tilbud fra flere installatører for at kunne vælge mellem forskellige varmepumper. Der er også tilskudsmuligheder til skift til varmepumpe, hvor Energistyrelsen har en tilskudspulje. Man kan finde en liste over VE-godkendte virksomheder på deres hjemmeside og vælge en installatør, der har erfaring med den ønskede type varmepumpe.",
+    "meta": {
+        "id": 8581457264058305575,
+        "url": "https://sparenergi.dk/tid-til-skifte-varmetype/find-varmepumpeinstallatoer",
+        "title": "Site under opdatering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:50:20.516310",
+        "error": null,
+        "num_tokens_in": 1483,
+        "num_tokens_out": 257,
+        "estimated_input_cost_gpt4": 0.014830000000000001,
+        "estimated_output_cost_gpt4": 0.00771,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

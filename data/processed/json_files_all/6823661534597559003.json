@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen fra Energistyrelsen om ventilation og indeklima giver gode råd til at opnå et sundt indeklima i boligen. Nogle af de anbefalinger inkluderer at lufte ud hver dag med gennemtræk, at holde temperaturen på 18-20 °C, at gøre rent grundigt en gang om ugen, at undgå træk i boligen, at have lufttilførsel til fugtige rum, at begrænse fugt ved at tørre tøj udendørs, samt at være opmærksom på skadelige byggematerialer som asbest, bly og PCB. Artiklen nævner også, at det kan være en god idé at installere et ventilationsanlæg med varmegenvinding i nyere eller renoverede boliger med lavt naturligt luftskifte. Til sidst gives der også råd specifikt til lejligheder, hvor enten mekanisk ventilation eller naturlig ventilation kan være nødvendig afhængigt af boligens tæthed. Hjemmesiden opfordrer desuden til at tjekke deres Bygningsguide, som giver information om ventilation i forskellige hus- og lejlighedstyper.",
+    "meta": {
+        "id": 6823661534597559003,
+        "url": "https://old.sparenergi.dk/forbruger/boligen/ventilation-og-indeklima",
+        "title": "Ventilation og indeklima | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:17.870448",
+        "error": null,
+        "num_tokens_in": 2334,
+        "num_tokens_out": 297,
+        "estimated_input_cost_gpt4": 0.023340000000000003,
+        "estimated_output_cost_gpt4": 0.00891,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

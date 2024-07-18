@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen beskriver reglerne og kravene til udskiftning eller tilføjelse af vinduer i opvarmede rum i helårshuse i Danmark. Ifølge Bygningsreglementet skal de nye vinduer overholde energikravene og der er krav til energitilskud for vinduer samt linjetab for indbygningen. For vinduer med energiruder skal energitilskuddet være positivt, og linjetabet mellem ydervæg og vindue må højst være 0,03 W/mK. Hvis der skiftes til vinduer med koblede rammer eller forsatsrammer, er der yderligere krav, som skal overholdes.\n\nNår man skal vælge nye vinduer, anbefales det at indhente flere tilbud og sætte energikrav i kontrakterne med håndværkerne. Der er krav til energitilskud i Bygningsreglementet samt ved energimærkning af vinduer. Vinduer med energimærke A kan have positivt energitilskud. Sammenligning af E w fra forskellige leverandører kan hjælpe med at finde de mest energieffektive løsninger. Artiklen opfordrer til at få leverandørerne til at oplyse E w for de aktuelle vinduestyper.\n\nDer nævnes også en case med Staveley Johnson fra København, der fik udskiftet vinduer i sin ejerforening og opnåede markante forbedringer af indeklimaet og store varmebesparelser. Endelig opfordres læserne til at finde specifikke krav til energirenovering af forskellige bygningsdele som tag, gulv, rør, vinduer og døre, samt at benytte gratis rådgivningstjenester fra SparEnergi.",
+    "meta": {
+        "id": 18287373612077407663,
+        "url": "https://sparenergi.dk/privat/bygningsreglementets-energikrav/nye-facadevinduer",
+        "title": "Nye facadevinduer",
+        "time_requested": "2024-04-16T11:56:17.546531",
+        "error": null,
+        "num_tokens_in": 1196,
+        "num_tokens_out": 446,
+        "estimated_input_cost_gpt4": 0.01196,
+        "estimated_output_cost_gpt4": 0.01338,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

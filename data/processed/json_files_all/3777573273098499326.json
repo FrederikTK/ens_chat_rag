@@ -1,0 +1,15 @@
+{
+    "text": "På hjemmesiden SparEnergi, som drives af Energistyrelsen, kan man få råd til at spare energi i ens bolig. Man kan indtaste sin adresse og få de tre mest effektive råd til energioptimering på netop den adresse. Derudover kan man beregne, hvor meget man kan spare ved at skifte varmetype, som passer til ens bolig og behov. Man kan også finde gode råd til el- og varmevaner, da ens vaner og driften af varmeanlægget har stor betydning for varmeregningen. SparEnergi tilbyder også gratis rådgivning og har samlet inspiration, viden og råd til at få mest ud af energien i hverdagen. På siden er der desuden information om Energirenoveringspuljen, energipriser, materialer og en mulighed for at tilmelde sig nyhedsbrevet. Man kan også følge SparEnergi på Facebook. Energistyrelsens adresse er angivet som Carsten Niebuhrs Gade 43, 1577 København V.",
+    "meta": {
+        "id": 3777573273098499326,
+        "url": "https://ny.sparenergi.dk/ny-varme",
+        "title": "Ny Varme | Energistyrelsen",
+        "time_requested": "2024-04-16T11:47:31.145899",
+        "error": null,
+        "num_tokens_in": 418,
+        "num_tokens_out": 260,
+        "estimated_input_cost_gpt4": 0.0041800000000000006,
+        "estimated_output_cost_gpt4": 0.0078000000000000005,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

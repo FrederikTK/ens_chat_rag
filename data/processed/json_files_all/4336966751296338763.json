@@ -1,0 +1,15 @@
+{
+    "text": "Solvarme er en energiløsning, der udnytter solenergi til at opvarme vand. Der findes to typer af solvarmeanlæg: ét til opvarmning af brugsvand og et andet, der også kan supplere rumopvarmning. Solvarme kan være en fordel, især hvis man opvarmer med el, olie eller gas, da det kan reducere brugen af disse fossile brændstoffer. Det anbefales at undersøge om huset er egnet til solfangere, kontakte kommunen for tilladelser, overveje sine behov, og få skriftlige tilbud før køb. En standard solvarmepakke til en familie på 4 personer koster typisk mellem 35.000-50.000 kr. Installationen bør udføres af en VE-godkendt virksomhed, og man bør sørge for at følge op på vedligeholdelse og optimal drift for at få mest muligt ud af anlægget. Solvarmeanlæg kan have en levetid på ca. 30 år og er energimærkede på en A+++ til G skala. De to typer solfangere er plansolfangere og rørsolfangere, hvor rørsolfangere typisk er mere effektive. Solvarme kan være en god løsning som supplement til eksisterende opvarmningsformer, især hvis man har et højt varme- og vandforbrug.",
+    "meta": {
+        "id": 4336966751296338763,
+        "url": "https://old.sparenergi.dk/forbruger/varme/solvarme",
+        "title": "Solvarme | Energistyrelsen",
+        "time_requested": "2024-04-16T11:53:11.685916",
+        "error": null,
+        "num_tokens_in": 6303,
+        "num_tokens_out": 354,
+        "estimated_input_cost_gpt4": 0.06303,
+        "estimated_output_cost_gpt4": 0.010620000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

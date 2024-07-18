@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside indeholder information om energimærkning af bygninger og råd til forbrugere og erhverv om at spare energi. Når det kommer til belysning på kontorer, anbefales det at skifte til LED-lys, da det kan spare 30-40% strøm, og også at sætte styring på belysningen for at optimere energiforbruget. Bevægelsessensorer kan spare mellem 35-50% på elregningen, da lyset kun er tændt, når der er behov for det. Derudover anbefales det at inddele storkontorer i lyszoner og bruge daglysstyring samt bevægelsessensorer på toiletter og gange. Energistyrelsen opfordrer også til at ændre vaner og adfærd for at opnå store besparelser på energiforbruget på arbejdspladsen. Energisparesekretariatet har udgivet rapporter om energiforbrug i virksomheder og potentialet for energibesparelser i forskellige brancher. Der findes også tjeklister og materialer til rådgivning om energibesparelse på kontorer.",
+    "meta": {
+        "id": 3848809201631564145,
+        "url": "https://sparenergi.dk/erhverv/kontor/belysning",
+        "title": "Belysning | Energistyrelsen",
+        "time_requested": "2024-04-16T11:59:07.471129",
+        "error": null,
+        "num_tokens_in": 1815,
+        "num_tokens_out": 297,
+        "estimated_input_cost_gpt4": 0.018150000000000003,
+        "estimated_output_cost_gpt4": 0.00891,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside tilbyder en \"Apparatberegner\", som hjælper forbrugere med at beregne, hvor meget et elektrisk apparat koster i strøm. Brugeren kan vælge forskellige kategorier, såsom belysning, IT og elektronik, køl og frys, madlavning eller vask og rengøring. Herefter kan brugeren indtaste forbruget i watt, hvor mange timer apparatet bruges om dagen og den aktuelle elpris i kroner per kWh. Beregningerne baseres på typiske forbrugstal og enten energimærkningsordningerne for apparaterne eller Elmodelbolig. Apparatberegneren på hjemmesiden hjælper dermed med at give brugerne et estimat over omkostningerne ved at bruge forskellige elektriske apparater. Energistyrelsens hjemmeside indeholder desuden information om energimærkning, isolering, ventilation, varmetyper, energirådgivning og andre energibesparende foranstaltninger til boliger, offentlige bygninger og erhverv.",
+    "meta": {
+        "id": 8160062852770069842,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktojer/apparatberegner",
+        "title": "Apparatberegner | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:25.042547",
+        "error": null,
+        "num_tokens_in": 1099,
+        "num_tokens_out": 271,
+        "estimated_input_cost_gpt4": 0.010990000000000002,
+        "estimated_output_cost_gpt4": 0.00813,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

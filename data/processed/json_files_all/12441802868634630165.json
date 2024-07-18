@@ -1,0 +1,15 @@
+{
+    "text": "SparEnergi er en platform under Energistyrelsen, som tilbyder gratis rådgivning til danskere om energirigtig adfærd, renovering og opvarmning. Formålet er at hjælpe med at spare strøm og varme derhjemme og på arbejdet. Platformen tilbyder information om at spare el og varme i hverdagen, skifte varmekilde, renovere boligen samt søge tilskud til energibesparelser. \n\nSparEnergi oplyser, at 72% af danskerne er motiverede for at spare på deres el- og varmeforbrug. Hjemmesiden og Facebook-siden giver tips, inspiration og information om sæsonaktuelle sparetips, tilskud samt arrangementer som borgermøder. Der tilbydes også gratis direkte rådgivning via telefon eller e-mail. Målet er at give uvildig viden og inspiration, fri for kommercielle interesser, for at hjælpe danskerne med at spare energi i private hjem, erhvervslivet og det offentlige. \n\nSparEnergi ønsker at gøre det nemt for brugerne at spare energi ved at tilbyde den nyeste viden og inspiration gennem forskellige platforme. Energibesparelser kan bidrage positivt til klimaet, økonomien og forsyningssikkerheden. Man kan også tilmelde sig nyhedsbrevet for at få spareråd tilpasset ens bolig og interesset samt holde sig opdateret om tilskudsmuligheder.",
+    "meta": {
+        "id": 12441802868634630165,
+        "url": "https://sparenergi.dk/om-sparenergi",
+        "title": "Om SparEnergi",
+        "time_requested": "2024-04-16T11:48:12.381819",
+        "error": null,
+        "num_tokens_in": 838,
+        "num_tokens_out": 382,
+        "estimated_input_cost_gpt4": 0.00838,
+        "estimated_output_cost_gpt4": 0.01146,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

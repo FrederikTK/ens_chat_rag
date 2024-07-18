@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har en side kaldet \"Vi bygger nyt\" med information om energimærkning af bygninger, energiløsninger, tilskud, isolering, vinduer, ventilation, varmeforbrug, varmetyper som naturgas, fjernvarme, varmepumper m.m. Der er også information om energimærkning af varmeanlæg og biobrændselskedler, samt tips til energieffektive apparater og belysning. Der er desuden sektioner om energimærkning af offentlige bygninger og erhvervsbygninger med fokus på energieffektivitet inden for forskellige sektorer som hotel og restauration, kontor, industri og produktion, handel og service samt landbrug. Siden indeholder desuden links til nyttige værktøjer som energimærkning, håndværkerliste og VE-virksomheder. Energistyrelsen opfordrer brugere til at deltage i feedback omkring \"Vi bygger nyt\" og tilbyder også muligheden for at tilmelde sig nyhedsmail for yderligere information om energibesparelse.",
+    "meta": {
+        "id": 16889302042360091073,
+        "url": "https://sparenergi.dk/kontakt/vi-bygger-nyt",
+        "title": "Vi bygger nyt | Energistyrelsen",
+        "time_requested": "2024-04-16T11:57:59.924685",
+        "error": null,
+        "num_tokens_in": 906,
+        "num_tokens_out": 283,
+        "estimated_input_cost_gpt4": 0.00906,
+        "estimated_output_cost_gpt4": 0.008490000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

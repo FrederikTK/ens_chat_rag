@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen giver råd til at reducere varmespild på kontorbygninger og offentlige arbejdspladser, da opvarmning udgør den største del af energiregningen. De opfordrer til at identificere varmespild for at nedsætte varmeforbruget. Det anbefales at kende varmeforbruget gennem et CTS-anlæg, der kan styre og overvåge tekniske installationer og regulere varmeanlægget. Der nævnes tre potentialer for energibesparelser indenfor varme, herunder valg af energieffektiv opvarmningsform, driftsoptimering af varmeanlægget og isolering af varmerør. Der gives desuden tips til at reducere varmetab fra varmt brugsvand og renovere klimaskærmen via tjeklister og energieftersyn. Energistyrelsen tilbyder også nyhedsmails med relevant information om energibesparelser og CO2-reduktioner til erhvervsvirksomheder. Man kan tilmelde sig nyhedsmailen på deres hjemmeside.",
+    "meta": {
+        "id": 13931535995507761175,
+        "url": "https://sparenergi.dk/erhverv/sparerad-pa-arbejdspladsen/reducer-jeres-varmespild",
+        "title": "Reducer jeres varmespild | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:32.517004",
+        "error": null,
+        "num_tokens_in": 1839,
+        "num_tokens_out": 281,
+        "estimated_input_cost_gpt4": 0.01839,
+        "estimated_output_cost_gpt4": 0.00843,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

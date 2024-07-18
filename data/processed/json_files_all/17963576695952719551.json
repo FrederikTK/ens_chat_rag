@@ -1,0 +1,15 @@
+{
+    "text": "På websiden \"Ny Varme\" fra SparEnergi kan brugere indtaste deres adresse for at få gode råd til energioptimering på deres specifikke adresse. Brugerne kan også få information om, hvor meget de kan spare ved at skifte til en ny varmetype, der passer til deres bolig og behov. Derudover opfordres brugerne til at overveje deres vaner og driften af varmeanlægget, da dette har stor indflydelse på varmeregningen. SparEnergi tilbyder gratis rådgivning og giver inspiration, viden og råd til energioptimering. Brugerne opfordres desuden til at tilmelde sig nyhedsbrevet og følge SparEnergi på Facebook. Informationen er tilgængelig på SparEnergis hjemmeside, og der kan også findes en tilgængelighedserklæring for SparEnergi.dk på adressen Carsten Niebuhrs Gade 43, 1577 København V.",
+    "meta": {
+        "id": 17963576695952719551,
+        "url": "https://sparenergi.dk/privat/ny-varme",
+        "title": "Ny Varme",
+        "time_requested": "2024-04-16T11:48:26.279627",
+        "error": null,
+        "num_tokens_in": 418,
+        "num_tokens_out": 249,
+        "estimated_input_cost_gpt4": 0.0041800000000000006,
+        "estimated_output_cost_gpt4": 0.00747,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

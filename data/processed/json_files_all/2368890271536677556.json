@@ -1,0 +1,15 @@
+{
+    "text": "Ifølge Energistyrelsen er den bedste måde at spare energi på belysning ved at skifte alle pærer til LED og huske at slukke lyset, når det ikke er i brug. Nogle af de bedste råd er:\n\n1. Sluk lyset, når det ikke er i brug, og brug automatisk styring som intelligente pærer, bevægelsessensorer eller timere.\n2. Skift alle pærer til LED, da de bruger 4-5 gange mindre strøm end gløde- og halogenpærer.\n3. Brug kun batterilamper i rum uden strøm og LED-pærer i rum med strøm.\n4. Vælg LED-pærer med energimærke D eller bedre og den rigtige type afhængigt af formålet.\n5. Overvej om pæren skal kunne dæmpes.\n6. Undgå at købe lysarmaturer med indbygget LED-pære, hvor pæren ikke kan skiftes.\n\nDerudover gives der også råd om valg af lysstofrør og lyskæder med fokus på at vælge LED-lysrør, bruge lyskæder med lavt elforbrug og slukke dem ved hjælp af timere eller tænd-sluk-ure. Endelig opfordres til korrekt bortskaffelse af brugte pærer og lysrør på genbrugsstationer for at genanvende materialer og undgå sundhedsskadelige stoffer som kviksølv.",
+    "meta": {
+        "id": 2368890271536677556,
+        "url": "https://sparenergi.dk/forbruger/el/belysning",
+        "title": "Belysning | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:25.943317",
+        "error": null,
+        "num_tokens_in": 3636,
+        "num_tokens_out": 377,
+        "estimated_input_cost_gpt4": 0.03636,
+        "estimated_output_cost_gpt4": 0.01131,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

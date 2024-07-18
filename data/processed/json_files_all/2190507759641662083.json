@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har en hjemmeside dedikeret til effektivisering af el- og varmeforbrug i det offentlige. På hjemmesiden gives der råd til at spare energi på arbejdspladsen, blandt andet angående indkøb, energiforbrug, erfaringer med energioptimering og databaseret energiledelse. Der er også information om CO2-udledning for kommunerne samt vejledning til energiledelse i egne bygninger. Der er desuden mulighed for at tilmelde sig en nyhedsmail med relevant information om energibesparelser og CO2-reduktioner i det offentlige. Energistyrelsens adresse er Carsten Niebuhrs Gade 43, 1577 København V, og hjemmesiden kan findes på www.ens.dk.",
+    "meta": {
+        "id": 2190507759641662083,
+        "url": "https://old.sparenergi.dk/offentlig",
+        "title": "Offentlig | Energistyrelsen",
+        "time_requested": "2024-04-16T11:49:43.606458",
+        "error": null,
+        "num_tokens_in": 1461,
+        "num_tokens_out": 200,
+        "estimated_input_cost_gpt4": 0.014610000000000001,
+        "estimated_output_cost_gpt4": 0.006,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens SparEnergi hjemmeside tilbyder information og vejledning til husejere, der ønsker at energirenovere deres boliger. Sitet henvender sig især til førstegangsejere og giver gode råd om energieffektive løsninger. Energirenovering bidrager til lavere varmeforbrug, lavere varmeregning, klimavenlighed og forbedret indeklima. Der anbefales at bruge professionelle rådgivere og fagfolk til at sikre korrekte løsninger. Der gives tips, information og inspiration om energirenovering, samt anbefalinger til forbedringer af forskellige hustyper (f.eks. typehus, byhus, landhus, murermestervilla, patriciervilla, parcelhus og typehus fra 2007 og frem). Der introduceres også 5 vigtige ord inden for energirenovering: fjernvarme, varmepumpe, energiruder, efterisolering og energimærkningsrapport. Der findes desuden en liste over forskellige former for renoveringer, fra isolering af tag, vinduer og døre til rørisolering, solcelleanlæg og meget mere. Muligheder for gratis rådgivning og kontakt til erfarne energirådgivere tilbydes ligeledes på siden. Endvidere kan man finde lokale håndværkere til energirenovering samt finde en BedreBolig-rådgiver. Energistyrelsens hjemmeside tilbyder også tilmelding til nyhedsbrev, bred vifte af guides og tips, og deling af information på sociale medier.",
+    "meta": {
+        "id": 10827888749701381739,
+        "url": "https://sparenergi.dk/privat/kom-godt-fra-start-med-energirenovering",
+        "title": "Kom godt fra start med energirenovering",
+        "time_requested": "2024-04-16T11:55:46.925690",
+        "error": null,
+        "num_tokens_in": 2300,
+        "num_tokens_out": 400,
+        "estimated_input_cost_gpt4": 0.023000000000000003,
+        "estimated_output_cost_gpt4": 0.012,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

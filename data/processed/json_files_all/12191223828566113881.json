@@ -1,0 +1,15 @@
+{
+    "text": "Informationen drejer sig om en \"Vejledning til tro- og loveerklæring om de minimis-støtte\", udgivet af Energistyrelsen. Vejledningen er på 4 sider og har en størrelse på 65.79 KB. Den beskriver betingelserne, som en ansøger under Bygningspuljen skal overholde for at kunne modtage tilskud i forhold til de minimis-forordningen. Dokumentet kan downloades som en DOCX-fil fra SparEnergi.dk. Energistyrelsen kan kontaktes på adressen Carsten Niebuhrs Gade 43, 1577 København V. Yderligere oplysninger om Energistyrelsen, materialer, partnere og brug af indhold kan findes på deres hjemmeside www.ens.dk.",
+    "meta": {
+        "id": 12191223828566113881,
+        "url": "https://sparenergi.dk/forbruger/materialer/vejledning-til-tro-og-loveerklaering-om-de-minimis-stotte",
+        "title": "Vejledning til tro- og loveerklæring om de minimis-støtte",
+        "time_requested": "2024-04-16T11:52:17.550450",
+        "error": null,
+        "num_tokens_in": 917,
+        "num_tokens_out": 193,
+        "estimated_input_cost_gpt4": 0.009170000000000001,
+        "estimated_output_cost_gpt4": 0.00579,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen omhandler forskellige myter om energiforbrug med fokus på husholdninger. Artiklen påpeger, at det er vigtigt at være opmærksom på, hvor man sparer energi mest effektivt. Nogle af myterne omfatter spørgsmål som: \"Kan man spare penge ved at nøjes med stearinlys?\", \"Bruger fryseren mindre strøm, når den er fuld?\", og \"Går apparater hurtigere i stykker, hvis man tænder og slukker dem ved stikkontakten?\". Artiklen giver gode råd baseret på eksperterne's vurderinger og advarer om, hvad man ikke bør gøre. Den gennemgår også information om udluftning og ventilation, valg af varmetyper, tips til temperaturindstillinger og håndtering af radiatorer, samt andre energibesparende råd i forhold til madlavning, vask og rengøring, køl og frys, og andre dagligdags situationer. Artiklen afsluttes med at opfordre læserne til at bruge elektricitet, når den er billigst, og tilbyder yderligere ressourcer og rådgivning om energibesparelse gennem SparEnergi og Energistyrelsen.",
+    "meta": {
+        "id": 16772309667754671519,
+        "url": "https://sparenergi.dk/privat/spar-energi-i-hverdagen/myter-og-fakta-om-energiforbrug",
+        "title": "Myter om energiforbrug",
+        "time_requested": "2024-04-16T11:53:03.054516",
+        "error": null,
+        "num_tokens_in": 7189,
+        "num_tokens_out": 323,
+        "estimated_input_cost_gpt4": 0.07189000000000001,
+        "estimated_output_cost_gpt4": 0.00969,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

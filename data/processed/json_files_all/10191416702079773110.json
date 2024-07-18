@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside, SparEnergi, giver råd om, hvordan man kan udskifte vinduer for at spare energi i hjemmet. Hjemmesiden anbefaler at vælge vinduer med energimærke A, hvilket er påkrævet ved udskiftning af vinduer i opvarmede rum i helårsboliger. Der nævnes forskellige typer vinduer og materialer, der kan være energibesparende og bidrage til et bedre indeklima. Hvis man har termoruder, som er i dårlig stand, anbefales det at skifte dem ud med energiruder for at opnå energibesparelser. Hjemmesiden oplyser også, at man kan søge tilskud til udskiftning af vinduer gennem Bygningspuljen. Der er desuden information om, hvordan man kan bevare eller genskabe husets arkitektur og værdi, når man udskifter vinduer, samt råd til støjreduktion og indbrudssikring. Hjemmesiden indeholder desuden cases med eksempler på energirenoveringer og udskiftning af vinduer og døre.",
+    "meta": {
+        "id": 10191416702079773110,
+        "url": "https://sparenergi.dk/forbruger/boligen/vinduer/renover-eller-skift/udskift-dine-vinduer",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:53:42.551651",
+        "error": null,
+        "num_tokens_in": 2175,
+        "num_tokens_out": 282,
+        "estimated_input_cost_gpt4": 0.021750000000000002,
+        "estimated_output_cost_gpt4": 0.00846,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

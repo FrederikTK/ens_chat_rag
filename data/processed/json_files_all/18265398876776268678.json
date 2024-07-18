@@ -1,0 +1,15 @@
+{
+    "text": "På Energistyrelsens hjemmeside SparEnergi.dk kan man tilmelde sig et gratis webinar om Energirenoveringspuljen, hvor man kan få rådgivning om energirenovering og hvordan man kan søge tilskud til energiforbedringer på sit hus. Webinaret ledes af erfarne energirådgivere, der giver gode råd og svarer på spørgsmål. Der er flere datoer at vælge imellem, og optagelser bliver tilsendt efter deltagelse. Datoer for webinarer inkluderer 16. april kl. 17:00-19:00, 17. april kl. 17:00-19:00, 18. april kl. 19:00-21:00, 23. april kl. 19:00-21:00, og 25. april kl. 17:00-19:00. Man kan tilmelde sig via hjemmesiden og få yderligere rådgivning ved at kontakte Rådgivningstjenesten via mail eller telefon. Energirenoveringspuljen tilbyder tilskud til blandt andet efterisolering, ventilationsanlæg og nye vinduer, som kan forbedre boligens energiforbrug. Energistyrelsen opfordrer også til at forberede sig grundigt inden ansøgning til Energirenoveringspuljen. Man kan tilmelde sig nyhedsbrevet for opdateringer og få svar på hyppigt stillede spørgsmål på hjemmesiden. Energistyrelsen giver også gratis rådgivning om energioptimering til privatpersoner, virksomheder og offentlige institutioner.",
+    "meta": {
+        "id": 18265398876776268678,
+        "url": "https://sparenergi.dk/privat/webinar-om-energirenoveringspuljen",
+        "title": "Tilmeld dig et gratis webinar om Energirenoveringspuljen",
+        "time_requested": "2024-04-16T11:56:07.072462",
+        "error": null,
+        "num_tokens_in": 1163,
+        "num_tokens_out": 403,
+        "estimated_input_cost_gpt4": 0.011630000000000001,
+        "estimated_output_cost_gpt4": 0.01209,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

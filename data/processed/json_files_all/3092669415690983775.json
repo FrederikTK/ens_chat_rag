@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har en oversigt over energimærkningsfirmaer, som kan udføre energimærkning af bygninger. Her kan man finde information om forskellige energimærkningskonsulenter og firmaer, herunder kontaktoplysninger og hvilke typer bygninger de kan energimærke. Nogle af de firmaer, der er opført på listen, er KHB Consult i Holstebro, Botjek A/S i Horsens, D.A.I. A/S i Brabrand, byggesagkyndigsyd ApS i Aabenraa, Promana A/S i Herlev, JPC Byggerådgivning i Nykøbing F, S.P. Jensen A/S i Svenstrup J, Varmekonsulenterne ApS i Frederiksberg C, NIH Energy ApS i Kolding, og NØRREGAARD, Rådgivende Ingeniørfirma i Fredensborg. Energimærkningsfirmaerne på listen er sorteret tilfældigt, med mindre der er angivet et postnummer, hvorefter de sorteres efter nærmeste afstand. Man kan finde flere detaljer om hvert firma og kontakte dem direkte.",
+    "meta": {
+        "id": 3092669415690983775,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/find-energimaerkningsfirma",
+        "title": "Find energimærkningsfirma | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:52.816831",
+        "error": null,
+        "num_tokens_in": 2429,
+        "num_tokens_out": 283,
+        "estimated_input_cost_gpt4": 0.024290000000000003,
+        "estimated_output_cost_gpt4": 0.008490000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

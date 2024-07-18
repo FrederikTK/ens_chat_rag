@@ -1,0 +1,15 @@
+{
+    "text": "Resumé:\n\nBygningspuljen er lukket for nye ansøgninger, men relevant for dem, der allerede har søgt. Der er en række typiske fejl og mangler i udbetalingsanmodninger, der forsinker processen. Ventetiden for sagsbehandling er ca. 6 måneder. Projekter kan gennemføres af en momsregistreret virksomhed, og der er krav til dokumentation på fakturaer. Man skal ansøge om udbetaling inden for 2 år efter tilsagn er givet. Der findes vejledning og mulighed for at tilmelde sig mailnotifikationer for status på ansøgninger. Antal ansøgninger og tilskud i puljen varierer årligt. Energistyrelsen kan kontaktes for rådgivning og hjælp.",
+    "meta": {
+        "id": 16075642683255915742,
+        "url": "https://sparenergi.dk/forbruger/boligen/tilskud/har-du-allerede-sogt-tilskud",
+        "title": "Site under opdatering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:47:36.834884",
+        "error": null,
+        "num_tokens_in": 3322,
+        "num_tokens_out": 204,
+        "estimated_input_cost_gpt4": 0.03322,
+        "estimated_output_cost_gpt4": 0.0061200000000000004,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen handler om krav og retningslinjer vedrørende udskiftning eller renovering af tag eller tagetage i en bolig i Danmark. Når hele tagkonstruktionen udskiftes, inklusive spær og bærende dele, skal den nye konstruktion isoleres for at overholde Bygningsreglementets krav. Der er to primære krav: U-værdien (varmetabet) skal være under 0,12 W/m²K, og samlingen mellem tag og eventuelle tagvinduer skal have et linjetab på højst 0,1 W/mK.\n\nVed renovering af tag eller tagetage kræver Bygningsreglementet efterisolering, hvis det er rentabelt. Eksempler viser typiske krav og metoder for isolering af loftrum, skråvægge, skunkrum og fladt tag, hvor kravene normalt involverer en isoleringstykkelse på ca. 300 mm eller en U-værdi på maksimalt 0,12 W/m²K. Ved renoveringsprojekter skal man efterisolere taget, hvis det er rentabelt. Forkert udført efterisolering kan medføre problemer som råd og svamp, så det anbefales at bruge fagfolk.\n\nArtiklen indeholder også information om, hvordan man opfylder energikravene ved udskiftning eller renovering af andre bygningsdele såsom gulve, rør, vinduer, døre, og installationer. Slutningen af artiklen oplyser om SparEnergi's formål og kontaktinformationer samt tilgængelighedserklæring for SparEnergi.dk.",
+    "meta": {
+        "id": 13252431221190034913,
+        "url": "https://sparenergi.dk/privat/bygningsreglementets-energikrav/tag-eller-tagetage",
+        "title": "Tag eller tagetage",
+        "time_requested": "2024-04-16T11:51:36.611971",
+        "error": null,
+        "num_tokens_in": 2347,
+        "num_tokens_out": 403,
+        "estimated_input_cost_gpt4": 0.02347,
+        "estimated_output_cost_gpt4": 0.01209,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

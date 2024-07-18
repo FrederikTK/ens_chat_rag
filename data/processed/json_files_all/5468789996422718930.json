@@ -1,0 +1,15 @@
+{
+    "text": "På Energistyrelsens hjemmeside SparEnergi.dk findes der gode råd til at spare energi på tv og spillekonsoller. Her gives forskellige tips til at reducere elforbruget, både ved brug og køb af tv og spillekonsoller. Nogle af de råd inkluderer at skrue ned for lyset på skærmen, se mindre tv, slukke stikkontakten når enhederne ikke er i brug, undgå quick start-indstillinger, vælge den mindste digitale modtager der opfylder behovet, bruge en radio til baggrundslyd i stedet for et tv, og vælge LED- eller OLED-tv, da de bruger mindre strøm end LCD-tv. Der gives også råd om køb af tv, herunder at regne på hele prisen, gå efter energimærke F eller bedre, vælge LED eller OLED-tv samt kigge efter miljømærker som Blomsten og Svanen. Desuden oplyses om elforbruget af spillekonsoller i forhold til spil og streaming, og der gives råd til reparation af tv samt myter om strømforbrug, eksempelvis at tv ikke tager skade af at blive slukket på kontakten.\n\nKilde: https://sparenergi.dk/bolig/tv-og-spillekonsoller",
+    "meta": {
+        "id": 5468789996422718930,
+        "url": "https://sparenergi.dk/forbruger/el/it-og-elektronik/anden-elektronik",
+        "title": "Anden elektronik | Energistyrelsen",
+        "time_requested": "2024-04-16T11:51:55.400521",
+        "error": null,
+        "num_tokens_in": 2372,
+        "num_tokens_out": 338,
+        "estimated_input_cost_gpt4": 0.02372,
+        "estimated_output_cost_gpt4": 0.01014,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

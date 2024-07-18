@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen beskriver renoveringen af en ejendom, hvor Jørn Olesen og Annette Høegh har foretaget flere energiforbedringer. Renoveringen startede i 2010 og blev fortsat i 2021. De udskiftede oliefyret med jordvarme og installerede solceller. I 2021 udskiftede de solcelleanlægget med et større anlæg med batterilager og energistyring. Jørn erhvervede ejendommen i 1983 og har siden foretaget flere renoveringer. Resultatet af renoveringen er en energieffektiv bolig uden fugt, og ejerne kan nyde et behageligt indeklima året rundt. Der gives gode råd til andre boligejere om energibesparelser og investering i energieffektive løsninger. Den økonomiske gevinst ved renoveringen vil være en årlig besparelse på omkring 30.000 kr. på el- og varmeregninger sammenlignet med tiden med oliefyr. Der er også beskrivelse af typiske besparelser ved solcelleanlæg og skift til jordvarme, samt en mulighed for at få yderligere rådgivning om energiforbedringer.",
+    "meta": {
+        "id": 4914934832629228486,
+        "url": "https://sparenergi.dk/node-view/ajax/100783/full",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:53:41.204715",
+        "error": null,
+        "num_tokens_in": 13715,
+        "num_tokens_out": 315,
+        "estimated_input_cost_gpt4": 0.13715000000000002,
+        "estimated_output_cost_gpt4": 0.00945,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

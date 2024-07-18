@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om energimærkning af bygninger og forbrug af energi. De tilbyder råd og vejledning om emner som bygningsreglementets energikrav, isolering, vinduer, ventilation, intelligent styring af varme, samt valg af varmekilder som naturgas, fjernvarme, oliefyr, varmepumper, elvarme, træpiller, solvarme m.m. De informerer også om energimærkning af varmeanlæg og biobrændselskedler. Derudover beskriver de, hvordan man kan forstå sin varmeregning for forskellige varmekilder som fjernvarme, elvarme, naturgas, solfangere, olie, biomasse, pillefyr m.fl. De forklarer, hvad afgifterne på varmeregningen dækker over og hvordan man kan kontrollere sit forbrug og omkostninger. Energistyrelsen tilbyder også en række nyttige værktøjer og informationsressourcer på deres hjemmeside, herunder guider, energiberegning og energimærkningsservice.",
+    "meta": {
+        "id": 10553339202392083474,
+        "url": "https://sparenergi.dk/forbruger/varme/forsta-din-varmeregning/forsta-din-varme",
+        "title": "Forstå din varme | Energistyrelsen",
+        "time_requested": "2024-04-16T11:52:34.072118",
+        "error": null,
+        "num_tokens_in": 1734,
+        "num_tokens_out": 275,
+        "estimated_input_cost_gpt4": 0.01734,
+        "estimated_output_cost_gpt4": 0.00825,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

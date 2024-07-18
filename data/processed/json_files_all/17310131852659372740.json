@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen opfordrer til at isolere loftet i din bolig, hvis det har mindre end 175 mm isolering (100 mm for sommerhuse til helårsbrug). Ved at isolere loftet bedre, opnår man et bedre indeklima og sparer på energiregningen. Når loftet isoleres bedre, bliver de underliggende rum varmere, og risikoen for træk og skimmelsvamp mindskes. Det anbefales at isolere uudnyttede loftsrum, da det er en relativt nem og billig renovering, der kan udføres uden at ændre noget mærkbart på huset. Lovkravet er minimum 300 mm isolering ved udskiftning af tagbeklædning, og for sommerhuse kræves 250 mm isolering, hvis det kan betale sig. Isoleringsarbejdet kan udføres ved at måle tykkelsen på eksisterende isolering, kontrollere isoleringspladernes placering og få en håndværker til at lægge ny isolering. Der anbefales desuden at tjekke loftlemmen, sikre ventilation over isoleringen og huske at lufte ud regelmæssigt. Energirenoveringen kan udføres af en håndværker eller gøres selv, men det anbefales at sikre korrekt udførelse for at undgå problemer som råd og svamp. Energistyrelsen tilbyder også yderligere vejledning og inspirationskilder til andre energirenoveringer i boligen på deres hjemmeside SparEnergi.dk.",
+    "meta": {
+        "id": 17310131852659372740,
+        "url": "https://sparenergi.dk/privat/skal-du-renovere-din-bolig/isoler-dit-loft",
+        "title": "Isoler dit loft",
+        "time_requested": "2024-04-16T11:53:02.800325",
+        "error": null,
+        "num_tokens_in": 2712,
+        "num_tokens_out": 389,
+        "estimated_input_cost_gpt4": 0.027120000000000002,
+        "estimated_output_cost_gpt4": 0.01167,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

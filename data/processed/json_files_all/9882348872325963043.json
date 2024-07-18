@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen opfordrer folk til at udnytte de billigere strømpriser ved at flytte deres elforbrug til tidspunkter, hvor strømmen er billigst. Der gives to hovedråd: \n1. Flyt dit elforbrug til tider med lav transportafgift (f.eks. mellem 00.00-06.00), da afgiften svinger over døgnet og mellem sommer og vinter.\n2. Overvej at skifte til variabel timepris, hvor den rå elpris svinger fra time til time. Der nævnes, at prisen typisk er lavest, når der produceres vind- og solenergi.\n\nDer gives konkrete eksempler på, hvordan man kan flytte sit elforbrug til billigere tidspunkter, f.eks. ved at køre hårde hvidevarer om natten, lave mad tidligere på dagen og undgå at bruge elvarme eller varmepumpe om aftenen. Der nævnes også myter om udsat start af vask og opvask, og artiklen forklarer desuden, hvordan den samlede elpris er opbygget med forskellige afgifter.\n\nDer præsenteres en case med Birgitte og Esben, der har reduceret deres elregning med 40 % ved at flytte deres energiforbrug, og artiklen forklarer desuden, hvordan man læser sin elregning samt posterne på den. Der gives generelle råd og vejledninger til energioptimering af forskellige apparater i husstanden. Til sidst opfordres læserne til at skifte elselskab for at spare penge og få mere klimavenlig strøm.",
+    "meta": {
+        "id": 9882348872325963043,
+        "url": "https://old.sparenergi.dk/forbruger/el/din-elpris",
+        "title": "Din elpris | Energistyrelsen",
+        "time_requested": "2024-04-16T11:50:59.276578",
+        "error": null,
+        "num_tokens_in": 3458,
+        "num_tokens_out": 417,
+        "estimated_input_cost_gpt4": 0.03458,
+        "estimated_output_cost_gpt4": 0.01251,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

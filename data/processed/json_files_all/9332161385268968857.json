@@ -1,0 +1,15 @@
+{
+    "text": "Fælles lokale varmeløsninger kan være en god idé for områder uden adgang til fjernvarme, som f.eks. landsbyer. Konceptet indebærer, at naboer går sammen om en varmeløsning som f.eks. en stor varmepumpe eller et lille varmeværk til lokal fjernvarme. Fordelene inkluderer en billigere og mere miljøvenlig varmeløsning, der kan øge boligernes salgsværdi og styrke fællesskabet i lokalområdet. På den negative side kræver sådanne projekter mere forarbejde end individuelle løsninger og kan hindre tilskud til individuelle varmepumper. For at komme i gang anbefales det at danne en arbejdsgruppe, skabe opbakning til projektet, få en screening fra en rådgiver, indhente relevante data om bygningerne, samarbejde med kommunen og andre interessenter, samt muligvis oprette et selskab for projektets organisatoriske ramme. Indsendelse af et projektforslag til kommunen er også påkrævet for godkendelse. Der er tilskud tilgængelige frem til 2025 for lokale varmefællesskaber, og det anbefales at søge disse. Generelt er fælles lokale varmeløsninger en effektiv måde at skabe billig og bæredygtig varme på, samtidig med at det styrker fællesskabet i lokalområdet.",
+    "meta": {
+        "id": 9332161385268968857,
+        "url": "https://sparenergi.dk/privat/faelles-lokale-varmeloesninger",
+        "title": "Fælles lokale varmeløsninger",
+        "time_requested": "2024-04-16T11:55:25.539354",
+        "error": null,
+        "num_tokens_in": 2562,
+        "num_tokens_out": 376,
+        "estimated_input_cost_gpt4": 0.02562,
+        "estimated_output_cost_gpt4": 0.01128,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder rådgivning og information om energimærkning af bygninger og energibesparelser. På deres hjemmeside kan man finde information om blandt andet isolering, vinduer, ventilation, intelligent styring, varme, el, belysning, køling, driftsmidler og energiledelse.\n\nDer er fokus på energibesparelser i engrosbranchen, hvor potentialet for at spare på elforbruget er opgjort til 6-11%. Mange besparelser kan gennemføres med en tilbagebetalingstid på 1-2 år. Anbefalingerne inkluderer at skifte til LED-belysning, bruge bevægelsessensorer til belysning, skifte til energieffektive el-trucks, optimere cirkulationspumper, køle- og fryseanlæg samt foretage en natrundering for at identificere energibesparelsesmuligheder.\n\nDer er også en rapport tilgængelig om \"Kortlægning af energisparepotentialer i erhvervslivet\", hvor energiforbrug og besparelsesmuligheder i 20 udvalgte energianvendelsesområder beskrives. Energistyrelsen understreger, at det kan betale sig at investere i energibesparelser, da der er et stort besparelsespotentiale i engrosbranchen. Man kan finde yderligere information og undersøgelser på Energistyrelsens hjemmeside.",
+    "meta": {
+        "id": 2617845884164248956,
+        "url": "https://sparenergi.dk/erhverv/engros/el",
+        "title": "El | Energistyrelsen",
+        "time_requested": "2024-04-16T11:58:20.456359",
+        "error": null,
+        "num_tokens_in": 2316,
+        "num_tokens_out": 370,
+        "estimated_input_cost_gpt4": 0.023160000000000004,
+        "estimated_output_cost_gpt4": 0.0111,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder muligheden for at tilmelde sig nyhedsbrevet fra Varmepumpepuljen gennem hjemmesiden www.sparenergi.dk. Nyhedsbrevet vil give direkte besked, når der er opdateringer eller nyheder om Varmepumpepuljen. Man kan tilmelde sig for at være blandt de første, der får informationen. Energistyrelsens adresse er Carsten Niebuhrs Gade 43, 1577 København V.",
+    "meta": {
+        "id": 17978012537373032302,
+        "url": "https://nyheder.sparenergi.dk/vp-tilskud-privat",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:53:32.617056",
+        "error": null,
+        "num_tokens_in": 89,
+        "num_tokens_out": 123,
+        "estimated_input_cost_gpt4": 0.0008900000000000001,
+        "estimated_output_cost_gpt4": 0.00369,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

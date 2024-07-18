@@ -1,0 +1,15 @@
+{
+    "text": "Informationen drejer sig om udnyttelse af overskudsvarme i virksomheder for at opnå økonomiske fordele og bidrage til klimabeskyttelse. Virksomheder kan opnå besparelser ved at genanvende overskudsvarme internt eller sælge den eksternt. Mulighederne for at udnytte overskudsvarme inkluderer både intern genanvendelse til opvarmning og ekstern salg til fjernvarmeselskaber. Der er afgiftsfritagelse og tilskudsmuligheder for virksomheder, der ønsker at udnytte overskudsvarme. Energistyrelsen anbefaler at gennemføre en grundig analyse af varmeanlægget, involvere eksterne rådgivere, og stille de rigtige krav til leverandører. Desuden er der eksempler på virksomheder, der har gennemført projekter til varmegenvinding og udnyttelse af overskudsvarme med positive resultater. Energistyrelsen tilbyder et temahæfte og tjeklister til at hjælpe virksomheder med at komme i gang med at udnytte overskudsvarme.",
+    "meta": {
+        "id": 9331439027228294967,
+        "url": "https://sparenergi.dk/erhverv/industri-og-produktion/overskudsvarme",
+        "title": "Overskudsvarme | Energistyrelsen",
+        "time_requested": "2024-04-16T11:52:16.758735",
+        "error": null,
+        "num_tokens_in": 3700,
+        "num_tokens_out": 304,
+        "estimated_input_cost_gpt4": 0.037000000000000005,
+        "estimated_output_cost_gpt4": 0.00912,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

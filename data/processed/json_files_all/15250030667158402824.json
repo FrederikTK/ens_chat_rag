@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om energimærkninger af bygninger. Man kan finde statistik om bygningers energimærker ved at vælge bygningstype (f.eks. parcelhus, rækkehuse, etageejendomme, etc.), varmetype (f.eks. biobrændsel, fjernvarme, naturgas, etc.), og byggeår. Der er mulighed for at søge på specifikke adresser for at få oplysninger om energimærkningen. Energimærkningsstatistikken kan bruges til at analysere og sammenligne bygningers energieffektivitet og energiforbrug. Der findes også værktøjer, rådgivning, og information om energiløsninger og energibesparelser på Energistyrelsens hjemmeside. energimærkningsstatistikken kan være til gavn for både forbrugere, offentlige institutioner og erhverv.",
+    "meta": {
+        "id": 15250030667158402824,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/find-statistik-paa-danmarks-energimaeker",
+        "title": "Find statistik på Danmarks energimærker | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:11.259413",
+        "error": null,
+        "num_tokens_in": 1082,
+        "num_tokens_out": 228,
+        "estimated_input_cost_gpt4": 0.010820000000000001,
+        "estimated_output_cost_gpt4": 0.006840000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

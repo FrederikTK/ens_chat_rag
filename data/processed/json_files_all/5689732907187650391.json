@@ -1,0 +1,15 @@
+{
+    "text": "SparEnergi.dk er et online ressourcecenter, der tilbyder hjælp og rådgivning til at spare på el og varme i hjemmet. Sitet giver praktiske råd til energioptimering, og brugerne kan indtaste deres adresse for at modtage de tre mest effektive råd til energibesparelser på netop deres adresse. SparEnergi.dk tilbyder også information om aktuelle tilskudsordninger, muligheder for energirenoveringer og valg af varmetype. Brugerne kan desuden se elpriser for kommende timer baseret på deres region og indtaste deres adresse for at få en mere præcis oversigt over elpriserne. Derudover tilbyder sitet muligheden for brugere at sætte personlige sparemål og få hjælp til at opnå dem. Aktuelle begivenheder og webinarer annonceres, og brugerne kan tilmelde sig nyhedsbrevet for at modtage de bedste spareråd tilpasset deres bolig og interesser. Endelig indeholder sitet kontaktoplysninger, information om brugen af indhold, privatlivspolitik og en tilgængelighedserklæring.",
+    "meta": {
+        "id": 5689732907187650391,
+        "url": "https://sparenergi.dk/",
+        "title": "SparEnergi.dk - Få hjælp til at spare el og varme i din bolig",
+        "time_requested": "2024-04-16T11:47:33.764248",
+        "error": null,
+        "num_tokens_in": 1267,
+        "num_tokens_out": 298,
+        "estimated_input_cost_gpt4": 0.01267,
+        "estimated_output_cost_gpt4": 0.00894,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Fjernvarmen er en populær opvarmningsform i Danmark, da 64% af de danske boliger opvarmes via fjernvarme. Det er blevet anset som en miljøvenlig og ofte billig måde at opvarme huse på. Den primære kilde til fjernvarme i Danmark er overskud fra elproduktion, herunder kraftvarmeværker, hvor den varme, der genereres under produktionen af elektricitet, anvendes til at producere fjernvarme. Der findes også fjernvarmeværker, der bruger solvarmeanlæg, affald eller biobrændsler til at producere varme. Prisen for fjernvarme består af en fast pris, der er uafhængig af forbruget, samt en variabel pris, der afhænger af forbruget. Det er vigtigt at være opmærksom på, at der kan være prisforskelle mellem forskellige fjernvarmeværker. Alle bygninger skal have målere til at måle varmeforbruget, og i etageejendomme bruges varmefordelingsmålere til at udarbejde varmeregnskabet, der fordeler forbruget mellem lejerne.",
+    "meta": {
+        "id": 7483412439616723459,
+        "url": "https://sparenergi.dk/forbruger/varme/fjernvarme/fakta-om-fjernvarme",
+        "title": "Fakta om fjernvarme | Energistyrelsen",
+        "time_requested": "2024-04-16T11:53:51.034341",
+        "error": null,
+        "num_tokens_in": 1358,
+        "num_tokens_out": 307,
+        "estimated_input_cost_gpt4": 0.013580000000000002,
+        "estimated_output_cost_gpt4": 0.00921,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Den tilgængelige information omhandler en positivliste over vindues- og forsatssystemer, der er berettiget til tilskud fra Energirenoveringspuljen. På listen er der angivet forskellige producenter, produktnavne, materialer, U-værdier og om de er velegnede til nyere eller ældre arkitektur. Nogle af de nævnte vinduer har en U-værdi på 0,69, mens andre varierer fra 0,7 til 0,76. Der er forskellige energiklasser repræsenteret, og nogle vinduer er velegnede til både nyere og ældre arkitektur. Desuden er der også oplysninger om vinduer med koblet ramme og forsatssystemer. Energistyrelsens adresse og kontaktoplysninger findes nederst på siden i tilfælde af yderligere spørgsmål eller behov for assistance.",
+    "meta": {
+        "id": 4702441941267095593,
+        "url": "https://sparenergi.dk/privat/soeg-tilskud/varm-op-til-soege-tilskud-til-energirenovering/positivlisten",
+        "title": "Positivliste",
+        "time_requested": "2024-04-16T11:48:43.130773",
+        "error": null,
+        "num_tokens_in": 2707,
+        "num_tokens_out": 225,
+        "estimated_input_cost_gpt4": 0.027070000000000004,
+        "estimated_output_cost_gpt4": 0.00675,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

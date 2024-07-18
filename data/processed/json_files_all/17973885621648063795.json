@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder forskellige værktøjer og information om energimærkning af bygninger til forbrugere, offentlige institutioner og erhverv. På deres hjemmeside findes information om energimærkning af boliger og varmeanlæg, energiforbrug, isolering, vinduer, ventilation, intelligente styringssystemer, energirådgivning, samt forskellige varmetyper som naturgas, fjernvarme, varmepumper, elvarme, træpiller og solvarme. Der er også information om energimærkning af biobrændselskedler, sommerdrift, varmt vand, cirkulationspumper, elforbrug, elpriser og energimærkning af elektriske apparater. For offentlige bygninger er der information om renovering, nybyggeri, ESCO-aftaler, energirådgivning og energiforbrug i bygninger. For erhvervslivet er der specifikke informationer om el, varme, ventilation, belysning, IT, energiledelse, energioptimering i industrien, landbruget, handel og service, samt en liste over VEG-virksomheder. Energistyrelsen tilbyder også en række værktøjer som håndværkerlisten, energiløsninger, energimærker, energimærkningskonsulenter, energimærkningsfirmaer, Ny Varme-beregner, Varmepumpelisten, Bygningsguiden, Casebank, Apparatberegner, Låneberegner, Elforbrugsberegner og information om elpriser. Energistyrelsen står bag SparEnergi.dk, hvor man også kan tilmelde sig nyhedsmail for at få tips og tricks til at spare energi. Energistyrelsens kontaktoplysninger er Carsten Niebuhrs Gade 43, 1577 København V, og deres hjemmeside er www.ens.dk.",
+    "meta": {
+        "id": 17973885621648063795,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer?gad_source=1",
+        "title": "Værktøjer | Energistyrelsen",
+        "time_requested": "2024-04-16T11:57:49.531167",
+        "error": null,
+        "num_tokens_in": 1022,
+        "num_tokens_out": 479,
+        "estimated_input_cost_gpt4": 0.010220000000000002,
+        "estimated_output_cost_gpt4": 0.01437,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

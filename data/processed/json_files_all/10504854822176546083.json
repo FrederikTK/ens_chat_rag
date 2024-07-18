@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside indeholder information om energimærkning af bygninger, opdelt i sektioner for forbrugere, offentlige instanser og erhverv. For forbrugere tilbyder hjemmesiden information om energikrav i bygningsreglementet, tilskud til energiforbedringer, isolering, vinduer, ventilation, varmetyper som naturgas, fjernvarme, olie, varmepumper, elvarme, træpiller, solvarme samt energimærkning af varmeanlæg og biobrændselskedler. Der er også information om varmeforbrug, elpriser, elektriske apparater, belysning, køl og frys, samt tilskud til intelligente styringssystemer. For offentlige instanser omfatter informationerne energimærkning af bygninger, renovering, nybyggeri, isolering, vinduer, energirådgivning, opvarmning, køling, ventilation, belysning og IT. Erhvervsafsnittet fokuserer på energieffektivitet i engros, hotel- og restaurationsbranchen, storkøkkener, kontorer, byggeri, håndværkere, industrien, landbruget, handel og service. Derudover tilbyder hjemmesiden værktøjer som energimærke-finder, energimærkningsfirma-søger, håndværkerliste og VE-virksomheder.",
+    "meta": {
+        "id": 10504854822176546083,
+        "url": "https://sparenergi.dk/google-search",
+        "title": "Søgeresultat | Energistyrelsen",
+        "time_requested": "2024-04-16T11:47:58.219333",
+        "error": null,
+        "num_tokens_in": 779,
+        "num_tokens_out": 364,
+        "estimated_input_cost_gpt4": 0.007790000000000001,
+        "estimated_output_cost_gpt4": 0.010920000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

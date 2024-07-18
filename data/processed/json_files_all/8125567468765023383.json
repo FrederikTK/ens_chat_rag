@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om renovering af huse. De opfordrer til energirenovering for at spare penge på energiregningen, skåne miljøet og forbedre indeklimaet. Ved at isolere, skifte vinduer og få rådgivning kan man opnå disse fordele. Energistyrelsen anbefaler at sætte ord på økonomi og behov for renovering, søge inspiration, overveje hensyn til arkitekturen og undersøge husets tilstand. Der gives også råd om konkretisering og beskrivelse af projektet, lovgivning og tilladelser, indhentning af tilbud, søgning efter tilskud og fradrag, gennemførsel af projektet og drift og adfærd efter renovering. Energistyrelsen tilbyder endvidere en guide til energirenovering og film om emnet.",
+    "meta": {
+        "id": 8125567468765023383,
+        "url": "https://sparenergi.dk/forbruger/boligen/renovering/renovering-af-enfamiliehuse",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:56:49.808906",
+        "error": null,
+        "num_tokens_in": 3118,
+        "num_tokens_out": 224,
+        "estimated_input_cost_gpt4": 0.031180000000000003,
+        "estimated_output_cost_gpt4": 0.00672,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

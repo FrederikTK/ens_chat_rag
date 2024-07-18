@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en guide om rørisolering, hvor man kan få hjælp til at tjekke og forbedre isoleringen på varmerør. Det anbefales at efterisolere varmerør i uopvarmede rum, hvis de har mindre end 30 mm isolering. For at tjekke isoleringstykkelsen kan man måle med en tynd pind eller bruge en skydelære. Energistyrelsen nævner, at efterisolering kan resultere i besparelser afhængigt af rør og isoleringsniveau. De anbefaler at have minimum 40 mm isolering på rørene og nævner, at man kan isolere uden på den eksisterende isolering. Rørisolering kan købes i forskellige tykkelser og materialer som mineraluld eller skum. Det vigtigste er, at isoleringen slutter tæt om røret. Energistyrelsen tilbyder også en liste over håndværkere, der kan assistere med rørisolering.",
+    "meta": {
+        "id": 6241603240118806797,
+        "url": "https://sparenergi.dk/forbruger/vaerktojer/guides-og-tjeklister/rorisolering",
+        "title": "Rørisolering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:52:14.378811",
+        "error": null,
+        "num_tokens_in": 1738,
+        "num_tokens_out": 247,
+        "estimated_input_cost_gpt4": 0.017380000000000003,
+        "estimated_output_cost_gpt4": 0.00741,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

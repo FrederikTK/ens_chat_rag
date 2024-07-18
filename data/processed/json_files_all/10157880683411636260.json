@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen opfordrer forbrugere til at bruge strømmen, når den er billigst for at spare penge på elregningen. Strøm er billigst på visse tidspunkter af døgnet, uanset om man har fast eller variabel timepris. Man kan enten udnytte de varierende priser ved at flytte elforbruget eller have en variabel timepris, hvor elprisen skifter fra time til time.\n\nDer er to måder at udnytte de varierende priser på: ved at bruge strømmen, når afgiften for transport af strøm er lavest, og ved at have en variabel timepris og bruge strømmen, når den rå elpris er billigst. Afgiften for transport af strøm varierer i løbet af døgnet, og det er billigst fra kl. 00.00-06.00 (lavlast), mellem kl. 06.00-17.00 og kl. 21.00-00.00 (højlast), mens det er dyrest fra kl. 17.00-21.00 (spidslast). \n\nMan kan også skifte til variabel timepris, hvor den rå elpris svinger fra time til time, og det er billigst at bruge strømmen, når prisen er lavest. Der er tips til at flytte elforbrug til de billige timer, f.eks. ved hjælp af \"udskudt start\" på hårde hvidevarer, lave mad til flere dage på én gang, og undgå at bruge varmeapparater i dyre timer.\n\nEnergistyrelsen forklarer desuden, at transportafgiften udgør en del af den samlede elpris og skifter i løbet af dagen. Prisen for at bruge netselskabets elnet er højest fra kl. 17-21, og man kan spare penge ved at bruge strømmen om natten i stedet for i de dyre timer. Der findes en beskrivelse af elregningen med poster såsom elafgift, nettarif, transport af el, netabonnement, forbrug osv. Der er også en case om et par, Birgitte og Esben, der har sparet 40% på deres elregning ved at flytte deres energiforbrug.\n\nDer gives generelle råd til energibesparelse i hverdagen for forskellige apparater og områder i hjemmet, f.eks. lys, vask og rengøring, streaming og elektronik, køkken og madlavning, varme og varmt vand osv. Energistyrelsen tilbyder også gratis rådgivning og har information om energipriser, energimærket, energivaner, og myter om energi på deres hjemmeside SparEnergi.dk.",
+    "meta": {
+        "id": 10157880683411636260,
+        "url": "https://sparenergi.dk/privat/spar-energi-i-hverdagen/brug-stroemmen-naar-den-er-billigst",
+        "title": "Brug strømmen, når den er billigst",
+        "time_requested": "2024-04-16T11:48:58.154625",
+        "error": null,
+        "num_tokens_in": 3458,
+        "num_tokens_out": 681,
+        "estimated_input_cost_gpt4": 0.03458,
+        "estimated_output_cost_gpt4": 0.02043,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

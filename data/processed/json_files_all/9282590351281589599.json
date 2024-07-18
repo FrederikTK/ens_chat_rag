@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om rørisolering som en nem energiforbedring, der ofte tjener sig hjem på få år. Der anbefales mindst 40 mm isolering rundt om alle varmerør og varmtvandsrør i uopvarmede rum som bryggers, kælder, krybekælder, loft og skunk. Man opfordres til at efterisolere rør i disse rum, og der gives råd om materialer til isolering samt om, hvorledes man kan tjekke isoleringen og vurdere om efterisolering er nødvendig. Desuden oplyses det om betydningen af isolering af cirkulationspumper, ventiler og kedler for at minimere varmetab. Energistyrelsen advarer om asbestholdige materialer og foreslår, at evt. fjernelse håndteres af specialiserede firmaer. Endvidere oplyses det, at ved renovering eller installation af nye varmeanlæg skal man følge gældende Bygningsreglements krav til isolering. Energibarometeret fra Energistyrelsen anbefaler brugen af nyhedsmail for at blive ekspert i at spare på energi.",
+    "meta": {
+        "id": 9282590351281589599,
+        "url": "https://sparenergi.dk/forbruger/varme/fjernvarme/roerisolering",
+        "title": "Rørisolering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:25.396188",
+        "error": null,
+        "num_tokens_in": 1950,
+        "num_tokens_out": 288,
+        "estimated_input_cost_gpt4": 0.0195,
+        "estimated_output_cost_gpt4": 0.00864,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

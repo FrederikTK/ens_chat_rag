@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen om Offentligt Energiforbrug beskriver, hvordan det offentlige arbejder på at nedbringe energiforbruget. Der er to overordnede målsætninger: Energieffektiviseringsdirektivets mål, hvor den statslige forvaltnings bygningsmasse skal energieffektivisere med 42.480 MWh fra 2020 til 2030, samt det nationale mål, hvor statslige institutioner skal reducere energiforbruget med 10% i 2030 i forhold til 2020. Der præsenteres data om udviklingen i el-, varme- og vandforbrug siden 2017, og der gives information om energimærkernes betydning for energitilstanden i bygninger. Artiklen inkluderer også en opdeling af ministeriernes vand- og energiforbrug samt muligheden for at downloade datagrundlaget. Endelig opfordres offentlige institutioner til at gå forrest i den energibesparende indsats.",
+    "meta": {
+        "id": 15020322877324086982,
+        "url": "https://sparenergi.dk/offentlig/offentligt-energiforbrug",
+        "title": "Offentligt Energiforbrug",
+        "time_requested": "2024-04-16T11:55:29.058672",
+        "error": null,
+        "num_tokens_in": 1876,
+        "num_tokens_out": 252,
+        "estimated_input_cost_gpt4": 0.018760000000000002,
+        "estimated_output_cost_gpt4": 0.00756,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

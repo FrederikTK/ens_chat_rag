@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information og vejledning om energimærkning af bygninger, herunder boliger. De giver råd om energirenovering, bygningsreglementets energikrav, tilskudsmuligheder, isolering, vinduer, ventilation, intelligent styring og varmeforbrug. Energistyrelsen oplyser også om forskellige varmetyper som naturgas, fjernvarme, olie, varmepumper, elvarme, træpiller, solvarme og kombinationsløsninger. Derudover tilbyder de information om energimærkning af varmeanlæg, apparater og elforbrug. Energistyrelsen har også afsnit om energimærkning af biobrændselskedler, sommerdrift, varmt vand, cirkulationspumpe og standbyforbrug. Der er også information om energimærkning af bygninger for erhverv og offentlige bygninger, samt muligheder for energirådgivning. Energistyrelsen tilbyder desuden adgang til forskellige beregningsværktøjer og lister over energieffektive løsninger og virksomheder. Derudover kan man tilmelde sig nyhedsbrevet for at få relevante opdateringer om energibesparelser. Energistyrelsen har adressen Carsten Niebuhrs Gade 43, 1577 København V og deres hjemmeside er www.ens.dk.",
+    "meta": {
+        "id": 18169823686321503289,
+        "url": "https://old.sparenergi.dk/forbruger/boligen",
+        "title": "Boligen | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:04.986277",
+        "error": null,
+        "num_tokens_in": 947,
+        "num_tokens_out": 355,
+        "estimated_input_cost_gpt4": 0.009470000000000001,
+        "estimated_output_cost_gpt4": 0.01065,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

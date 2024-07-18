@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen anbefaler at isolere dit kældergulv, hvis det har mindre end 100 mm isolering, da dette kan spare penge på varmeregningen og skabe et mere behageligt indeklima. Forudsætningen er, at kælderen er opvarmet. En gennemsnitlig besparelse på 2.380 kr./år kan opnås ved at isolere fra et uisoleret kældergulv til et kældergulv med 100 mm isolering. Isoleringen kan også resultere i varmere opholdsrum over kælderen, reduceret varmeregning, øget husværdi og en mere behagelig kælder. Hvis du alligevel skal bryde gulvet op for at isolere, kan det være en god mulighed for at få gulvvarme. Der er forskellige krav og anbefalinger vedrørende isoleringen, herunder U-værdi og tykkelsen af isoleringen. Renoveringsprocessen inkluderer fjernelse af el, vand og varme, udgravning af det gamle gulv, lægning af ny isolering og betonplade, og til sidst lægning af det nye gulv. Det anbefales at bruge fagfolk til isoleringsarbejdet for at undgå problemer som råd og svamp. Det anbefales også at undersøge den eksisterende isolering og at overholde gældende krav og regler.",
+    "meta": {
+        "id": 394143248056105896,
+        "url": "https://sparenergi.dk/privat/skal-du-renovere-din-bolig/isoler-dit-kaeldergulv",
+        "title": "Isoler dit kældergulv",
+        "time_requested": "2024-04-16T11:58:28.163160",
+        "error": null,
+        "num_tokens_in": 2281,
+        "num_tokens_out": 361,
+        "estimated_input_cost_gpt4": 0.02281,
+        "estimated_output_cost_gpt4": 0.010830000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

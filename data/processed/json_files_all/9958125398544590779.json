@@ -1,0 +1,15 @@
+{
+    "text": "Fundament og kælder i parcelhuse fra 1960-76 beskrives som værende typisk opført med terrændæk, som er et gulv placeret direkte mod jord. Terrændækket er isoleret med 50 mm isolering og består ofte af en betonplade støbt på enten letklinker, grus, singels eller slagger. Der kan være fugtspærre af plastik over betonpladen, og gulvet kan være et parketgulv på strøer med isolering imellem. Kældervæggene er normalt uden isolering og kan være opført i beton eller letklinkerblokke. Kældergulve er typisk støbt på slagger, grus eller singels uden isolering. Soklen består af beton og kan have letklinkerblokke med isolering i midten. Krybekældre forekommer også og kræver god ventilation. Vedligeholdelse indebærer tjek af revner, fugtproblemer og udbedring af disse. Der gives råd om isolering af terrændæk, kældervægge og -gulve, samt ombygning af kælder rum. Endelig nævnes tilskudsmuligheder for energirenoveringer.",
+    "meta": {
+        "id": 9958125398544590779,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/bygningsguiden/parcelhus-1960-76/fundament-og-kaelder",
+        "title": "Fundament og kælder | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:01.471271",
+        "error": null,
+        "num_tokens_in": 6765,
+        "num_tokens_out": 308,
+        "estimated_input_cost_gpt4": 0.06765,
+        "estimated_output_cost_gpt4": 0.00924,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

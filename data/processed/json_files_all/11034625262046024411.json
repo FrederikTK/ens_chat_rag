@@ -1,0 +1,15 @@
+{
+    "text": "SparEnergi.dk er en hjemmeside, der tilbyder hjælp og rådgivning til at spare energi i boligen. På hjemmesiden kan brugere indtaste deres adresse og få tre effektive råd til energioptimering baseret på den specifikke adresse. Der tilbydes information om energibesparelser i hverdagen, skift af varmetype, renovering af boligen samt muligheder for at søge tilskud og få gratis rådgivning. Hjemmesiden informerer også om aktuelle tilskudsordninger og priser på el. Der er desuden mulighed for at tilmelde sig nyhedsbrevet for at modtage spareråd tilpasset sin bolig og interesser. SparEnergi.dk tilbyder også gratis webinarer og information om afkoblingsordninger og vejledning om energirenoveringspuljen. Brugere opfordres til at finde personlige sparemål og modtage hjælp til at nå dem. Hjemmesiden drives af Energistyrelsen og lægger vægt på at inspirere, informere og give råd om energibesparelser.",
+    "meta": {
+        "id": 11034625262046024411,
+        "url": "https://www.sparenergi.dk/privat",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:59:29.811312",
+        "error": null,
+        "num_tokens_in": 1267,
+        "num_tokens_out": 278,
+        "estimated_input_cost_gpt4": 0.01267,
+        "estimated_output_cost_gpt4": 0.00834,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

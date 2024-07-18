@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information og rådgivning om energieffektiv ventilation i virksomheder. Ventilation og udsugningsanlæg udgør op til 15% af det samlede elforbrug i virksomheder, og der er et stort potentiale for energibesparelser. De bedste resultater opnås ved at analysere energibehov, ventilationsanlæggets effektivitet og drift. For at spare energi på ventilation anbefales det at reducere behovet, effektivisere selve anlægget og optimere driften. Disse tiltag kan omfatte justering af luftskiftet, etablering af varmegenvinding samt tilpasning af luftskiftet til variationer i behov over døgn, uge og år. Energistyrelsen tilbyder materialer såsom guides, tjeklister, kravspecifikationer og temahæfter, der kan hjælpe virksomheder med at komme i gang med energibesparelser på ventilation. Der findes også cases og eksempler på virksomheder, der har optimeret deres ventilationsanlæg og opnået markante energibesparelser. Energistyrelsen understreger betydningen af systematisk tilgang til energieffektivisering af ventilationsanlæg i virksomheder for at reducere energiforbrug og omkostninger.",
+    "meta": {
+        "id": 12565903379842812864,
+        "url": "https://sparenergi.dk/erhverv/industri-og-produktion/ventilation",
+        "title": "Ventilation | Energistyrelsen",
+        "time_requested": "2024-04-16T11:58:14.135005",
+        "error": null,
+        "num_tokens_in": 3153,
+        "num_tokens_out": 354,
+        "estimated_input_cost_gpt4": 0.03153,
+        "estimated_output_cost_gpt4": 0.010620000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

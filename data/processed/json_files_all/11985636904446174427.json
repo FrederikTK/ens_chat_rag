@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har lanceret SparEnergi.dk for at hjælpe kommunerne med at guide borgerne til at spare på energien, både for miljøets skyld og for at beskytte pengepungen. De tilbyder arrangementer i hele landet for at informere borgerne om energioptimering, samt webinarer og gratis hotline til rådgivning. Der er også gratis informationsmaterialer til kommunerne og et digitalt værktøj kaldet Boliganalysen, som personaliserer råd om energioptimering baseret på husstandens data. Energistyrelsen opfordrer borgere til at kontakte dem for rådgivning via telefon eller mail. Derudover giver de også gratis adgang til Boliganalysen for kommunerne. Samlet set bidrager SparEnergi.dk med inspiration, viden og råd til at optimere energiforbruget.",
+    "meta": {
+        "id": 11985636904446174427,
+        "url": "https://sparenergi.dk/partner/kommuner/indsats-over-borger",
+        "title": "Indsats over for borger | Energistyrelsen",
+        "time_requested": "2024-04-16T11:59:27.524856",
+        "error": null,
+        "num_tokens_in": 1446,
+        "num_tokens_out": 214,
+        "estimated_input_cost_gpt4": 0.01446,
+        "estimated_output_cost_gpt4": 0.00642,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

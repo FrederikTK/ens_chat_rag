@@ -1,0 +1,15 @@
+{
+    "text": "På SparEnergi's hjemmeside kan man se eksempler på, hvordan forskellige familier sparer energi derhjemme. Der er blandt andet historier om Esben og Birgitte fra Fyn, der har reduceret deres energiforbrug med 27% ved at skære ned på antallet af skærme og bruge strømmen, når den er billigst. Lisbet og Bo fra Randers har sparet 12% på deres energiforbrug ved at tilpasse små ting i deres hus, samt inspireret børn og venner til at deltage. Bo og Lisbet har også investeret i intelligente termostater for at styre temperaturen i husets forskellige rum og opnå energibesparelser. Familierne konkurrerer endda om at se, hvem der kan spare mest energi og skaber dermed sund konkurrence omkring energibesparelser. Desuden gives der generelle råd om at skrue ned for varmen, slukke for radiatoren under udluftning, bruge mindre varmt vand, slukke for unødvendigt strømforbrug og bruge strømmen, når den er billigst. Endelig tilbyder SparEnergi yderligere sparetips på deres hjemmeside for at hjælpe med at reducere el- og varmeregningen.",
+    "meta": {
+        "id": 7960435326193615254,
+        "url": "https://sparenergi.dk/forbruger/sparerad-til-hjemmet/kampagnefilm-energisparekampagne",
+        "title": "Kampagnefilm Energisparekampagne | Energistyrelsen",
+        "time_requested": "2024-04-16T11:51:49.838921",
+        "error": null,
+        "num_tokens_in": 1627,
+        "num_tokens_out": 329,
+        "estimated_input_cost_gpt4": 0.01627,
+        "estimated_output_cost_gpt4": 0.00987,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

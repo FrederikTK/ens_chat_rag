@@ -1,0 +1,15 @@
+{
+    "text": "Håndværkerlisten er en ressource til forbrugere, der søger en håndværker til at hjælpe med at optimere energiforbruget i deres bolig. Listen indeholder håndværkere, der bruger energiløsninger, som beskriver, hvordan man kan energioptimere en bolig på en energieffektiv og teknisk korrekt måde. Alle håndværkere på listen er omfattet af en garantiordning. \n\nMan kan søge på listen ud fra postnummer, brancher og energiløsninger som f.eks. isolering, varmepumper, ventilation osv. Der er også information om virksomhederne, herunder om de er energivejledere, VE-godkendte og BedreBolig-rådgivere. Man kan kontakte håndværkerne direkte via en mailformular på deres profil.\n\nEnergistyrelsen stiller Håndværkerlisten til rådighed for at fremme arbejdet med energibesparelser i bygninger. Det er vigtigt at bemærke, at energistyrelsen ikke vurderer eller anbefaler håndværkere på listen, og det er forbrugerens eget ansvar at sikre sig, at håndværkerens arbejde lever op til lovkravene. Energistyrelsen opdaterer løbende listen for at sikre, at oplysningerne er korrekte.",
+    "meta": {
+        "id": 10177596079403985605,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/haandvaerkerlisten",
+        "title": "Håndværkerlisten | Energistyrelsen",
+        "time_requested": "2024-04-16T11:50:08.941590",
+        "error": null,
+        "num_tokens_in": 3785,
+        "num_tokens_out": 348,
+        "estimated_input_cost_gpt4": 0.03785,
+        "estimated_output_cost_gpt4": 0.01044,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

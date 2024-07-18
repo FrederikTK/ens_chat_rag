@@ -1,0 +1,15 @@
+{
+    "text": "Informationen handler om, hvordan man kan spare strøm og varme i løbet af julen. Der gives konkrete råd til at minimere elforbruget, især i forbindelse med julelyskæder. Det anbefales at tænde lyset, når det er behov, at vælge lyskæder med lavt elforbrug, at skifte til LED-lys, at gøre det let at slukke lyset, samt at slukke på dage med høje elpriser. Derudover gives der tips til energivenlige gaveidéer, fx en lille elmåler, intelligente termostater, intelligente LED-pærer, et æggeur og en sparebruser. Der fremhæves også tips til energieffektiv julemad i forhold til brug af komfur, ovn og opvaskemaskine. Endelig gives der råd til at spare strøm og varme, når man har mange gæster, enten derhjemme eller hvis man fejrer julen andre steder. Derudover oplyses der om energivenlig julemad og at vælge produkter med gode energimærker.",
+    "meta": {
+        "id": 6666197717858466798,
+        "url": "https://sparenergi.dk/privat/de-bedste-spareraad-til-julen",
+        "title": "De bedste spareråd til julen",
+        "time_requested": "2024-04-16T11:52:54.905483",
+        "error": null,
+        "num_tokens_in": 3341,
+        "num_tokens_out": 276,
+        "estimated_input_cost_gpt4": 0.03341,
+        "estimated_output_cost_gpt4": 0.008280000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside, SparEnergi.dk, tilbyder en Casebank med over 80 cases om energieffektivisering i forskellige brancher som industri og produktion, landbrug, kontor, hotel og restauration m.fl. Eksempler inkluderer anvendelse af overskudsvarme, eldrevne pumper, procesoptimering, udskiftning af varmekilder og belysning med mere. Der er også information om energimærkning af bygninger, tilskud, isolering, vinduer, ventilation, varmestyring, rådgivning og generelle energibesparende tiltag. Energistyrelsens kontaktinfo findes på hjemmesiden, og der tilbydes en nyhedsmail med opdateringer for erhvervsvirksomheder.",
+    "meta": {
+        "id": 12844928366012495363,
+        "url": "https://old.sparenergi.dk/erhverv/vaerktojer/casebank",
+        "title": "Casebank | Energistyrelsen",
+        "time_requested": "2024-04-16T11:57:55.522178",
+        "error": null,
+        "num_tokens_in": 1244,
+        "num_tokens_out": 191,
+        "estimated_input_cost_gpt4": 0.012440000000000001,
+        "estimated_output_cost_gpt4": 0.00573,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

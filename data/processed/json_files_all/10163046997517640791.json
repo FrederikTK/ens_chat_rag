@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen tilbyder gode råd om drift af gasfyr for at sikre optimal ydeevne og besparelse af penge på gasregningen. Her er nogle af de bedste råd:\n\n1. Tjek gaskedlens alder, og overvej at skifte varmeform, hvis den er over 15 år gammel.\n2. Kontroller trykket i radiatorsystemet og fyld vand på anlægget, hvis trykket er for lavt.\n3. Lyt efter uregelmæssig start og stop af fyret og juster indstillingerne i manualen.\n4. Indstil automatikken til at styre anlægget efter tidspunkt og vejret for at optimere varmeforbruget.\n5. Få regelmæssige eftersyn af gasfyret for at sikre optimal drift og garanti.\n6. Juster varmen fra varmeanlægget gradvist i efteråret og foråret for at spare varmeforbrug.\n7. Sommerluk varmeanlægget for at spare penge og CO2.\n8. Overvej at investere i automatik til anlægget.\n9. Forebyg ulykker med kulilte ved at få anlægget vedligeholdt af en autoriseret installatør.\n\nArtiklen opfordrer også til at overveje at skifte fra naturgas til en mere bæredygtig varmekilde og nævner fordele ved fjernvarme eller varmepumper. Der gives desuden råd om at spare på varmen i hverdagen gennem adfærdsændringer, fx ved at justere varmeforbruget til vand og optimere radiatorerne. Derudover nævnes også vigtigheden af isolering og tætning for at mindske varmetab.",
+    "meta": {
+        "id": 10163046997517640791,
+        "url": "https://sparenergi.dk/forbruger/varme/naturgas",
+        "title": "Naturgas | Energistyrelsen",
+        "time_requested": "2024-04-16T11:47:49.829406",
+        "error": null,
+        "num_tokens_in": 2006,
+        "num_tokens_out": 436,
+        "estimated_input_cost_gpt4": 0.02006,
+        "estimated_output_cost_gpt4": 0.01308,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

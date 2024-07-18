@@ -1,0 +1,15 @@
+{
+    "text": "Informationen omhandler Energistyrelsens SparEnergi initiativ rettet mod erhverv. Hjemmesiden tilbyder gode råd og vejledning til energioptimering på arbejdspladsen. Der gives specifikke råd om, hvordan man kan spare energi på arbejdspladsen gennem effektivisering af el- og varmeforbrug. Derudover opfordres virksomheder til at søge tilskud fra Erhvervspuljen til grøn omstilling. Der findes også relevante emner om indkøb af energieffektive produkter, energimærkning af bygninger, tjeklister til at vurdere energieffektiviteten og kravspecifikationer til leverandører. Der tilbydes også nyhedsmails med relevant information om energibesparelser og CO2-reduktioner. Hjemmesiden indeholder desuden kontaktinformation og oplysninger om Energistyrelsens adresse, samt en erklæring om tilgængelighed for SparEnergi.dk.",
+    "meta": {
+        "id": 15752631202326589644,
+        "url": "https://www.sparenergi.dk/erhverv",
+        "title": "Erhverv | Energistyrelsen",
+        "time_requested": "2024-04-16T11:51:34.160866",
+        "error": null,
+        "num_tokens_in": 857,
+        "num_tokens_out": 256,
+        "estimated_input_cost_gpt4": 0.008570000000000001,
+        "estimated_output_cost_gpt4": 0.00768,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "5. Man skal ønske enten en luft-til-vand varmepumpe eller en væske-til-vand varmepumpe (jordvarme).",
+    "meta": {
+        "id": 19667751725236618,
+        "url": "https://sparenergi.dk/varmepumpepuljen",
+        "title": "Site under opdatering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:36.606521",
+        "error": null,
+        "num_tokens_in": 3404,
+        "num_tokens_out": 451,
+        "estimated_input_cost_gpt4": 0.03404,
+        "estimated_output_cost_gpt4": 0.01353,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

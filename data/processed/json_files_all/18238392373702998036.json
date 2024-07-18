@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder vejledning om energimærkning af bygninger, herunder tips til forbrugere om at optimere radiatorbrugen. Guiden \"Tjek dine radiatorer\" giver fire trin til at sikre, at vandbårne radiatorer fungerer optimalt og bruger mindst mulig energi. Første trin er at placere radiatorerne rigtigt og sikre, at termostater ikke er dækket til. Det anbefales at have termostater på alle radiatorer for at afstemme temperaturen i rummene. Derudover bør termostaterne indstilles ens i samme rum og i rum med åbne døre imellem. \n\nAndet trin er at kontrollere radiatorernes temperatur. For fjernvarme bør radiatorerne være varme foroven og kolde eller lunkne forneden, mens varmepumper eller naturgas/oliefyr med kondenserende kedel bør have den lavest mulige fremløbstemperatur. For biobrændsel eller naturgas/oliefyr med ikke-kondenserende kedel bør fremløbstemperaturen være lav, men ikke under 60 °C. \n\nTredje trin indebærer at sikre, at termostatventilerne ikke sidder fast. Hvis termostaten sidder fast, kan det løsnes ved forsigtigt at justere ventilen. Termostatventiler har en tendens til at sætte sig fast om sommeren, så det anbefales at åbne dem helt op for at undgå dette. \n\nDet fjerde trin er at udlufte radiatorerne, hvis de klukker eller risler, hvilket tyder på luft i systemet. Luftskruen øverst på radiatoren bør åbnes, mens vandet løber ud, og efterfølgende kan det være nødvendigt at fylde vand på anlægget. Energistyrelsens guide er en praktisk vejledning til forbrugere for at sikre optimal funktion, effektivitet og energiforbrug af vandbårne radiatorer.",
+    "meta": {
+        "id": 18238392373702998036,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/goer-det-selv-guides/radiatorer",
+        "title": "Radiatorer | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:35.497833",
+        "error": null,
+        "num_tokens_in": 2488,
+        "num_tokens_out": 495,
+        "estimated_input_cost_gpt4": 0.024880000000000003,
+        "estimated_output_cost_gpt4": 0.01485,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

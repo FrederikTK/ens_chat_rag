@@ -1,0 +1,15 @@
+{
+    "text": "Hos Energistyrelsens SparEnergi kan man indtaste sin adresse og få de tre mest effektive råd til energioptimering på adressen. Ved at hente offentligt tilgængelige data fra BBR-registret kan de beregne elforbruget i boligen. SparEnergi giver også gratis rådgivning og inspiration til at spare energi i hverdagen. Man kan blandt andet få råd om at skifte varmetype, renovere boligen, søge tilskud eller få gratis rådgivning. Energirenoveringspuljen er også åben, og man kan finde information om energipriser, cookies og privatliv samt kontakte SparEnergi for yderligere assistance.",
+    "meta": {
+        "id": 272551308747544545,
+        "url": "https://sparenergi.dk/elforbrugsberegner",
+        "title": "Site under opdatering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:47:57.051449",
+        "error": null,
+        "num_tokens_in": 339,
+        "num_tokens_out": 171,
+        "estimated_input_cost_gpt4": 0.0033900000000000002,
+        "estimated_output_cost_gpt4": 0.00513,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "På SparEnergi kan man finde information om energipriser, der er senest opdateret den 13/3-2024. Priserne opdateres regelmæssigt, og når der sker markante ændringer på markedet, opdateres energipriserne flere gange om året. Priserne tager udgangspunkt i et standardhus på 130 m2 med et varmeforbrug svarende til 18,1 MWh og et årsforbrug af el på 4.000 kWh. \n\nFor her-og-nu-beregninger bruges følgende energipriser: \n- El: 2,6 kr./kWh \n- El til opvarmning: 1,95 kr./kWh \n- Fjernvarme: 0,84 kr./kWh \n- Naturgas: 10,97 kr./m3 \n- Olie: 16,44 kr./liter \n- Træpiller: 4.400 kr./ton \n- Brænde: 3.689,74 kr./ton \n\nFor langtidsberegninger bruges følgende energipriser: \n- El: 1,91 kr./kWh \n- El til opvarmning: 1,4 kr./kWh \n- Fjernvarme: 0,84 kr./kWh \n- Naturgas: 10,11 kr./m3 \n- Olie: 9,83 kr./liter \n- Træpiller: 2.650 kr./ton \n\nPriserne er baseret på forventede priser over de næste 15 år og er et gennemsnit af markedspriser og samfundsøkonomiske beregningsforudsætninger for 2024. Energistyrelsen og Forsyningstilsynet er kilderne til disse oplysninger. SparEnergi tilbyder gratis rådgivning og inspiration til energibesparelse og hvordan man får mest ud af energien.",
+    "meta": {
+        "id": 2560566789517830449,
+        "url": "https://sparenergi.dk/energipriser-paa-sparenergi",
+        "title": "Energipriser på SparEnergi | Energistyrelsen",
+        "time_requested": "2024-04-16T11:53:56.586348",
+        "error": null,
+        "num_tokens_in": 1770,
+        "num_tokens_out": 453,
+        "estimated_input_cost_gpt4": 0.0177,
+        "estimated_output_cost_gpt4": 0.01359,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

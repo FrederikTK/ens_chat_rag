@@ -1,0 +1,15 @@
+{
+    "text": "Luft til vand-varmepumper er omfattet af Bygningsreglementets krav om at overholde EU's ECOdesignkrav. Kravene angår varmepumpens effektivitet, som måles ved SCOP-faktoren (Seasonal Coefficient Of Performance). Denne faktor angiver, hvor meget varme en varmepumpe kan producere i forhold til det elektricitet, den forbruger. For at overholde Bygningsreglementet skal luft til vand-varmepumper opfylde minimumskravene for SCOP-værdier, som er 3,2 for gulvvarme og 2,83 for radiatorer.\n\nSCOP-tallet beregnes ud fra varmepumpens årlige ydelse under et fiktivt driftsmønster og viser effektiviteten i forhold til varmepumpens elforbrug. Varmepumper med et årligt elforbrug over 3.000 kWh skal have målt elforbruget. Kravene gælder for nybyggeri og ved installation af varmepumper i eksisterende byggeri og er en del af Energistyrelsens liste over krav til forskellige bygningsdele.\n\nDet anbefales at finde varmepumper fra Energistyrelsens liste for at sikre, at de opfylder de nødvendige krav. Luft til vand-varmepumper spiller en central rolle i energieffektivitet og opvarmning af boliger og bør vælges med omhu for at opnå den bedste ydeevne og energibesparelser.",
+    "meta": {
+        "id": 671357221089454611,
+        "url": "https://sparenergi.dk/forbruger/boligen/bygningsreglementets-energikrav/installationer/luft-til-vand-varmepumper",
+        "title": "Luft til vand-varmepumper | Energistyrelsen",
+        "time_requested": "2024-04-16T11:50:13.491302",
+        "error": null,
+        "num_tokens_in": 985,
+        "num_tokens_out": 384,
+        "estimated_input_cost_gpt4": 0.009850000000000001,
+        "estimated_output_cost_gpt4": 0.01152,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

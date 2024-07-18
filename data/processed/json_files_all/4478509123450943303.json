@@ -1,0 +1,15 @@
+{
+    "text": "På Energistyrelsens hjemmeside SparEnergi.dk kan partnere finde information om energioptimering. Hjemmesiden tilbyder et partnerskabsprogram, hvor man kan tilmelde sig nyhedsbrevet og modtage relevant information om materialer og aktiviteter. Derudover tilbyder hjemmesiden gratis rådgivning, inspirerende indhold, viden og råd indenfor energioptimering. Man kan også finde information om energipriser, brug af indhold, cookies og privatlivspolitik, samt kontaktoplysninger. Der er også mulighed for at bestille materialer og booke arrangementer gennem hjemmesiden. Man kan tilmelde sig nyhedsbrevet for partnere og modtage relevant information. Hjemmesiden synes at være en kyndig ressource for partnere, der ønsker at optimere energiforbruget og få ny viden om dette emne.",
+    "meta": {
+        "id": 4478509123450943303,
+        "url": "https://sparenergi.dk/partner/national-energisparekampagne",
+        "title": "National energisparekampagne | Energistyrelsen",
+        "time_requested": "2024-04-16T11:51:04.839496",
+        "error": null,
+        "num_tokens_in": 475,
+        "num_tokens_out": 226,
+        "estimated_input_cost_gpt4": 0.004750000000000001,
+        "estimated_output_cost_gpt4": 0.0067800000000000004,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

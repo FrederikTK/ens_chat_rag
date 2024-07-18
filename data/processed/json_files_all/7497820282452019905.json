@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en tilskudsordning kaldet Energirenoveringspuljen, som giver tilskud til energibesparende forbedringer i boliger. For at søge tilskud skal huset være en helårsbolig, have et energimærke i kategorien E, F eller G, og der må ikke tidligere være opnået tilskud til det samme projekt. Projekter må heller ikke være påbegyndt, og arbejdet skal udføres af en virksomhed med gyldigt CVR-nummer.\n\nTilskuddet kan søges til isolering, udskiftning af vinduer, etablering af et ventilationsanlæg, vandbåren rumvarme og energimærkning. Der er specifikke betingelser og tilskudssatser for hvert tiltag, og det er vigtigt at være opmærksom på disse. Energimærket skal være maksimalt 10 år gammelt og baseret på en bygningsgennemgang.\n\nNår man har indsendt ansøgningen, vil den blive behandlet, og hvis den bliver godkendt, modtager man et tilsagn om tilskud. Før tilskuddet udbetales, skal projektet udføres af en virksomhed og dokumenteres korrekt. Tilskuddet udbetales først, når projekterne er afsluttede, og ansøgning om udbetaling er indsendt inden for fristen på 60 dage efter projektets fuldførelse.\n\nLige nu er der også mulighed for at søge tilskud gennem Varmepumpepuljen, men denne pulje forventes at åbne i foråret 2024. Energistyrelsen giver desuden rådgivning og vejledning til interesserede, inden de søger tilskud, og de har udarbejdet en FAQ-sektion samt tilbud om webinarer for yderligere information.",
+    "meta": {
+        "id": 7497820282452019905,
+        "url": "https://sparenergi.dk/privat/soeg-tilskud/varm-op-til-soege-tilskud-til-energirenovering?auHash=CG08N0VTOJj5pnDeq5KxbaAKQry11Q1Ndkvyjw43fKc",
+        "title": "Varm op til at søge tilskud til energirenovering",
+        "time_requested": "2024-04-16T11:50:48.100579",
+        "error": null,
+        "num_tokens_in": 4656,
+        "num_tokens_out": 480,
+        "estimated_input_cost_gpt4": 0.046560000000000004,
+        "estimated_output_cost_gpt4": 0.0144,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

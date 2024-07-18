@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om energimærkning af bygninger, herunder også information rettet mod forbrugere, erhverv og offentlige bygninger. På deres hjemmeside findes en sektion dedikeret til oplysninger om varme, hvor man kan få råd om blandt andet varmeforbrug, skift af varmekilder, energimærkning af varmeanlæg, biobrændselskedler, energioptimering og andre løsninger som varmepumper, solvarme, træpiller m.m. Der tilbydes også information om energimærkning af biobrændselskedler, sommerdrift, cirkulationspumper og energimærkning af apparater. Energistyrelsen giver også mulighed for at finde energimærkefirmaer, energiløsninger, håndværkere, VE-virksomheder og andre relevante ressourcer. Desuden kan man tilmelde sig nyhedsmail og få flere tips til at spare energi. Energistyrelsens adresse er Carsten Niebuhrs Gade 43, 1577 København V, og deres hjemmeside er www.ens.dk.",
+    "meta": {
+        "id": 12333800688430129864,
+        "url": "https://sparenergi.dk/forbruger/varme",
+        "title": "Varme | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:47.659996",
+        "error": null,
+        "num_tokens_in": 997,
+        "num_tokens_out": 289,
+        "estimated_input_cost_gpt4": 0.009970000000000001,
+        "estimated_output_cost_gpt4": 0.00867,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

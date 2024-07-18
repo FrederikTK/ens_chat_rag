@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har udgivet indkøbsanbefalinger for kaffemaskiner v2.0, hvor fokus ligger på energieffektivitet og overholdelse af EU-krav. Anbefalingerne omhandler filterkaffemaskiner og andre typer af kaffemaskiner til husholdninger og kontorer, dog ikke til erhvervsmæssig brug. For filterkaffemaskiner anbefales det at vælge modeller, der brygger direkte i en termokande, eller at slukke maskinen og hælde kaffen i en termokande straks efter brygning. For andre kaffemaskiner som espressomaskiner anbefales det at vælge en maskine med kortest mulig standby-periode og at slukke maskinen efter brug. Der opfordres til at anvende totalomkostninger (TCO) som kriterium ved indkøb, og der findes et værktøj til at beregne dette. Anbefalingerne er i overensstemmelse med EU's forordning om miljøvenligt design.",
+    "meta": {
+        "id": 10843260316439698130,
+        "url": "https://sparenergi.dk/offentlig-og-erhverv/indkoeb-og-adfaerd/indkoebsanbefalinger/kaffemaskiner",
+        "title": "Kaffemaskiner | Energistyrelsen",
+        "time_requested": "2024-04-16T11:57:12.482273",
+        "error": null,
+        "num_tokens_in": 832,
+        "num_tokens_out": 263,
+        "estimated_input_cost_gpt4": 0.008320000000000001,
+        "estimated_output_cost_gpt4": 0.00789,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

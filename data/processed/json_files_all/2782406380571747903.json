@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside indeholder information om energimærkning af bygninger, herunder ydervægge. Der findes en guide til at isolere ydervægge, som er opdelt i tre sektioner: hulmur, let ydervæg og tung ydervæg. \n\n- For hulmur anbefales det at tjekke om isoleringen er til stede ved at bore et hul og føre en pind ind. Hvis isoleringen er utilstrækkelig, anbefales det at få en håndværker til at udføre efterisolering.\n- Lette ydervægge er typisk træskeletbeklædte vægge, hvor isoleringen er skjult. Hvis der er mindre end 150 mm isolering, anbefales det at efterisolere enten udefra eller indefra med tilskudsmuligheder.\n- Tunge ydervægge såsom mursten eller letbeton bør have mindst 100-125 mm isolering. Efterisolering kan udføres udefra eller indefra, men det anbefales at være forsigtig med isolering indefra på grund af risikoen for fejl.\n\nDe forskellige isoleringsmetoder, krav til isoleringstykkelser og vejledning om tilskudsmuligheder er beskrevet for hver type ydervæg. Energistyrelsen anbefaler at kontakte en håndværker for at udføre isoleringsarbejdet korrekt. Energistyrelsens hjemmeside indeholder desuden yderligere information om energibesparelse og energimærkning af bygninger.",
+    "meta": {
+        "id": 2782406380571747903,
+        "url": "https://sparenergi.dk/forbruger/vaerktojer/guides-og-tjeklister/ydervaegge",
+        "title": "Ydervægge | Energistyrelsen",
+        "time_requested": "2024-04-16T11:50:47.558789",
+        "error": null,
+        "num_tokens_in": 2157,
+        "num_tokens_out": 397,
+        "estimated_input_cost_gpt4": 0.021570000000000002,
+        "estimated_output_cost_gpt4": 0.01191,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

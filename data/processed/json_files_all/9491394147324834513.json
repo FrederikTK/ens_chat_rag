@@ -1,0 +1,15 @@
+{
+    "text": "På hjemmesiden SparEnergi.dk tilbydes danskere gode råd til energioptimering af deres boliger. Ved at indtaste sin adresse får man de tre mest effektive råd til energioptimering på netop den adresse. Der opfordres også til at skifte varmetype, og man kan se, hvad man kan spare ved at skifte til en ny varmetype, der passer til ens behov. Det understreges, at både vaner og driften af varmeanlægget har stor betydning for varmeregningen. SparEnergi.dk giver også gratis rådgivning og inspiration til at spare energi i hverdagen. Man kan finde flere gode råd til el- og varmevaner på hjemmesiden. Der er desuden oplysninger om energipriser, cookies og kontaktinformation. Hjemmesiden tilhører Energistyrelsen og kan findes på adressen Carsten Niebuhrs Gade 43, 1577 København V.",
+    "meta": {
+        "id": 9491394147324834513,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/ny-varme",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:49:56.927976",
+        "error": null,
+        "num_tokens_in": 418,
+        "num_tokens_out": 235,
+        "estimated_input_cost_gpt4": 0.0041800000000000006,
+        "estimated_output_cost_gpt4": 0.00705,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

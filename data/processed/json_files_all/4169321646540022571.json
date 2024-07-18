@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen giver råd om at udskifte vinduer for at spare energi og forbedre boligens værdi. Når vinduer udskiftes i et opvarmet rum i en helårsbolig, anbefales det at vælge vinduer med energimærke A eller dokumentere, at de nye vinduer har samme egenskaber. Der er stor forskel på vinduer med energimærke A, så det anbefales at kigge på U-værdien og E-ref-værdien. \n\nHvis et vindue vender mod nord eller skygges i vinterhalvåret, bør man prioritere lavest mulig U-værdi. Hvis vinduet derimod vender mod øst, syd eller vest og får direkte sol om vinteren, bør man vælge højest mulig E-ref-værdi for at udnytte solvarmen bedst muligt. Det anbefales at bruge solafskærmning i velisolerede huse for at undgå overophedning på solrige dage. \n\nDet anbefales at udskifte vinduer med termoruder til energiruder, da det kan reducere varmetabet og forbedre indeklimaet. Der gives også råd om valg af vinduer med ægte sprosser eller sprosser monteret på ruden. Derudover nævnes muligheden for at udskifte vinduer med 1-lags glas. Energistyrelsen oplyser også om muligheden for at søge tilskud til nye vinduer gennem Bygningspuljen. \n\nDer gives også råd om arkitektonisk hensyn ved udskiftning af vinduer samt foranstaltninger til støjreduktion og indbrudssikring. Energistyrelsen oplyser om forskellige energiløsninger og konkrete eksempler på energirenoveringsprojekter, hvor udskiftning af vinduer har været en del af forbedringerne. Energistyrelsen tilbyder desuden gratis rådgivning og har yderligere information tilgængelig på deres hjemmeside.",
+    "meta": {
+        "id": 4169321646540022571,
+        "url": "https://sparenergi.dk/privat/faa-energirigtige-vinduer/udskift-dit-vindue",
+        "title": "Udskift dit vindue",
+        "time_requested": "2024-04-16T11:57:57.328501",
+        "error": null,
+        "num_tokens_in": 2175,
+        "num_tokens_out": 514,
+        "estimated_input_cost_gpt4": 0.021750000000000002,
+        "estimated_output_cost_gpt4": 0.01542,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

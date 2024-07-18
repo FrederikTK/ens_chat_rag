@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om kombinationsløsninger til opvarmning og varmt vand i boliger. Kombinationsløsninger går ud på at kombinere flere typer varmekilder for at opfylde det samlede varmebehov i huset. Det anbefales at skifte helt til fjernvarme eller varmepumpe for at opnå den største varmebesparelse og klimafordele. Hvis det ikke er muligt eller ønskeligt, kan det være en mulighed at kombinere varmekilder, f.eks. supplere olie- eller naturgasfyr med en mere miljøvenlig varmeform som varmepumpe. Dog kan der ikke opnås tilskud til kombinationsløsninger - tilskud gives kun ved fuldstændig udskiftning af varmekilden til varmepumpe. \n\nKombination af olie- eller gasfyr med varmepumpe er en god løsning, da varmepumpen kan dække en stor del af varmebehovet, mens fyret fungerer som supplement. Det angives, at oliefyr eller gasfyr bør udskiftes, hvis de er klar til udskiftning, især hvis huset er nyt eller velisoleret. \n\nDer er forskellige muligheder for kombinationsløsninger afhængigt af den eksisterende varmekilde (olie, naturgas, el) og behovet for varme og varmt vand. Det anbefales at kontakte en rådgiver for at få hjælp til at vælge den bedste løsning og en erfaren installatør til installationen. Energistyrelsen tilbyder en liste over godkendte håndværkere, der kan udføre arbejdet med kombinationsløsninger.",
+    "meta": {
+        "id": 12626127907755072590,
+        "url": "https://sparenergi.dk/forbruger/varme/kombinationsloesninger",
+        "title": "Kombinationsløsninger | Energistyrelsen",
+        "time_requested": "2024-04-16T11:49:03.093762",
+        "error": null,
+        "num_tokens_in": 7388,
+        "num_tokens_out": 434,
+        "estimated_input_cost_gpt4": 0.07388,
+        "estimated_output_cost_gpt4": 0.01302,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

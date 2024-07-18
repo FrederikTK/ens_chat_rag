@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om energimærkning af huse. Det er lovpligtigt at få energimærket sin bolig ved salg eller udlejning, da et godt energimærke kan øge salgsprisen. Jo nyere boligen er, desto bedre er normalt dens energimærke. Man kan forbedre boliger med energimærke D med 1-2 klasser ved at følge energimærkningsforslag, og ældre huse kan forbedres fra energimærke G til C ved en omfattende energirenovering. Kunstig belysning, køling og ventilation er vigtige faktorer. Et godt energimærke kan øge salgsprisen med 500 kr. pr. kvadratmeter. Energimærkningen er gyldig i 10 år, og hvis der opstår klager, skal man kontakte det firma, der har udarbejdet energimærkningen. Energimærkningen placerer huset på en skala fra A til G baseret på husets energiforbrug. Energimærkningskonsulentens honorar afhænger af husets størrelse.",
+    "meta": {
+        "id": 12020269202223098806,
+        "url": "https://old.sparenergi.dk/forbruger/boligen/energimaerkning-boliger/huse",
+        "title": "Huse | Energistyrelsen",
+        "time_requested": "2024-04-16T11:49:03.213383",
+        "error": null,
+        "num_tokens_in": 1840,
+        "num_tokens_out": 276,
+        "estimated_input_cost_gpt4": 0.018400000000000003,
+        "estimated_output_cost_gpt4": 0.008280000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

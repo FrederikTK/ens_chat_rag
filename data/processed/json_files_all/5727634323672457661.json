@@ -1,0 +1,15 @@
+{
+    "text": "Erhvervspuljen, administreret af Energistyrelsen, er et økonomisk tilskud til danske virksomheder, der ønsker at spare energi og reducere CO2-udledningen. Puljen, på mere end 600 mio. kr. i 2024, støtter energi- og CO2-besparende projekter med op til 50%. Virksomheder kan søge tilskud til projekter som udskiftning af gaskedler til varmepumper, udskiftning af ældre belysning til LED, og intern udnyttelse af overskudsvarme, dog gives der ikke tilskud til solceller. \n\nReglerne for Erhvervspuljen blev lempet den 1. november 2022, hvilket har gjort det lettere for virksomheder at få del i de 3,2 mia. kr., som Erhvervspuljen uddeler til grøn omstilling. Tilskuddet beregnes ud fra energi- eller CO2-besparelse og virksomhedens størrelse. Puljen støtter projekter med 10 øre pr. sparet kWh pr. år over tiltagets levetid eller 500 kr. pr. sparet ton CO2 pr. år over tiltagets levetid, hvor virksomhedens størrelse bestemmer, hvor stor en andel af støtteberettigede omkostninger, der kan dækkes (op til 50% for små virksomheder).\n\nErhvervspuljen har hjælpeværktøjer såsom tilskudsberegnere til LED-belysning og udskiftning af varmekilder, samt standardløsninger og standardforudsætninger til opgørelse af projekters energiforbrug. Der er også webinars, hvor ansøgningsprocessen gennemgås, samt trin-for-trin guider til ansøgning og udbetaling. Vær opmærksom på, at projekter skal være færdiggjort inden for to år efter tilsagn, og udbetaling af tilskud skal søges senest tre måneder efter projektets færdiggørelse. Virksomheder, der er interesseret, kan tilmelde sig nyhedsmailen, deltage i webinars og kontakte Energistyrelsen for yderligere information og assistance.",
+    "meta": {
+        "id": 5727634323672457661,
+        "url": "https://sparenergi.dk/erhverv/vaerktojer/erhvervstilskud/erhvervsejendomsudlejning",
+        "title": "Erhvervsejendomsudlejning | Energistyrelsen",
+        "time_requested": "2024-04-16T11:53:58.655190",
+        "error": null,
+        "num_tokens_in": 4772,
+        "num_tokens_out": 575,
+        "estimated_input_cost_gpt4": 0.047720000000000005,
+        "estimated_output_cost_gpt4": 0.01725,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

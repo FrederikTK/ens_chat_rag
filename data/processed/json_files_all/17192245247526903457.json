@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en liste over rådgivere, som kan hjælpe med energimærkning af bygninger. Man kan søge efter rådgivere ud fra postnummer, boligtype og branche. Listen indeholder information om virksomheder såsom Ak-Byg Solbjerg A/S, Aktuel ByggeRådgivning af 1980 ApS, Anker Byg & Rådgivning, Arkinord A/S, Arkitektfirmaet KAMP ApS, AUC Tømrer & Snedker ApS, Bedre Bolig Rådgivning ApS, BF Byggeservice ApS, Bo Energy ApS og Bo Rasmussens Eftf. A/S. Man kan kontakte disse rådgivere for et uforpligtende tilbud og sammenligne deres priser og services. Energistyrelsen opfordrer også til at rydde cachen for at komme til det nye site, da de er ved at opdatere deres platform.",
+    "meta": {
+        "id": 17192245247526903457,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/bedrebolig/find-en-raadgiver",
+        "title": "Find en rådgiver | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:35.432032",
+        "error": null,
+        "num_tokens_in": 1282,
+        "num_tokens_out": 235,
+        "estimated_input_cost_gpt4": 0.012820000000000002,
+        "estimated_output_cost_gpt4": 0.00705,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

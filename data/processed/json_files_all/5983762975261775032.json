@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har udarbejdet en liste over myter vedrørende energiforbrug, hvor eksperterne forklarer, hvad der er sandt og falsk. Nogle af myterne inkluderer:\n\n1. Det er ikke en god idé at spare på energien ved at nøjes med stearinlys i stedet for elektrisk lys. Stearinlys frigiver partikler, der skader indeklimaet, og det er faktisk 10 gange dyrere at have et stearinlys tændt end en LED-pære.\n   \n2. Selvom det kan virke, at varmeanlægget bruger mindre strøm, når det er fuldt, så er det faktisk ikke tilfældet. Fryseren bruger lige meget strøm uanset, om den er fuld eller tom. Faktisk bruger fryseren mest strøm, når varerne skal fryses ned, og når den åbnes oftere.\n\n3. Det er en myte, at varmepumper kun fungerer med gulvvarme. De fungerer også fint med radiatorer og kan være en god investering, selv i dårligt isolerede huse.\n\n4. Der er sparet fordele ved at skrue ned for temperaturen, når man lufter ud. Hvis man ikke skruer ned for varmen, kan radiatoren kompensere ved at arbejde hårdere og dermed øge energiforbruget.\n\nEnergistyrelsen opfordrer også til at tage andre energisparende forholdsregler og undgå at tro på almindelige myter om energiforbrug.",
+    "meta": {
+        "id": 5983762975261775032,
+        "url": "https://sparenergi.dk/forbruger/myter-om-spare-energi",
+        "title": "Page not found | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:23.124331",
+        "error": null,
+        "num_tokens_in": 7189,
+        "num_tokens_out": 387,
+        "estimated_input_cost_gpt4": 0.07189000000000001,
+        "estimated_output_cost_gpt4": 0.01161,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

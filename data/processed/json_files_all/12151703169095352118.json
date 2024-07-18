@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside SparEnergi.dk tilbyder information om energioptimering for private boligejere. For at søge tilskud til energirenoveringsprojekter skal husstanden opfylde 5 krav og opfylde de tekniske betingelser afhængig af den ønskede energiforbedring. Der gives tilskud til isolering, vinduer, etablering af ventilationsanlæg med varmegenvinding og vandbåret rumvarme samt energimærkning af huset. For isoleringsprojekter skal ydervægge, tag, loft og terrændæk opfylde specifikke U-værdi-krav før og efter renovering. For vinduer gives der tilskud til udskiftning af ovenlysvinduer, facader og etablering af forsatsrammer. Ved etablering af ventilationsanlæg skal det opfylde visse krav, herunder varmegenvinding. Tilskud gives også til etablering af vandbåret rumvarme, hvis der ikke findes et sådant anlæg i forvejen. Huset skal have energimærke i kategori E, F eller G for at opnå tilskud til energirenoveringstiltag, og energimærket skal være maksimalt 10 år gammelt. Energimærket skal være baseret på en bygningsgennemgang. Energistyrelsens Energirenoveringspulje udbetaler tilskud mellem 5.000 kr. og 10.000 kr. for energiforbedringstiltag i boliger. Det er vigtigt at vide, at energipuljen kræver, at ansøgeren selv har betalt for energimærkningen. Energirenoveringspuljen tilbyder desuden gratis rådgivning og webinarer for at hjælpe boligejere med at optimere energiforbruget i deres hjem.",
+    "meta": {
+        "id": 12151703169095352118,
+        "url": "https://sparenergi.dk/privat/soeg-tilskud/varm-op-til-soege-tilskud-til-energirenovering/specifikke-betingelser?auHash=fYEAEnrqQ50xQP2UN5EzpwTbOzgrKTswyPwI-pt-9h8",
+        "title": "Specifikke betingelser",
+        "time_requested": "2024-04-16T11:59:23.140823",
+        "error": null,
+        "num_tokens_in": 3051,
+        "num_tokens_out": 464,
+        "estimated_input_cost_gpt4": 0.030510000000000002,
+        "estimated_output_cost_gpt4": 0.01392,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Isolering er en effektiv måde at mindske varmeforbruget på i en bygning. Når man efterisolerer en bygning, kan man opnå flere fordele såsom lavere varmeudgifter, bedre indeklima og muligheden for at installere mindre, billigere og mere effektive varmeanlæg. Bygningsreglementet har energikrav, man skal overholde ved udskiftning af dele i en eksisterende bygning, f.eks. krav til isolering af nye vinduer og tagisolering. Der er flere områder i en bygning, hvor man kan efterisolere, f.eks. hulmure, ydervægge, loft, vægge og gulve mod uopvarmede rum, samt rørinstallationer i uopvarmede rum. Isoleringsmaterialer som stenuld og glasuld er almindeligt anvendte materialer i Danmark. Det anbefales at isolere bygningen udvendigt for at mindske risikoen for fugtproblemer. Det anbefales også at holde bygningen tæt og ventileret, efterisolere ved renovering, få garanti for isoleringens holdbarhed, undgå spild med rørisolering og tjekke isoleringen regelmæssigt. Der advares om asbestisolering, da det kan give lungesygdomme. Bygningsreglementet stiller krav til isolering ved udskiftning eller ændring af varmeanlæg. Links til yderligere information om isolering og efterisolering findes på byggeriogenergi.dk, sbi.dk, byg-erfa.dk og energitjenesten.dk.",
+    "meta": {
+        "id": 4568382703945344072,
+        "url": "https://sparenergi.dk/offentlig/bygninger/isolering",
+        "title": "Isolering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:59:22.318207",
+        "error": null,
+        "num_tokens_in": 2852,
+        "num_tokens_out": 410,
+        "estimated_input_cost_gpt4": 0.028520000000000004,
+        "estimated_output_cost_gpt4": 0.0123,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

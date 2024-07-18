@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder programmet BedreBolig, som er en helhedsorienteret tilgang til energirenovering af boliger. Gennem BedreBolig kan boligejere nemmere komme i gang med energirenovering på en energirigtig måde, samtidig med at det åbner forretningsmuligheder for BedreBolig-rådgivere. For at blive en BedreBolig-rådgiver kræves det, at man følger en uddannelse gennem Københavns Erhvervsakademi, Erhvervsakademi Dania eller Act2learn. Man skal være ansat i en godkendt BedreBolig-virksomhed og opfylde specifikke krav til erhvervserfaring og uddannelse. For virksomheder kræves det bl.a., at de har et kvalitetssikringssystem tilpasset BedreBolig, som er godkendt af en kontrolinstans eller certificeret af et akkrediteret certificeringsorgan. Der er krav til at kunne levere to ydelsespakker til boligejere, som omfatter energibesparelser, plan for energirenovering, tilbudsindhentning, og projektstyring. Processen for godkendelse som BedreBolig-rådgivervirksomhed indebærer bl.a. at indsende ansøgning og dokumentation til Energistyrelsen. Energistyrelsen stiller vejledninger og værktøjer til rådighed for BedreBolig-rådgivere, bl.a. beregningsværktøjer og tjeklister til screening, planlægning, og udførelse af energirenoveringsprojekter. Energistyrelsen tilbyder også materialer og markedsføringsværktøjer, samt mulighed for at blive listet som BedreBolig-rådgiver på deres hjemmeside. Energistyrelsen har udviklet analyser om energistandarders betydning for boligværdi og komfort, samt tilbyder gratis rådgivning og understøtter markedsføring for BedreBolig-rådgivere.",
+    "meta": {
+        "id": 652069166661656001,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/bedrebolig/raadgiver",
+        "title": "Rådgiver | Energistyrelsen",
+        "time_requested": "2024-04-16T11:59:35.096523",
+        "error": null,
+        "num_tokens_in": 3563,
+        "num_tokens_out": 544,
+        "estimated_input_cost_gpt4": 0.03563,
+        "estimated_output_cost_gpt4": 0.01632,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

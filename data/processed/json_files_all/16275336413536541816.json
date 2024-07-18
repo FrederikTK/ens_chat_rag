@@ -1,0 +1,15 @@
+{
+    "text": "Automatik til varmeanlæg giver mulighed for at styre varmeforbruget på en intelligent måde baseret på vejrforhold og din daglige rutine. Det anbefales at installere automatik, når du alligevel skal udskifte eller renovere dit varmeanlæg. Automatik kan bidrage til bedre indeklima, øget komfort og forbedre husets værdi, da det også kan resultere i en bedre energimærkning.\n\nDer anbefales at vælge en automatik med vejrkompensering og natsænkning, som kan stoppe varmeanlægget og cirkulationspumpen ved visse temperaturniveauer og om natten. Hvis du alligevel skal skifte varmeanlæg, er det en god idé at vælge et nyt anlæg med indbygget automatik. Det er også muligt at installere automatik på et eksisterende varmeanlæg, selvom det kræver lidt ekstra arbejde.\n\nIfølge beregninger baseret på gennemsnitlige energipriser og energiløsninger fra Videncenter for energibesparelser i bygninger, kan automatik til varmeanlæg typisk spare op til 560 kr. om året. Installationen foregår ved at opsætte anlægget i nærheden af varmeanlægget, montere udeføleren på husets nordside og placere rumføleren korrekt. Anlægget programmeres til at udføre temperatursænkning og natsænkning, hvis ønsket.\n\nPå siden findes også en håndværkerliste, hvor man kan søge efter håndværkere i ens område, der kan installere automatik til varmeanlæg. Energistyrelsen anbefaler ikke specifikke virksomheder, men håndværkerne præsenteres baseret på deres nærhed, kvalitetssikringsordninger og relevante autorisationer. Energiløsningerne på siden er standardløsninger, og det anbefales altid at søge rådgivning hos det pågældende firma, inden man går igang med en energiløsning.",
+    "meta": {
+        "id": 16275336413536541816,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/energiloesninger/automatik-til-varmeanlaeg",
+        "title": "Automatik til varmeanlæg",
+        "time_requested": "2024-04-16T11:51:47.091727",
+        "error": null,
+        "num_tokens_in": 3943,
+        "num_tokens_out": 546,
+        "estimated_input_cost_gpt4": 0.03943,
+        "estimated_output_cost_gpt4": 0.01638,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

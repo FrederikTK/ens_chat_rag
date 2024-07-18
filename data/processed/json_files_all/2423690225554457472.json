@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen giver råd og vejledning til bygherrer om energimærkning af bygninger og hvordan man kan spare energi på byggepladsen. Energiforbrug til byggeprocesser udgør normalt 2-4 års fremtidigt varmeforbrug og ca. 0,5-1,5 % af byggesummen. Opvarmning og udtørring dominerer energiforbruget på en byggeplads og udgør typisk 80 % af det samlede energiforbrug. Som bygherre spiller man en vigtig rolle i at sætte rammerne for byggeprocessen og påvirke de øvrige aktører i at udføre arbejdet på en energieffektiv måde.\n\nDer findes tre forskellige afregningsformer for energiforbrug på byggepladsen: dokumenteret forbrug, fast pris og fælles incitament. Disse afregningsformer påvirker entreprenørens incitament til at optimere energiforbruget. Der gives også tommelfingerregler til bygherrer om bl.a. at rådføre sig med rådgivere om energiforbrug, skabe klarhed over roller og ansvar tidligt i byggeforløbet samt hvordan man vælger den rigtige afregningsform.\n\nDer gives også gode råd om at spare energi på byggepladsen ved at bruge energieffektive skurvogne, overdække byggepladsen og lukke den med interrimsvinduer tidligt. Der beskrives også fordele ved at bruge varmepumper i skurvogne, sammenbygning af skurvogne og brug af velisolerede pavilloner. Også brugen af overdækning og interrimsvinduer for at reducere energiforbruget og forbedre totaløkonomien på byggepladsen bliver fremhævet.\n\nDer gives også cases om energibesparelse ved selvudtørrende beton, energiledelse, adfærdsændringer på byggepladsen, aflukning af klimaskærm, energibesparelse i skurbyer og overdækning af byggepladser. Energistyrelsen tilbyder yderligere undersøgelser, analyser og materiales om energirelaterede emner samt kontaktmuligheder og nyhedsmailtilmelding.",
+    "meta": {
+        "id": 2423690225554457472,
+        "url": "https://old.sparenergi.dk/erhverv/byggeri/bygherre",
+        "title": "Bygherre | Energistyrelsen",
+        "time_requested": "2024-04-16T11:59:29.293097",
+        "error": null,
+        "num_tokens_in": 7081,
+        "num_tokens_out": 587,
+        "estimated_input_cost_gpt4": 0.07081000000000001,
+        "estimated_output_cost_gpt4": 0.01761,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

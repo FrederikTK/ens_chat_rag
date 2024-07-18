@@ -1,0 +1,15 @@
+{
+    "text": "SparEnergi.dk er en hjemmeside, der drives af Energistyrelsen og har til formål at hjælpe danskerne med at spare energi. Sitet giver opdateret information om energiforbrug og energiløsninger til hjemmet, arbejdspladsen og det offentlige. Der er værktøjer, tjeklister, beregnere og produktlister til både el og varme. SparEnergi.dk blev lanceret i november 2013 og erstattede Go’ Energi (Center for Energibesparelser), som blev nedlagt i 2012. Evalueringen af hjemmesiden blev foretaget af Epinion i januar 2016. Man kan læse hovedrapporten samt delrapporterne om private husstande og private/offentlige virksomheder. Der er også information om danskernes adfærd og motivation for energibesparelse samt energibarometeret og andre undersøgelser om danskernes holdninger til energibesparelser. Energipriserne på SparEnergi.dk opdateres jævnligt og omfatter el, fjernvarme, naturgas, olie, træpiller og brænde med både her-og-nu priser og langsigtede priser. Man kan tilmelde sig nyhedsmail for at modtage opdateringer om energisparetips og information.",
+    "meta": {
+        "id": 11190093042720964944,
+        "url": "https://old.sparenergi.dk/om-sparenergi",
+        "title": "Om SparEnergi | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:02.780809",
+        "error": null,
+        "num_tokens_in": 2545,
+        "num_tokens_out": 324,
+        "estimated_input_cost_gpt4": 0.02545,
+        "estimated_output_cost_gpt4": 0.00972,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

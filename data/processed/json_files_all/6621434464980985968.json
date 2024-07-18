@@ -1,0 +1,15 @@
+{
+    "text": "På Energistyrelsens hjemmeside SparEnergi.dk kan brugere finde information om energioptimering og energibesparelse i hjemmet. Der tilbydes forskellige webinarer om emner som energirenovering, skift af varmekilde og ændring af adfærd for energibesparelse. Webinarer inkluderer emner som energirenoveringspuljen, varmepumpepuljen, gasfyr, træpillefyr og tips til at spare energi på grund af høje energipriser. Brugere kan kontakte energirådgivere for gratis rådgivning om energioptimering og energibesparelse. Derudover kan man tilmelde sig nyhedsbrevet for at modtage opdaterede spareråd tilpasset ens bolig og interesser. Energistyrelsens SparEnergi program giver inspiration, viden og råd til at optimere energiforbruget og spare penge derhjemme.",
+    "meta": {
+        "id": 6621434464980985968,
+        "url": "https://sparenergi.dk/forbruger/boligen/radgivning/webinarer",
+        "title": "Webinarer | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:39.165788",
+        "error": null,
+        "num_tokens_in": 728,
+        "num_tokens_out": 235,
+        "estimated_input_cost_gpt4": 0.007280000000000001,
+        "estimated_output_cost_gpt4": 0.00705,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

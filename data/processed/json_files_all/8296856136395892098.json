@@ -1,0 +1,15 @@
+{
+    "text": "Overskudsvarme er en ressource, der kan udnyttes til at gavne både virksomhedens bundlinje og klimaet. Ved at genanvende allerede brugt energi kan virksomheder både spare store mængder energi og opnå en økonomisk fortjeneste. Dette kan gøres ved at udnytte overskudsvarmen internt til bygningsopvarmning eller forvarmning, eller ved at sælge den til det lokale fjernvarmeselskab eller nærliggende virksomheder. Ændrede afgifter og tilskud gør intern og ekstern udnyttelse af overskudsvarme til en god forretning.\n\nDer er to måder at udnytte overskudsvarme på: intern udnyttelse og ekstern udnyttelse. Intern udnyttelse indebærer genanvendelse af overskudsvarme til interne formål som bygningsopvarmning, mens ekstern udnyttelse indebærer salg af overskudsvarmen til fjernvarmeselskaber. Der er afgiftsfritagelse for både intern og ekstern udnyttelse af overskudsvarme, og der er også mulighed for at søge tilskud gennem Erhvervspuljen, hvis man ønsker at udnytte overskudsvarmen internt.\n\nEn grundig analyse bør gennemføres inden valg af løsninger til varmegenvinding og udnyttelse af overskudsvarme. Der er udarbejdet tjeklister og anbefalinger til at hjælpe virksomheder med at implementere effektive løsninger. Desuden er der temahæfter og cases til inspiration fra andre virksomheder, der har implementeret succesfulde projekter med varmegenvinding og overskudsvarme.\n\nDet er vigtigt at involvere specialisthjælp og stille de rigtige krav til leverandører, når man ønsker at udnytte overskudsvarme. Der er også optioner for at deltage i Energistyrelsens energieffektiviseringsordning for overskudsvarme, hvilket kræver løbende energigennemgange og rentable energieffektiviseringer.\n\nSamlet set er der en række muligheder for virksomheder at udnytte overskudsvarme og opnå økonomisk gevinst samtidig med at bidrage positivt til klimaet. Energistyrelsen tilbyder også nyhedsmails om relevante informationer og analyser angående energibesparelser og CO2-reduktioner.",
+    "meta": {
+        "id": 8296856136395892098,
+        "url": "https://old.sparenergi.dk/erhverv/industri-og-produktion/overskudsvarme",
+        "title": "Overskudsvarme | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:01.892363",
+        "error": null,
+        "num_tokens_in": 3700,
+        "num_tokens_out": 638,
+        "estimated_input_cost_gpt4": 0.037000000000000005,
+        "estimated_output_cost_gpt4": 0.01914,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

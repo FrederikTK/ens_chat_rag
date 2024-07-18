@@ -1,0 +1,15 @@
+{
+    "text": "På SparEnergi.dk kan man få råd til energioptimering i hverdagen. Man kan få råd om bl.a. lys og lamper, vask og rengøring, streaming og elektronik, køkken og madlavning, varme og varmt vand samt hvordan man kan bruge strømmen, når den er billigst. Der gives konkrete råd som at bruge mikroovn eller airfryer frem for ovn, tage kortere bade, vælge det rigtige vaskeprogram, skrue lige højt op på radiatorer og slukke for vandet når man sæber sig ind. Derudover opfordres til at slukke for unødvendigt strømforbrug og bruge radio til baggrundslyd i stedet for skærme. Man kan også se en oversigt over, hvordan apparater bruger strøm derhjemme, få inspiration fra andre hjem og læse om aktuelle tilskudsordninger. Energistyrelsens hjemmeside, SparEnergi.dk, giver også mulighed for at finde information om at renovere bolig, skifte varmetype samt tilmelde sig nyhedsbrevet. Siden indeholder desuden en tilgængelighedserklæring for SparEnergi.dk.",
+    "meta": {
+        "id": 14645951123724900562,
+        "url": "https://old.sparenergi.dk/forbruger/el/dit-elforbrug/typisk-elforbrug",
+        "title": "Typisk elforbrug",
+        "time_requested": "2024-04-16T11:56:28.518101",
+        "error": null,
+        "num_tokens_in": 2477,
+        "num_tokens_out": 311,
+        "estimated_input_cost_gpt4": 0.02477,
+        "estimated_output_cost_gpt4": 0.00933,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

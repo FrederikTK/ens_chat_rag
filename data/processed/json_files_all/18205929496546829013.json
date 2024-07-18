@@ -1,0 +1,15 @@
+{
+    "text": "Energiforbruget i den offentlige sektor i Danmark er underlagt ambitiøse målsætninger for energieffektivisering. Ifølge Energieffektiviseringsdirektivet skal den statslige forvaltnings bygningsmasse energieffektivisere med 42.480 MWh fra 2020 til 2030. Dertil skal statslige institutioner, som ikke er omfattet af dette direktiv, reducere deres energiforbrug med 10% i 2030 i forhold til 2020-niveauet. Energimærket bruges som en indikator for bygningernes energitilstand og forbrug. Data fra 2022 viser udviklingen i el-, varme- og vandforbrug siden 2017, hvor forbruget er graddage-korrigeret. Der er oplysninger om varmeforbrug, el-forbrug, fjernkøling og vandforbrug. Ministeriernes vand- og energiforbrug samt udviklingen i forbruget er også tilgængelig. Dataene er indberettet af institutionerne og udgør en del af datagrundlaget for en årlig orientering af Folketinget om statens energiforbrug. Energistyrelsen understreger vigtigheden af at nedbringe energiforbruget, hvor det offentlige forventes at gå forrest med energibesparelser. Man kan læse mere om de specifikke målsætninger og den overordnede indsats på Energistyrelsens hjemmeside.",
+    "meta": {
+        "id": 18205929496546829013,
+        "url": "https://sparenergi.dk/offentlig/vaerktoejer/offentligt-energiforbrug",
+        "title": "Site under opdatering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:50:27.152460",
+        "error": null,
+        "num_tokens_in": 1876,
+        "num_tokens_out": 376,
+        "estimated_input_cost_gpt4": 0.018760000000000002,
+        "estimated_output_cost_gpt4": 0.01128,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

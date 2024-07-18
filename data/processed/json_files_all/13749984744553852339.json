@@ -1,0 +1,15 @@
+{
+    "text": "Informationen omhandler ydervæggene i bindingsværkshuse. Ydervæggene består af træbindingsværk med mursten eller andet materiale imellem træet, kaldet tavl. Træet i væggene er typisk eg eller fyr, og bindingsværket består af lodrette stolper med vandrette remme og skråt tømmer ved hjørnerne for stabilitet. Ydervæggene kan være kalkede i samme farve som tavlene på Sjælland, mens de på Fyn og i Jylland ofte er malet i en kontrastfarve som sort, mørkebrun, grøn, blå eller rød. Tavl kan være lavet af lerklinede grene, ubrændte mursten eller brændte mursten.\n\nFor at bevare bindingsværket synligt anbefales det ikke at efterisolere udvendigt, men derimod indvendigt. Det er vigtigt at vedligeholde træværket for at undgå nedbrydning af fugt og solskader. Malinger og puds på tavlene bør være diffusionsåbne for at undgå problemer med fugt og skimmel. Vedligeholdelse af bindingsværkshusets ydervægge involverer reparation af revner, beskyttelse mod fugt, kalkning, og isolering. Indvendig isolering anbefales, men den bør udføres korrekt for at undgå skimmelproblemer.\n\nYderligere information om vedligeholdelse og forbedringer af ydervæggene i bindingsværkshuse samt cases om energirenoveringer af bindingsværkshuse er også tilgængelige på Energistyrelsens hjemmeside.",
+    "meta": {
+        "id": 13749984744553852339,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/bygningsguiden/bindingsvaerkshus/ydervaegge",
+        "title": "Ydervægge | Energistyrelsen",
+        "time_requested": "2024-04-16T11:58:04.784834",
+        "error": null,
+        "num_tokens_in": 4673,
+        "num_tokens_out": 430,
+        "estimated_input_cost_gpt4": 0.04673,
+        "estimated_output_cost_gpt4": 0.0129,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

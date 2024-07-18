@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om energimærkning af emhætter for forbrugere. Emhætter har energimærker fra A+++ til D, hvor A+++ er bedst, og viser energieffektivitet samt årligt energiforbrug. Anbefalinger inkluderer at vælge en emhætte med klasse A eller A+, klasse B eller bedre i fedtfiltrering, samt overveje lydniveauet, som kan variere fra 50 dB til 70 dB. Energimærkningsordningen er obligatorisk og kontrolleres af Sikkerhedsstyrelsen for at sikre overholdelse af energikrav. Opdateret info kan findes på Energistyrelsens hjemmeside.",
+    "meta": {
+        "id": 11106273196006833103,
+        "url": "https://sparenergi.dk/forbruger/el/madlavning/energimaerkning-af-emhaetter",
+        "title": "Energimærkning af emhætter | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:31.671791",
+        "error": null,
+        "num_tokens_in": 1342,
+        "num_tokens_out": 178,
+        "estimated_input_cost_gpt4": 0.013420000000000001,
+        "estimated_output_cost_gpt4": 0.00534,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

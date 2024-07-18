@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information og vejledning om energimærkning af bygninger, herunder fokus på døre og vinduer. En del af indholdet omhandler hvordan man kan tjekke om ens døre og vinduer trænger til renovering eller udskiftning. Man kan søge tilskud til at skifte vinduer og døre eller forbedre 1-lags vinduer. Der gives også vejledning omkring termoruder eller energiruder, hvordan man kan tjekke om et vindue har energirude samt hvordan man skifter ruder i termovinduer. Desuden rådes det til at tætne vinduer med tætningslister, og hvis det ikke fjerner trækken, kan det være nødvendigt at reparere eller udskifte vinduerne. Der er også information om forsatsrammer, og hvordan man energiforbedrer vinduer med forsatsrammer. Samtidig gives der råd om hvordan man redder ældre vinduer med maling og udskiftning af bundstykker. Yderligere information om isolering af brevsprækker og udskiftning af yderdøre samt råd om hvordan man kan lukke og isolere sin brevsprække findes også på hjemmesiden. Energistyrelsens vejledning omfatter også tætning af døre med tætningslister og behovet for at reparere eller udskifte døre, hvis de er skæve eller udtjente. Derudover gives der information om isolering og udskiftning af brevsprækker i døre. Energistyrelsens hjemmeside inkluderer diverse links og guides til yderligere information om energibesparelser og renoveringer, samt muligheden for at finde håndværkere via Håndværkerlisten.",
+    "meta": {
+        "id": 623574833367716952,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/goer-det-selv-guides/doere-og-vinduer",
+        "title": "Døre og vinduer | Energistyrelsen",
+        "time_requested": "2024-04-16T11:57:21.031145",
+        "error": null,
+        "num_tokens_in": 3724,
+        "num_tokens_out": 429,
+        "estimated_input_cost_gpt4": 0.03724,
+        "estimated_output_cost_gpt4": 0.01287,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

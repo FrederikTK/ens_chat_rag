@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en låneberegner på deres hjemmeside, som kan hjælpe forbrugere med at beregne deres lån i forbindelse med energirenoveringer. Låneberegneren kræver oplysninger om lånebeløb, besparelse på energiregningen og ønsket løbetid, og derefter beregner den, hvor lang tid det vil tage at tilbagebetale lånet. Man kan vælge mellem løbetider på 5, 10, 15, 20, 25 eller 30 år. Energistyrelsen oplyser også om kontaktoplysninger og andre brugbare værktøjer på deres hjemmeside, herunder information om energimærkning af bygninger, renovation, tilskud, isolering, vinduer, ventilation, varme og andre energiløsninger. Energistyrelsen har en sektion for forbrugere, offentlige aktører og erhverv, hvor man kan finde relevant information og vejledning. Energistyrelsen opfordrer brugerne til at tilmelde sig deres nyhedsmail for at få opdateringer om energibesparelser.",
+    "meta": {
+        "id": 4522496576506290014,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/laaneberegner",
+        "title": "Låneberegner | Energistyrelsen",
+        "time_requested": "2024-04-16T11:53:46.369923",
+        "error": null,
+        "num_tokens_in": 1062,
+        "num_tokens_out": 279,
+        "estimated_input_cost_gpt4": 0.010620000000000001,
+        "estimated_output_cost_gpt4": 0.00837,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

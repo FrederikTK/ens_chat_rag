@@ -1,0 +1,15 @@
+{
+    "text": "Resumé:\nBygningspuljen er lukket for nye ansøgninger. For dem, der allerede har søgt, er der stadig en proces, der skal følges for at opnå tilskud. Anmodninger om udbetaling kan være forsinket pga. manglende information på fakturaer og dokumenter. Der kan være ventetid på op til 6 måneder fra indsendelse af udbetalingsanmodning til sagsbehandling. Man må ikke påbegynde projekter før tilsagn om tilskud er modtaget. Der er forskellige krav og processer, man skal følge, når man får tilsagn, herunder at gennemføre projektet inden for 2 år og søge om udbetaling senest 30 dage efter projektets færdiggørelse. Der er også krav til dokumentation på fakturaer og betalingsbilag. Hvis der opstår problemer, er der forskellige støttemuligheder og kontaktinformationer tilgængelige.",
+    "meta": {
+        "id": 89252022331579706,
+        "url": "https://sparenergi.dk/har-du-allerede-soegt-tilskud-bygningspuljen",
+        "title": "Har du allerede søgt tilskud via Bygningspuljen? | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:13.365272",
+        "error": null,
+        "num_tokens_in": 3322,
+        "num_tokens_out": 250,
+        "estimated_input_cost_gpt4": 0.03322,
+        "estimated_output_cost_gpt4": 0.007500000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

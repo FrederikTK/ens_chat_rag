@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen deler information om varmepumper på deres hjemmeside. En varmepumpe flytter energi fra udeluft eller jorden til opvarmningssystemet i dit hus. Elnettet i Danmark bliver udbygget i takt med behovet for varmepumper og elbiler. Varmepumpen fungerer ved at tage varme fra omgivelserne og overføre den til radiatorer, gulvvarme eller som varm luft. Varmebehovet kan dækkes af en varmepumpe med en elpatron, der aktiveres, hvis varmepumpen ikke kan følge behovet. Effektiviteten af en varmepumpe angives ved SCOP (Seasonal Coefficient of Performance), hvor en høj værdi betyder større effektivitet. Det anbefales at vælge en varmepumpe med et godt energimærke og få den korrekt dimensioneret, installeret og indstillet for optimal effektivitet. Energistyrelsen oplyser om energikrav til varmepumper i Bygningsreglementet og tilbyder en liste over energieffektive varmepumper. Man bør kontakte en VE-godkendt installatør for at finde den rette varmepumpe til ens behov.",
+    "meta": {
+        "id": 5770576992104584019,
+        "url": "https://old.sparenergi.dk/forbruger/varme/varmepumpe/fakta-om-varmepumper",
+        "title": "Fakta om varmepumper | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:07.990793",
+        "error": null,
+        "num_tokens_in": 2681,
+        "num_tokens_out": 319,
+        "estimated_input_cost_gpt4": 0.02681,
+        "estimated_output_cost_gpt4": 0.00957,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

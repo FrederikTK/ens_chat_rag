@@ -1,0 +1,15 @@
+{
+    "text": "Energiansvarlig i byggebranchen har til formål at optimere energiforbruget på byggepladsen gennem planlægning, styring og opfølgning. Energiforbruget under opførelsen af bygninger svarer normalt til 2-4 års fremtidigt varmeforbrug og udgør typisk 0,5-1,5 % af byggesummen. Opvarmning og udtørring er de områder, der sluger mest energi, ca. 80 % af byggeprocessens samlede energiforbrug. Afregningsformer som dokumenteret forbrug, fast pris og fælles incitament kan være effektive i at optimere energiforbruget under opførelsen af bygninger. Energiansvarlige bør integrere energiledelse som en naturlig del af byggepladsledelsen og bruge energiregnskaber til at synliggøre resultaterne af energiarbejdet i byggeprocessen. Der er også gode råd såsom at bruge varmepumper i skurvogne, tætne mellem skurvogne, og vælge velisoleret pavilloner for at spare energi og opnå bedre komfort på byggepladsen.",
+    "meta": {
+        "id": 13533194533330592206,
+        "url": "https://sparenergi.dk/erhverv/byggeri/energiansvarlig",
+        "title": "Energiansvarlig | Energistyrelsen",
+        "time_requested": "2024-04-16T11:58:15.092836",
+        "error": null,
+        "num_tokens_in": 6051,
+        "num_tokens_out": 317,
+        "estimated_input_cost_gpt4": 0.06051000000000001,
+        "estimated_output_cost_gpt4": 0.009510000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

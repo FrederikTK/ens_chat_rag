@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen beskriver, hvordan man kan spare energi, når man vasker tøj. Nogle gode vaner inkluderer at springe en vask over, vaske ved lavere temperaturer, fylde maskinen helt op, vælge det rigtige vaskeprogram og undgå forvask og kogevask. Det anbefales at vaske, når strømmen er billigst, og det oplyses, at det kan være billigere at vaske om natten, selv med fast pris på el. Artiklen nævner også, at det kan betale sig at reparere hvidevarer frem for at udskifte dem, og giver eksempler på reservedele, man selv kan skifte. Når man skal købe nyt, opfordres man til at kigge efter energimærke, vandforbrug og elforbrug. Der gives råd om ikke at købe en større vaskemaskine end nødvendigt, undgå kombimaskiner og regne på hele prisen for at vurdere en vaskemaskines totaløkonomi. Der gives også en liste over ting man selv kan skifte i vaskemaskinen og råd om standbyforbrug og smart styring. Til sidst opfordres man til at korrekt bortskaffe gamle vaskemaskiner og tørretumblere.",
+    "meta": {
+        "id": 3808057853674360105,
+        "url": "https://sparenergi.dk/forbruger/el/vask-og-rengoering/vaskemaskiner",
+        "title": "Vaskemaskiner | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:32.125020",
+        "error": null,
+        "num_tokens_in": 2875,
+        "num_tokens_out": 321,
+        "estimated_input_cost_gpt4": 0.02875,
+        "estimated_output_cost_gpt4": 0.00963,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

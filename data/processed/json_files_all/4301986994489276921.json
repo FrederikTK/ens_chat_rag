@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om energibesparelser inden for IT og elektronik til forbrugere. De oplyser om at vælge energivenligt IT-udstyr, slukke for tv'et på kontakten og vælge en bærbar computer frem for en stationær. Desuden informerer de om streaming vaner, standbyforbrug og elforbrug for forskellige elektroniske apparater. Energistyrelsen har også en beregner, hvor forbrugere kan estimere elforbruget og omkostningerne forbundet med brugen af forskellige IT- og elektronikapparater baseret på deres forbrug og den aktuelle elpris. Man kan finde flere gode råd om IT og elektronik på vores hjemmeside.",
+    "meta": {
+        "id": 4301986994489276921,
+        "url": "https://sparenergi.dk/forbruger/el/it-og-elektronik",
+        "title": "It og elektronik | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:19.682221",
+        "error": null,
+        "num_tokens_in": 1772,
+        "num_tokens_out": 189,
+        "estimated_input_cost_gpt4": 0.017720000000000003,
+        "estimated_output_cost_gpt4": 0.0056700000000000006,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

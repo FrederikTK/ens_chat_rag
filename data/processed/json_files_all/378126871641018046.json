@@ -1,0 +1,15 @@
+{
+    "text": "Energieffektiv ventilation er afgørende for at optimere elforbruget i en bygning, da 10-40 % af bygningens elforbrug typisk går til ventilation. For at undgå unødvendigt elforbrug anbefales det at have det rigtige ventilationsanlæg og en energieffektiv drift. En effektiv drift af ventilationsanlægget er afgørende for at undgå unødvendigt elforbrug og ekstra omkostninger. Det anbefales at tilpasse ventilationen efter bygningens reelle behov og indgå en serviceaftale for at sikre, at ventilationsanlægget kører optimalt og sparer energi. Det anbefales at få gennemgået ventilationsanlægget efter en tjekliste for ventilation for at sikre, at det kører efter best practice.\n\nNøgletal såsom SFP, elforbrug pr. m2, luftmængder, tryktab, temperaturer, varmegenvinding og driftstidens indstillinger er vigtige at holde øje med for at sikre, at ventilationsanlægget kører energieffektivt. Det anbefales at tilpasse luftmængden til behovet, begrænse driftstiden, sætte temperaturen lavere end rummets temperatur, køle med friskluft, rengøre ventilationsanlægget regelmæssigt og tilpasse armaturer for at undgå træk og dårlig lugt.\n\nVed renovering af ventilationsanlægget er der ofte mulighed for store besparelser ved f.eks. udskiftning til mere effektive ventilatorer og etablering af varmegenvinding. Energimærkning af bygninger kan give relevante anbefalinger til energioptimering af ventilationsanlæg. En tjekliste for ventilation kan hjælpe med at sikre, at anlægget gennemgås grundigt, og vejledninger kan hjælpe med planlægning af større renoveringer.\n\nVed etablering af et nyt ventilationsanlæg anbefales det at vælge et VAV-anlæg med frekvensomformer for at opnå elbesparelser på 40 % eller derover. Det anbefales at bruge Energistyrelsens kravspecifikationer til at sikre valg af et energieffektivt ventilationsanlæg. Husk at et nyt ventilationsanlæg skal minimum leve op til bygningsreglementets krav. Endelig anbefales det at vælge et ventilationsfirma fra Foreningen af ventilationsfirmaer (FAV) til at udføre løsningen.",
+    "meta": {
+        "id": 378126871641018046,
+        "url": "https://sparenergi.dk/offentlig/varme-og-koling/ventilation",
+        "title": "Ventilation | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:38.152482",
+        "error": null,
+        "num_tokens_in": 2458,
+        "num_tokens_out": 671,
+        "estimated_input_cost_gpt4": 0.02458,
+        "estimated_output_cost_gpt4": 0.020130000000000002,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

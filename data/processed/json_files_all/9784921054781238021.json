@@ -1,0 +1,15 @@
+{
+    "text": "\"Energistyrelsens Bygningsguide\" er et værktøj til forbrugere, som ønsker at energirenovere deres bolig. Guiden indeholder information om de mest almindelige hustyper i Danmark samt hvordan man opnår en energieffektiv, sund og moderne bolig. Ved at følge guiden kan man få indsigt i, hvordan man energiforbedrer sin bolig med hensyntagen til husets arkitektur og økonomiske forhold. En energirenoveret bolig vil bruge mindre varme, forbedre indeklimaet og opnå en bedre energimærkning, hvilket øger boligens værdi. Bygningsguiden omhandler bl.a. bindingsværkshuse, patriciervillaer, funkisvillaer, bungalows, parcelhuse mv. Energistyrelsens Bygningsguide er tilgængelig på SparEnergi.dk og er et nyttigt redskab for boligejere, der ønsker at gøre deres bolig mere energieffektiv og værdifuld.",
+    "meta": {
+        "id": 9784921054781238021,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/bygningsguiden",
+        "title": "Bygningsguiden | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:58.264453",
+        "error": null,
+        "num_tokens_in": 1297,
+        "num_tokens_out": 257,
+        "estimated_input_cost_gpt4": 0.01297,
+        "estimated_output_cost_gpt4": 0.00771,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

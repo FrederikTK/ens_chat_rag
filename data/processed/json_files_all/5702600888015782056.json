@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside SparEnergi.dk tilbyder information om energimærkning af bygninger og energiforbrug. Hjemmesiden er inddelt i sektioner for forbrugere, offentlige instanser og erhvervslivet. Under sektionen for forbrugere kan man finde information om energimærkning af boliger, isolering, vinduer, ventilation, varmeforbrug, varmekilder som naturgas, fjernvarme, varmepumper, elvarme, træpiller og solvarme, samt energimærkning af varmeanlæg og apparater. Der er også information om elforbrug, elpriser og energieffektive apparater som belysning, køle- og fryseapparater, vaskemaskiner, madlavningsudstyr, IT- og elektronikprodukter, solceller, vindmøller og standbyforbrug.\n\nFor offentlige bygninger findes der oplysninger om energimærkning, renovering, nybyggeri, isolering, vinduer, energirådgivning, opvarmning og ventilation, samt belysning og IT-udstyr. Erhvervssektionen inkluderer information om energiledelse, energiforbrug i forskellige brancher som engros, hotel og restauration, kontor, industriel produktion, handel og service samt landbrug. Der er også oplysninger om energimærkning af bygninger, energiløsninger og en liste over godkendte håndværkere og VE-virksomheder. Man kan også finde nyttige værktøjer som varmepumpelisten, låneberegner, apparatberegner og elforbrugsberegner på hjemmesiden.\n\nEnergistyrelsens adresse er Carsten Niebuhrs Gade 43, 1577 København V, og hjemmesiden er www.ens.dk. Man kan abonnere på nyhedsmailen for at modtage opdateringer om energibesparelser og -initiativer.",
+    "meta": {
+        "id": 5702600888015782056,
+        "url": "https://sparenergi.dk/forbruger/el",
+        "title": "El | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:28.685337",
+        "error": null,
+        "num_tokens_in": 935,
+        "num_tokens_out": 493,
+        "estimated_input_cost_gpt4": 0.00935,
+        "estimated_output_cost_gpt4": 0.014790000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

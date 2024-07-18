@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om energimærkning af fjernsyn og computerskærme. Energimærkningen viser forbrugerne, hvor meget strøm et tv eller en computerskærm bruger om året. Jo større skærmen er, desto højere er elforbruget. For eksempel bruger et 65” TV dobbelt så meget strøm som et tilsvarende 43”. Energimærkerne rangeres fra A til G, hvor A er bedst. Et tv med energimærke A+ (gammel ordning) kan koste op mod 200 kr. om året i strøm, mens det med C (ny ordning) kan koste 95 kr. En computerskærm med energimærke G (ny ordning) kan koste 70 kr. om året i strøm, mens en med D (også ny ordning) kan koste 35 kr. Energistyrelsen opfordrer forbrugerne til at regne på totaløkonomien før køb, hvilket indebærer at sammenligne de samlede udgifter til både indkøb og brug i hele apparatets levetid. Energistyrelsen kontrollerer energimærkningen, og andre mærker, som Blomsten og Svanen, kan også findes på tv'er og computerskærme. Energistyrelsen opfordrer forbrugerne til at være opmærksomme på disse energimærkningsordninger og miljømærker.",
+    "meta": {
+        "id": 17845939508083016987,
+        "url": "https://sparenergi.dk/forbruger/el/tv-og-underholdning/tv-apparater/energimaerkning-af-tv-apparater",
+        "title": "Energimærkning af fjernsyn og computerskærme | Energistyrelsen",
+        "time_requested": "2024-04-16T11:49:32.640752",
+        "error": null,
+        "num_tokens_in": 1611,
+        "num_tokens_out": 357,
+        "estimated_input_cost_gpt4": 0.016110000000000003,
+        "estimated_output_cost_gpt4": 0.01071,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

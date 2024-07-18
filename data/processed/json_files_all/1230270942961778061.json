@@ -1,0 +1,15 @@
+{
+    "text": "På hjemmesiden Sparenergi.dk kan man finde information om energimærkning af bygninger opdelt i kategorierne forbruger, offentlig og erhverv. Under forbrugersektionen kan man finde information om energimærkning af boliger, isolering, vinduer, ventilation, intelligente styringssystemer, forskellige varmekilder og energimærkning af varmeanlæg. Der er også information om elforbrug, elpriser, energimærkning af elektriske apparater og energiløsninger som solceller og vindmøller. Under offentlig sektionen findes information om energimærkning af offentlige bygninger, ESCO, energirådgivning, opvarmning, køling, ventilation, belysning og IT. Erhvervssektionen indeholder information om energiledelse, energioptimering i industrien, ventilation, belysning, energimærkning af bygninger i landbrug og information specifik for forskellige typer virksomheder som hoteller, restauranter, kontorer, byggefirmaer og industri. Der er også værktøjer og materialer til download på hjemmesiden, som fx vejledninger, brochurer, rapporter og værktøjer om energiledelse, energieffektivitet og intelligente bygninger. Udvalget af materialer inkluderer blandt andet en ansøgervejledning til udbetaling af tilskud til energiforbedringsprojekter i kommunale og regionale bygninger, erfaringer om energiledelse på hospitaler, en FAQ om intelligente bygninger og en rapport om energiscreening af ventilation i landbrug. Hjemmesiden oplyser, at de er ved at lancere et nyt site, og at man skal rydde sin browsercache for at få adgang til det nye site. Kontaktoplysninger til Energistyrelsen er også tilgængelige på hjemmesiden.",
+    "meta": {
+        "id": 1230270942961778061,
+        "url": "https://sparenergi.dk/forbruger/materialer",
+        "title": "Materialer - Sparenergi.dk",
+        "time_requested": "2024-04-16T11:49:47.735378",
+        "error": null,
+        "num_tokens_in": 1208,
+        "num_tokens_out": 469,
+        "estimated_input_cost_gpt4": 0.01208,
+        "estimated_output_cost_gpt4": 0.014070000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

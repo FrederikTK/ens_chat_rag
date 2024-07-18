@@ -1,0 +1,15 @@
+{
+    "text": "Energimærkning af bygninger er et vigtigt redskab, der viser, hvor meget energi en bygning bruger, samt hvilke energiforbedringer der kan være relevante for at optimere energiforbruget. Offentlige bygninger med et etageareal på 60-250 m² skal have en energimærkning ved salg og udlejning, mens bygninger over 250 m² altid skal have en gyldig energimærkning, medmindre de er undtaget. Energimærkningen vises på en skala fra A til G, hvor A angiver det laveste energiforbrug og G det højeste. De bedste lavenergibygninger kan opnå karaktererne A2015 og A2020. Energimærkningsrapporten har fået et nyt format siden 2021, der skal skabe flere konkrete energiforbedringer ved at vise, hvor det kan være mest relevant at energioptimere, hvilke gevinster der er for økonomi og klima, samt hvordan det kan gøres. Alle offentlige bygninger, herunder også nyopførte bygninger, skal energimærkes, før de tages i brug eller meldes færdige. Bygningens energimærke skal være synligt for brugerne og skal også offentliggøres på ministeriernes hjemmesider. Energimærket udløber efter 10 år, og det er vigtigt at forny mærket inden denne periode. Energimærkningen kan bruges som et redskab til at undersøge, hvordan man kan opnå en mere energieffektiv bygning og reducere varmeregningen. Ved salg eller udlejning af mere end 25% af en bygning skal der energimærkes med beregnet forbrug. Energimærkningen kan bidrage til at få indsigt i bygningens energieffektivitet og facilitere energirenoveringsprojekter. Der kan også være mulighed for tilskud til energimærkning i forbindelse med energirenoveringer.",
+    "meta": {
+        "id": 11334188797033850939,
+        "url": "https://sparenergi.dk/offentlig/bygninger/energimaerkning-af-bygninger",
+        "title": "Energimærkning af bygninger | Energistyrelsen",
+        "time_requested": "2024-04-16T11:52:35.499538",
+        "error": null,
+        "num_tokens_in": 1230,
+        "num_tokens_out": 507,
+        "estimated_input_cost_gpt4": 0.0123,
+        "estimated_output_cost_gpt4": 0.01521,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

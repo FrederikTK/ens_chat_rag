@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder et værktøj kaldet \"Find dit energimærke\", hvor ejere af bygninger kan indtaste deres adresse for at finde ud af, hvor energieffektivt deres hus er. Ved at finde energimærket kan man undersøge, hvordan man kan opnå en mindre varmeregning og et mere energieffektivt hus. Værktøjet lader brugeren indtaste sin adresse og derefter finde energimærket på bygningen. Energistyrelsen oplyser, at de passer godt på brugernes data og tilbyder også en nyhedsmail til interesserede.",
+    "meta": {
+        "id": 8386651587657262160,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/find-dit-energimaerke",
+        "title": "Find boligens energimærke | Energistyrelsen",
+        "time_requested": "2024-04-16T11:47:39.159907",
+        "error": null,
+        "num_tokens_in": 1036,
+        "num_tokens_out": 153,
+        "estimated_input_cost_gpt4": 0.010360000000000001,
+        "estimated_output_cost_gpt4": 0.00459,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder på deres hjemmeside \"SparEnergi\" en tjeneste, hvor man kan indtaste sin adresse og få gode råd til energioptimering i sin bolig. Man kan få de tre mest effektive råd til energioptimering baseret på ens adresse. Derudover tilbyder hjemmesiden muligheden for at sætte personlige sparemål, hvor man kan vælge forskellige energibesparende handlinger og se, hvor meget strøm, varme og CO2 man kan spare i sit hjem. Man kan også lave en aftale med sig selv eller sin familie for at nå disse mål. Energistyrelsen giver inspiration, viden og råd til, hvordan man opnår energibesparelser. Man kan også få gratis rådgivning på hjemmesiden. Energistyrelsen opfordrer også til at tilmelde sig deres nyhedsbrev og følge dem på Facebook.",
+    "meta": {
+        "id": 11291406981731223515,
+        "url": "https://sparenergi.dk/vores-energiaftale/profil-data?destination=/spar-energi-paa-din-maade&permission=1",
+        "title": "Vores energiaftale | Energistyrelsen",
+        "time_requested": "2024-04-16T11:50:38.644570",
+        "error": null,
+        "num_tokens_in": 363,
+        "num_tokens_out": 229,
+        "estimated_input_cost_gpt4": 0.0036300000000000004,
+        "estimated_output_cost_gpt4": 0.00687,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

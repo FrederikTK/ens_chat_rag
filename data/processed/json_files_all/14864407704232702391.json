@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder muligheden for at finde en rådgiver til energimærkning af bygninger via deres hjemmeside. Man kan vælge kriterier som postnummer, boligtype og branche for at finde relevante rådgivere. Der er en liste med 45 virksomheder, der alle tilbyder rådgivning inden for bygningsrenovering og energiforbedringer. Man kan se virksomhedernes kontaktoplysninger og sende dem en e-mail. Energistyrelsen opfordrer til at kontakte flere rådgivere og sammenligne deres tilbud for at træffe den bedste beslutning. Man kan også læse om energimærkning af varmeanlæg, biobrændselskedler, energikrav og tilskud. Der er desuden oplysninger om energiforbrug, varmetyper, energimærkning af apparater og energibesparelsesmuligheder inden for forbrug, offentlige bygninger og erhverv. Energistyrelsen har også diverse værktøjer og guider til forbrugere, virksomheder og bygningsejere.",
+    "meta": {
+        "id": 14864407704232702391,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/bedrebolig/find-en-raadgiver",
+        "title": "Find en rådgiver | Energistyrelsen",
+        "time_requested": "2024-04-16T11:50:32.292635",
+        "error": null,
+        "num_tokens_in": 1282,
+        "num_tokens_out": 286,
+        "estimated_input_cost_gpt4": 0.012820000000000002,
+        "estimated_output_cost_gpt4": 0.00858,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

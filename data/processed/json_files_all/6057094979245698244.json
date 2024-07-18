@@ -1,0 +1,15 @@
+{
+    "text": "API error: Error code: 429 - {'error': {'message': 'Request too large for gpt-3.5-turbo in organization org-pbjBzu83v0jiC0pn9YEHmyDU on tokens per min (TPM): Limit 60000, Requested 78701. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}",
+    "meta": {
+        "id": 6057094979245698244,
+        "url": "https://old.sparenergi.dk/product-list-pager-ajax?manufacturer%5B0%5D=10831&manufacturer%5B1%5D=10837&manufacturer%5B2%5D=10856&manufacturer%5B3%5D=10840&manufacturer%5B4%5D=10867&manufacturer%5B5%5D=10927&manufacturer%5B6%5D=10843&manufacturer%5B7%5D=10887&manufacturer%5B8%5D=10835&manufacturer%5B9%5D=10934&manufacturer%5B10%5D=10842&manufacturer%5B11%5D=10928&manufacturer%5B12%5D=10841&manufacturer%5B13%5D=10833&manufacturer%5B14%5D=10836&manufacturer%5B15%5D=10844&items_per_page=20&type=43&sort=1&power=6-12&sorting_option=6&manufacturers%5B0%5D=10831&manufacturers%5B1%5D=10837&manufacturers%5B2%5D=10856&manufacturers%5B3%5D=10840&manufacturers%5B4%5D=10867&manufacturers%5B5%5D=10927&manufacturers%5B6%5D=10843&manufacturers%5B7%5D=10887&manufacturers%5B8%5D=10835&manufacturers%5B9%5D=10934&manufacturers%5B10%5D=10842&manufacturers%5B11%5D=10928&manufacturers%5B12%5D=10841&manufacturers%5B13%5D=10833&manufacturers%5B14%5D=10836&manufacturers%5B15%5D=10844&max_pager_elements=5&page=1&items_per_page_show%5B10%5D=10&items_per_page_show%5B15%5D=15&items_per_page_show%5B20%5D=20&items_per_page_show%5B30%5D=30&items_per_page_show%5B40%5D=40&items_per_page_show%5BAll%5D=All&kw=9",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:52:07.777984",
+        "error": null,
+        "num_tokens_in": 112853,
+        "num_tokens_out": 117,
+        "estimated_input_cost_gpt4": 1.12853,
+        "estimated_output_cost_gpt4": 0.00351,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

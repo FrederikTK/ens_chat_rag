@@ -1,0 +1,15 @@
+{
+    "text": "Landhuset beskrives som typisk opført med stråtag indtil ca. 1900 og tegltag herefter. Det har bondehusvinduer, lav loftshøjde og fritlagte bjælker indendørs. Landhusene havde flere længer, afhængigt af familiens velstand. Op gennem 1800-tallet blev landhusene større med højere lofthøjde og nogle fik endda en 1. sal.\n\nEnergiforbrug:\nEnergiforbruget for landhuse er typisk mærket med energimærke F-G, eller C hvis de allerede er blevet energirenoveret. Mest betydningsfuldt for varmeregningen er klimaskærmen (tag, ydervægge, vinduer osv.) og opvarmningssystemet. Typiske forbedringer omfatter isolering af loft, ydervægge, udskiftning eller forbedring af vinduer, isolering af etageadskillelse og hulmursisolering. Tilskud er muligt for energiforbedringer såsom isolering og vinduer.\n\nInstallationer:\nNår klimaskærmen holder varmen inde, kan man se på opvarmningsformen og varmesystemet. Typiske forbedringer omfatter isolering af varme- og varmtvandsrør, installation af solcelleanlæg, udskiftning af cirkulationspumper og automatik på varmeanlægget samt udskiftning af olie- eller gaskedler. Tilskud er muligt for energiforbedringer såsom konvertering til varmepumpe.\n\nVaner:\nDer kan opnås energibesparelser ved at være opmærksom på energivaner såsom at skrue ned for varmen om natten og når man ikke er hjemme, korrekt indstilling af termostater og ved at følge simple spareråd.\n\nArkitekt:\nArkitekten kan hjælpe med at bevare landhusets stil under renovering og ombygning, fungere som støtte på det kreative plan, forhandle med håndværkere, træffe de rette beslutninger og sikre mod byggesjusk. Ved større renoveringer anbefales det at benytte en rådgiver.\n\nGenerelt omhuset:\nLandhuset blev bygget fra ca. 1850 til 1920 med murede vægge og sadeltag med hældning. Oprindeligt var der ofte kun et køkken og senere blev bad og toilet installeret. Opvarmning skete via brændeovne eller kakkelovne, og senere blev der installeret centralvarme med oliekedel. Typisk havde landhusene små bondehusvinduer med ét lag glas. Mange landhuse har fået strøm siden 1950'erne. Landhusene er overalt uden for større byer og kan have ændrede vindforhold og vandstande på grund af klimaforandringer.\n\nFor yderligere information om landhuset og renovering, kan man besøge energistyrelsens hjemmeside.",
+    "meta": {
+        "id": 18103947078424379571,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/bygningsguiden/landhus",
+        "title": "Landhus | Energistyrelsen",
+        "time_requested": "2024-04-16T11:53:10.290054",
+        "error": null,
+        "num_tokens_in": 8250,
+        "num_tokens_out": 761,
+        "estimated_input_cost_gpt4": 0.0825,
+        "estimated_output_cost_gpt4": 0.02283,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

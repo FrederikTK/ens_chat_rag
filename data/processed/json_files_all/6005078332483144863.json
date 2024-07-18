@@ -1,0 +1,15 @@
+{
+    "text": "Tro og loveerklæring ved ansøgning om tilskud er en formular udgivet af Energistyrelsen, der skal udfyldes ved ansøgning om tilskud til gennemførelse af energiforbedringsprojekter i bygninger til helårsbeboelse (Bygningspuljen). Formularen skal udfyldes af ansøgeren, hvis denne søger på vegne af andre. Hvis man selv ejer bygningen, skal erklæringen udfyldes i ansøgningsportalen. Formularen kan downloades i DOCX-format og indeholder to sider. Energistyrelsen er placeret på adressen Carsten Niebuhrs Gade 43 i København V. Derudover oplyses det, at der kan forekomme tekniske problemer på SparEnergi.dk, og at man skal rydde sin cache i browserhistorikken for at komme til det nye site.",
+    "meta": {
+        "id": 6005078332483144863,
+        "url": "https://old.sparenergi.dk/forbruger/materialer/tro-og-loveerklaering-ved-ansogning-om-tilskud",
+        "title": "Tro og loveerklæring ved ansøgning om tilskud",
+        "time_requested": "2024-04-16T11:54:15.110147",
+        "error": null,
+        "num_tokens_in": 944,
+        "num_tokens_out": 223,
+        "estimated_input_cost_gpt4": 0.00944,
+        "estimated_output_cost_gpt4": 0.00669,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

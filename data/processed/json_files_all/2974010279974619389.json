@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder råd og vejledning om energioptimering på ens adresse. Et ventilationsanlæg anbefales til velisolerede og tætte huse for at sikre frisk luft og genbrug af varme. Der gives information om forskellige ventilationstyper som mekanisk ventilation, hybridventilation og boligventilationsvarmepumpe. Fordele inkluderer frisk luft uden varmetab, mindre varmeregning, fjernelse af pollen og fugt samt positiv effekt på klimaet. Installering kræver et uudnyttet loftsrum og er bedst egnet til 1-planshuse. Der er også detaljer om lovkriterier for ventilationsanlæg samt trin-for-trin instruktioner til installation og vedligeholdelse. En video viser processen. Der tilbydes også en liste over håndværkere og information om andre former for husrenoveringer.",
+    "meta": {
+        "id": 2974010279974619389,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/energiloesninger/boligventilationsvarmepumpe",
+        "title": "Boligventilationsvarmepumpe",
+        "time_requested": "2024-04-16T11:56:27.333247",
+        "error": null,
+        "num_tokens_in": 3227,
+        "num_tokens_out": 230,
+        "estimated_input_cost_gpt4": 0.03227,
+        "estimated_output_cost_gpt4": 0.0069,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

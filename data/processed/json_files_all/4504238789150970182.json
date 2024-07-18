@@ -1,0 +1,15 @@
+{
+    "text": "På SparEnergi's hjemmeside findes en guide til at skifte fjernvarmeanlæg. Hvis fjernvarmeanlægget er fra før ca. 1990 eller ikke har automatisk styring, anbefales det at skifte det ud for at opnå energibesparelser, spare penge og forbedre indeklimaet. En ny fjernvarmeinstallation giver bedre indeklima, reducerer CO2-udledningen, kræver minimal vedligeholdelse og har en lang levetid på ca. 25 år. En moderne fjernvarmeunit er også mindre og pænere at se på end gamle løsninger. Installationen bør opfylde Bygningsreglementets krav, og der er krav om en afprøvning af anlægget for at sikre korrekt funktion. Processen indebærer at vælge en passende løsning i samarbejde med en håndværker, installere løsningen korrekt i boligen og sikre, at den bliver vedligeholdt jævnligt. Det anbefales at finde en godkendt installatør og at sikre, at installationen opfylder relevante standarder. Der er også råd om at kontakte fjernvarmeselskabet for at overholde deres krav. Endvidere er der information om eftersyn, selv eftersynsmuligheder og vejligning til håndværkeren for at sikre den bedste løsning. Der gives også tips til at optimere driften af fjernvarmeanlægget og information om forskellige varmeløsninger og energibesparelser.",
+    "meta": {
+        "id": 4504238789150970182,
+        "url": "https://sparenergi.dk/privat/tid-til-skifte-varmetype/tid-til-en-ny-fjernvarmeinstallation",
+        "title": "Skift fjernvarmeanlæg",
+        "time_requested": "2024-04-16T11:59:36.330482",
+        "error": null,
+        "num_tokens_in": 2318,
+        "num_tokens_out": 401,
+        "estimated_input_cost_gpt4": 0.023180000000000003,
+        "estimated_output_cost_gpt4": 0.01203,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

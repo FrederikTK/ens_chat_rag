@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen handler om energioptimering af ydervægge i bygninger. Hvis man renoverer eller skifter ydervægge, er der krav i Bygningsreglementet om efterisolering for at gøre det mere energieffektivt. Hvis efterisolering er rentabelt, har man pligt til at efterisolere. Kravene varierer afhængigt af tykkelsen på den eksisterende isolering og konstruktionen af væggen. Der gives eksempler på typer af ydervægge og anbefalinger til isoleringstykkelse. For eksempel kræver typisk Bygningsreglementet ca. 250 mm isolering eller en U-værdi på højst 0,18 W/m2K for at leve op til kravene. Der gives også konkrete råd om, hvordan man kan efterisolere ydervægge indefra eller udefra afhængigt af væggens materiale. Hvis man udskifter hele ydervæggen, skal den nye konstruktion også isoleres korrekt for at opfylde Bygningsreglementets krav. Der er også krav til vinduer og døre i forbindelse med udskiftning af ydervægge. Artiklen opfordrer til at bruge fagfolk for at sikre korrekt efterisolering og opfyldelse af reglerne.",
+    "meta": {
+        "id": 10882744695379831620,
+        "url": "https://sparenergi.dk/privat/bygningsreglementets-energikrav/ydervaegge",
+        "title": "Ydervægge",
+        "time_requested": "2024-04-16T11:51:35.598273",
+        "error": null,
+        "num_tokens_in": 2843,
+        "num_tokens_out": 339,
+        "estimated_input_cost_gpt4": 0.028430000000000004,
+        "estimated_output_cost_gpt4": 0.01017,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

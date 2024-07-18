@@ -1,0 +1,15 @@
+{
+    "text": "På Energistyrelsens hjemmeside SparEnergi.dk kan man finde information om, hvordan man kan isolere tunge ydervægge for at spare energi i boligen. Hvis murstens- eller betonydervægge har mindre end 25 mm isolering, anbefales det at isolere bedre for at reducere varmeregningen og skabe et mere behageligt indeklima. En overslag viser, at man kan spare omkring 4.490 kr. om året ved at isolere tung ydervæg, enten indefra eller udefra. Der gives også informatiom om, hvor meget isolering der normalt skal sættes på forskellige ydervægstyper for at overholde Bygningsreglementets krav.\n\nIsolering af ydervægge giver både et bedre indeklima, lavere varmeregning og øger boligens værdi. Der nævnes dog også nogle overvejelser, man skal være opmærksom på, såsom ændringer i husets udseende og eventuelle konsekvenser for tagkonstruktionen. Det anbefales at bruge fagfolk for at undgå problemer med råd og svamp samt for at sikre korrekt udførelse af isoleringsarbejdet.\n\nDer gives også praktisk information om, hvordan isoleringsprocessen foregår, herunder forberedelse af væggen, installation af ekstra isolering og efterfølgende pudsning af facaden. Der opfordres til at konsultere professionelle håndværkere med erfaring i isoleringsarbejde og til at følge en vejledning for at sikre korrekt udførelse af arbejdet. Derudover opfordres til at isolere soklen samtidig med isolering af væggene for at opnå det bedste resultat.\n\nEndelig gives der også gode råd om at være opmærksom på lokalplaner, vælge en passende isoleringstykkelser, og at være opmærksom på, hvordan isoleringen kan påvirke vinduer og døre. Energistyrelsen tilbyder også gratis rådgivning og vejledning til energirenovering af boliger.",
+    "meta": {
+        "id": 2949821367353259037,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/energiloesninger/isolering-af-tung-ydervaeg-udefra",
+        "title": "Isolering af tung ydervæg, udefra",
+        "time_requested": "2024-04-16T11:54:52.876690",
+        "error": null,
+        "num_tokens_in": 2296,
+        "num_tokens_out": 536,
+        "estimated_input_cost_gpt4": 0.02296,
+        "estimated_output_cost_gpt4": 0.01608,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

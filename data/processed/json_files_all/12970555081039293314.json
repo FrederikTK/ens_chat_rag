@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om energimærkning af bygninger og energiløsninger til forbrugere, offentlige institutioner og virksomheder. Der er oplysninger om energimærkning af boliger, herunder isolering, vinduer, ventilation, varmestyring og varmekilder som naturgas, fjernvarme, olie, varmepumper, elvarme, træpiller og solvarme. Der er også information om energiforbrug, elpriser, energimærkning af apparater, belysning, køling, IT og elektronik.\n\nFor offentlige bygninger omfatter informationen renovering, nybyggeri, isolering, vinduer, energirådgivning og energieffektivitet inden for opvarmning, køling, ventilation, el, belysning og IT.\n\nTil erhvervslivet er der oplysninger om energiledelse, nøgletal for energiforbrug, kølesystemer, industrivirksomhed, ladestandere til elbiler og energimærkning af bygninger.\n\nPå hjemmesiden kan man finde værktøjer til at hjælpe med at finde energiløsninger, Energistyrelsens kontaktoplysninger samt information om Energibarometeret, materialer, partnersamarbejde og brugen af SparEnergi.dk's indhold.\n\nMan kan også finde nyttige værktøjer såsom energimærkefirmaer, håndværkerlister, VE-virksomheder, energimærker og låneberegninger, samt guider til energibesparelse og varmetyper som fjernvarme, varmepumper, biobrændsel og solvarme.",
+    "meta": {
+        "id": 12970555081039293314,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/energiloesninger/varmetype",
+        "title": "Find energiløsninger | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:18.644597",
+        "error": null,
+        "num_tokens_in": 844,
+        "num_tokens_out": 417,
+        "estimated_input_cost_gpt4": 0.008440000000000001,
+        "estimated_output_cost_gpt4": 0.01251,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

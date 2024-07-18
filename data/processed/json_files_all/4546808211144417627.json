@@ -1,0 +1,15 @@
+{
+    "text": "I denne demo har Energistyrelsen udviklet en funktion, der viser kortet for adresser. Brugeren kan angive postnummeret for forbrugeren og se kortet med markerede adresser i det pågældende område. Funktionen giver brugeren mulighed for at visualisere placeringen af forskellige adresser baseret på postnummeret.",
+    "meta": {
+        "id": 4546808211144417627,
+        "url": "https://sparenergi.dk/demo/addresses/map",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:53:11.334317",
+        "error": null,
+        "num_tokens_in": 21,
+        "num_tokens_out": 88,
+        "estimated_input_cost_gpt4": 0.00021,
+        "estimated_output_cost_gpt4": 0.00264,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

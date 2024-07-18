@@ -1,0 +1,15 @@
+{
+    "text": "\"Ansøgervejledning til Bygningspuljen\" er en vejledning til ansøgning om tilskud til energibesparelser og energieffektiviseringer i bygninger til helårsbeboelse. Dokumentet er 34 sider langt og har en filstørrelse på 1,97 MB. Vejledningen er udgivet den 14. september 2022 af Energistyrelsen og kan downloades som en PDF fra deres hjemmeside. I dokumentet kan man finde information om hvordan man søger om tilskud til energibesparelser, samt hvilke krav og retningslinjer der gælder for ansøgningsprocessen. Energistyrelsen kan kontaktes på Carsten Niebuhrs Gade 43, 1577 København V. Hjemmesiden SparEnergi.dk tilbyder yderligere materialer og ressourcer til forbrugere, virksomheder og det offentlige vedrørende energibesparelser og energieffektiviseringer.",
+    "meta": {
+        "id": 4838738055883964530,
+        "url": "https://old.sparenergi.dk/forbruger/materialer/ansogervejledning-til-bygningspuljen",
+        "title": "Ansøgervejledning til Bygningspuljen",
+        "time_requested": "2024-04-16T11:55:39.914753",
+        "error": null,
+        "num_tokens_in": 877,
+        "num_tokens_out": 250,
+        "estimated_input_cost_gpt4": 0.00877,
+        "estimated_output_cost_gpt4": 0.007500000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

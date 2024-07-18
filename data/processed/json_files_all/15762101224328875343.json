@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside \"SparEnergi\" giver gode råd og tips til at spare energi på streaming og WiFi. Streaming af video udgør omkring 2/3 af verdens nettrafik, og flere danskere streamer nu end ser traditionelt tv. Nogle af de bedste energibesparende råd inkluderer at se film og serier sammen med andre for at reducere elforbruget, slukke for videoen under online-møder for at reducere CO2-udledning, slukke for nettet om natten, bruge en mindre skærm, streame direkte fra tv'et i stedet for via computer eller spillekonsol, rydde op i skyen ved at slette unødvendige filer, downloade indhold, hvis det skal ses flere gange, og vælge grønne streamingtjenester. Der er også råd om køb af router og netværksudstyr, herunder at vælge en alt i én-router og at gå efter enheder med lavt elforbrug i standbytilstand. Der gives også tips til at spare strøm på internettet generelt, såsom at scrolle mindre, sende mindre data og afmelde nyhedsbreve man ikke læser. Energistyrelsen oplyser desuden, at det er muligt at slukke for internettet om natten uden at skade apparaterne, og at dette kan spare energi.",
+    "meta": {
+        "id": 15762101224328875343,
+        "url": "https://sparenergi.dk/privat/spar-energi-i-hverdagen/spar-energi-paa-streaming-og-wifi",
+        "title": "Spar energi på streaming og WiFi",
+        "time_requested": "2024-04-16T11:59:40.921165",
+        "error": null,
+        "num_tokens_in": 1948,
+        "num_tokens_out": 348,
+        "estimated_input_cost_gpt4": 0.01948,
+        "estimated_output_cost_gpt4": 0.01044,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder på deres hjemmeside mulighed for at få gode råd til energioptimering baseret på ens adresse. En af de energioptimeringsmuligheder, der nævnes, er at få energirigtige vinduer, da bedre vinduer kan spare varme og give andre fordele. Der gives også information om, hvornår det er bedst at renovere vinduer kontra at udskifte dem. Der nævnes eksempler på forskellige typer vinduer og tilhørende besparelser baseret på energimærker og udskiftningspriser. Prisen for at skifte et vindue inkluderer både materialer og håndværkerens arbejdstid. Energistyrelsen opfordrer til at vælge energirigtige vinduer, der passer til husets arkitektur for at opnå optimal varmebesparelse og for at bevare eller forbedre husets værdi. Desuden kan man bruge energimærkningen til at optimere boligens energiforbrug og sundhed. Energistyrelsen giver også generel rådgivning om energioptimering og oplyser om forskellige vinduestyper.",
+    "meta": {
+        "id": 17920592267631039816,
+        "url": "https://old.sparenergi.dk/forbruger/boligen/vinduer",
+        "title": "Vinduer | Energistyrelsen",
+        "time_requested": "2024-04-16T11:59:21.532078",
+        "error": null,
+        "num_tokens_in": 2281,
+        "num_tokens_out": 288,
+        "estimated_input_cost_gpt4": 0.02281,
+        "estimated_output_cost_gpt4": 0.00864,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

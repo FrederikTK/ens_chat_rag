@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen omhandler energioptimering af gulvkonstruktioner i forhold til Bygningsreglementets krav. Når man udskifter hele gulvkonstruktionen, skal den nye konstruktion isoleres, så den lever op til reglementet. Kravene afhænger af, hvad der findes under gulvet, og der er specifikke krav til U-værdier afhængigt af området under gulvet. Hvis man renoverer gulvet, skal man også efterisolere ifølge bygningsreglementet, hvis det kan betale sig. Der er eksempler på forskellige typer gulve og kravene til isolering for at overholde reglementet. Det anbefales at bruge fagfolk til at vurdere konstruktionen og isoleringstypen, før man går i gang.",
+    "meta": {
+        "id": 9680015675487058488,
+        "url": "https://sparenergi.dk/forbruger/boligen/bygningsreglementets-energikrav/renovering-gulv",
+        "title": "Renovering gulv | Energistyrelsen",
+        "time_requested": "2024-04-16T11:49:04.577521",
+        "error": null,
+        "num_tokens_in": 2624,
+        "num_tokens_out": 200,
+        "estimated_input_cost_gpt4": 0.026240000000000003,
+        "estimated_output_cost_gpt4": 0.006,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder økonomisk støtte til borgere, der har svært ved at betale deres el- og varmeregninger. Der er forskellige former for støtte til rådighed:\n\n1. Varmecheck: Et engangstilskud på 6.000 kr. til husstande med lav indkomst og naturgas, dyr fjernvarme eller elektricitet som varmekilde i fyringssæsonen 2021-2022. Ansøgning kan foretages fra den 14. marts 2023.\n\n2. Indefrysningsordning: Mulighed for at udsætte den del af regningen for el, gas og fjernvarme, der overstiger et prisloft. Ordningen gælder fra 1. november 2022 for el og gas samt 1. januar 2023 for fjernvarme.\n\n3. Varmetillæg til pensionister: Folkepensionister og personer tilkendt førtidspension før 2003 kan søge varmetillæg, som dækker varmeudgifter over et vis beløb.\n\n4. Personligt tillæg til pensionister: Mulighed for at søge om personligt tillæg hos kommunen til at dække nødvendige og rimelige udgifter.\n\n5. Hjælp til enkeltudgifter for kontanthjælpsmodtagere m.fl.: Kommunen kan yde hjælp til uforudsete enkeltudgifter til varme og elektricitet ved ændringer i økonomien.\n\n6. Særlig støtte for økonomisk vanskeligt stillede: Personer, der opfylder betingelserne for hjælp i kontanthjælpssystemet eller har fået ændringer i deres forhold, kan være berettiget til særlig støtte til dækning af boligudgifter såsom el og varme.\n\nDerudover tilbyder Energistyrelsen økonomisk støtte til energiforbedringer i boliger med tilskud til renovering, skift til varmepumpe og varmepumpe på abonnement. Håndværkerfradraget til energiforbedringer er dog blevet afskaffet fra 1. april 2022. Der er også mulighed for gratis gasafkobling med støtte fra afkoblingsordningen.\n\nDet er værd at bemærke, at ansøgningsprocedurer og betingelser kan variere afhængigt af den konkrete støtteordning. Det anbefales at besøge Energistyrelsens hjemmeside for mere detaljerede oplysninger omkring ansøgningsfrister, betingelser og yderligere hjælpemuligheder.",
+    "meta": {
+        "id": 16002434703418010094,
+        "url": "https://sparenergi.dk/forbruger/hoje-energipriser/fa-okonomisk-stotte",
+        "title": "Få økonomisk støtte | Energistyrelsen",
+        "time_requested": "2024-04-16T11:47:51.765538",
+        "error": null,
+        "num_tokens_in": 3024,
+        "num_tokens_out": 673,
+        "estimated_input_cost_gpt4": 0.030240000000000003,
+        "estimated_output_cost_gpt4": 0.02019,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder rådgivning til boligejere, der overvejer at renovere deres bolig med fokus på energioptimering. De oplyser om fordelene ved energirenovering, såsom lavere varmeregning, mindre træk og kulde, forbedret boligs udseende og værdistigning, klimavenlig bolig, mindre støj, og bedre indeklima. Derudover vejleder de om forskellige renoveringsprojekter, såsom isolering af loft, vinduer og døre, gulv og kælder, rør, vedvarende energi, ydervægge samt gør-det-selv projekter. Energistyrelsen tilbyder også gratis rådgivning af erfarne energirådgivere og informerer om aktuelle tilskudsordninger og hvornår man har pligt til at spare varme. Derudover opfordrer de til at producere egen energi med solceller og solvarme. Energistyrelsen har også cases, der viser danskere, der har valgt renovering frem for nybyggeri, og de tilbyder en guide til at sætte gang i forbedringer, der sparer energi i lejligheder og sommerhuse. Energistyrelsen har desuden information om alle typer af renoveringsprojekter, tilskudsordninger, skift af varmetype og tips til at spare energi i hverdagen. Energistyrelsens hjemmeside er SparEnergi.dk.",
+    "meta": {
+        "id": 15257691121482116602,
+        "url": "https://sparenergi.dk/forbruger/boligen/skal-du-renovere",
+        "title": "Skal du renovere? | Energistyrelsen",
+        "time_requested": "2024-04-16T11:52:15.438985",
+        "error": null,
+        "num_tokens_in": 2821,
+        "num_tokens_out": 365,
+        "estimated_input_cost_gpt4": 0.028210000000000002,
+        "estimated_output_cost_gpt4": 0.01095,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen og SparEnergi tilbyder gratis rådgivning til private borgere om energioptimering, tilskud, og reduktion af el- og varmeforbrug. Man kan kontakte energirådgiverne gennem telefon eller e-mail. Hvis man har spørgsmål angående varmechecken, kan man kontakte dem på varmecheck@ens.dk, og spørgsmål vedrørende energimærkning af boliger kan sendes til emo-info@ens.dk. Hvis man ønsker professionel rådgivning om energirigtig renovering af boligen, kan man kontakte en BedreBolig-rådgiver via e-mail på info@bedrebolig.dk. Der er også mulighed for at henvende sig med pressehenvendelser og andre professionelle spørgsmål. Energistyrelsen har angivet kontaktinformationer for presse, håndværkere, leverandører af varmepumper, henvendelser om VE-godkendelsesordningen, offentligt energiforbrug, energi-og CO2-regnskabet, samt tekniske spørgsmål om SparEnergi.dk. Energistyrelsen har angivet deres adresse, åbningstider, telefonnummer, e-mail og hjemmeside. Man kan også finde information om energipriser, cookies og privatliv på deres hjemmeside samt tilmelde sig nyhedsbrev. Energistyrelsen og SparEnergi er engageret i at give inspiration, viden og rådgivning til at få det bedste ud af energiressourcerne.",
+    "meta": {
+        "id": 1512931868739585201,
+        "url": "https://sparenergi.dk/kontakt",
+        "title": "Kontakt | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:15.389365",
+        "error": null,
+        "num_tokens_in": 1099,
+        "num_tokens_out": 385,
+        "estimated_input_cost_gpt4": 0.010990000000000002,
+        "estimated_output_cost_gpt4": 0.01155,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

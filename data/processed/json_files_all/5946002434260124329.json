@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om energirenovering af huse på deres hjemmeside. De giver gode råd til renovering, herunder hvorfor det er vigtigt at energirenovere, hvordan man forbereder og gennemfører renoveringen. Ved at energirenovere kan man spare penge på energiregningen, skåne klimaet, forbedre indeklimaet samt øge bygningens værdi. Energirenovering kan reducere CO2-udledning, forbedre sundheden og komforten i huset samt reducere støj. Energirenovering kan omfatte isolering, udskiftning af vinduer, rådgivning og skal overholde lovgivning og tilladelser. Det anbefales at indhente flere tilbud, søge tilskud og være opmærksom på håndværkerfradrag. Ved gennemførelsen af projektet anbefales det at være opmærksom på kvalitet, tidsplan samt at sikre skriftlige aftaler med håndværkere. Energistyrelsen tilbyder også guides og materiale til at hjælpe boligejere med energirenovering.",
+    "meta": {
+        "id": 5946002434260124329,
+        "url": "https://sparenergi.dk/forbruger/boligen/renovering/renover-dit-hus-eller-din-lejlighed/renovering-af-huse",
+        "title": "Renovering af huse | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:47.832793",
+        "error": null,
+        "num_tokens_in": 3118,
+        "num_tokens_out": 290,
+        "estimated_input_cost_gpt4": 0.031180000000000003,
+        "estimated_output_cost_gpt4": 0.0087,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

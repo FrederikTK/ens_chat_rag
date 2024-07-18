@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder på deres hjemmeside SparEnergi.dk gode råd til energibesparelse i hverdagen. Ved hjælp af små ændringer i hverdagen kan man spare penge på strøm og varme samtidig med at man hjælper miljøet. Hjemmesiden indeholder råd inden for områder som belysning, vask og rengøring, streaming og elektronik, køkken og madlavning, samt varme og varmt vand. Hjemmesiden opfordrer til at tage simple tiltag som at benytte mikroovn eller airfryer i stedet for ovnen for at spare energi, tage kortere bade, vælge eco-programmet på vaskemaskinen og skrue ens på radiatorerne for at fordele varmen bedre og reducere varmeforbrug. Derudover opfordres der til at slukke for vandet under sæbeindsmøring i badet, bruge radio frem for tv til baggrundslyd, slukke for unødvendigt strømforbrug og bruge strømmen, når den er billigst. Hjemmesiden indeholder også information om aktuelle elpriser, og tilbyder muligheden for at indtaste sin adresse for at få et mere præcist overslag over elprisen. Derudover kan man også se, hvilke apparater der bruger mest strøm derhjemme ved hjælp af strømpyramiden og få inspiration fra andre personers energivaner. Energistyrelsen tilbyder også gratis rådgivning om energibesparelse.",
+    "meta": {
+        "id": 14274436542475518034,
+        "url": "https://sparenergi.dk/privat/spar-energi-i-hverdagen#module-3800",
+        "title": "Spar energi i hverdagen",
+        "time_requested": "2024-04-16T11:57:32.422785",
+        "error": null,
+        "num_tokens_in": 2477,
+        "num_tokens_out": 396,
+        "estimated_input_cost_gpt4": 0.02477,
+        "estimated_output_cost_gpt4": 0.01188,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om energimærkning af huse, hvor man kan få et energimærke, der viser boligens energimæssige stand. Det er lovpligtigt at få energimærket sin bolig, hvis man skal sælge eller udleje. Jo nyere boligen er, jo bedre er energimærket typisk. Et godt energimærke kan øge salgsprisen på boligen. Man kan forbedre energimærket ved at følge energimærkningsforslagene eller gennemføre en energirenovering.\n\nStatistik viser, at få boliger har et bedre energimærke end B, og at B svarer til kravene fra Bygningsreglementet 2008 eller bedre. En forbedring af energimærket kan resultere i en stigning i boligens værdi, med en gennemsnitlig stigning på ca. 500 kr. pr. kvadratmeter for hvert bogstav, energimærket forbedres.\n\nEnergimærket fastsættes ud fra husets isolering, vinduer, varmeinstallationer mv., og energiforbruget beregnes ud fra dette. Energimærket er gyldigt i 10 år. Prisen for energimærkningen afhænger af husets størrelse og energimærkningskonsulenten. Hvis der opstår klager eller spørgsmål vedrørende energimærket, skal man kontakte det firma, der har udarbejdet det. Energistyrelsen tilbyder desuden en liste over energimærkningsfirmaer og en låneberegner til energirenovering.",
+    "meta": {
+        "id": 10978546311202189789,
+        "url": "https://sparenergi.dk/forbruger/boligen/energimaerkning-boliger/huse",
+        "title": "Huse | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:32.401637",
+        "error": null,
+        "num_tokens_in": 1840,
+        "num_tokens_out": 400,
+        "estimated_input_cost_gpt4": 0.018400000000000003,
+        "estimated_output_cost_gpt4": 0.012,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

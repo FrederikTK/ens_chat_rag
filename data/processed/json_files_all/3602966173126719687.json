@@ -1,0 +1,15 @@
+{
+    "text": "Parcelhuset fra perioden 1960-76 er typisk opført i 1 plan og er et beskedent hus, der er primært funktionelt og ikke præsentabelt. Det er designet til en kernefamilie med 2 voksne og 2 børn og er ikke så højt med en stor tagflade. Energimærkningen for disse parcelhuse ligger generelt i intervallet D-E, mens nogle allerede er blevet energirenoveret og har energimærke C. De mest almindelige forbedringer anbefalet af energikonsulenterne inkluderer isolering af loft, udskiftning eller energiforbedring af vinduer, isolering af ydervægge, hulmursisolering og udskiftning af yderdøre. Når boligens klimaskærm er i orden, kan man se på opvarmningssystemet og eventuelt optimere det, fx ved installation af solcelleanlæg, automatik på varmeanlægget, udskiftning af cirkulationspumper eller installation af varmepumpe. Det anbefales også at være opmærksom på energivaner for at reducere varme- og elforbrug. Energimærket viser, at disse huse har et højt varmeforbrug, og det anbefales at initiere energirenovering for at opnå økonomiske, miljømæssige og sundhedsmæssige fordele. Desuden gives der gode råd til renoveringsprocessen, herunder planlægning, valg af materialer, håndtering af affald og tilskuds- og fradragsmuligheder. Bæredygtig renovering opfordres også, med fokus på miljømæssig, social og økonomisk kvalitet gennem valg af materialer, produktion og bortskaffelse. Husets arkitektur og rum beskrives, og der gives råd om indeklima, sikkerhed, tilgængelighed og klimasikring. Endelig anbefales det at inddrage en arkitekt som rådgiver ved større renoveringer for at sikre det ønskede resultat.",
+    "meta": {
+        "id": 3602966173126719687,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/bygningsguiden/parcelhus-1960-76",
+        "title": "Parcelhus 1960-76 | Energistyrelsen",
+        "time_requested": "2024-04-16T11:49:41.576781",
+        "error": null,
+        "num_tokens_in": 8019,
+        "num_tokens_out": 534,
+        "estimated_input_cost_gpt4": 0.08019000000000001,
+        "estimated_output_cost_gpt4": 0.01602,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

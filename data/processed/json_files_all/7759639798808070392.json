@@ -1,0 +1,15 @@
+{
+    "text": "Informationen indeholder et sæt indstillinger og en advarsel. Indstillingerne inkluderer stibaser, temaer, stier til billeder og skrifter samt endpoints for feedback på en lodtrækningsside. Desuden er der en reference til, at brugeren ikke har adgang til at tilgå siden.",
+    "meta": {
+        "id": 7759639798808070392,
+        "url": "https://sparenergi.dk/forbruger/findfirma/button_b",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:54:31.893647",
+        "error": null,
+        "num_tokens_in": 210,
+        "num_tokens_out": 74,
+        "estimated_input_cost_gpt4": 0.0021000000000000003,
+        "estimated_output_cost_gpt4": 0.00222,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

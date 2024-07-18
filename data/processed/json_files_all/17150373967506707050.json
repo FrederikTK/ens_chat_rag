@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om energimærkning af fjernsyn og computerskærme for forbrugere. Energimærkningen hjælper forbrugere med at vælge enheder med lavt elforbrug. Energimærket viser, hvor meget strøm et tv eller en computerskærm bruger om året, og man kan sammenligne elforbruget for enheder med samme energimærke ved 1000 timers brug. For fjernsyn bør man gå efter energiklasse F eller bedre, hvor større skærme forbruger mere strøm end mindre skærme. For eksempel bruger et 65-tommers TV dobbelt så meget strøm som et tilsvarende 43-tommers. For computerskærme er anbefalingen at gå efter energiklasse E eller bedre. Man kan regne på den samlede pris, inden man køber, ved at bruge onlineværktøjet 'Hele Prisen', som viser de samlede udgifter til både indkøb og brug i apparatets levetid. Energimærket viser energieffektiviteten på en skala fra A til G, hvor A er bedst, og viser energiforbrug i forskellige tilstande samt skærmens størrelse og opløsning. Energimærkningen kontrolleres af Sikkerhedsstyrelsen for at sikre overholdelse af kravene. Der nævnes også andre miljømærker som Blomsten og Svanen, som er anerkendt af danske myndigheder og underlagt uvildig kontrol.",
+    "meta": {
+        "id": 17150373967506707050,
+        "url": "https://old.sparenergi.dk/forbruger/el/tv-og-underholdning/tv-apparater/energimaerkning-af-tv-apparater",
+        "title": "Energimærkning af fjernsyn og computerskærme | Energistyrelsen",
+        "time_requested": "2024-04-16T11:53:37.565939",
+        "error": null,
+        "num_tokens_in": 1611,
+        "num_tokens_out": 393,
+        "estimated_input_cost_gpt4": 0.016110000000000003,
+        "estimated_output_cost_gpt4": 0.01179,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

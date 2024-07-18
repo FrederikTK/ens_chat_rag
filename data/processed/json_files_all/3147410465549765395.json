@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside \"SparEnergi\" indeholder information om isolering af fladt tag som en effektiv energirenoveringstiltag. Det flade tag på huse fra 60'erne og 70'erne er ofte dårligt isoleret, og det anbefales at tilføje ekstra isolering, hvis tykkelsen er mindre end 75-100 mm. Dette kan medføre besparelser på varmeregningen samt forbedre indeklimaet.\n\nIsolering af fladt tag kan spare penge, forbedre indeklimaet, og være miljøvenligt ved at mindske varmetab. Det anbefales at lægge mindst 300 mm isolering ved renovering af taget ifølge Bygningsreglementet, og for endnu bedre energieffektivitet anbefales det at isolere til 400 mm. Det er vigtigt at udføre isoleringen korrekt for at undgå fugt- og skimmelskader.\n\nProcessen inkluderer at måle den eksisterende isolering, undersøge tagbelægningen, lægge ny isolering og sikre tagets tæthed. Renoveringen bør udføres om sommeren for at undgå fugtskader og det anbefales at bruge fagfolk for at undgå problemer. Det anbefales at tjekke taget årligt og evt. udskifte ovenlyskupler samtidig med isoleringen.\n\nDer findes yderligere information om nødvendigheden af isolering, hvordan renoveringen udføres, hvornår det er bedst at udføre renoveringen, og råd om at kontakte fagfolk. Energistyrelsen opfordrer til at få flere informationer om isolering af fladt tag, da det kan være en betydelig energi- og miljøbesparende foranstaltning.",
+    "meta": {
+        "id": 3147410465549765395,
+        "url": "https://sparenergi.dk/privat/skal-du-renovere-din-bolig/isoler-dit-flade-tag",
+        "title": "Isoler fladt tag",
+        "time_requested": "2024-04-16T11:57:03.142539",
+        "error": null,
+        "num_tokens_in": 2510,
+        "num_tokens_out": 453,
+        "estimated_input_cost_gpt4": 0.0251,
+        "estimated_output_cost_gpt4": 0.01359,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

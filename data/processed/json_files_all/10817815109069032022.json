@@ -1,0 +1,15 @@
+{
+    "text": "SparEnergi.dk, drevet af Energistyrelsen, tilbyder hjælp til at spare el og varme i boliger. Ved at indtaste sin adresse kan man få råd til energioptimering specifikt til ens bolig. Man kan få de tre mest effektive råd til energioptimering baseret på adressen. Hjemmesiden tilbyder information om at spare energi i hverdagen, skifte varmetype, renovere boligen, søge tilskud og få gratis rådgivning. Der er aktuelle tilskudsordninger og en Energirenoveringspulje, der er åben. På siden kan man se de bedste råd til at spare penge på strøm og varme, få vejledning om at renovere boligen og finde den bedste varmetype til hjemmet. Der er også information om elpriser, aktuelle tilskudsordninger, og mulighed for at indstille personlige energibesparelsesmål. Derudover informeres der om webinarer og relevante arrangementer, samt muligheden for at tilmelde sig nyhedsbrevet for at modtage personlige spareråd tilpasset ens bolig og interesser.",
+    "meta": {
+        "id": 10817815109069032022,
+        "url": "https://sparenergi.dk/forbruger",
+        "title": "Site under opdatering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:47:34.441261",
+        "error": null,
+        "num_tokens_in": 1267,
+        "num_tokens_out": 289,
+        "estimated_input_cost_gpt4": 0.01267,
+        "estimated_output_cost_gpt4": 0.00867,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

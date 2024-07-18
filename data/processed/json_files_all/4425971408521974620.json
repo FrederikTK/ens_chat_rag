@@ -1,0 +1,15 @@
+{
+    "text": "Dette er en detaljeret guide fra Energistyrelsen om, hvordan man bør købe nye apparater med fokus på energiforbrug. Guiden opfordrer forbrugere til at søge efter energimærket, når de køber nye elektriske apparater. Energimærket indikerer energiklasserne for forskellige apparater og angiver energiforbruget i brugsfasen. Derudover introducerer guiden konceptet \"Hele prisen\", hvor forbrugere kan sammenligne totaløkonomien af et apparat ved at inkludere både indkøbs- og driftsomkostninger i apparatets levetid.\n\nGuiden opdeler forskellige apparater i kategorier og angiver anbefalede energiklasser. For eksempel anbefales det at gå efter Energi klasse D eller bedre, når man køber køleskabe og fryseskabe, Klasse A eller B til vaskemaskiner og Klasse A+++ til tørretumblere. Derudover gives der også råd om, hvilke energiklasser man bør fokusere på ved køb af elpærer, opvaskemaskiner, el- og gasovne, emhætter, tv, skærme, computere og internetudstyr.\n\nGuiden nævner også, at varmeanlæg som varmepumper, kedler, vandvarmere og varmtvandsbeholdere også har energimærker, og opfordrer til yderligere research ved køb af disse. Derudover opfordres der til at undersøge energimærker for ventilationsaggregater og angiver energiklasserne man bør stræbe efter.\n\nEndelig opfordres forbrugerne til at abonnere på Energistyrelsens nyhedsmail for at blive eksperter i at spare energi. ",
+    "meta": {
+        "id": 4425971408521974620,
+        "url": "https://sparenergi.dk/forbruger/el/energimaerkning-apparater/guide-til-koeb",
+        "title": "Guide til køb | Energistyrelsen",
+        "time_requested": "2024-04-16T11:57:04.380657",
+        "error": null,
+        "num_tokens_in": 1753,
+        "num_tokens_out": 438,
+        "estimated_input_cost_gpt4": 0.01753,
+        "estimated_output_cost_gpt4": 0.01314,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

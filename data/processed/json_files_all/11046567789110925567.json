@@ -1,0 +1,15 @@
+{
+    "text": "Typehuset, som er blevet opført fra 2007 og frem til nu, karakteriseres ved minimalistisk design og en stigning i anvendelsen af lavenergihuse og passivhuse. Disse huse er typisk i 1 plan med en smule hældning på taget og er oftest rektangulære. De kan også være i 1½ plan og fås både som murede huse med tunge ydervægge eller som træhuse med lette ydervægge. Opvarmningssystemerne varierer, og kan være baseret på naturgas, fjernvarme, varmepumper eller olie, mens ventilationssystemer med varmegenvinding eller naturlig ventilation er typiske. Energimærkningen af disse huse er ofte i energiklasse A, og typiske anbefalede forbedringer inkluderer isolering af ydervægge, udskiftning eller forbedring af vinduer, og installation af solcelleanlæg eller varmepumper. Energiramtiver og krav til renoveringer følger Bygningsreglementets energikrav. Huse fra denne periode blev typisk kun energimærket, når de skulle sælges eller udlejes i mere end 4 uger. Huse fra 2007-nu ligger ofte på grunde tidligere beboet af ældre huse, og de opførte huse er ofte en del af nybyggede udstykninger med lavenergihuse som krav i lokalplanen. Huset opvarmes med centralvarme og har flere elinstallationer, herunder gulvvarme og en høj koncentration af stikkontakter.",
+    "meta": {
+        "id": 11046567789110925567,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/bygningsguiden/typehus-2007-nu",
+        "title": "Typehus 2007-nu | Energistyrelsen",
+        "time_requested": "2024-04-16T11:51:58.357738",
+        "error": null,
+        "num_tokens_in": 9178,
+        "num_tokens_out": 404,
+        "estimated_input_cost_gpt4": 0.09178000000000001,
+        "estimated_output_cost_gpt4": 0.01212,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

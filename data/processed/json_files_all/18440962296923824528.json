@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside \"SparEnergi\" oplyser om vigtigheden af at isolere skråvægge og loft til kip for at spare penge på varmeregningen og forbedre indeklimaet. Hvis der er 100 mm isolering eller mindre i skråvægge og loft, anbefales det at forbedre isoleringen. Isolering kan gøres både indefra og udefra. Der oplyses om, hvor meget man kan spare på varmeregningen, samt fordelene ved bedre isolering såsom nemmere opvarmning, forbedret indeklima og klimavenlighed. Der nævnes lovkrav om isolering ved tagrenovering, minimumskrav for isolering og anbefalingen om at isolere til 400 mm for lavenergi-niveau. Siden giver også vejledning om, hvordan man isolerer udefra og indefra, og hvorfor det er vigtigt at bruge fagfolk til isoleringsarbejdet. Der opfordres til at tænke på luftning, hvis man isolerer, og der gives råd til isolering i sommerhuse. Hjemmesiden giver også mulighed for at finde håndværkere, samt information om andre renoveringsmuligheder såsom isolering af loft til kip/skråvægge, vinduer, gulve, rør, vedvarende energi og mere. Desuden opfordres til at skifte til mere energieffektive varmekilder og tilbyder gratis rådgivning og tests til sommerhusets energiforbedringer.",
+    "meta": {
+        "id": 18440962296923824528,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/energiloesninger/isolering-af-tag-med-hoej-rejsning-indefra",
+        "title": "Isolering af tag med høj rejsning, indefra",
+        "time_requested": "2024-04-16T11:50:30.413126",
+        "error": null,
+        "num_tokens_in": 2705,
+        "num_tokens_out": 386,
+        "estimated_input_cost_gpt4": 0.02705,
+        "estimated_output_cost_gpt4": 0.01158,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

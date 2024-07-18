@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen \"Spar på varme og køling i hjemmet\" giver gode råd til effektiv energioptimering i ens hjem. Nogle af de vigtigste råd inkluderer at holde en konstant temperatur på 18-20 °C for at undgå varmetab, skrue op på radiatorerne ensartet, sluk for varmen under udluftning, træk gardiner for om aftenen for at holde på varmen, hold radiatorer fri forhindringer for effektiv varmefordeling, og tjek på, at radiatorerne fungerer optimalt. Der anbefales også brug af intelligente termostater, der kan spare op til 10-15 % på varmeregningen. Yderligere råd inkluderer at få årlige eftersyn af varmeanlægget, udnytte automatisk styring, og justere gulvvarme korrekt. Artiklen advarer desuden imod metoden med stearinlys under en urtepotte, da det kan være sundhedsskadeligt. Endelig diskuteres metoder til at køle hjemmet uden at bruge for meget strøm, herunder brug af blæsere frem for køleanlæg og begrænsning af forskellen i temperatur mellem inde og ude.",
+    "meta": {
+        "id": 15247617448189518075,
+        "url": "https://old.sparenergi.dk/forbruger/varme/dit-varmeforbrug",
+        "title": "Dit varmeforbrug | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:27.784323",
+        "error": null,
+        "num_tokens_in": 3397,
+        "num_tokens_out": 312,
+        "estimated_input_cost_gpt4": 0.03397,
+        "estimated_output_cost_gpt4": 0.00936,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen anbefaler at isolere lette ydervægge indefra eller udefra, specielt hvis de har mindre end 125 mm isolering. Hvis væggene har mindre end dette, kan ekstra isolering reducere varmeregningen og forbedre indeklimaet. Fordele ved isolering inkluderer et bedre indeklima, lavere varmeregning og højere husværdi, samtidig med at man skåner klimaet ved at reducere varmetabet. Dog skal man være opmærksom på risikoen for fugt og skimmelsvamp, især ved isolering indefra. Ifølge bygningsreglementet kan der være pligt til at isolere, hvis renovering af væggen udføres, og for at overholde reglementets krav ved isolering. Isoleret med mindst 250 mm (helårsboliger) eller 150 mm (sommerhuse) anbefales for at opfylde Bygningsreglementets krav. For optimal langsigtede økonomiske fordele anbefales en isolering på 350 mm for at opnå lavenerginiveau. Isolering udefra kan forebygge fugtproblemer, mens isolering indefra kan reducere rummets plads og kræve yderligere arbejde. Ved isolering udefra fjernes den udvendige vægbeklædning, undersøges og eventuelt udskiftes isolering, tilføjes ekstra isolering og monteres ny vægbeklædning. Isolering indefra indebærer fjernelse af indvendig vægbeklædning, tilføjelse af isolering og dampspærre samt montering af ny beklædning. Det anbefales at bruge fagfolk for at undgå problemer og følge vejledningen for korrekt udførelse. Energistyrelsen tilbyder yderligere vejledning og en liste over håndværkere.",
+    "meta": {
+        "id": 14981711094433154931,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/energiloesninger/isolering-af-let-ydervaeg-udefra",
+        "title": "Isolering af let ydervæg, udefra",
+        "time_requested": "2024-04-16T11:52:23.800610",
+        "error": null,
+        "num_tokens_in": 3314,
+        "num_tokens_out": 490,
+        "estimated_input_cost_gpt4": 0.03314,
+        "estimated_output_cost_gpt4": 0.0147,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

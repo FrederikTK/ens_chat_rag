@@ -1,0 +1,15 @@
+{
+    "text": "No content available to summarize.",
+    "meta": {
+        "id": 1901400587639069826,
+        "url": "https://old.sparenergi.dk/peconsumption-management/workplaces?first_level=3&second_level=&third_level=&instant_search=&other_filters_left%5B1%5D=1&other_filters_left%5B2%5D=2&other_filters_left%5B3%5D=3&other_filters_right%5B0%5D=",
+        "title": "Dine bygninger | Energistyrelsen",
+        "time_requested": "2024-04-16T11:52:17.321038",
+        "error": "403 Client Error: Forbidden for url: https://old.sparenergi.dk/peconsumption-management/workplaces?first_level=3&second_level=&third_level=&instant_search=&other_filters_left%5B1%5D=1&other_filters_left%5B2%5D=2&other_filters_left%5B3%5D=3&other_filters_right%5B0%5D=",
+        "num_tokens_in": 0,
+        "num_tokens_out": 6,
+        "estimated_input_cost_gpt4": 0.0,
+        "estimated_output_cost_gpt4": 0.00018,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

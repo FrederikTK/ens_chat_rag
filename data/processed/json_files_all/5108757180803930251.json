@@ -1,0 +1,15 @@
+{
+    "text": "Resumé:\nEnergistyrelsens hjemmeside SparEnergi.dk oplyser om fordelene ved at skifte terrændæk i ældre huse, især hvis huset er fra før 1972 og oplever fodkuld eller fugtighed. Et nyt, bedre isoleret terrændæk kan forbedre indeklimaet, reducere varmeregningen og øge husets værdi samtidig med at det er mere klimavenligt. Hjemmesiden giver information om renoveringsprocessen, herunder nødvendigheden af at isolere terrændækket korrekt for at overholde bygningsreglementets krav om varmetab. Der beskrives også de forskellige faser i renoveringen og hvad der kræves af håndværkeren. Desuden gives der praktiske råd om valg af isolering, mulighed for gulvvarme og vigtigheden af at bruge professionelle fagfolk. Energistyrelsen informerer om lovgivningen vedrørende isolering af terrændæk og forklarer, at det normalt kun er økonomisk rentabelt at isolere terrændækket, hvis det alligevel skal åbnes for eksempelvis for at installere gulvvarme. Derudover tilbyder hjemmesiden vejledning til håndværkere og giver mulighed for at finde professionelle håndværkere i nærheden. Endelig opfordres læseren til at søge yderligere information om andre former for renoveringer og energibesparelse på hjemmesiden.",
+    "meta": {
+        "id": 5108757180803930251,
+        "url": "https://sparenergi.dk/privat/skal-du-renovere-din-bolig/nyt-terraendaek",
+        "title": "Skift terrændæk",
+        "time_requested": "2024-04-16T11:52:37.128471",
+        "error": null,
+        "num_tokens_in": 2222,
+        "num_tokens_out": 377,
+        "estimated_input_cost_gpt4": 0.02222,
+        "estimated_output_cost_gpt4": 0.01131,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

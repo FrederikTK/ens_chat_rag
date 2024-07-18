@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen anbefaler at isolere lette ydervægge enten indefra eller udefra for at opnå en mere energieffektiv bolig med et bedre indeklima og lavere varmeregning. Hvis ydervæggene har mindre end 125 mm isolering (100 mm for sommerhuse), kan ekstra isolering være en god idé. Isolerer man udefra, reduceres risikoen for fugt- og svampeproblemer sammenlignet med en indvendig isolering, men det kan medføre ekstra arbejde med taget, døre og vinduer. Hvis isolering indefra vælges, kan det påvirke rummets plads og kræve ændringer i el-infrastruktur og radiatorer. Der er lovmæssige krav om isolering, hvis Bygningsreglementet foreskriver det, f.eks. ved renovering af væggen. Energistyrelsen anbefaler at isolere med mindst 250 mm i helårshuse og 150 mm i sommerhuse for at overholde Bygningsreglementets krav om varmetab. For at opnå lavenerginiveau anbefales en isolering på 350 mm. Ved isolering udefra erstattes den eksisterende vægbeklædning og isolering med nyt materiale, mens en indvendig isolering indebærer fjernelse af indvendig vægbeklædning, efterfulgt af montering af isolering og nyt beklædningsmateriale. Isolering af lette ydervægge har bevirket en betydelig reduktion i varmeregningen og forbedret boligens indeklima for Alex og hans familie. Energistyrelsen råder til at bruge fagfolk for at undgå problematisk isolering og anbefaler at isolere, når man alligevel skal skifte vægbeklædning. Energistyrelsen tilbyder gratis rådgivning og vejledning om energibesparelse i boligen og opmuntrer til at skifte til mere effektive varmekilder og forbedre varmevaner.",
+    "meta": {
+        "id": 14504839891121030851,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/energiloesninger/isolering-af-let-ydervaeg-indefra",
+        "title": "Isolering af let ydervæg, indefra",
+        "time_requested": "2024-04-16T11:53:37.458878",
+        "error": null,
+        "num_tokens_in": 3314,
+        "num_tokens_out": 519,
+        "estimated_input_cost_gpt4": 0.03314,
+        "estimated_output_cost_gpt4": 0.01557,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

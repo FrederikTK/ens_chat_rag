@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen handler om et par, Katja og Jørgen, der bor i et landhus fra 1900 i Lønborg og skiftede deres oliefyr ud med en luft-til-vand varmepumpe på abonnement. Ved at skifte til varmepumpe har de opnået en mere behagelig og miljøvenlig opvarmning, da de nu ikke længere behøver at bekymre sig om olieforbrug og vedligeholdelse af oliefyret. De betalte en engangssum på 35.000 kr. og har nu et månedligt abonnement, der dækker vedligeholdelse, service og elforbrug til varmepumpen. Dette har resulteret i en årlig besparelse på ca. en tredjedel af deres samlede varmeudgifter. Hele processen med at skifte til varmepumpen tog tre måneder. Efter installationen af varmepumpen har de altid varmt vand og en mere komfortabel opvarmning. Desuden har det også resulteret i en bedre energiøkonomi. Jørgen og Katja anbefaler andre at skifte til varmepumpe, da det har været en god oplevelse for dem.",
+    "meta": {
+        "id": 4544725418040408989,
+        "url": "https://sparenergi.dk/node-view/ajax/99847/full",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:55:21.653341",
+        "error": null,
+        "num_tokens_in": 10654,
+        "num_tokens_out": 313,
+        "estimated_input_cost_gpt4": 0.10654000000000001,
+        "estimated_output_cost_gpt4": 0.00939,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

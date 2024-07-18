@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om, hvordan man kan opnå energibesparelser i hverdagen. Der er råd til forskellige områder som lys og lamper, vask og rengøring, streaming og elektronik, køkken og madlavning, varme og varmt vand. Der gives konkrete tips som at bruge microovn eller airfryer i stedet for ovnen for at spare op til 70% af elforbruget, tage kortere bade for at spare op til 4.500 kr./år og skrue lige højt op på radiatorer for at fordele varmen bedre og opnå et lavere varmeforbrug. Der opfordres også til at slukke for vandet under inds",
+    "meta": {
+        "id": 3171938999043763062,
+        "url": "https://sparenergi.dk/privat/spar-energi-i-hverdagen#module-187",
+        "title": "Oszczędzaj energię w życiu codziennym",
+        "time_requested": "2024-04-16T11:48:08.291887",
+        "error": null,
+        "num_tokens_in": 2477,
+        "num_tokens_out": 185,
+        "estimated_input_cost_gpt4": 0.02477,
+        "estimated_output_cost_gpt4": 0.00555,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

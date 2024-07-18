@@ -1,0 +1,15 @@
+{
+    "text": "Fakta om varmepumper:\n\n- Varmepumper flytter energi fra udeluft eller jord til opvarmningssystemet.\n- Elnettet udbygges i takt med behovet for varmepumper og elbiler.\n- Varmepumpen fungerer ved at tage varme fra omgivelserne og overføre den til radiatorer, gulvvarme eller som varm luft.\n- Varmepumper kan være luft til vand eller jordvarmepumper, som kræver et vandbårent system til opvarmning af huset.\n- Det anbefales at få en installatør til at vurdere, om radiatorerne er store nok til varmepumpen.\n- Varmepumper kan levere varmt brugsvand og har en elpatron til situationer, hvor varmepumpen ikke kan følge med.\n- Behovsstyring og SCOP er vigtige faktorer for effektiviteten af varmepumpen.\n- Vælg en varmepumpe med et godt energimærke og dimensioner den korrekt for optimal effektivitet.\n\nKilde: Energistyrelsen - SparEnergi.dk",
+    "meta": {
+        "id": 4448709129036466198,
+        "url": "https://sparenergi.dk/forbruger/varme/varmepumpe/fakta-om-varmepumper",
+        "title": "Fakta om varmepumper | Energistyrelsen",
+        "time_requested": "2024-04-16T11:49:03.725397",
+        "error": null,
+        "num_tokens_in": 2681,
+        "num_tokens_out": 281,
+        "estimated_input_cost_gpt4": 0.02681,
+        "estimated_output_cost_gpt4": 0.00843,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

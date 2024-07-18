@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder tilskud til energirenoveringsprojekter under visse betingelser. De 5 vigtigste krav inkluderer at opfylde energikravene for isolering, vinduer, ventilationsanlæg, vandbåret rumvarme og have et gyldigt energimærke i E, F eller G-kategorien. Der er specifikke betingelser for hver type energiforbedring, f.eks. krav til isoleringstykkelse og U-værdi for udvendig isolering af ydervægge og tag, krav til vinduets U-værdi før og efter renovering, krav til varmegenvinding i ventilationsanlæg mv. Energimærket må ikke være over 10 år gammelt og skal være baseret på en bygningsgennemgang. Ansøgere kan modtage mellem 5.000 kr. og 10.000 kr. i tilskud, hvis de opfylder betingelserne. Energistyrelsen opfordrer ansøgerne til at forberede sig grundigt, før de ansøger om tilskud til energioptimering af deres bolig.",
+    "meta": {
+        "id": 14667209761976849482,
+        "url": "https://sparenergi.dk/privat/specifikke-betingelser",
+        "title": "Specifikke betingelser",
+        "time_requested": "2024-04-16T11:48:35.420759",
+        "error": null,
+        "num_tokens_in": 3051,
+        "num_tokens_out": 286,
+        "estimated_input_cost_gpt4": 0.030510000000000002,
+        "estimated_output_cost_gpt4": 0.00858,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

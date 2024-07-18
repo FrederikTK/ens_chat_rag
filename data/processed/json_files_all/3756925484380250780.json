@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har en side på deres hjemmeside, SparEnergi, hvor de giver råd om at vælge den rette varmepumpemodel. De nævner, at en varmepumpe er 3 til 6 gange mere energieffektiv end andre varmekilder som elvarme, olie-, gas- og træpillefyr. De anbefaler at vælge en model, der passer til behovet, og at bruge en installatør til at hjælpe med valget. Der er en Varmepumpeliste tilgængelig, hvor man kan sammenligne varmepumper med testet effektivitet af et uafhængigt laboratorium. Listen opdateres 1-2 gange om måneden. Energistyrelsen nævner også vigtige faktorer at overveje ved valg af varmepumpe, som model, størrelse og energimærke. De tilbyder desuden gratis rådgivning af erfaren og uvildige energirådgivere. Energistyrelsen opfordrer også til at overveje renoveringer for at reducere varmeregningen og forbedre indeklimaet. Man kan få flere energisparetips og tilmelde sig nyhedsbrevet på SparEnergi.dk. Energistyrelsen har desuden en kontaktadresse på Carsten Niebuhrs Gade 43 i København samt en tilgængelighedserklæring for SparEnergi.dk.",
+    "meta": {
+        "id": 3756925484380250780,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/varmepumpelisten",
+        "title": "Varmepumpelisten | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:07.498619",
+        "error": null,
+        "num_tokens_in": 4461,
+        "num_tokens_out": 353,
+        "estimated_input_cost_gpt4": 0.044610000000000004,
+        "estimated_output_cost_gpt4": 0.01059,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

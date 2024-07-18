@@ -1,0 +1,15 @@
+{
+    "text": "50'er-villaen er en populær type bolig opført i 1½ plan mellem 1945-1955, lavet af robuste murstensvægge og med et tegltag. Villaen minder om murermestervillaen fra 1920'erne, men er mere enkel og funktionel i sin stil. Typisk energimærkes disse villaer med E-F, og potentiale for forbedringer ligger ofte i isolering af loft, etageadskillelse, hulmursisolering, ydervægsisolering og udskiftning eller energiforbedring af vinduer. Villaerne har centralvarme med en kedel i kælderen og radiatorer i rummene. Ventilationen var naturlig, og elinstallationerne var begrænsede. Renoveringsmuligheder omfatter bl.a. efterisolering, udskiftning af vinduer, opsætning af solcelleanlæg og konvertering til varmepumper. Energimærket viser typisk E-F, men kan forbedres til C ved implementering af energirenoveringer. Resuméet omfatter også råd til renovering, bæredygtig renovering og behovet for arkitektrådgivning. Energistyrelsen tilbyder yderligere information om energirenovering af 50'er-villaer på deres hjemmeside.",
+    "meta": {
+        "id": 15788134675565782032,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/bygningsguiden/50er-villa",
+        "title": "50'er-villa | Energistyrelsen",
+        "time_requested": "2024-04-16T11:53:24.799582",
+        "error": null,
+        "num_tokens_in": 7991,
+        "num_tokens_out": 329,
+        "estimated_input_cost_gpt4": 0.07991000000000001,
+        "estimated_output_cost_gpt4": 0.00987,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

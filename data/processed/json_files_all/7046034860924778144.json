@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en online platform kaldet \"SparEnergi\", hvor man kan indtaste sin adresse og få gode råd til energioptimering af sin bolig. Ved at indtaste sin adresse vil man få de tre mest effektive råd til energioptimering specifikt til ens adresse. Platformen tilbyder desuden personaliserede sparemål, hvor man kan indstille mål for strøm-, varme- og CO2-besparelser i sit hjem. Man kan også få gratis rådgivning og inspiration til at optimere energiforbruget i hverdagen. Energistyrelsen deler også information om energirenoveringspuljen og andre relevante emner om energibesparelse. Man kan besøge SparEnergi.dk for at få mere information og rådgivning om energioptimering i hjemmet.",
+    "meta": {
+        "id": 7046034860924778144,
+        "url": "https://ny.sparenergi.dk/vores-energiaftale",
+        "title": "Site under opdatering | Energistyrelsen",
+        "time_requested": "2024-04-16T11:58:09.622759",
+        "error": null,
+        "num_tokens_in": 363,
+        "num_tokens_out": 206,
+        "estimated_input_cost_gpt4": 0.0036300000000000004,
+        "estimated_output_cost_gpt4": 0.00618,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

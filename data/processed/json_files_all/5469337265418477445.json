@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har en platform kaldet \"Spar energi i hverdagen\", hvor man kan få gode råd til at spare energi og penge på strøm og varme. Der findes råd inden for forskellige kategorier som lys og lamper, vask og rengøring, streaming og elektronik, køkken og madlavning, varme og varmt vand m.m. På platformen kan man også finde aktuelle spareråd, som f.eks. at bruge mikroovn eller airfryer i stedet for ovn, tage kortere bade, vælge det rette vaskeprogram, skrue ens op på radiatorer, slukke for vandet under indsebning, bruge radio til baggrundslyd, slukke for unødvendigt strømforbrug og bruge strømmen når den er billigst. Der er også en \"strømpyramide\", som viser hvilke apparater der bruger mest strøm, så man kan se hvor man kan spare mest. Man kan også indtaste sin adresse og få et mere præcist overslag over elpriser i ens område. Der er desuden information om myter om energi, inspiration fra andre der har sparet energi derhjemme og mulighed for at se hvor meget el man bruger sammenlignet med andre. Man kan også få information om tilskudsmuligheder, renovering af bolig, skift af varmetype og meget mere. Platformen tilbyder også gratis rådgivning og har fokus på at give inspiration, viden og råd om energioptimering.",
+    "meta": {
+        "id": 5469337265418477445,
+        "url": "https://sparenergi.dk/vores-energiaftale/introduktion?destination=/privat/spar-energi-i-hverdagen%23module-188",
+        "title": "Our energy agreement | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:12.137074",
+        "error": null,
+        "num_tokens_in": 2477,
+        "num_tokens_out": 389,
+        "estimated_input_cost_gpt4": 0.02477,
+        "estimated_output_cost_gpt4": 0.01167,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

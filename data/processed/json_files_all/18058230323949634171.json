@@ -1,0 +1,15 @@
+{
+    "text": "På SparEnergi.dk kan du finde information om vigtigheden af at isolere dit kældergulv. Isolering af kældergulvet kan både spare penge på varmeregningen og skabe et mere behageligt indeklima. Ifølge energistyrelsen er det en god idé at isolere kældergulvet, hvis det har mindre end 100 mm isolering. Isolerer du dit kældergulv, får du varmere opholdsrum over kælderen, lavere varmeregning, øget værdi af huset samt et mere behageligt indeklima. Når du isolerer kældergulvet, bliver din kælder desuden varmere og mere egnet til opbevaring af ting, der er følsomme over for fugt og kulde. En isolering på omkring 275 mm anbefales for at overholde Bygningsreglementets krav, og isolering på 375 mm kan opnås for at opnå lavenerginiveau. Det bemærkes også, at gulvet skal brydes op under isoleringsprocessen. Det anbefales at bruge fagfolk for at undgå fejl i isoleringen og vandskader. Der gives også råd om at få gulvvarme, mens gulvet alligevel er opbrudt. Der er desuden krav og anbefalinger, der angiver, hvor meget isolering der kræves samt krav til U-værdien.",
+    "meta": {
+        "id": 18058230323949634171,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/energiloesninger/isolering-af-kaeldergulv",
+        "title": "Isolering af kældergulv",
+        "time_requested": "2024-04-16T11:55:57.830619",
+        "error": null,
+        "num_tokens_in": 2281,
+        "num_tokens_out": 356,
+        "estimated_input_cost_gpt4": 0.02281,
+        "estimated_output_cost_gpt4": 0.01068,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

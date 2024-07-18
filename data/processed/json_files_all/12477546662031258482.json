@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens indkøbsanbefalinger for kopimaskiner, printere og multifunktionsmaskiner version 3.0 er opdateret i december 2023 og gælder maskiner til kontor- og hjemmebrug, ikke til professionelt salg. Anbefalingerne er baseret på EU's standbyforordning og Energy Star-specifikationer. Der er krav til standbyforbrug for forskellige typer maskiner, og der er anbefalinger for energiforbrug baseret på maksimal hastighed. Maskiner skal have automatisk duplex for printning over visse hastigheder, og der er specifikke vejledninger for strømforbrug i forskellige tilstande (slukket, sleep mode). Anbefalingerne opfordrer til brug af EU's GPP-kriterier for grønne indkøb og totalomkostninger som tildelingskriterier ved udbud. Ældre versioner af indkøbsanbefalingerne er også tilgængelige. Energistyrelsen yder gratis rådgivning og giver gode råd om energioptimering af kopi- og printudstyr.",
+    "meta": {
+        "id": 12477546662031258482,
+        "url": "https://sparenergi.dk/offentlig-og-erhverv/indkoeb-og-adfaerd/indkoebsanbefalinger/kopimaskiner-og-printere-mv",
+        "title": "Kopimaskiner og printere m.v. | Energistyrelsen",
+        "time_requested": "2024-04-16T11:59:44.162358",
+        "error": null,
+        "num_tokens_in": 2763,
+        "num_tokens_out": 281,
+        "estimated_input_cost_gpt4": 0.027630000000000002,
+        "estimated_output_cost_gpt4": 0.00843,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

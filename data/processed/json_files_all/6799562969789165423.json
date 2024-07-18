@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen handler om fordelene ved at skifte til fjernvarme som opvarmningskilde. Fjernvarme benytter forskellige varmekilder til at distribuere varme gennem et fælles rørnet, og det beskrives som en billig og klimavenlig løsning med minimal vedligeholdelse. Fordelene inkluderer grøn og billig varme, minimal vedligeholdelse, klimavenlig kollektiv forsyning samt støjfri og pladsbesparende installation. Dog påpeges det, at der kan være stor forskel i pris og CO2-udledning afhængigt af lokationen. Installation af fjernvarme kræver, at der graves rørledninger på ejendommen, og ventetiden på tilslutning kan variere afhængigt af kommunens varmeplaner.\n\nArtiklen fortæller også om lovgivningen vedrørende tilslutningspligt til fjernvarme i visse områder og kravene i Bygningsreglementet ved installation af fjernvarme. Desuden gives der en vejledning i, hvordan installationen foregår trin for trin, herunder forberedelse, nedgravning af rørledninger og tilslutning af fjernvarmeanlægget. Efter installationen skal man sige farvel til det gamle varmeanlæg og blive bekendt med driften af det nye fjernvarmesystem.\n\nArtiklen råder også til at indstille og vedligeholde fjernvarmesystemet korrekt for at spare energi og om nødvendigt få tjekket systemet af en fagmand hvert andet år. Der gives også tips til skiftet til fjernvarme om sommeren, behovet for vandbåren varme i huset samt at anmelde den nye varmekilde til Bygnings- og Boligregistret. Slutteligt opfordres læseren til at kontakte godkendte virksomheder og få tilbud om fjernvarmeservice, mens der også henvises til yderligere information om renovering og andre energibesparende tiltag.",
+    "meta": {
+        "id": 6799562969789165423,
+        "url": "https://sparenergi.dk/tid-til-skifte-varmetype/skift-til-fjernvarme",
+        "title": "Fjernvarme | SparEnergi.dk",
+        "time_requested": "2024-04-16T11:58:59.491661",
+        "error": null,
+        "num_tokens_in": 2394,
+        "num_tokens_out": 515,
+        "estimated_input_cost_gpt4": 0.023940000000000003,
+        "estimated_output_cost_gpt4": 0.01545,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

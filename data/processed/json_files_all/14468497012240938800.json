@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen omhandler forskellige måder at spare energi på i forbindelse med brug af varmt vand. Ca. 1/3 af energiforbruget til opvarmning går til at opvarme brugsvand, primært badevand. Artiklen giver gode vaner til at spare på varmt vand såsom at tage kortere bade, sænke temperaturen i badet, slukke for vandet når man sæber sig ind, skifte til en sparebruser, tage færre bade, bruge en perlator og vandbegrænser, vaske hænder i koldt vand, undlade at skylle service inden opvaskemaskinen og holde det varme vand på 55 °C. Der gives også råd om at bruge eco-programmet på opvaskemaskinen, fylde maskinen helt op, og droppe karbadet. Der nævnes desuden, at det er vigtigt at stoppe løbende vand på haner og toiletter for at spare vand og penge. Det anbefales at aflæse vandmåleren regelmæssigt og få en vandalarm installeret for at opdage unormalt højt vandforbrug. Der er også et afsnit om myter omkring at skrue ned for temperaturen i varmtvandsbeholderen. Endelig gives der råd om at vælge en effektiv vandvarmer og varmtvandsbeholder, baseret på energimærkning. Artiklen slutter med information om prisen på varmt og koldt vand samt et link til yderligere rådgivning om energibesparelse.",
+    "meta": {
+        "id": 14468497012240938800,
+        "url": "https://sparenergi.dk/forbruger/boligen/vandforbrug/fakta-om-vandforbrug",
+        "title": NaN,
+        "time_requested": "2024-04-16T11:57:06.717264",
+        "error": null,
+        "num_tokens_in": 3045,
+        "num_tokens_out": 404,
+        "estimated_input_cost_gpt4": 0.03045,
+        "estimated_output_cost_gpt4": 0.01212,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

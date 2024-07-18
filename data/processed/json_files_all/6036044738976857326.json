@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen giver gode råd til at spare på elregningen med gode energivaner. Man opfordres til at være opmærksom på, hvad man bruger strøm til og hvornår man bruger den. Man kan flytte elforbruget til tidspunkter med laveste pris for el, hvis man har en aftale med variabel elpris. Der nævnes konkrete råd såsom at fylde vaskemaskinen op, vaske tøj på lavere temperaturer, hænge tøjet til tørre i stedet for at bruge tørretumbler, slukke lyset i rum man ikke opholder sig i, justere temperaturen i køleskab og fryser, fylde opvaskemaskinen helt op og slukke for standbyforbrug. Der gives også eksempler på de årlige besparelser ved at følge disse råd. Energistyrelsen oplyser desuden om, hvordan man kan tilmelde sig deres nyhedsmail for at modtage flere tips til at spare energi.",
+    "meta": {
+        "id": 6036044738976857326,
+        "url": "https://sparenergi.dk/forbruger/el/dit-elforbrug/gode-energivaner",
+        "title": "Gode energivaner | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:32.981637",
+        "error": null,
+        "num_tokens_in": 2064,
+        "num_tokens_out": 257,
+        "estimated_input_cost_gpt4": 0.020640000000000002,
+        "estimated_output_cost_gpt4": 0.00771,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

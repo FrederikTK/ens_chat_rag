@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har samlet en række gode råd til at spare energi i hverdagen. Disse inkluderer at bruge mikroovn eller airfryer i stedet for ovn for at spare op til 70% af elforbruget, at tage kortere brusebade for at spare op til 4.500 kr./år for en familie på 4 personer, og at vælge det rigtige vaskeprogram på vaskemaskinen for at optimere vand- og elforbruget. Derudover anbefales det at skrue lige højt op på radiatorer og at slukke for vandet, når man sæber sig ind for yderligere energibesparelse. Det anbefales også at bruge radio til baggrundslyd frem for tv eller computer, samt at slukke for unødvendigt strømforbrug i boligen. Energistyrelsen opfordrer også til at bruge strømmen, når den er billigst, da prisen for strøm kan variere afhængigt af tidspunktet på dagen. Der findes desuden en række myter om energibesparelse, og Energistyrelsen tilbyder også muligheden for at sammenligne sit elforbrug med andre boliger for at få et indblik i forbrugsmønstre. Energistyrelsen tilbyder desuden inspiration og viden om energibesparelse, tilskudsordninger til energirenoveringer, valg af varmekilder og tilbyder gratis rådgivning. Energistyrelsens SparEnergi-initiativ har til formål at inspirere, informere og rådgive om energibesparelse.",
+    "meta": {
+        "id": 15265340148208194561,
+        "url": "https://sparenergi.dk/forbruger/el/dit-elforbrug/typisk-elforbrug",
+        "title": "Typisk elforbrug | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:17.513727",
+        "error": null,
+        "num_tokens_in": 2477,
+        "num_tokens_out": 399,
+        "estimated_input_cost_gpt4": 0.02477,
+        "estimated_output_cost_gpt4": 0.01197,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

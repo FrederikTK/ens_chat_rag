@@ -1,0 +1,15 @@
+{
+    "text": "Energi- og CO2-regnskabet for ministerier kan findes under energieffektivitetsplaner, hvor ministerier med bygninger omfattet af cirkulærets energispareforpligtelser skal udarbejde en energieffektivitetsplan for perioden 2021-2030. Den første energieffektivitetsplan blev rapporteret i 2022 og vil blive opdateret hvert andet år frem til 2030. Planerne inkluderer en frivillig udfasning af olie- og gasfyr i bygninger omfattet af planerne, henholdsvis inden 2025 og 2030. Data trækkes fra databasen \"Offentligt Energiforbrug\" (OEF-databasen). Reglerne for indsatsen og ministeriernes energieffektivitetsplaner er beskrevet i cirkulæret om energieffektivisering i statens institutioner og tilhørende vejledning.",
+    "meta": {
+        "id": 13490170274972859248,
+        "url": "https://ny.sparenergi.dk/ee-plan",
+        "title": "EE-PLAN | Energistyrelsen",
+        "time_requested": "2024-04-16T11:58:36.088499",
+        "error": null,
+        "num_tokens_in": 689,
+        "num_tokens_out": 241,
+        "estimated_input_cost_gpt4": 0.00689,
+        "estimated_output_cost_gpt4": 0.00723,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

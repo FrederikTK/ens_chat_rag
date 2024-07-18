@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen oplyser, at man kan spare en stor del energiforbrug ved at vaske tøj ved lavere temperaturer. Nogle råd til energivenlig tøjvask inkluderer at springe en vask over, vaske ved lavere temperaturer, fylde maskinen helt op, vælge det rigtige vaskeprogram, undlade forvask og kogevask, og vaske når strømmen er billigst. Det anbefales også at reparere hvidevarer istedet for at købe nyt, hvis det kan betale sig, og når man skal købe ny vaskemaskine, skal man se efter energimærke, årligt vand- og elforbrug og ikke købe en større maskine end nødvendigt. Man bør undgå kombimaskiner og bruge onlineværktøjet 'Hele prisen' for at sammenligne totaløkonomien for vaskemaskiner. Energistyrelsen oplyser også om standbyforbrug, smart styring af vaskemaskiner og hvordan man skal skrotte sine maskiner korrekt. Til sidst anbefales det at følge gode energivaner for at spare energi på diverse apparater i hjemmet.",
+    "meta": {
+        "id": 15851153239477332401,
+        "url": "https://sparenergi.dk/spar-energi-i-hverdagen/spar-energi-naar-du-vasker-toej",
+        "title": "Tøjvask | SparEnergi.dk",
+        "time_requested": "2024-04-16T11:55:38.049409",
+        "error": null,
+        "num_tokens_in": 2875,
+        "num_tokens_out": 294,
+        "estimated_input_cost_gpt4": 0.02875,
+        "estimated_output_cost_gpt4": 0.00882,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om at få gratis strøm fra solceller. Med solceller kan man producere sin egen klimavenlige strøm og spare penge på elregningen. Hvis man producerer mere strøm, end man bruger, kan overskuddet sendes ud i elnettet, og man kan tjene penge på det. For at kunne installere solceller kræves det, at det er tilladt i lokalplanen, og at man har et tag eller en facade, der er stort og stærkt nok. Solceller er en god idé, da man sparer penge på elregningen, reducerer CO2-udledningen, har en lang levetid med minimal vedligeholdelse og kan blive mere opmærksom på energiforbrug. Der er dog en række ting at overveje, fx at solceller er synlige og kræver plads, at man skal selv bruge strømmen, man producerer, og at man skal overholde visse lovkrav. Processen med at få solceller indebærer blandt andet at undersøge, om man må installere solceller, forberede installationen, få solcellerne sat op, tilmelde og tilslutte dem samt efterfølgende vedligeholde og eventuelt sælge overskudsstrøm. Energistyrelsen opfordrer til at tjekke elforbruget, få flere tilbud fra VE-godkendte installatører, kontakte netselskabet, sikre, at taget kan bære solcellerne, og lave en kontrakt med installatøren. Man kan regne med at spare mellem 2.500-7.000 kr. om året med solceller, og hvis man sælger overskudsstrøm, skal beløb over 7.000 kr. indberettes til SKAT. Energistyrelsen giver også information om, hvordan man sælger strømmen, afregner salget og indberetter til SKAT. Der er desuden cases, vejledninger og andre renoveringsmuligheder tilgængelige på Energistyrelsens hjemmeside SparEnergi.dk.",
+    "meta": {
+        "id": 13340071517112276092,
+        "url": "https://old.sparenergi.dk/forbruger/el/solceller",
+        "title": "Solceller | Energistyrelsen",
+        "time_requested": "2024-04-16T11:51:23.507968",
+        "error": null,
+        "num_tokens_in": 4552,
+        "num_tokens_out": 512,
+        "estimated_input_cost_gpt4": 0.045520000000000005,
+        "estimated_output_cost_gpt4": 0.01536,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

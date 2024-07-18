@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside indeholder information om energimærkning af bygninger rettet mod både offentlige og erhvervsmæssige aktører samt forbrugere. På siden omhandler de bl.a. emner som isolering, vinduer, ventilation, varmeforbrug, skift af varmesystemer, energimærkning af varmeanlæg, ventilation på kontorer og varmepumper. Der gives gode råd om at reducere strømforbrug til ventilation, herunder at reducere driftstiden, justere luftmængder, etablere varmegenvinding og regulere luftmængder efter behov. Der er fokus på at optimere driften af ventilationsanlæg samt at udskifte gamle og ineffektive anlæg for at opnå energibesparelser og CO2-reduktion. Energistyrelsen oplyser om energiforbruget i forskellige brancher, potentiale for energibesparelser og analyser på området. Der gives desuden mulighed for at tilmelde sig nyhedsmails med relevante opdateringer til erhvervsvirksomheder.",
+    "meta": {
+        "id": 8393093448871162968,
+        "url": "https://sparenergi.dk/erhverv/kontor/varme",
+        "title": "Varme | Energistyrelsen",
+        "time_requested": "2024-04-16T11:58:44.581416",
+        "error": null,
+        "num_tokens_in": 2275,
+        "num_tokens_out": 283,
+        "estimated_input_cost_gpt4": 0.022750000000000003,
+        "estimated_output_cost_gpt4": 0.008490000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

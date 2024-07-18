@@ -1,0 +1,15 @@
+{
+    "text": "Informationen omhandler skift til en luft til vand-varmepumpe som en billig, klimavenlig og driftssikker måde at opvarme både huset og vandet på. En varmepumpe er især velegnet, hvis man bor i områder uden fjernvarme. Der gives også information om muligheden for at få tilskud til varmepumpe eller have den på abonnement for at undgå større investeringer. Forudsætningerne for installationen inkluderer vandbårne radiatorer eller gulvvarme samt plads til en udedel, der overholder bestemte støjgrænser. Fordelene ved en luft til vand-varmepumpe inkluderer minimalt strømforbrug, klimavenlig energi, minimal vedligeholdelse og muligheden for abonnement. Der er også information om lovgivningsmæssige krav, herunder en minimum SCOP-værdi, årligt eftersyn og maksimal støjniveau. Installationen kræver typisk 1-2 dage, og det nævnes, at der kan være behov for ekstra radiatorer, især hvis man har elradiatorer. Desuden gives der information om tilskud fra Skrotningsordningen og reduceret elafgift samt vejledning om valg af leverandør og installation af varmepumpen. Ma etab evaluere virksomheden for at sikre, at leverandøren overholder lovkrav og har erfaring med den pågældende varmepumpe.",
+    "meta": {
+        "id": 6816177818253452144,
+        "url": "https://sparenergi.dk/tid-til-skifte-varmetype/skift-til-luft-til-vand-varmepumpe",
+        "title": "Luft til vand-varmepumpe | SparEnergi.dk",
+        "time_requested": "2024-04-16T11:49:06.376934",
+        "error": null,
+        "num_tokens_in": 3628,
+        "num_tokens_out": 371,
+        "estimated_input_cost_gpt4": 0.03628,
+        "estimated_output_cost_gpt4": 0.011130000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

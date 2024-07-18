@@ -1,0 +1,15 @@
+{
+    "text": "Informationen omhandler energivejledning vedrørende ydervægge i ældre parcelhuse fra 1960-76. Der redegøres for forskellige typer af ydervægskonstruktioner, såsom tunge vægge (murede ydervægge) og lette vægge (ydervægge af træ). Der gives råd om vedligeholdelse af disse ydervægge, herunder hvordan man håndterer revner, huller og pudslag. Derudover gives forslag til forbedringer af isoleringen af disse ydervægge, enten ved hulmursisolering, indvendig isolering eller udvendig isolering. Der opfordres også til at holde jord og terrænbeplantning væk fra facaden for at undgå fugtproblemer. Der refereres også til filmeksempler, hvor energirenoveringer af ydervægge er udført, samt eksempler på cases med totalrenovering, isolering, solceller og udskiftning af døre og vinduer i ældre typehuse. Endelig opfordres der til at undersøge muligheder for tilskud til energirenoveringer.",
+    "meta": {
+        "id": 2686937652320794737,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/bygningsguiden/parcelhus-1960-76/ydervaegge",
+        "title": "Ydervægge | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:01.027775",
+        "error": null,
+        "num_tokens_in": 6352,
+        "num_tokens_out": 298,
+        "estimated_input_cost_gpt4": 0.06352000000000001,
+        "estimated_output_cost_gpt4": 0.00894,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

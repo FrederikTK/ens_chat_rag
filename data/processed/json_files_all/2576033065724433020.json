@@ -1,0 +1,15 @@
+{
+    "text": "SparEnergi.dk indeholder information om hvordan man kan spare energi på belysning. De bedste råd inkluderer at skifte alle pærer til LED, slukke lyset når det ikke er i brug og bruge bevægelsessensorer eller timere til automatisk styring af lys. Det anbefales at bruge LED-pærer, da de bruger 4-5 gange mindre strøm end glødepærer og halogenpærer. Der gives også råd om valg af LED-lys, herunder at vælge de rigtige energimærker, typer af LED, overveje dæmpning og tjekke om pæren kan skiftes. Desuden gives der information om valg af lysstofrør og LED-lysrør samt lyskæder. Det fremhæves at LED-lyskæder bruger mindre strøm og holder længere end glødepærer, og det anbefales at tænke på elforbruget og miljøet ved valg af lyskæder. Informationen inkluderer også affaldssortering af gamle pærer og lysrør på genbrugsstationer, samt forklaring på hvorfor det er vigtigt at aflevere dem korrekt. Hjemmesiden indeholder også cases og anden information om energibesparelse i hverdagen.",
+    "meta": {
+        "id": 2576033065724433020,
+        "url": "https://sparenergi.dk/forbruger/el/belysning/lysstofror-og-led-lysror",
+        "title": "Lysstofrør og LED-lysrør | Energistyrelsen",
+        "time_requested": "2024-04-16T11:49:11.845065",
+        "error": null,
+        "num_tokens_in": 3636,
+        "num_tokens_out": 326,
+        "estimated_input_cost_gpt4": 0.03636,
+        "estimated_output_cost_gpt4": 0.00978,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

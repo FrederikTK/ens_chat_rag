@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen omhandler gode råd om køb af elektriske apparater til madlavning og fokuserer på opvaskemaskiner, ovne i komfurer, og emhætter. \n\nNår det kommer til opvaskemaskiner, anbefales det at vælge en med energimærke B eller C, da det som regel er bedst for både miljøet og økonomien at beholde en fungerende opvaskemaskine i op til 25 år. Ved køb af en ny opvaskemaskine, bør man også kigge efter energi- og vandforbrug samt støjniveau. En effektiv opvaskemaskine bruger omkring 8 liter vand pr. opvask og har et støjniveau under 40 dB.\n\nNår det gælder ovne og komfurer, anbefales det at vælge en indbygningsovn eller et komfur med ovnen i energiklasse A+ eller bedre. Det anbefales også at vælge induktionskogeplader, da de er mest energieffektive. Emhætter bør have energimærke A eller A+ med klasse B eller bedre i fedtfiltrering. Det er også vigtigt at vælge en emhætte med et passende støjniveau, typisk liggende mellem 50-70 dB.\n\nDer nævnes også information om smarte apparater, som er apparater der kan forbindes til netværk og styres via en app. Disse apparater kan have et højere standbyforbrug på grund af deres netværksforbindelse. Standbyforbruget for smarte apparater, der er kommet på markedet efter den 1. januar 2019, bør dog ikke overstige 2 watt pga. EU-krav.\n\nArtiklen opfordrer til at tænke på totaløkonomien, både ved anskaffelse og brug af apparater, for at træffe det mest miljøbevidste valg. Energimærkning kan hjælpe forbrugere med at identificere de mest energieffektive produkter på markedet.",
+    "meta": {
+        "id": 4155526768784570968,
+        "url": "https://sparenergi.dk/forbruger/el/madlavning/madlavning-gode-rad-om-kob",
+        "title": "Madlavning - gode råd om køb | Energistyrelsen",
+        "time_requested": "2024-04-16T11:58:51.017097",
+        "error": null,
+        "num_tokens_in": 2107,
+        "num_tokens_out": 518,
+        "estimated_input_cost_gpt4": 0.021070000000000002,
+        "estimated_output_cost_gpt4": 0.01554,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

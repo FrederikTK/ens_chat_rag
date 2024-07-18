@@ -1,0 +1,15 @@
+{
+    "text": "Den tilgængelige information handler om vask og rengøring i forbindelse med energimærkning af bygninger. Energistyrelsen tilbyder information til forbrugere om vask og rengøring af en række husholdningsapparater, såsom vaskemaskiner, tørretumblere og støvsugere. Der oplyses også om energiforbrug og energimærkning af disse apparater samt andre relevante emner som isolering, vinduer, ventilation, varmetyper osv. Energistyrelsens adresse er Carsten Niebuhrs Gade 43, 1577 København V, og de har hjemmesiden www.ens.dk. Energistyrelsen tilbyder desuden en nyhedsmail, som man kan tilmelde sig for at modtage information om energibesparelser.",
+    "meta": {
+        "id": 16801233566530896320,
+        "url": "https://sparenergi.dk/forbruger/el/vask-og-rengoering",
+        "title": "Vask og rengøring | Energistyrelsen",
+        "time_requested": "2024-04-16T11:48:55.121633",
+        "error": null,
+        "num_tokens_in": 935,
+        "num_tokens_out": 200,
+        "estimated_input_cost_gpt4": 0.00935,
+        "estimated_output_cost_gpt4": 0.006,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

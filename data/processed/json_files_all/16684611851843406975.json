@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens hjemmeside \"SparEnergi\" opfordrer boligejere til at isolere deres skunkrum for at opnå energibesparelser og forbedre indeklimaet i deres bolig. Hvis der er mindre end 175 mm isolering i skunken, anbefales det at tilføje ekstra isolering. Isolering af skunken bidrager til et lunere indeklima med færre træk og kuldeindfald samt reducerer varmetab, hvilket resulterer i lavere varmeregninger. Derudover kan skunkrummet anvendes til opbevaring ved at placere brædder over isoleringen.\n\nFor at opnå bedre energieffektivitet anbefales det at have minimum 300 mm isolering på både den lodrette og vandrette flade i skunken. Hvis skunken skal være opvarmet, kræves også 300 mm isolering på tagfladen. Energistyrelsen opfordrer endda til at isolere skunken med 400 mm isolering for at opnå lavenerginiveau og maksimere økonomiske besparelser på lang sigt.\n\nHjemmesiden giver også råd til udførelsen af isoleringsarbejdet med trin-for-trin instruktioner samt anbefaler at bruge fagfolk for at undgå skader som råd og svamp. Desuden nævnes vigtigheden af at ventilere isoleringen korrekt og tjekke isoleringen af eventuelle varmerør i skunken. Energistyrelsen opfordrer til at følge vejledningen nøje og for at sikre korrekt udførelse af arbejdet.\n\nEndelig oplyses det, at isolering af skunken er en af de mere overkommelige energirenoveringer, da skunken er et mindre rum og sjældent kræver større ombygninger. Energistyrelsens hjemmeside tilbyder yderligere information om andre energirenoveringsmuligheder samt links til fagfolk og eksperter inden for området.",
+    "meta": {
+        "id": 16684611851843406975,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/energiloesninger/isolering-af-skunk",
+        "title": "Isolering af skunk",
+        "time_requested": "2024-04-16T11:58:27.023033",
+        "error": null,
+        "num_tokens_in": 2575,
+        "num_tokens_out": 498,
+        "estimated_input_cost_gpt4": 0.025750000000000002,
+        "estimated_output_cost_gpt4": 0.01494,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

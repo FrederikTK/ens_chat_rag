@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en søgefunktion, hvor man kan finde statistik på bygningers energimærker. Man kan vælge bygningstype (fx parcelhus, etageejendomme, etc.), opvarmningsform (fx biobrændsel, fjernvarme, elvarme, etc.) og byggeår. Der findes forskellige periodeinddelinger for byggeår. Energistyrelsen har desuden oplysninger om Energibarometeret, partnersamarbejder og mulighed for tilmelding til nyhedsmail. Energistyrelsens adresse er Carsten Niebuhrs Gade 43, 1577 København V. Der henvises til SparEnergi.dk for yderligere information og værktøjer til energibesparelser.",
+    "meta": {
+        "id": 5683492634258923001,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/find-statistik-paa-danmarks-energimaeker",
+        "title": "Find statistik på Danmarks energimærker | Energistyrelsen",
+        "time_requested": "2024-04-16T11:52:02.023715",
+        "error": null,
+        "num_tokens_in": 1082,
+        "num_tokens_out": 192,
+        "estimated_input_cost_gpt4": 0.010820000000000001,
+        "estimated_output_cost_gpt4": 0.00576,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Resumé:\nArtiklen omhandler information om fordelene ved at skifte til fjernvarme som opvarmningskilde i boliger. Fjernvarme er et driftssikkert og klimavenligt alternativ, især hvis man i forvejen opvarmer med olie eller naturgas. Følgende fordele nævnes: klimavenlig opvarmning, stigning i boligens værdi, samt økonomiske besparelser (op til 3.100 kr./år for et typisk 130 m2 hus ved skift fra naturgas). Der gives råd om at følge tilslutningsbestemmelser, vælge virksomhed fra Fjernvarmens Serviceordning, skifte om sommeren, aftale årligt serviceeftersyn og kontakte det lokale fjernvarmeværk. Der beskrives også, hvordan fjernvarme fungerer, installation af fjernvarme, samt tips til valg af håndværkere og energirigtige løsninger. Endeemnet behandles grundigt, og der henvises til yderligere information på Energistyrelsens hjemmeside.",
+    "meta": {
+        "id": 13663358110461334206,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/energiloesninger/skift-til-fjernvarme",
+        "title": "Skift til fjernvarme",
+        "time_requested": "2024-04-16T11:52:53.876426",
+        "error": null,
+        "num_tokens_in": 4305,
+        "num_tokens_out": 274,
+        "estimated_input_cost_gpt4": 0.043050000000000005,
+        "estimated_output_cost_gpt4": 0.00822,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Informationen handler om energirenovering af udlejningsejendomme for at gøre dem mere attraktive, billigere i drift, give bedre komfort og indeklima samt fremtidssikre ejendommen. Der gives råd om, hvordan udlejere og lejere kan finansiere energiforbedringer uden konflikter, herunder model 1: at forhøje huslejen, hvor lejere høster energibesparelserne, og model 2: at fastfryse huslejen, hvor udlejer høster besparelserne. Der opfordres til dialog med lejerne og at indgå kompromisser for at finde løsninger, der passer for begge parter. Desuden nævnes vigtigheden af individuelle energimålere for at skabe incitament til energibesparelse, samt betydningen af en velformuleret lejekontrakt, der fastlægger finansiering af forbedringer, ansvar for vedligeholdelse og installationer, og ejerskab af byggetekniske installationer. Informationen er udgivet af Energistyrelsen og henvender sig primært til udlejere og lejere af bygninger med henblik på energieffektivisering.",
+    "meta": {
+        "id": 17183102008465833986,
+        "url": "https://sparenergi.dk/erhverv/vaerktojer/ejer-lejer/udlejer",
+        "title": "Udlejer | Energistyrelsen",
+        "time_requested": "2024-04-16T11:59:05.694653",
+        "error": null,
+        "num_tokens_in": 2920,
+        "num_tokens_out": 308,
+        "estimated_input_cost_gpt4": 0.029200000000000004,
+        "estimated_output_cost_gpt4": 0.00924,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

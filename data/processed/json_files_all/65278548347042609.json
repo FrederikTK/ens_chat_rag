@@ -1,0 +1,15 @@
+{
+    "text": "På Energistyrelsens hjemmeside kan man finde information om det offentlige energiforbrug. Der er to målsætninger for det offentlige: Energieffektiviseringsdirektivets mål, hvor den statslige forvaltnings bygningsmasse skal energieffektivisere med 42.480 MWh fra 2020 til 2030, og det nationale mål, hvor de statslige institutioner skal reducere energiforbruget med 10% i 2030 sammenlignet med 2020. Energimærker bruges som indikator for bygningernes energitilstand. Data for energiforbrug i 2022 viser udviklingen i el-, varme- og vandforbrug siden 2017. Der er også information om ministeriernes vand- og energiforbrug samt mulighed for at arbejde videre med dataen ved at downloade datagrundlaget. Energistyrelsen opfordrer det offentlige til at gå forrest i arbejdet med at nedbringe energiforbruget og tilbyder information, målsætninger og rådgivning på deres hjemmeside SparEnergi.dk.",
+    "meta": {
+        "id": 65278548347042609,
+        "url": "https://old.sparenergi.dk/offentlig/vaerktoejer/offentligt-energiforbrug/almene-gymnasier",
+        "title": "Almene gymnasier - Offentligt Energiforbrug - Sparenergi.dk",
+        "time_requested": "2024-04-16T11:58:48.925171",
+        "error": null,
+        "num_tokens_in": 1876,
+        "num_tokens_out": 281,
+        "estimated_input_cost_gpt4": 0.018760000000000002,
+        "estimated_output_cost_gpt4": 0.00843,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

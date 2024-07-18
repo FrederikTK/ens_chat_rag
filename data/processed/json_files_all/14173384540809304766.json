@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen giver gode råd til at spare energi på tv og spillekonsoller. Nogle af de bedste tips inkluderer at skrue ned for lysstyrken på tv'et, se mindre fjernsyn, slukke på stikkontakten når færdig med at bruge tv og spillekonsol, og undgå at have flere skærme kørende samtidigt. Der er også råd til køb af energibesparende tv, som at vælge tv med energimærke F eller bedre, LED- eller OLED-tv, samt at se efter miljømærker som Blomsten og Svanen. Når det kommer til spillekonsoller, anbefales det at slukke dem, når de ikke bruges, da de bruger meget strøm. Energistyrelsen giver også råd om reparation af tv, hvor det som regel kan betale sig at reparere i stedet for at købe nyt. Desuden afkræfter de myten om, at tv tager skade af at blive slukket på kontakten, og anbefaler at tilslutte mange apparater til ét stik, som kan slukkes let.\n\nKilde: https://sparenergi.dk/vaerktoejer-og-tilskud/vaerktoejer/hele-prisen-og-tv-en/",
+    "meta": {
+        "id": 14173384540809304766,
+        "url": "https://sparenergi.dk/forbruger/el/it-og-elektronik/film-og-tv",
+        "title": "Film og tv | Energistyrelsen",
+        "time_requested": "2024-04-16T11:52:11.668356",
+        "error": null,
+        "num_tokens_in": 2372,
+        "num_tokens_out": 322,
+        "estimated_input_cost_gpt4": 0.02372,
+        "estimated_output_cost_gpt4": 0.00966,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

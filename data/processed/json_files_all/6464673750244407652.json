@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om energimærkning af bygninger til forbrugere, offentlige institutioner og virksomheder. På hjemmesiden kan man finde vejledning om energikrav i bygningsreglementet, tilskud til energiforbedringer, isolering, vinduer, ventilation, intelligent styring, varmesystemer (naturgas, fjernvarme, varmepumper, m.m.), elforbrug, energimærkning af apparater, og meget mere.\n\nDerudover tilbyder Energistyrelsen også information om energimærkning af offentlige bygninger, renovering af bygninger, ESCO, energirådgivning, samt specifikke energiløsninger for forskellige typer af virksomheder som engrosvirksomheder, hoteller, restauranter, kontorer, industri og produktion, handel og service, landbrug osv.\n\nHjemmesiden indeholder desuden værktøjer som håndværkerliste, VE-virksomhedssøgning, energimærkefinding, energimærkningsfirmaer, bedre boliginformation, bygningsguiden, låneberegner, varmepumpeliste, apparatberegner, elforbrugsberegner, elpriser og meget mere.\n\nEnergistyrelsen oplyser også om en ny version af hjemmesiden, som er under udvikling, og derfor kan der forekomme lidt rod på det gamle site. Der opfordres til at rydde din cache i browserens historik for at få adgang til det nye site på sparenergi.dk.",
+    "meta": {
+        "id": 6464673750244407652,
+        "url": "https://sparenergi.dk/login/password",
+        "title": "Log ind | Energistyrelsen",
+        "time_requested": "2024-04-16T11:49:06.117546",
+        "error": null,
+        "num_tokens_in": 762,
+        "num_tokens_out": 388,
+        "estimated_input_cost_gpt4": 0.007620000000000001,
+        "estimated_output_cost_gpt4": 0.011640000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

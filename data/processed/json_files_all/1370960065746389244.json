@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om energimærkning af bygninger, herunder fokus på renovering af bungalower. En bungalow er beskrevet som et lille, kvadratisk og kompakt hus med pyramidetag, udformet ud fra funktionalismens principper, der prioriterer funktion frem for æstetik. Typisk blev bungalower opført i perioden 1930-1945 og har energimærke G eller C efter eventuelle energirenoveringer.\n\nInformationen på hjemmesiden omfatter også typiske energiforbedringer anbefalet til bungalower, såsom isolering af loft, etageadskillelse, hulmursisolering og udskiftning/energiforbedring af vinduer. Der gives også råd om at optimere opvarmningsformer og varmesystemer samt om gode energivaner for at reducere energiforbruget. Hjemmesiden opfordrer til at søge tilskud til energibesparende renoveringer og rådgiver omkonvertering til mere energieffektive løsninger som varmepumper.\n\nDer gives desuden en guide til renoveringsprocessen, herunder fordele ved energirenovering, forberedelse af renoveringen, gennemførelse af renoveringen og drift samt adfærd efter renoveringen. Hjemmesiden fremhæver vigtigheden af en bæredygtig renoveringsproces, der tænker langsigtet og omfatter miljømæssig, social og økonomisk kvalitet. Derudover gives der konkrete råd om valg af materialer, affaldshåndtering samt tiltag for at opnå et godt indeklima, sikkerhed og klimasikring.\n\nEndvidere berøres arkitektoniske aspekter af bungalowen, dens opbygning, materialer, bygningsdele, energiforsyning og elinstallationer. Hjemmesiden råder også til at inddrage en arkitekt i renoveringsprocessen for at sikre bevarelse af husets stil samt forhandle med håndværkere og træffe de rette beslutninger. Samlet set tilbyder Energistyrelsens hjemmeside en omfattende guide til energirenovering af bungalower med fokus på energibesparelser og bæredygtighed.",
+    "meta": {
+        "id": 1370960065746389244,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/bygningsguiden/bungalow",
+        "title": "Bungalow | Energistyrelsen",
+        "time_requested": "2024-04-16T11:58:11.971325",
+        "error": null,
+        "num_tokens_in": 7650,
+        "num_tokens_out": 573,
+        "estimated_input_cost_gpt4": 0.07650000000000001,
+        "estimated_output_cost_gpt4": 0.01719,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

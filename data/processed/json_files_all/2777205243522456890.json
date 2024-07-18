@@ -1,0 +1,15 @@
+{
+    "text": "Energikrav til sommerhuset kræver, at man lever op til Bygningsreglementet for at minimere energiforbruget og bidrage til klimabeskyttelse. Når man renoverer sommerhuset, er det ens ansvar at sikre, at det opfylder energikravene, f.eks. ved at skifte tag eller vinduer. Reglen siger, at man kun skal overholde kravene, hvis det er økonomisk rentabelt - altså hvis besparelserne opvejer omkostningerne. Der opfordres til at overholde minimumskravene, selvom det ikke umiddelbart er rentabelt, da energieffektiv renovering altid er en god idé på lang sigt. Minimumskravene inkluderer A-mærkede vinduer, mindst 250 mm isolering i loftet og taget, mindst 150 mm isolering i ydervægge og en A+ varmepumpe. Man kan også vælge at få udført en varmetabsberegning for at dokumentere lavere varmebehov, hvis arealet af vinduer og yderdøre i sommerhuset er over 30%. Energistyrelsen tilbyder gratis rådgivning og inspiration til energioptimering.",
+    "meta": {
+        "id": 2777205243522456890,
+        "url": "https://sparenergi.dk/forbruger/boligen/bygningsreglementets-energikrav/energikrav-til-sommerhuset",
+        "title": "Energikrav til sommerhuset | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:54.993858",
+        "error": null,
+        "num_tokens_in": 995,
+        "num_tokens_out": 312,
+        "estimated_input_cost_gpt4": 0.00995,
+        "estimated_output_cost_gpt4": 0.00936,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

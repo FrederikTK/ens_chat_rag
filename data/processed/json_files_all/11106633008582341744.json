@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har en hjemmeside kaldet SparEnergi.dk, der indeholder information om energiforbrug og energiløsninger til både hjemmet og arbejdspladsen. På hjemmesiden kan man finde spareråd, information om forskellige typer varme, elpriser, myter om energibesparelse, solceller og gratis rådgivning fra energirådgivere. Der er desuden mulighed for at regne på skift af varmetype og se elpriser løbende. Energistyrelsen oplyser også om de stigende energipriser på gas og el og tilbyder en nyhedsmail med spareråd. Man kan kontakte Energistyrelsen på deres adresse i København eller besøge deres hjemmeside for mere information.",
+    "meta": {
+        "id": 11106633008582341744,
+        "url": "https://old.sparenergi.dk",
+        "title": "Energistyrelsen |",
+        "time_requested": "2024-04-16T11:47:57.968232",
+        "error": null,
+        "num_tokens_in": 1639,
+        "num_tokens_out": 191,
+        "estimated_input_cost_gpt4": 0.016390000000000002,
+        "estimated_output_cost_gpt4": 0.00573,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

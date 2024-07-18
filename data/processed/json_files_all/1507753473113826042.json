@@ -1,0 +1,15 @@
+{
+    "text": "Teksten handler om valg af den rette varmepumpemodel. Den forklarer vigtigheden af at vælge en model, der passer til behovet og forklarer, at en varmepumpe er mere energieffektiv end andre varmekilder såsom elvarme, oliefyr og træpillefyr. Der præsenteres en liste over forskellige varmepumper, der er testet af et uafhængigt laboratorium og sammenlignes baseret på faktorer som effektivitet og støjniveau. Teksten opfordrer brugerne til at vælge et produkt fra denne liste eller sikre, at det valgte produkt er testet af et uafhængigt laboratorium for at sikre kvalitet og effektivitet. Der gives også information om vigtige faktorer såsom størrelse, model og energimærke, som man bør overveje, når man vælger en varmepumpe. Endvidere tilbydes gratis rådgivning for at hjælpe med at træffe det rigtige valg. Til sidst opfordres brugerne til at læse yderligere om energibesparelse og renovering samt at kontakte energirådgivere for spørgsmål om energioptimering.",
+    "meta": {
+        "id": 1507753473113826042,
+        "url": "https://sparenergi.dk/tid-til-skifte-varmetype/vaelg-den-rette-varmepumpemodel",
+        "title": "Vælg varmepumpemodel | SparEnergi.dk",
+        "time_requested": "2024-04-16T11:50:11.506139",
+        "error": null,
+        "num_tokens_in": 4461,
+        "num_tokens_out": 307,
+        "estimated_input_cost_gpt4": 0.044610000000000004,
+        "estimated_output_cost_gpt4": 0.00921,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsens indkøbsanbefalinger indebærer brug af energieffektive produkter for at spare penge på energiforbruget i hele produktets levetid. Anbefalingerne omfatter forskellige kategorier af produkter:\n\n1. Tjenesteydelser: Stil krav om energieffektive produkter ved ydelser som rengøring og kantinedrift.\n2. Computere og skærme: Vælg energirigtige computere og skærme for at reducere energiforbruget.\n3. Kopimaskiner, printere, scannere og faxmaskiner: Skjulte strømslugere på kontorer, der kræver opmærksomhed.\n4. Servere, datacentre, cloud- og it-systemer: Stor del af elforbruget i kontorbygninger; anvend anbefalingerne for effektivitet.\n5. Andet kontorudstyr, netværksudstyr og bredbåndsudstyr: Vær opmærksom på energiforbruget af diverse udstyr på kontoret.\n6. Tv-apparater og computerskærme: Anvend energimærket til at vælge energieffektive skærme.\n7. Belysning: Søg efter energieffektive armaturer og lyskilder for langsigtede investeringer.\n8. Varmepumper: Klimavenlig løsning til opvarmning uden fjernvarme; udnytter vedvarende energi i jord og luft.\n9. Ventilation, pumper og elmotorer: Optimering af disse systemer kan reducere energiudgifter og forbedre indeklimaet.\n10. Husholdningsapparater: Vælg husholdningshvidevarer med EU's energimærke for energieffektivitet.\n11. Udstyr til storkøkken: Energieffektive produkter kan minimere elforbruget og spare penge.\n\nDisse anbefalinger kan hjælpe virksomheder og offentlige institutioner med at opfylde energibesparelsesmålene og føre til mere bæredygtige anskaffelser. Energistyrelsen tilbyder gratis rådgivning gennem SparEnergi for at optimere energiforbruget.",
+    "meta": {
+        "id": 6044569797150493315,
+        "url": "https://old.sparenergi.dk/offentlig/vaerktoejer/indkoebsanbefalinger",
+        "title": "Indkøbsanbefalinger | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:42.907336",
+        "error": null,
+        "num_tokens_in": 1591,
+        "num_tokens_out": 561,
+        "estimated_input_cost_gpt4": 0.01591,
+        "estimated_output_cost_gpt4": 0.01683,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

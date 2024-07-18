@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en række energiløsninger til forbrugere, virksomheder og offentlige bygninger. For forbrugere omhandler løsningerne blandt andet energimærkning af bygninger, isolering, vinduer, ventilation, intelligent styring af energi, valg af varmetype (naturgas, fjernvarme, varmepumper, olie, elvarme, træpiller, solvarme), og rådgivning. Der er også oplysninger om energimærkning af varmeanlæg, biobrændselskedler, elforbrug, elpriser, og energimærkning af elektriske apparater (belysning, køl og frys, vask og rengøring, madlavning, IT og elektronik, solceller, vindmøller).\n\nFor offentlige bygninger omhandler energiløsningerne renovering, nybyggeri, isolering, vinduer, ESCO (Energy Service Company), energirådgivning, opvarmning og køling af bygninger, ventilation, belysning, IT og elektronik.\n\nErhvervsløsningerne omfatter sektorer som engroshandel, hotel og restauration, storkøkkener, kontorer, byggeri, industriel produktion, handel og service samt landbrug. Der er information om energiansvarlighed, energiledelse, nøgletal for energiforbrug, belysning, køling, ventilation og energimærkning af bygninger.\n\nPå SparEnergi.dk kan man finde værktøjer til at identificere og implementere energiløsninger, herunder en håndværkerliste, liste over VE-virksomheder, energimærke-firmaer, BetterBolig-programmet, Bygningsguiden, Casebank, Gør-det-selv-guides, låneberegner, varmepumpe-liste, ny varme app, apparatberegner, elforbrugsberegner og oplysninger om elpriser. Energistyrelsen opfordrer brugerne til at rydde deres cache for at besøge det nye site, da der finder opdateringer sted på hjemmesiden.",
+    "meta": {
+        "id": 13281366154910873715,
+        "url": "https://sparenergi.dk/forbruger/vaerktoejer/energiloesninger/vinduer-og-doere",
+        "title": "Find energiløsninger | Energistyrelsen",
+        "time_requested": "2024-04-16T11:55:05.903777",
+        "error": null,
+        "num_tokens_in": 807,
+        "num_tokens_out": 537,
+        "estimated_input_cost_gpt4": 0.00807,
+        "estimated_output_cost_gpt4": 0.01611,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

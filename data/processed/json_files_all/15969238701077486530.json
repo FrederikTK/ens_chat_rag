@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen anbefaler at isolere lette ydervægge for at reducere varmeregningen og forbedre indeklimaet. Hvis ydervæggene har mindre end 125 mm isolering (100 mm for sommerhuse), anbefales ekstra isolering. Isolering udefra anbefales, da isolering indefra kan medføre risiko for fugt og skimmelsvamp. Hvis det er for krævende at isolere udefra, kan isolering indefra være en mulighed, men det kan kræve flytning af rør og radiatorer. Der er lovmæssige krav om isolering af ydervægge, og det anbefales at isolere med mindst 350 mm for at opnå lavenerginiveau. Isolering udefra kræver ekstra arbejde med tag, døre og vinduer, men reducerer risikoen for fugtproblemer. Energistyrelsen anbefaler brug af fagfolk og at følge vejledningen nøje ved isoleringsprojekter. Hvis man renoverer væggene, anbefales det at isolere samtidig. Energistyrelsen tilbyder yderligere information og gratis rådgivning om energioptimering.",
+    "meta": {
+        "id": 15969238701077486530,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/energiloesninger/isolering-af-let-ydervaeg-udefra",
+        "title": "Isolering af let ydervæg, udefra",
+        "time_requested": "2024-04-16T11:58:59.218608",
+        "error": null,
+        "num_tokens_in": 3314,
+        "num_tokens_out": 304,
+        "estimated_input_cost_gpt4": 0.03314,
+        "estimated_output_cost_gpt4": 0.00912,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

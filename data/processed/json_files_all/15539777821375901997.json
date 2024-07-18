@@ -1,0 +1,15 @@
+{
+    "text": "Hjemmesiden SparEnergi.dk tilbyder hjælp og rådgivning til at spare el og varme i boliger. Man kan indtaste sin adresse for at modtage de tre mest effektive råd til energioptimering på netop den adresse. Der er information om energirenovering, skift af varmetype, aktuelle tilskudsordninger og elpriser. Der tilbydes også personlige sparemål, hvor man kan se, hvor meget man kan spare på strøm, varme og CO2 i sit hjem. Der er desuden information om muligheden for at få dækket gebyret for at blive afkoblet fra gassystemet, hvis man skifter til en ny varmetype, samt webinarer om Energirenoveringspuljen. Man kan tilmelde sig nyhedsbrevet for at modtage spareråd tilpasset sin bolig. Hjemmesiden drives af Energistyrelsen, og der er mulighed for gratis rådgivning.",
+    "meta": {
+        "id": 15539777821375901997,
+        "url": "https://www.sparenergi.dk/",
+        "title": "Forbruger | Energistyrelsen",
+        "time_requested": "2024-04-16T11:51:33.897345",
+        "error": null,
+        "num_tokens_in": 1267,
+        "num_tokens_out": 238,
+        "estimated_input_cost_gpt4": 0.01267,
+        "estimated_output_cost_gpt4": 0.0071400000000000005,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

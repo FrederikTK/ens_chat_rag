@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en online LED-beregner, som kan anvendes til at se, hvor meget man kan spare ved at skifte til LED-lys. Ved at indtaste information om ens nuværende lyskilder, såsom halogen, glødepære, kviksølvlampe, sparepære, kompaktrør, lysstofrør, metalhalogen og udladningslampe, samt antallet af disse, kan man få en totaløkonomisk beregning af besparelsen ved at skifte til LED. Beregningen viser den potentielle besparelse over 7 år, da dette er den gennemsnitlige minimumslevetid for LED-lys i butikker. Resultatet viser besparelsen fra år 1 til år 10 efter skiftet til LED. Energistyrelsen oplyser, at man kan tilmelde sig nyhedsmailen for at modtage opdateringer om nyheder til erhvervsvirksomheder, og understreger, at de passer godt på brugernes data og kun bruger kontaktoplysninger til udsendelse af nyhedsmailen. Energistyrelsens adresse er Carsten Niebuhrs Gade 43, 1577 København V, og deres hjemmeside er www.ens.dk.",
+    "meta": {
+        "id": 1500215235200387121,
+        "url": "https://sparenergi.dk/erhverv/vaaerktoejer/skift-til-led",
+        "title": "Skift til LED | Energistyrelsen",
+        "time_requested": "2024-04-16T11:50:10.353833",
+        "error": null,
+        "num_tokens_in": 1243,
+        "num_tokens_out": 307,
+        "estimated_input_cost_gpt4": 0.012430000000000002,
+        "estimated_output_cost_gpt4": 0.00921,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

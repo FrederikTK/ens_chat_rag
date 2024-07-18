@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder information om isolering af gulve som en del af energimærkning af bygninger. Når man isolerer sine gulve, kan man mindske fodkulden i hjemmet. Man anbefales at isolere terrændæk, især hvis huset er fra før 1972, da det ellers kan være fodkoldt og fugtigt. Energistyrelsen anbefaler en isolering på mindst 300 mm for at opfylde Bygningsreglementet. Der gives også energiløsninger som at opbygge et nyt og bedre isoleret terrændæk, hvis huset er fodkoldt eller fugtigt. Hvis gulve over uopvarmet kælder kun er isoleret med mindre end 100 mm, anbefales det at efterisolere til mindst 200 mm. Energistyrelsen giver også energiløsninger for gulve over krybekælder, hvor det kan være en god idé at etablere et velisoleret terrændæk. I visse tilfælde kan der være krav i Bygningsreglementet om at gennemføre energibesparelser, fx hvis man udskifter hele gulvkonstruktionen eller er ved at renovere gulve. Energistyrelsen giver desuden konkrete eksempler på, hvordan andre har isoleret deres boliger afhængigt af byggeår og boligtype.",
+    "meta": {
+        "id": 4080091888661591941,
+        "url": "https://sparenergi.dk/forbruger/boligen/isolering/isolering-af-gulv",
+        "title": "Isolering af gulv | Energistyrelsen",
+        "time_requested": "2024-04-16T11:51:01.931721",
+        "error": null,
+        "num_tokens_in": 2144,
+        "num_tokens_out": 332,
+        "estimated_input_cost_gpt4": 0.02144,
+        "estimated_output_cost_gpt4": 0.00996,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

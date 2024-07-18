@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har en række guider og tjeklister tilgængelige på deres hjemmeside under kategorien \"Forbruger\". Disse guides dækker emner som energimærkning af bygninger, renovering, bygningsreglementets energikrav, tilskud, isolering, vinduer, ventilation, intelligente styringssystemer, varme (inklusive skift af varmetype), opvarmnings- og kølesystemer, elsystemer, energimærkning af apparater, belysning, køling, køkkenudstyr og meget mere.\n\nDer er også information om energimærkning af varmeanlæg, biobrændselskedler, sommerdrift, varmt vand, cirkulationspumper, elforbrug og elpriser. For offentlige bygninger omfatter informationen renovering, nybyggeri, ESCO, energirådgivning og ventilation. Erhvervskategorien dækker emner som engroshandel, hotel- og restaurationsbranchen, kontorer, byggeri, industrien, energiledelse og nøgletal.\n\nDesuden er der adgang til værktøjer såsom energimærkningssøgning, energimærkningsfirmaer, håndværkerliste, liste over VE-virksomheder, bedrebolig-programmet, bygningsguide, casebank, samt diverse beregnere som låneberegner, varmepumpeberegner og elforbrugsberegner. Energistyrelsen oplyser, at de er ved at opdatere deres hjemmeside, hvilket kan medføre midlertidige forstyrrelser. Brugerne opfordres til at rydde deres cache (browserhistorik) for at komme videre til de nye sider.",
+    "meta": {
+        "id": 10702311998753984138,
+        "url": "https://sparenergi.dk/forbruger/vaerktojer/guides-og-tjeklister",
+        "title": "Guides og tjeklister | Energistyrelsen",
+        "time_requested": "2024-04-16T11:52:16.471225",
+        "error": null,
+        "num_tokens_in": 968,
+        "num_tokens_out": 437,
+        "estimated_input_cost_gpt4": 0.009680000000000001,
+        "estimated_output_cost_gpt4": 0.01311,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

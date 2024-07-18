@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen giver gode råd til energioptimering af boligen gennem udskiftning af vinduer. For at opnå maksimal energibesparelse og bevare husets værdi anbefales det at vælge energivenlige vinduer, der passer til husets arkitektur. Der er fokus på at skifte til vinduer med energimærke A, lav U-wert værdi for nordvendte vinduer og høj E-ref værdi for syd-, øst- og vestvendte vinduer. Udskiftning af vinduer med termoruder til energiruder anbefales for at reducere varmetab og forbedre indeklimaet. Der gives også vejledning om valg af vinduer med ægte sprosser eller monterede sprosser for at bevare husets originale udseende. Derudover opfordres det til at udskifte enlagsvinduer til energivenlige løsninger. Det nævnes også, at der er mulighed for at søge tilskud fra Bygningspuljen til udskiftning og forbedring af vinduer. Der gives råd om arkitektonisk betydning af vinduer og hvordan man bevarer husets værdi ved udskiftning. Endelig nævnes støjdæmpning og indbrudssikring som andre faktorer, der kan overvejes i forbindelse med udskiftning af vinduer. Energistyrelsen tilbyder også gratis rådgivning, og der gives flere cases som eksempler på energioptimering af forskellige typer boliger gennem udskiftning af vinduer og døre.",
+    "meta": {
+        "id": 14372794704692047601,
+        "url": "https://sparenergi.dk/forbruger/boligen/vinduer/renover-eller-skift/skift-vinduer/udskift-dit-vindue",
+        "title": "Udskift dit vindue | Energistyrelsen",
+        "time_requested": "2024-04-16T11:51:10.210772",
+        "error": null,
+        "num_tokens_in": 2175,
+        "num_tokens_out": 397,
+        "estimated_input_cost_gpt4": 0.021750000000000002,
+        "estimated_output_cost_gpt4": 0.01191,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

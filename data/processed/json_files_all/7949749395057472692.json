@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen opfordrer til at skifte til jordvarme som en effektiv, klimavenlig og økonomisk varmeløsning. Jordvarme, også kaldet væske-til-vand-varmepumpe, er en energieffektiv løsning, der kan give op til 4-5 kWh varme pr. 1 kWh el. For at installere jordvarme kræves vandbårne radiatorer eller gulvvarme samt en ubebygget grund på mindst 300 m2, medmindre vertikal jordvarme vælges. Installationen tager typisk 1-3 dage, hvorefter man skal have den årlige eftersyn af varmepumpen. Jordvarmeanlæg er lydløse udenfor og kræver minimal vedligeholdelse.\n\nVertikal jordvarme er en god alternativ mulighed, hvor slangerne graves lodret ned i jorden, hvilket kræver mindre plads og giver lidt mere varme for pengene. Dog kan vertikal jordvarme være dyrere at installere og kan kræve tilladelser fra kommunen pga. risikoen for forurening af drikkevand. Energistyrelsen anbefaler at bruge VE-godkendte installatører og at informere forsikringsselskabet efter installationen er gennemført. Derudover kan man søge om tilskud til jordvarme og få reduceret elafgift, hvis varmepumpen anvendes som primær varmekilde.",
+    "meta": {
+        "id": 7949749395057472692,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/energiloesninger/skift-til-jordvarme",
+        "title": "Skift til jordvarme",
+        "time_requested": "2024-04-16T11:56:37.337521",
+        "error": null,
+        "num_tokens_in": 3447,
+        "num_tokens_out": 373,
+        "estimated_input_cost_gpt4": 0.03447,
+        "estimated_output_cost_gpt4": 0.01119,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

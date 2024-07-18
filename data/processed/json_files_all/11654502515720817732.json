@@ -1,0 +1,15 @@
+{
+    "text": "Vaskerådene omhandler smarte tips til at spare energi og skåne miljøet ved vasketøj. Det anbefales at vaske ved lavere temperaturer (f.eks. 20 °C), fylde maskinen helt op, springe en vask over hvis tøjet ikke er snavset, bruge eco-programmet, undgå forvask, og vælge vaskeprogrammer med lavt energiforbrug. Det nævnes, at danskere gennemsnitligt vasker halvfyldte maskiner, og der gives råd om hygiejnisk vask ved sygdom. Desuden rådes det til præcist at dosere vaskemidler, vælge kompakte vaskemidler, undgå skyllemiddel og købe miljømærkede vaskemidler. Der gives også information om prisberegning ved brug af forskellige apparater til vask og rengøring. Energistyrelsen står bag rådgivningen og opfordrer til at besøge deres hjemmeside sparEnergi.dk for yderligere information.",
+    "meta": {
+        "id": 11654502515720817732,
+        "url": "https://sparenergi.dk/forbruger/el/vask-og-rengoring/vaskemaskiner/vaskerad",
+        "title": "Vaskeråd | Energistyrelsen",
+        "time_requested": "2024-04-16T11:50:29.744877",
+        "error": null,
+        "num_tokens_in": 2614,
+        "num_tokens_out": 270,
+        "estimated_input_cost_gpt4": 0.026140000000000004,
+        "estimated_output_cost_gpt4": 0.0081,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

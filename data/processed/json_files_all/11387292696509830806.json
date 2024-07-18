@@ -1,0 +1,15 @@
+{
+    "text": "Artiklen omhandler valg af varmepumpe og vejleder om, hvad en varmepumpe er, og hvilken type der vil passe bedst til ens behov. Varmepumper er effektive til at varme ens hus op og kan bruges til enten at give rumvarme, varmt vand eller begge dele. En varmepumpe fungerer ved at flytte varmeenergi fra udeluften eller jorden til ens varmesystem. Der findes tre mest almindelige typer varmepumper: luft til vand-varmepumpe, luft til luft-varmepumpe og jordvarme.\n\n- Luft til vand-varmepumpe giver både rumvarme og varmt vand og er velegnet til helårshuse, men kræver plads til udedel og har en etableringspris på typisk 100-130.000 kr.\n- Luft til luft-varmepumpe giver kun rumvarme og er god som supplement til helårshuse eller til sommerhuse, har en etableringspris på 30-40.000 kr.\n- Jordvarme (væske til vand-varmepumpe) giver både rumvarme og varmt vand, kræver radiatorer eller gulvvarme med vand samt minimum 300 m² ubebygget grund, medmindre man vælger vertikal jordvarme, og har en etableringspris på typisk 130-200.000 kr.\n\nArtiklen nævner desuden fordelene ved at bruge en varmepumpe som en af de billigste og mest klimavenlige måder at opvarme sit hus på og et godt alternativ til f.eks. olie, naturgas, elvarme og træpillefyr. Opvarmning med varmepumpe kan reducere varmeregningen markant og kræver minimal vedligeholdelse. Læseren opfordres til at finde ud af, hvad de kan spare ved at skifte til en ny varmetype, der passer til deres bolig og behov ved at indtaste deres adresse i feltet for at komme i gang.",
+    "meta": {
+        "id": 11387292696509830806,
+        "url": "https://old.sparenergi.dk/forbruger/varme/varmepumper",
+        "title": "Varmepumper | Energistyrelsen",
+        "time_requested": "2024-04-16T11:51:24.198264",
+        "error": null,
+        "num_tokens_in": 1565,
+        "num_tokens_out": 506,
+        "estimated_input_cost_gpt4": 0.01565,
+        "estimated_output_cost_gpt4": 0.01518,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "SparEnergi.dk giver gode råd til energioptimering af køle- og fryseapparater. Danskerne bruger ca. 1/5 af deres strøm på køl og frys, så der er mange penge at spare ved at tænke energirigtigt. For at spare energi anbefales det at holde køleskabet på 5 °C og fryseren på -18 °C, da lavere temperaturer øger strømforbruget. Det er vigtigt at holde døren lukket, optø maden i køleskabet, køle varme madvarer af, afrime fryseren regelmæssigt, tjekke tætningslisten, placere fryseren i et køligt rum og sikre god ventilation. Når man skal købe nyt køle- og fryseapparat, bør man gå efter det bedste energimærke (D eller bedre), vælge størrelse efter behov, samt se efter stjerner på frysebokse, digital termostat og display, og regne på hele prisen. Det anbefales at anskaffe separate køleskabe og frysere og undgå at slukke fryseren, da det kan skade madvarerne og øge strømforbruget. Endvidere oplyses om, hvilke reservedele man selv kan udskifte, og at det kan være miljøvenligt at reparere og forlænge levetiden på produkterne. Myter om energibesparelser afbunkes ligeledes, og det anbefales at korrekt skrotte gamle hvidevarer for at undgå unødig forurening. Siden tilbyder også råd om energibesparelse inden for lys, vask, rengøring, elektronik, køkken, varme og varmt vand. Endelig tilbyder hjemmesiden gratis rådgivning og mulighed for at tilmelde nyhedsbrev.",
+    "meta": {
+        "id": 4998969481816500702,
+        "url": "https://sparenergi.dk/forbruger/el/koel-og-frys/gode-raad-til-koeb",
+        "title": "Gode råd til køb | Energistyrelsen",
+        "time_requested": "2024-04-16T11:49:47.471327",
+        "error": null,
+        "num_tokens_in": 2814,
+        "num_tokens_out": 473,
+        "estimated_input_cost_gpt4": 0.028140000000000002,
+        "estimated_output_cost_gpt4": 0.014190000000000001,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

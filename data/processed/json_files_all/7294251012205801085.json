@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen har udarbejdet en guide til købere af sommerhuse med fokus på energiforbrug og energivenlige løsninger. Guiden indeholder følgende punkter:\n\n1. Isolering: Er huset tilstrækkeligt isoleret til vinterbrug? Anbefalingen er en isolering på mindst 100 mm i ydervægge og loft, eller efterisolering af loftet til ca. 300 mm og væggene til ca. 200 mm.\n\n2. Vinduer: Tjek om vinduerne er tætte og energivenlige. Energiruder holder bedre på varmen end almindelige termoruder.\n\n3. Årligt energiforbrug: Spørg til det årlige energiforbrug og sammenlign det med gennemsnitstallene for elforbrug i forskellige typer af sommerhuse.\n\n4. Opvarmning: Overvej alternative og mere energivenlige opvarmningsformer som varmepumper, solvarme, solceller eller brændeovne.\n\n5. Ventilation: For vinterbrug anbefales luftsolfanger eller solcelleventilatorer for at holde huset fri for fugt om vinteren.\n\n6. Isoleringskrav: Tjek om der er krav til efterisolering, hvis der planlægges ombygning af sommerhuset.\n\nGuiden opfordrer til, at man nøje vurderer energiforholdene i det sommerhus, man overvejer at købe, så man undgår uventet høje energiomkostninger. Energistyrelsen oplyser også om gennemsnitligt elforbrug i forskellige typer sommerhuse og vejleder i valg af energivenlige løsninger som varmepumper, solvarme og solceller.",
+    "meta": {
+        "id": 7294251012205801085,
+        "url": "https://sparenergi.dk/forbruger/boligen/sommerhus/skal-du-koebe-sommerhus",
+        "title": "Skal du købe sommerhus? | Energistyrelsen",
+        "time_requested": "2024-04-16T11:56:16.975684",
+        "error": null,
+        "num_tokens_in": 2258,
+        "num_tokens_out": 440,
+        "estimated_input_cost_gpt4": 0.022580000000000003,
+        "estimated_output_cost_gpt4": 0.0132,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

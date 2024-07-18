@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen tilbyder en række værktøjer og ressourcer relateret til energimærkning af bygninger og energiforbrug. De tilbyder information til både forbrugere, offentlige institutioner og erhvervsvirksomheder. På deres hjemmeside kan man finde information om energimærkning af boliger, energiforbrug, isolering, vinduer, ventilation, varmesystemer, elapparater, belysning, energioptimering, energirådgivning og meget mere. Der er også værktøjer som en elprisberegner, apparatberegner, låneberegner og elforbrugsberegner til rådighed. Man kan også finde lister over håndværkere og virksomheder specialiseret i VE-løsninger. Energistyrelsen opfordrer også til tilmelding til deres nyhedsmail for løbende at modtage tips og information om at spare energi. Energistyrelsen har adresse på Carsten Niebuhrs Gade 43, 1577 København V, og man kan finde yderligere information på deres hjemmeside www.ens.dk.",
+    "meta": {
+        "id": 18250818241093250221,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer",
+        "title": "Værktøjer | Energistyrelsen",
+        "time_requested": "2024-04-16T11:54:56.731986",
+        "error": null,
+        "num_tokens_in": 1022,
+        "num_tokens_out": 288,
+        "estimated_input_cost_gpt4": 0.010220000000000002,
+        "estimated_output_cost_gpt4": 0.00864,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Energistyrelsen på SparEnergi.dk giver råd til energioptimering af vinduer. Hvis karm og ramme er i god stand, kan man nøjes med at skifte ruden eller installere et forsatsvindue. Ældre vinduer med 1 lag glas i god stand kan forbedres med en ekstra, indvendig rude i en forsatsramme, eventuelt med en 2-lags energirude for at opnå et energieffektivt vindue. Hvis vinduerne er i dårlig stand, kan de ofte reddes med maling eller udskiftning af en del. Ældre vinduer med forsatsrammer eller koblede rammer kan opgraderes med energiglas. Derudover kan ældre termoruder udskiftes med energiruder for at opn",
+    "meta": {
+        "id": 15104955272575163528,
+        "url": "https://sparenergi.dk/forbruger/boligen/vinduer/renover-eller-skift/renover-dine-vinduer",
+        "title": "Renover dine vinduer | Energistyrelsen",
+        "time_requested": "2024-04-16T11:52:27.518552",
+        "error": null,
+        "num_tokens_in": 1032,
+        "num_tokens_out": 197,
+        "estimated_input_cost_gpt4": 0.010320000000000001,
+        "estimated_output_cost_gpt4": 0.00591,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

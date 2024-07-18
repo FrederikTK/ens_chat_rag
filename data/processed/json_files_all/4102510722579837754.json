@@ -1,0 +1,15 @@
+{
+    "text": "En hjemmeside kaldet SparEnergi, udviklet af Energistyrelsen, tilbyder en service, hvor man kan indtaste sin adresse for at få gode råd til energioptimering i boligen. Ved at indtaste adressen hentes offentligt tilgængelige data fra BBR-registret for at beregne elforbruget i boligen. Formålet er at give inspiration, viden og råd til at maksimere energieffektiviteten i hverdagen. Hjemmesiden tilbyder også gratis rådgivning og har aktuelle emner som energirenoveringspuljen. Man kan også få information om energipriser, anvendelse af indhold, privatlivspolitik, samt kontakte SparEnergi for yderligere spørgsmål eller tilmelde sig nyhedsbrevet.",
+    "meta": {
+        "id": 4102510722579837754,
+        "url": "https://ny.sparenergi.dk/elforbrugsberegner",
+        "title": "Elforbrugsberegner | Energistyrelsen",
+        "time_requested": "2024-04-16T11:47:30.667090",
+        "error": null,
+        "num_tokens_in": 339,
+        "num_tokens_out": 202,
+        "estimated_input_cost_gpt4": 0.0033900000000000002,
+        "estimated_output_cost_gpt4": 0.00606,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "text": "Informationen handler om fordelene ved at skifte gamle manuelle radiatorventiler ud med termostatstyrede radiatorventiler. Ved at gøre dette kan man spare varme, få et bedre indeklima og øge komforten i boligen. Det anbefales at vælge termostatstyrede radiatorventiler med forindstilling eller elektronisk automatik til et 2-strenget anlæg, og også til et 1-strenget anlæg bør man vælge termostatstyrede radiatorventiler. Elektronisk automatik kan yderligere sænke varmeforbruget ved at justere temperaturen i rummet, når man ikke er til stede. Radiatortermostater regulerer varmen på radiatorerne, og det anslås, at man kan spare ca. 90 kr. om året ved at foretage dette skifte. Det anbefales også at tømme varmesystemet for vand under processen. Endvidere gives der information om at finde håndværkere, der kan installere de nye radiatorventiler gennem Energistyrelsens Håndværkerliste.",
+    "meta": {
+        "id": 10240159259234454927,
+        "url": "https://old.sparenergi.dk/forbruger/vaerktoejer/energiloesninger/nye-radiatorventiler",
+        "title": "Nye radiatorventiler",
+        "time_requested": "2024-04-16T11:57:17.339498",
+        "error": null,
+        "num_tokens_in": 3781,
+        "num_tokens_out": 269,
+        "estimated_input_cost_gpt4": 0.03781,
+        "estimated_output_cost_gpt4": 0.00807,
+        "used_model": "gpt-3.5-turbo"
+    }
+}

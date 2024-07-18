@@ -1,0 +1,15 @@
+{
+    "text": "På Energistyrelsens hjemmeside SparEnergi kan man indtaste sin adresse for at få de tre mest effektive råd til energioptimering på adressen. Der anvendes offentligt tilgængelige data fra BBR-registret til at beregne elforbruget. SparEnergi tilbyder gratis rådgivning og inspiration til, hvordan man kan spare energi i hverdagen. Energistyrelsens adresse er Carsten Niebuhrs Gade 43, 1577 København V, og man kan finde yderligere information på deres hjemmeside www.ens.dk.",
+    "meta": {
+        "id": 11150530529172648470,
+        "url": "https://sparenergi.dk/privat/elforbrugsberegner",
+        "title": "Elforbrugsberegner",
+        "time_requested": "2024-04-16T11:48:16.348720",
+        "error": null,
+        "num_tokens_in": 339,
+        "num_tokens_out": 142,
+        "estimated_input_cost_gpt4": 0.0033900000000000002,
+        "estimated_output_cost_gpt4": 0.00426,
+        "used_model": "gpt-3.5-turbo"
+    }
+}
